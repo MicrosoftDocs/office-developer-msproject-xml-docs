@@ -1,0 +1,911 @@
+- name: Project XML Data Interchange Schema
+  href: project-xml-data-interchange-schema-reference.md
+  items:
+  - name: Introduction to Project XML Data
+    href: introduction-to-project-xml-data.md
+  - name: Changes in the Project 2007 XML Data Interchange Schema
+    href: changes-in-the-project-2007-xml-data-interchange-schema.md
+    items:
+    - name: New XML Elements
+      href: new-xml-elements.md
+    - name: Custom Field Data in XML
+      href: custom-field-data-in-xml.md
+  - name: Working with Project XML Data Interchange Files
+    href: working-with-project-xml-data-interchange-files.md
+    items:
+    - name: Saving and Opening Projects in XML Format
+      href: saving-and-opening-projects-in-xml-format.md
+    - name: 'How to: Use XSLT Transformations with Project XML Data Interchange Files'
+      href: how-to-use-xslt-transformations-with-project-xml-data-interchange-files.md
+  - name: Project Data Interchange Elements
+    href: project-data-interchange-elements.md
+    items:
+    - name: Alphabetical List of Elements and Types
+      href: alphabetical-list-of-elements-and-types.md
+    - name: Project Elements and XML Structure
+      href: project-elements-and-xml-structure.md
+      items:
+      - name: XML Schema for the Project Element
+        href: xml-schema-for-the-project-element.md
+      - name: ActualsInSync Element
+        href: actualsinsync-element.md
+      - name: AdminProject Element
+        href: adminproject-element.md
+      - name: Assignments Element
+        href: assignments-element.md
+      - name: Author Element
+        href: author-element.md
+      - name: AutoAddNewResourcesAndTasks Element
+        href: autoaddnewresourcesandtasks-element.md
+      - name: Autolink Element
+        href: autolink-element.md
+      - name: BaselineForEarnedValue Element
+        href: baselineforearnedvalue-element.md
+      - name: Calendars Element
+        href: calendars-element.md
+      - name: CalendarUID Element
+        href: calendaruid-element.md
+      - name: Category Element
+        href: category-element.md
+      - name: Company Element
+        href: company-element.md
+      - name: CreationDate Element
+        href: creationdate-element.md
+      - name: CriticalSlackLimit Element
+        href: criticalslacklimit-element.md
+      - name: CurrencyCode Element
+        href: currencycode-element.md
+      - name: CurrencyDigits Element
+        href: currencydigits-element.md
+      - name: CurrencySymbol Element
+        href: currencysymbol-element.md
+      - name: CurrencySymbolPosition Element
+        href: currencysymbolposition-element.md
+      - name: CurrentDate Element
+        href: currentdate-element.md
+      - name: DaysPerMonth Element
+        href: dayspermonth-element.md
+      - name: DefaultFinishTime Element
+        href: defaultfinishtime-element.md
+      - name: DefaultFixedCostAccrual Element
+        href: defaultfixedcostaccrual-element.md
+      - name: DefaultOvertimeRate Element
+        href: defaultovertimerate-element.md
+      - name: DefaultStandardRate Element
+        href: defaultstandardrate-element.md
+      - name: DefaultStartTime Element
+        href: defaultstarttime-element.md
+      - name: DefaultTaskEVMethod Element
+        href: defaulttaskevmethod-element.md
+      - name: DefaultTaskType Element
+        href: defaulttasktype-element.md
+      - name: DurationFormat Element
+        href: durationformat-element.md
+      - name: EarnedValueMethod Element
+        href: earnedvaluemethod-element.md
+      - name: EditableActualCosts Element
+        href: editableactualcosts-element.md
+      - name: ExtendedAttributes Element
+        href: extendedattributes-element.md
+      - name: ExtendedCreationDate Element
+        href: extendedcreationdate-element.md
+      - name: FinishDate Element
+        href: finishdate-element.md
+      - name: FiscalYearStart Element
+        href: fiscalyearstart-element.md
+      - name: FYStartDate Element
+        href: fystartdate-element.md
+      - name: HonorConstraints Element
+        href: honorconstraints-element.md
+      - name: InsertedProjectsLikeSummary Element
+        href: insertedprojectslikesummary-element.md
+      - name: LastSaved Element
+        href: lastsaved-element.md
+      - name: Manager Element
+        href: manager-element.md
+      - name: MicrosoftProjectServerURL Element
+        href: microsoftprojectserverurl-element.md
+      - name: MinutesPerDay Element
+        href: minutesperday-element.md
+      - name: MinutesPerWeek Element
+        href: minutesperweek-element.md
+      - name: MoveCompletedEndsBack Element
+        href: movecompletedendsback-element.md
+      - name: MoveCompletedEndsForward Element
+        href: movecompletedendsforward-element.md
+      - name: MoveRemainingStartsBack Element
+        href: moveremainingstartsback-element.md
+      - name: MoveRemainingStartsForward Element
+        href: moveremainingstartsforward-element.md
+      - name: MultipleCriticalPaths Element
+        href: multiplecriticalpaths-element.md
+      - name: Name Element
+        href: name-element.md
+      - name: NewTasksEffortDriven Element
+        href: newtaskseffortdriven-element.md
+      - name: NewTasksEstimated Element
+        href: newtasksestimated-element.md
+      - name: NewTaskStartDate Element
+        href: newtaskstartdate-element.md
+      - name: OutlineCodes Element
+        href: outlinecodes-element.md
+      - name: Project Element
+        href: project-element.md
+      - name: ProjectExternallyEdited Element
+        href: projectexternallyedited-element.md
+      - name: RemoveFileProperties Element
+        href: removefileproperties-element.md
+      - name: Resources Element
+        href: resources-element.md
+      - name: Revision Element
+        href: revision-element.md
+      - name: SaveVersion Element
+        href: saveversion-element.md
+      - name: ScheduleFromStart Element
+        href: schedulefromstart-element.md
+      - name: SplitsInProgressTasks Element
+        href: splitsinprogresstasks-element.md
+      - name: SpreadActualCost Element
+        href: spreadactualcost-element.md
+      - name: SpreadPercentComplete Element
+        href: spreadpercentcomplete-element.md
+      - name: StartDate Element
+        href: startdate-element.md
+      - name: StatusDate Element
+        href: statusdate-element.md
+      - name: Subject Element
+        href: subject-element.md
+      - name: Tasks Element
+        href: tasks-element.md
+      - name: TaskUpdatesResource Element
+        href: taskupdatesresource-element.md
+      - name: Title Element
+        href: title-element-project.md
+      - name: UID Element
+        href: uid-element.md
+      - name: WBSMasks Element
+        href: wbsmasks-element.md
+      - name: WeekStartDay Element
+        href: weekstartday-element.md
+      - name: WorkFormat Element
+        href: workformat-element.md
+    - name: OutlineCode Elements and XML Structure
+      href: outlinecode-elements-and-xml-structure.md
+      items:
+      - name: XML Schema for the OutlineCodes Element
+        href: xml-schema-for-the-outlinecodes-element.md
+      - name: Alias Element
+        href: alias-element.md
+      - name: AllLevelsRequired Element
+        href: alllevelsrequired-element.md
+      - name: Description Element
+        href: description-element.md
+      - name: Enterprise Element
+        href: enterprise-element.md
+      - name: EnterpriseOutlineCodeAlias Element
+        href: enterpriseoutlinecodealias-element.md
+      - name: FieldID Element
+        href: fieldid-element.md
+      - name: FieldGUID Element
+        href: fieldguid-element.md
+      - name: FieldName Element
+        href: fieldname-element.md
+      - name: Guid Element
+        href: guid-element-multiple-parents.md
+      - name: LeafOnly Element
+        href: leafonly-element.md
+      - name: Length Element
+        href: length-element.md
+      - name: Level Element
+        href: level-element.md
+      - name: Mask Element
+        href: mask-element.md
+      - name: Masks Element
+        href: masks-element.md
+      - name: OnlyTableValuesAllowed Element
+        href: onlytablevaluesallowed-element.md
+      - name: OutlineCode Element
+        href: outlinecode-element.md
+      - name: OutlineCodes Element
+        href: outlinecodes-element.md
+      - name: ParentValueID Element
+        href: parentvalueid-element.md
+      - name: PhoneticAlias Element
+        href: phoneticalias-element.md
+      - name: ResourceSubstitutionEnabled Element
+        href: resourcesubstitutionenabled-element.md
+      - name: Separator Element
+        href: separator-element.md
+      - name: Type Element
+        href: type-element-multiple-parents.md
+      - name: Value Element
+        href: value-element.md
+      - name: ValueGUID Element
+        href: valueguid-element.md
+      - name: ValueID Element
+        href: valueid-element.md
+      - name: Values Element
+        href: values-element.md
+    - name: WBSMask Elements and XML Structure
+      href: wbsmask-elements-and-xml-structure.md
+      items:
+      - name: XML Schema for the WBSMasks Element
+        href: xml-schema-for-the-wbsmasks-element.md
+      - name: GenerateCodes Element
+        href: generatecodes-element.md
+      - name: Length Element
+        href: length-element.md
+      - name: Level Element
+        href: level-element.md
+      - name: Prefix Element
+        href: prefix-element.md
+      - name: Separator Element
+        href: separator-element.md
+      - name: Type Element
+        href: type-element-multiple-parents.md
+      - name: VerifyUniqueCodes Element
+        href: verifyuniquecodes-element.md
+      - name: WBSMask Element
+        href: wbsmask-element.md
+      - name: WBSMasks Element
+        href: wbsmasks-element.md
+    - name: ExtendedAttribute Elements and XML Structure
+      href: extendedattribute-elements-and-xml-structure.md
+      items:
+      - name: XML Schema for the ExtendedAttributes Element
+        href: xml-schema-for-the-extendedattributes-element.md
+      - name: Alias Element
+        href: alias-element.md
+      - name: AppendNewValues Element
+        href: appendnewvalues-element.md
+      - name: AutoRollDown Element
+        href: autorolldown-element.md
+      - name: CalculationType Element
+        href: calculationtype-element.md
+      - name: CFType Element
+        href: cftype-element.md
+      - name: Default Element
+        href: default-element-extendedattribute.md
+      - name: DefaultGuid Element
+        href: defaultguid-element.md
+      - name: DurationFormat Element
+        href: durationformat-element.md
+      - name: ElemType Element
+        href: elemtype-element.md
+      - name: ExtendedAttribute Element
+        href: extendedattribute-element.md
+      - name: ExtendedAttributes Element
+        href: extendedattributes-element.md
+      - name: FieldID Element
+        href: fieldid-element.md
+      - name: FieldName Element
+        href: fieldname-element.md
+      - name: Formula Element
+        href: formula-element.md
+      - name: Guid Element
+        href: guid-element-multiple-parents.md
+      - name: ID Element
+        href: id-element.md
+      - name: Ltuid Element
+        href: ltuid-element.md
+      - name: MaxMultiValues Element
+        href: maxmultivalues-element.md
+      - name: Phonetic Element
+        href: phonetic-element.md
+      - name: PhoneticAlias Element
+        href: phoneticalias-element.md
+      - name: RestrictValues Element
+        href: restrictvalues-element.md
+      - name: RollupType Element
+        href: rolluptype-element.md
+      - name: SecondaryPID Element
+        href: secondarypid-element.md
+      - name: UID Element
+        href: uid-element.md
+      - name: UserDef Element
+        href: userdef-element.md
+      - name: Value Element
+        href: value-element.md
+      - name: ValueList Element
+        href: valuelist-element.md
+      - name: ValuelistSortOrder Element
+        href: valuelistsortorder-element.md
+    - name: Calendar Elements and XML Structure
+      href: calendar-elements-and-xml-structure.md
+      items:
+      - name: XML Schema for the Calendars Element
+        href: xml-schema-for-the-calendars-element.md
+      - name: BaseCalendarUID Element
+        href: basecalendaruid-element.md
+      - name: Calendar Element
+        href: calendar-element.md
+      - name: Calendars Element
+        href: calendars-element.md
+      - name: DaysOfWeek Element
+        href: daysofweek-element.md
+      - name: DayType Element
+        href: daytype-element.md
+      - name: DayWorking Element
+        href: dayworking-element-calendar.md
+      - name: EnteredByOccurrences Element
+        href: enteredbyoccurrences-element.md
+      - name: Exception Element
+        href: exception-element.md
+      - name: Exceptions Element
+        href: exceptions-element.md
+      - name: FromDate Element
+        href: fromdate-element-calendar.md
+      - name: FromTime Element
+        href: fromtime-element-calendar.md
+      - name: IsBaseCalendar Element
+        href: isbasecalendar-element.md
+      - name: Month Element
+        href: month-element.md
+      - name: MonthDay Element
+        href: monthday-element.md
+      - name: MonthItem Element
+        href: monthitem-element.md
+      - name: MonthPosition Element
+        href: monthposition-element.md
+      - name: Name Element
+        href: name-element.md
+      - name: Occurrences Element
+        href: occurrences-element.md
+      - name: Period Element
+        href: period-element.md
+      - name: TimePeriod Element
+        href: timeperiod-element-calendar.md
+      - name: ToDate Element
+        href: todate-element-calendar.md
+      - name: ToTime Element
+        href: totime-element-calendar.md
+      - name: Type Element
+        href: type-element-multiple-parents.md
+      - name: UID Element
+        href: uid-element.md
+      - name: WeekDay Element
+        href: weekday-element.md
+      - name: WeekDays Element
+        href: weekdays-element.md
+      - name: WorkingTime Element
+        href: workingtime-element-calendar.md
+      - name: WorkingTimes Element
+        href: workingtimes-element-calendar.md
+      - name: WorkWeek Element
+        href: workweek-element.md
+      - name: WorkWeeks Element
+        href: workweeks-element.md
+    - name: Task Elements and XML Structure
+      href: task-elements-and-xml-structure.md
+      items:
+      - name: XML Schema for the Tasks Element
+        href: xml-schema-for-the-tasks-element.md
+      - name: ActualCost Element
+        href: actualcost-element.md
+      - name: ActualDuration Element
+        href: actualduration-element.md
+      - name: ActualFinish Element
+        href: actualfinish-element.md
+      - name: ActualOvertimeCost Element
+        href: actualovertimecost-element.md
+      - name: ActualOvertimeWork Element
+        href: actualovertimework-element.md
+      - name: ActualOvertimeWorkProtected Element
+        href: actualovertimeworkprotected-element.md
+      - name: ActualStart Element
+        href: actualstart-element.md
+      - name: ActualWork Element
+        href: actualwork-element.md
+      - name: ActualWorkProtected Element
+        href: actualworkprotected-element.md
+      - name: ACWP Element
+        href: acwp-element.md
+      - name: b408000 - b417fff Elements
+        href: b408000-b417fff-elements.md
+      - name: b608000 - b617fff Elements
+        href: b608000-b617fff-elements.md
+      - name: Baseline Element
+        href: baseline-element.md
+      - name: BCWP Element
+        href: bcwp-element.md
+      - name: BCWS Element
+        href: bcws-element.md
+      - name: CalendarUID Element
+        href: calendaruid-element.md
+      - name: CommitmentFinish Element
+        href: commitmentfinish-element.md
+      - name: CommitmentStart Element
+        href: commitmentstart-element.md
+      - name: CommitmentType Element
+        href: commitmenttype-element.md
+      - name: ConstraintDate Element
+        href: constraintdate-element.md
+      - name: ConstraintType Element
+        href: constrainttype-element.md
+      - name: Contact Element
+        href: contact-element.md
+      - name: Cost Element
+        href: cost-element.md
+      - name: CreateDate Element
+        href: createdate-element.md
+      - name: Critical Element
+        href: critical-element.md
+      - name: CrossProject Element
+        href: crossproject-element.md
+      - name: CrossProjectName Element
+        href: crossprojectname-element.md
+      - name: CV Element
+        href: cv-element.md
+      - name: Deadline Element
+        href: deadline-element.md
+      - name: Duration Element
+        href: duration-element.md
+      - name: DurationFormat Element
+        href: durationformat-element.md
+      - name: EarlyFinish Element
+        href: earlyfinish-element.md
+      - name: EarlyStart Element
+        href: earlystart-element.md
+      - name: EarnedValueMethod Element
+        href: earnedvaluemethod-element.md
+      - name: EffortDriven Element
+        href: effortdriven-element.md
+      - name: Estimated Element
+        href: estimated-element.md
+      - name: EstimatedDuration Element
+        href: estimatedduration-element.md
+      - name: ExternalTask Element
+        href: externaltask-element.md
+      - name: ExternalTaskProject Element
+        href: externaltaskproject-element.md
+      - name: Finish Element
+        href: finish-element.md
+      - name: FinishVariance Element
+        href: finishvariance-element.md
+      - name: FixedCost Element
+        href: fixedcost-element-baseline.md
+      - name: FixedCostAccrual Element
+        href: fixedcostaccrual-element.md
+      - name: FreeSlack Element
+        href: freeslack-element.md
+      - name: HideBar Element
+        href: hidebar-element.md
+      - name: Hyperlink Element
+        href: hyperlink-element.md
+      - name: HyperlinkSubAddress Element
+        href: hyperlinksubaddress-element.md
+      - name: ID Element
+        href: id-element.md
+      - name: IgnoreResourceCalendar Element
+        href: ignoreresourcecalendar-element.md
+      - name: Interim Element
+        href: interim-element.md
+      - name: IsNull Element
+        href: isnull-element.md
+      - name: IsPublished Element
+        href: ispublished-element.md
+      - name: IsSubproject Element
+        href: issubproject-element.md
+      - name: IsSubprojectReadOnly Element
+        href: issubprojectreadonly-element.md
+      - name: LagFormat Element
+        href: lagformat-element.md
+      - name: LateFinish Element
+        href: latefinish-element.md
+      - name: LateStart Element
+        href: latestart-element.md
+      - name: LevelAssignments Element
+        href: levelassignments-element.md
+      - name: LevelingCanSplit Element
+        href: levelingcansplit-element.md
+      - name: LevelingDelay Element
+        href: levelingdelay-element.md
+      - name: LevelingDelayFormat Element
+        href: levelingdelayformat-element.md
+      - name: LinkLag Element
+        href: linklag-element.md
+      - name: Milestone Element
+        href: milestone-element.md
+      - name: Notes Element
+        href: notes-element.md
+      - name: Name Element
+        href: name-element.md
+      - name: Number Element
+        href: number-element.md
+      - name: OutlineCode Element
+        href: outlinecode-element.md
+      - name: OutlineLevel Element
+        href: outlinelevel-element.md
+      - name: OutlineNumber Element
+        href: outlinenumber-element.md
+      - name: OverAllocated Element
+        href: overallocated-element.md
+      - name: OvertimeCost Element
+        href: overtimecost-element.md
+      - name: OvertimeWork Element
+        href: overtimework-element.md
+      - name: PercentComplete Element
+        href: percentcomplete-element.md
+      - name: PercentWorkComplete Element
+        href: percentworkcomplete-element.md
+      - name: PhysicalPercentComplete Element
+        href: physicalpercentcomplete-element.md
+      - name: PredecessorLink Element
+        href: predecessorlink-element.md
+      - name: PredecessorUID Element
+        href: predecessoruid-element.md
+      - name: PreLeveledFinish Element
+        href: preleveledfinish-element.md
+      - name: PreLeveledStart Element
+        href: preleveledstart-element.md
+      - name: Priority Element
+        href: priority-element.md
+      - name: Recurring Element
+        href: recurring-element.md
+      - name: RegularWork Element
+        href: regularwork-element.md
+      - name: RemainingCost Element
+        href: remainingcost-element.md
+      - name: RemainingDuration Element
+        href: remainingduration-element.md
+      - name: RemainingOvertimeCost Element
+        href: remainingovertimecost-element.md
+      - name: RemainingOvertimeWork Element
+        href: remainingovertimework-element.md
+      - name: RemainingWork Element
+        href: remainingwork-element.md
+      - name: Resume Element
+        href: resume-element.md
+      - name: ResumeValid Element
+        href: resumevalid-element.md
+      - name: Rollup Element
+        href: rollup-element.md
+      - name: Start Element
+        href: start-element.md
+      - name: StartVariance Element
+        href: startvariance-element.md
+      - name: StatusManager Element
+        href: statusmanager-element.md
+      - name: Stop Element
+        href: stop-element.md
+      - name: SubprojectName Element
+        href: subprojectname-element.md
+      - name: Summary Element
+        href: summary-element.md
+      - name: Task Element
+        href: task-element.md
+      - name: Tasks Element
+        href: tasks-element.md
+      - name: TimephasedData Element
+        href: timephaseddata-element.md
+      - name: TotalSlack Element
+        href: totalslack-element.md
+      - name: Type Element
+        href: type-element-multiple-parents.md
+      - name: UID Element
+        href: uid-element.md
+      - name: WBS Element
+        href: wbs-element.md
+      - name: WBSLevel Element
+        href: wbslevel-element.md
+      - name: Work Element
+        href: work-element.md
+      - name: WorkVariance Element
+        href: workvariance-element.md
+    - name: Resource Elements and XML Structure
+      href: resource-elements-and-xml-structure.md
+      items:
+      - name: XML Schema for the Resources Element
+        href: xml-schema-for-the-resources-element.md
+      - name: AccrueAt Element
+        href: accrueat-element.md
+      - name: ActiveDirectoryGUID Element
+        href: activedirectoryguid-element.md
+      - name: ActualCost Element
+        href: actualcost-element.md
+      - name: ActualOvertimeCost Element
+        href: actualovertimecost-element.md
+      - name: ActualOvertimeWork Element
+        href: actualovertimework-element.md
+      - name: ActualOvertimeWorkProtected Element
+        href: actualovertimeworkprotected-element.md
+      - name: ActualWork Element
+        href: actualwork-element.md
+      - name: ActualWorkProtected Element
+        href: actualworkprotected-element.md
+      - name: ACWP Element
+        href: acwp-element.md
+      - name: AssnOwner Element
+        href: assnowner-element.md
+      - name: AssnOwnerGuid Element
+        href: assnownerguid-element.md
+      - name: AvailabilityPeriod Element
+        href: availabilityperiod-element.md
+      - name: AvailabilityPeriods Element
+        href: availabilityperiods-element.md
+      - name: AvailableFrom Element
+        href: availablefrom-element.md
+      - name: AvailableTo Element
+        href: availableto-element.md
+      - name: AvailableUnits Element
+        href: availableunits-element.md
+      - name: Baseline Element
+        href: baseline-element.md
+      - name: BCWP Element
+        href: bcwp-element.md
+      - name: BCWS Element
+        href: bcws-element.md
+      - name: BookingType Element
+        href: bookingtype-element.md
+      - name: c408000 - c417fff Elements
+        href: c408000-c417fff-elements.md
+      - name: CalendarUID Element
+        href: calendaruid-element.md
+      - name: CanLevel Element
+        href: canlevel-element.md
+      - name: Code Element
+        href: code-element.md
+      - name: Cost Element
+        href: cost-element.md
+      - name: CostPerUse Element
+        href: costperuse-element.md
+      - name: CostVariance Element
+        href: costvariance-element.md
+      - name: CreationDate Element
+        href: creationdate-element.md
+      - name: CV Element
+        href: cv-element.md
+      - name: EmailAddress Element
+        href: emailaddress-element.md
+      - name: Finish Element
+        href: finish-element.md
+      - name: Group Element
+        href: group-element.md
+      - name: Hyperlink Element
+        href: hyperlink-element.md
+      - name: HyperlinkSubAddress Element
+        href: hyperlinksubaddress-element.md
+      - name: ID Element
+        href: id-element.md
+      - name: Initials Element
+        href: initials-element.md
+      - name: IsBudget Element
+        href: isbudget-element.md
+      - name: IsCostResource Element
+        href: iscostresource-element.md
+      - name: IsEnterprise Element
+        href: isenterprise-element.md
+      - name: IsGeneric Element
+        href: isgeneric-element.md
+      - name: IsInactive Element
+        href: isinactive-element.md
+      - name: IsNull Element
+        href: isnull-element.md
+      - name: MaterialLabel Element
+        href: materiallabel-element.md
+      - name: MaxUnits Element
+        href: maxunits-element.md
+      - name: Name Element
+        href: name-element.md
+      - name: Notes Element
+        href: notes-element.md
+      - name: NTAccount Element
+        href: ntaccount-element.md
+      - name: OutlineCode Element
+        href: outlinecode-element.md
+      - name: OverAllocated Element
+        href: overallocated-element.md
+      - name: OvertimeCost Element
+        href: overtimecost-element.md
+      - name: OvertimeRate Element
+        href: overtimerate-element.md
+      - name: OvertimeRateFormat Element
+        href: overtimerateformat-element.md
+      - name: OvertimeWork Element
+        href: overtimework-element.md
+      - name: PeakUnits Element
+        href: peakunits-element.md
+      - name: PercentWorkComplete Element
+        href: percentworkcomplete-element.md
+      - name: Phonetics Element
+        href: phonetics-element.md
+      - name: Rate Element
+        href: rate-element.md
+      - name: Rates Element
+        href: rates-element.md
+      - name: RatesFrom Element
+        href: ratesfrom-element.md
+      - name: RatesTo Element
+        href: ratesto-element.md
+      - name: RateTable Element
+        href: ratetable-element.md
+      - name: RegularWork Element
+        href: regularwork-element.md
+      - name: RemainingCost Element
+        href: remainingcost-element.md
+      - name: RemainingOvertimeCost Element
+        href: remainingovertimecost-element.md
+      - name: RemainingOvertimeWork Element
+        href: remainingovertimework-element.md
+      - name: RemainingWork Element
+        href: remainingwork-element.md
+      - name: Resource Element
+        href: resource-element.md
+      - name: Resources Element
+        href: resources-element.md
+      - name: StandardRate Element
+        href: standardrate-element.md
+      - name: StandardRateFormat Element
+        href: standardrateformat-element.md
+      - name: Start Element
+        href: start-element.md
+      - name: SV Element
+        href: sv-element.md
+      - name: TimephasedData Element
+        href: timephaseddata-element.md
+      - name: Type Element
+        href: type-element-multiple-parents.md
+      - name: UID Element
+        href: uid-element.md
+      - name: Work Element
+        href: work-element.md
+      - name: WorkGroup Element
+        href: workgroup-element.md
+      - name: WorkVariance Element
+        href: workvariance-element.md
+    - name: Assignment Elements and XML Structure
+      href: assignment-elements-and-xml-structure.md
+      items:
+      - name: XML Schema for the Assignments Element
+        href: xml-schema-for-the-assignments-element.md
+      - name: ActualCost Element
+        href: actualcost-element.md
+      - name: ActualOvertimeCost Element
+        href: actualovertimecost-element.md
+      - name: ActualStart Element
+        href: actualstart-element.md
+      - name: ActualFinish Element
+        href: actualfinish-element.md
+      - name: ActualOvertimeWork Element
+        href: actualovertimework-element.md
+      - name: ActualOvertimeWorkProtected Element
+        href: actualovertimeworkprotected-element.md
+      - name: ActualWork Element
+        href: actualwork-element.md
+      - name: ActualWorkProtected Element
+        href: actualworkprotected-element.md
+      - name: ACWP Element
+        href: acwp-element.md
+      - name: Assignment Element
+        href: assignment-element.md
+      - name: Assignments Element
+        href: assignments-element.md
+      - name: AssnOwner Element
+        href: assnowner-element.md
+      - name: AssnOwnerGuid Element
+        href: assnownerguid-element.md
+      - name: Baseline Element
+        href: baseline-element.md
+      - name: BCWP Element
+        href: bcwp-element.md
+      - name: BCWS Element
+        href: bcws-element.md
+      - name: BookingType Element
+        href: bookingtype-element.md
+      - name: BudgetCost Element
+        href: budgetcost-element.md
+      - name: BudgetWork Element
+        href: budgetwork-element.md
+      - name: Confirmed Element
+        href: confirmed-element.md
+      - name: Cost Element
+        href: cost-element.md
+      - name: CostRateTable Element
+        href: costratetable-element.md
+      - name: CostVariance Element
+        href: costvariance-element.md
+      - name: CV Element
+        href: cv-element.md
+      - name: CreationDate Element
+        href: creationdate-element.md
+      - name: Delay Element
+        href: delay-element.md
+      - name: f404000 - f4040c8 Elements
+        href: f404000-f4040c8-elements.md
+      - name: f408000 - f417fff Elements
+        href: f408000-f417fff-elements.md
+      - name: Finish Element
+        href: finish-element.md
+      - name: FinishVariance Element
+        href: finishvariance-element.md
+      - name: FixedMaterial Element
+        href: fixedmaterial-element.md
+      - name: HasFixedRateUnits Element
+        href: hasfixedrateunits-element.md
+      - name: Hyperlink Element
+        href: hyperlink-element.md
+      - name: HyperlinkAddress Element
+        href: hyperlinkaddress-element.md
+      - name: HyperlinkSubAddress Element
+        href: hyperlinksubaddress-element.md
+      - name: LevelingDelay Element
+        href: levelingdelay-element.md
+      - name: LevelingDelayFormat Element
+        href: levelingdelayformat-element.md
+      - name: LinkedFields Element
+        href: linkedfields-element.md
+      - name: Milestone Element
+        href: milestone-element.md
+      - name: Notes Element
+        href: notes-element.md
+      - name: OverAllocated Element
+        href: overallocated-element.md
+      - name: OvertimeCost Element
+        href: overtimecost-element.md
+      - name: OvertimeWork Element
+        href: overtimework-element.md
+      - name: PeakUnits Element
+        href: peakunits-element.md
+      - name: PercentWorkComplete Element
+        href: percentworkcomplete-element.md
+      - name: RegularWork Element
+        href: regularwork-element.md
+      - name: RemainingCost Element
+        href: remainingcost-element.md
+      - name: RemainingOvertimeCost Element
+        href: remainingovertimecost-element.md
+      - name: RemainingOvertimeWork Element
+        href: remainingovertimework-element.md
+      - name: RemainingWork Element
+        href: remainingwork-element.md
+      - name: ResourceUID Element
+        href: resourceuid-element.md
+      - name: ResponsePending Element
+        href: responsepending-element.md
+      - name: Resume Element
+        href: resume-element.md
+      - name: Start Element
+        href: start-element.md
+      - name: Stop Element
+        href: stop-element.md
+      - name: StartVariance Element
+        href: startvariance-element.md
+      - name: Summary Element
+        href: summary-element.md
+      - name: SV Element
+        href: sv-element.md
+      - name: TaskUID Element
+        href: taskuid-element.md
+      - name: TimephasedData Element
+        href: timephaseddata-element.md
+      - name: UID Element
+        href: uid-element.md
+      - name: Units Element
+        href: units-element.md
+      - name: UpdateNeeded Element
+        href: updateneeded-element.md
+      - name: VAC Element
+        href: vac-element.md
+      - name: Work Element
+        href: work-element.md
+      - name: WorkContour Element
+        href: workcontour-element.md
+      - name: WorkVariance Element
+        href: workvariance-element.md
+    - name: TimephasedDataType Elements and XML Structure
+      href: timephaseddatatype-elements-and-xml-structure.md
+      items:
+      - name: XML Schema for the TimephasedDataType Complex Type
+        href: xml-schema-for-the-timephaseddatatype-complex-type.md
+      - name: Finish Element
+        href: finish-element.md
+      - name: Start Element
+        href: start-element.md
+      - name: Type Element
+        href: type-element-multiple-parents.md
+      - name: UID Element
+        href: uid-element.md
+      - name: Unit Element
+        href: unit-element.md
+      - name: Value Element
+        href: value-element.md
