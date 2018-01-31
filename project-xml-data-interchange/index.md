@@ -1,1 +1,3 @@
-# Welcome to officedocs-dev-project-xml-data-interchange!
+﻿---
+redirect_url: 'bb968733(v=office.12)'
+---
