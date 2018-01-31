@@ -1,3 +1,3 @@
 ﻿---
-redirect_url: 'bb968733(v=office.12)'
+redirect_url: 'project-xml-data-interchange-schema-reference'
 ---
