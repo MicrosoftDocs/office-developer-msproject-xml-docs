@@ -26,10 +26,8 @@ This content is outdated and is no longer being maintained. It is provided as a 
 
 The Extensible Stylesheet Language Transformation (XSLT) standard specifies a language definition for XML data transformations. XSLT is used to transform XML documents into XHTML documents, or into other XML documents. This article shows you how to use XSLT with Microsoft Office Project 2007 XML Data Interchange files to filter and display project information. (The content of this article was contributed by Jessica Britton, Microsoft Corporation.)
 
-
 > [!NOTE]
 > For information about saving projects as Project XML Data Interchange files, see <A href="bb968621(v=office.12).md">Saving and Opening Projects in XML Format</A>.
-
 
 An XSLT stylesheet is an XML document that consists of a combination of XHTML markup, XSLT template rules, and XPath statements that work together.
 
@@ -255,10 +253,8 @@ After you create the XSLT stylesheet, you must link your Project XML file to it 
 
 4.  Save the Project XML file.
     
-
     > [!NOTE]
     > We recommend you save the file by using a file name that is different from the original Project XML file name, because the changes made in Step 3 disassociate the Project XML file from the Project XML Data Interchange Schema.
-
 
 5.  View the transformed Project XML file. You can perform the XSLT transformation in Visual Studio by setting the **Stylesheet** property of the Project XML file to ProjectTransform.xslt, and then selecting **Show XSLT Output** from the **XML** menu.
     
@@ -268,7 +264,6 @@ Figure 1 shows the transformed output of a Project XML file in Word 2007. When y
 
 Figure 1. Transformed Project XML file
 
-  
 ![Transformed Project XML file](images\bb968529-status-it-upgrade-master-project.gif)
 
 ## See also
