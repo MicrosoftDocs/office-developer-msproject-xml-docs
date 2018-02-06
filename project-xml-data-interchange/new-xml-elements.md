@@ -25,19 +25,19 @@ The following sections briefly describe the new elements in the Project XML Data
 
 This article organizes the new elements alphabetically within the following sections, which parallel the organization of this schema reference. For detailed information about XML element structure, see [Project Data Interchange Elements](bb968664\(v=office.12\).md).
 
-  - Table 1: New Project Elements
+  - Table 1: New Project elements
 
-  - Table 2: New OutlineCode Elements
+  - Table 2: New OutlineCode elements
 
-  - Table 3: New ExtendedAttribute Elements
+  - Table 3: New ExtendedAttribute elements
 
-  - Table 4: New Calendar Elements
+  - Table 4: New Calendar elements
 
-  - Table 5: New Task Elements
+  - Table 5: New Task elements
 
-  - Table 6: New Resource Elements
+  - Table 6: New Resource elements
 
-  - Table 7: New Assignment Elements
+  - Table 7: New Assignment elements
 
 
 ### Table 1. New Project elements
@@ -98,7 +98,7 @@ This article organizes the new elements alphabetically within the following sect
 
 <br/>
 
-### Table 3. New ExtendedAttribute Elements
+### Table 3. New ExtendedAttribute elements
 
 <table>
 <colgroup>
@@ -157,7 +157,7 @@ This article organizes the new elements alphabetically within the following sect
 
 <br/>
 
-### Table 4. New Calendar Elements
+### Table 4. New Calendar elements
 
 <table>
 <colgroup>
@@ -236,7 +236,7 @@ This article organizes the new elements alphabetically within the following sect
 
 <br/>
 
-### Table 5. New Task Elements
+### Table 5. New Task elements
 
 <table>
 <colgroup>
@@ -279,7 +279,7 @@ This article organizes the new elements alphabetically within the following sect
 
 <br/>
 
-### Table 6. New Resource Elements
+### Table 6. New Resource elements
 
 <table>
 <colgroup>
@@ -314,7 +314,7 @@ This article organizes the new elements alphabetically within the following sect
 
 <br/>
 
-### Table 7. New Assignment Elements
+### Table 7. New Assignment elements
 
 <table>
 <colgroup>
