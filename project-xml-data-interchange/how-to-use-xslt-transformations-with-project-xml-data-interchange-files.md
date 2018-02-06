@@ -269,19 +269,15 @@ Figure 1 shows the transformed output of a Project XML file in Word 2007. When y
 Figure 1. Transformed Project XML file
 
   
-![](images\Bb968529.61e5a9b7-d538-4b07-941f-9df8a4da2a4e(en-us,office.12).gif)
+![Transformed Project XML file](images\bb968529-status-it-upgrade-master-project.gif)
 
-## See Also
+## See also
 
-#### Tasks
+- [Saving and Opening Projects in XML Format](bb968621\(v=office.12\).md)
 
-[Saving and Opening Projects in XML Format](bb968621\(v=office.12\).md)
+- [What is XSLT?](http://msdn2.microsoft.com/en-us/library/ms759096.aspx)
 
-#### Other Resources
+- [XSLT Reference](http://msdn2.microsoft.com/en-us/library/ms256069.aspx)
 
-[What is XSLT?](http://msdn2.microsoft.com/en-us/library/ms759096.aspx)
-
-[XSLT Reference](http://msdn2.microsoft.com/en-us/library/ms256069.aspx)
-
-[XPath Reference](http://msdn2.microsoft.com/en-us/library/ms256115.aspx)
+- [XPath Reference](http://msdn2.microsoft.com/en-us/library/ms256115.aspx)
 

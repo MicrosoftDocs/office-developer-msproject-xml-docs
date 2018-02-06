@@ -42,7 +42,7 @@ Project data stored in Project XML files can be filtered and displayed by using 
     Figure 1. Save to Project Server dialog box
     
       
-    ![](images\Bb968621.0b5b6b1e-a165-4f9b-a916-af139c2ce94c(en-us,office.12).gif)
+    ![Save to Project Server dialog box](images\bb968621-save-to-project-server.gif)
 
 3.  In the **Save As File** dialog box, you can save the file with only the currently loaded enterprise items, or with all enterprise items. Selecting the option to save only the currently loaded enterprise items can result in a smaller file depending on the configuration of your project.
     
@@ -51,7 +51,7 @@ Project data stored in Project XML files can be filtered and displayed by using 
     Figure 2. Save As File dialog box
     
       
-    ![](images\Bb968621.abe3829c-e8fd-4983-b175-5a93c4625d40(en-us,office.12).gif)
+    ![Save As File dialog box](images\bb968621-save-as-file.gif)
 
 4.  In the **Save As** dialog box, browse to the location where you want to save the file.
 
@@ -82,14 +82,14 @@ Any valid Project 2007 XML Data Interchange file can be opened by Project Standa
     Figure 3. Open Dialog Box
     
       
-    ![](images\Bb968621.47e92179-d5b6-4b1b-8a28-68efb43aaf66(en-us,office.12).gif)
+    ![Open Dialog Box](images\bb968621-open-my-projects.gif)
 
 3.  The **Import Wizard** starts (Figure 4).
     
     Figure 4. Import Wizard
     
       
-    ![](images\Bb968621.59cec313-e2fe-4c16-8ae0-d013ce2dfc07(en-us,office.12).gif)
+    ![Import Wizard](images\bb968621-import-wizard.gif)
     
     Select how you want to import the XML file, and then click **Finish**:
     
@@ -118,19 +118,15 @@ Any valid Project 2007 XML Data Interchange file can be opened by Project Standa
         Figure 5. Project error message
         
           
-        ![](images\Bb968621.f9b52597-9fd8-4baa-a870-97a5049d9316(en-us,office.12).gif)
+        ![Project error message](images\bb968621-error-message.gif)
 
-## See Also
+## See also
 
-#### Tasks
+- [How to: Use XSLT Transformations with Project XML Data Interchange Files](bb968529\(v=office.12\).md)
 
-[How to: Use XSLT Transformations with Project XML Data Interchange Files](bb968529\(v=office.12\).md)
+- [Introduction to Project XML Data](bb968652\(v=office.12\).md)
 
-#### Concepts
+- [Custom Field Data in XML](bb968687\(v=office.12\).md)
 
-[Introduction to Project XML Data](bb968652\(v=office.12\).md)
-
-[Custom Field Data in XML](bb968687\(v=office.12\).md)
-
-[Project Data Interchange Elements](bb968664\(v=office.12\).md)
+- [Project Data Interchange Elements](bb968664\(v=office.12\).md)
 
