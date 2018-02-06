@@ -40,7 +40,7 @@ This article organizes the new elements alphabetically within the following sect
   - Table 7: New Assignment Elements
 
 
-Table 1. New Project elements
+### Table 1. New Project elements
 
 <table>
 <colgroup>
@@ -65,8 +65,9 @@ Table 1. New Project elements
 </tbody>
 </table>
 
+<br/>
 
-Table 2. New OutlineCode elements
+### Table 2. New OutlineCode elements
 
 <table>
 <colgroup>
@@ -95,8 +96,9 @@ Table 2. New OutlineCode elements
 </tbody>
 </table>
 
+<br/>
 
-Table 3. New ExtendedAttribute Elements
+### Table 3. New ExtendedAttribute Elements
 
 <table>
 <colgroup>
@@ -153,8 +155,9 @@ Table 3. New ExtendedAttribute Elements
 </tbody>
 </table>
 
+<br/>
 
-Table 4. New Calendar Elements
+### Table 4. New Calendar Elements
 
 <table>
 <colgroup>
@@ -231,8 +234,9 @@ Table 4. New Calendar Elements
 </tbody>
 </table>
 
+<br/>
 
-Table 5. New Task Elements
+### Table 5. New Task Elements
 
 <table>
 <colgroup>
@@ -273,8 +277,9 @@ Table 5. New Task Elements
 </tbody>
 </table>
 
+<br/>
 
-Table 6. New Resource Elements
+### Table 6. New Resource Elements
 
 <table>
 <colgroup>
@@ -307,8 +312,9 @@ Table 6. New Resource Elements
 </tbody>
 </table>
 
+<br/>
 
-Table 7. New Assignment Elements
+### Table 7. New Assignment Elements
 
 <table>
 <colgroup>
@@ -353,13 +359,11 @@ Table 7. New Assignment Elements
 </tbody>
 </table>
 
-## See Also
+## See also
 
-#### Concepts
+- [Custom Field Data in XML](bb968687\(v=office.12\).md)
 
-[Custom Field Data in XML](bb968687\(v=office.12\).md)
+- [Introduction to Project XML Data](bb968652\(v=office.12\).md)
 
-[Introduction to Project XML Data](bb968652\(v=office.12\).md)
-
-[Project Data Interchange Elements](bb968664\(v=office.12\).md)
+- [Project Data Interchange Elements](bb968664\(v=office.12\).md)
 
