@@ -13,7 +13,8 @@ monikerRange: '>= project-client-2007 || project-client-odc'
 
 # Project Element
 
-This content is outdated and is no longer being maintained. It is provided as a courtesy for individuals who are still using these technologies. This page may contain URLs that were valid when originally published, but now link to sites or pages that no longer exist.
+
+
 
 Project is the top level element of the document. Project child elements include all data for each project, including calendars, assignments, tasks, resources, extended attributes (custom fields), work breakdown structure (WBS codes), and custom outline codes.
 

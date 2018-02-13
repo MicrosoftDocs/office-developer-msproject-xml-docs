@@ -19,7 +19,8 @@ monikerRange: '>= project-client-2007 || project-client-odc'
 
 # TimephasedDataType Elements and XML Structure
 
-This content is outdated and is no longer being maintained. It is provided as a courtesy for individuals who are still using these technologies. This page may contain URLs that were valid when originally published, but now link to sites or pages that no longer exist.
+
+
 
 This section contains information about elements in the TimephasedDataType complex type defined in the Microsoft Office Project 2007 XML Data Interchange Schema (mspdi\_pj12.xsd). The TimephasedData element is of type TimephasedDataType that represents timephased data, for example, the number of hours of work per day over a period of days. Task, Resource, Assignment, and Baseline elements can include TimephasedData.
 

@@ -13,7 +13,8 @@ monikerRange: '>= project-client-2007 || project-client-odc'
 
 # Type Element (Multiple Parents)
 
-This content is outdated and is no longer being maintained. It is provided as a courtesy for individuals who are still using these technologies. This page may contain URLs that were valid when originally published, but now link to sites or pages that no longer exist.
+
+
 
 As a child of the Mask or WBSMask elements, Type is the type of code string for first-level tasks (numbers, letters, or unordered characters).
 

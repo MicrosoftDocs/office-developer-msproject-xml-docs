@@ -18,7 +18,8 @@ monikerRange: '>= project-client-2007 || project-client-odc'
 
 # Changes in the Project 2007 XML Data Interchange Schema
 
-This content is outdated and is no longer being maintained. It is provided as a courtesy for individuals who are still using these technologies. This page may contain URLs that were valid when originally published, but now link to sites or pages that no longer exist.
+
+
 
 This section provides information about changes to the Microsoft Office Project XML Data Interchange Schema in Project 2007.
 

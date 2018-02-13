@@ -13,7 +13,8 @@ monikerRange: '>= project-client-2007 || project-client-odc'
 
 # WorkGroup Element
 
-This content is outdated and is no longer being maintained. It is provided as a courtesy for individuals who are still using these technologies. This page may contain URLs that were valid when originally published, but now link to sites or pages that no longer exist.
+
+
 
 The type of workgroup to which the resource belongs. WorkGroup also specifies the type of messaging method used to communicate with the project team.
 

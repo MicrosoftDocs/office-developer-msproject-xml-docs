@@ -13,7 +13,8 @@ monikerRange: '>= project-client-2007 || project-client-odc'
 
 # ActualDuration Element
 
-This content is outdated and is no longer being maintained. It is provided as a courtesy for individuals who are still using these technologies. This page may contain URLs that were valid when originally published, but now link to sites or pages that no longer exist.
+
+
 
 The span of actual working time for a task so far, based on the scheduled duration and current remaining work or percent complete. Actual duration can be calculated in two ways, either based on percent complete or remaining duration.
 

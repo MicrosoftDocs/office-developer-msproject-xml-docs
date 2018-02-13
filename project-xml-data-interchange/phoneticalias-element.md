@@ -13,7 +13,8 @@ monikerRange: '>= project-client-2007 || project-client-odc'
 
 # PhoneticAlias Element
 
-This content is outdated and is no longer being maintained. It is provided as a courtesy for individuals who are still using these technologies. This page may contain URLs that were valid when originally published, but now link to sites or pages that no longer exist.
+
+
 
 Contains phonetic information in either Hiragana or Katakana for a custom field or outline code; used only in the Japanese version of Microsoft Office Project.
 

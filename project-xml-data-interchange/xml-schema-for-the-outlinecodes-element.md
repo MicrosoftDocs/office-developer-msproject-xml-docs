@@ -20,7 +20,8 @@ monikerRange: '>= project-client-2007 || project-client-odc'
 
 # XML Schema for the OutlineCodes Element
 
-This content is outdated and is no longer being maintained. It is provided as a courtesy for individuals who are still using these technologies. This page may contain URLs that were valid when originally published, but now link to sites or pages that no longer exist.
+
+
 
 The following shows the section of the Microsoft Office Project 2007 XML Data Interchange Schema (mspdi\_pj12.xsd) that defines the OutlineCodes element.
 

@@ -16,7 +16,8 @@ monikerRange: '>= project-client-2007 || project-client-odc'
 
 # Project Data Interchange Elements
 
-This content is outdated and is no longer being maintained. It is provided as a courtesy for individuals who are still using these technologies. This page may contain URLs that were valid when originally published, but now link to sites or pages that no longer exist.
+
+
 
 This section contains information about the elements defined by the Project XML Data Interchange Schema, as well as additional XML elements used by Microsoft Office Project 2007 to represent custom field values.
 

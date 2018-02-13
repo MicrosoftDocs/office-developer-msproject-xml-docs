@@ -13,7 +13,8 @@ monikerRange: '>= project-client-2007 || project-client-odc'
 
 # ValueList Element
 
-This content is outdated and is no longer being maintained. It is provided as a courtesy for individuals who are still using these technologies. This page may contain URLs that were valid when originally published, but now link to sites or pages that no longer exist.
+
+
 
 When values of extended attributes are specified as properties of elements in the schema, they can either be specified by values or by references to values contained in the list. Applications can assume a value list is ordered in the manner specified by the ValueListSortOrder (ascending or descending).
 

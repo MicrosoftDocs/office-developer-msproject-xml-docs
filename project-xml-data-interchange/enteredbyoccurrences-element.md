@@ -15,7 +15,8 @@ monikerRange: '>= project-client-2007 || project-client-odc'
 
 # EnteredByOccurrences Element
 
-This content is outdated and is no longer being maintained. It is provided as a courtesy for individuals who are still using these technologies. This page may contain URLs that were valid when originally published, but now link to sites or pages that no longer exist.
+
+
 
 Indicates whether the range of recurrence for the calendar exception is defined by a number of occurrences, or by a finish date.
 

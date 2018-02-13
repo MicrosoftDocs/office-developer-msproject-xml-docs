@@ -15,7 +15,8 @@ monikerRange: '>= project-client-2007 || project-client-odc'
 
 # WorkingTimes Element (Calendar)
 
-This content is outdated and is no longer being maintained. It is provided as a courtesy for individuals who are still using these technologies. This page may contain URLs that were valid when originally published, but now link to sites or pages that no longer exist.
+
+
 
 The collection of working times that defines the time for work on a working day or a calendar exception.
 

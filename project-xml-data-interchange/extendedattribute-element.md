@@ -15,7 +15,8 @@ monikerRange: '>= project-client-2007 || project-client-odc'
 
 # ExtendedAttribute Element
 
-This content is outdated and is no longer being maintained. It is provided as a courtesy for individuals who are still using these technologies. This page may contain URLs that were valid when originally published, but now link to sites or pages that no longer exist.
+
+
 
 An extended attribute represents a custom field or outline code in Microsoft Office Project. The extended attribute can be a local custom field or outline code, or it can be an enterprise custom field. The definition depends on whether an extended attribute is defined within an ExtendedAttributes collection, or in a Task, Resource, or Assignment. In general, there can be an unlimited number of extended attributes, subject to the limitations described in the Remarks section.
 

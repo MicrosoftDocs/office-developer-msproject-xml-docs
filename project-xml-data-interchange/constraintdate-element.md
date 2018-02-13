@@ -13,7 +13,8 @@ monikerRange: '>= project-client-2007 || project-client-odc'
 
 # ConstraintDate Element
 
-This content is outdated and is no longer being maintained. It is provided as a courtesy for individuals who are still using these technologies. This page may contain URLs that were valid when originally published, but now link to sites or pages that no longer exist.
+
+
 
 Indicates the constrained start or finish date as defined in the task ConstraintType . Required unless the constraint type is set to As late as possible or As soon as possible.
 

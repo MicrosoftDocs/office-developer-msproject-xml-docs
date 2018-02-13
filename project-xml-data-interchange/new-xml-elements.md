@@ -16,7 +16,8 @@ monikerRange: '>= project-client-2007 || project-client-odc'
 
 # New XML Elements
 
-This content is outdated and is no longer being maintained. It is provided as a courtesy for individuals who are still using these technologies. This page may contain URLs that were valid when originally published, but now link to sites or pages that no longer exist.
+
+
 
 The Microsoft Office Project 2007 XML Data Interchange Schema (mspdi\_pj12.xsd) includes new XML elements that support new and enhanced functionality in Office Project 2007.
 

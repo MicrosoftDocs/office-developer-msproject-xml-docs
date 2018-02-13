@@ -13,7 +13,8 @@ monikerRange: '>= project-client-2007 || project-client-odc'
 
 # Cost Element
 
-This content is outdated and is no longer being maintained. It is provided as a courtesy for individuals who are still using these technologies. This page may contain URLs that were valid when originally published, but now link to sites or pages that no longer exist.
+
+
 
 For a Task, Cost is the total scheduled (or projected) cost for a task, based on costs already incurred for work performed by all resources assigned to the task, in addition to the costs planned for the remaining work for the assignment.
 

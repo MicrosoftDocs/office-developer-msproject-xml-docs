@@ -18,7 +18,8 @@ monikerRange: '>= project-client-2007 || project-client-odc'
 
 # Custom Field Data in XML
 
-This content is outdated and is no longer being maintained. It is provided as a courtesy for individuals who are still using these technologies. This page may contain URLs that were valid when originally published, but now link to sites or pages that no longer exist.
+
+
 
 The Microsoft Office Project 2007 XML Data Interchange Schema (mspdi\_pj12.xsd) changes the way that some custom field information is represented in XML. This article describes how Office Project 2007 represents custom field definitions and custom field values in XML format.
 

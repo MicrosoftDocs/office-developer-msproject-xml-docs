@@ -23,7 +23,8 @@ monikerRange: '>= project-client-2007 || project-client-odc'
 
 # How to: Use XSLT Transformations with Project XML Data Interchange Files
 
-This content is outdated and is no longer being maintained. It is provided as a courtesy for individuals who are still using these technologies. This page may contain URLs that were valid when originally published, but now link to sites or pages that no longer exist.
+
+
 
 The Extensible Stylesheet Language Transformation (XSLT) standard specifies a language definition for XML data transformations. XSLT is used to transform XML documents into XHTML documents, or into other XML documents. This article shows you how to use XSLT with Microsoft Office Project 2007 XML Data Interchange files to filter and display project information. (The content of this article was contributed by Jessica Britton, Microsoft Corporation.)
 

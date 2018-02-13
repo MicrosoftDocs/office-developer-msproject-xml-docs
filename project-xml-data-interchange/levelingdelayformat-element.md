@@ -15,7 +15,8 @@ monikerRange: '>= project-client-2007 || project-client-odc'
 
 # LevelingDelayFormat Element
 
-This content is outdated and is no longer being maintained. It is provided as a courtesy for individuals who are still using these technologies. This page may contain URLs that were valid when originally published, but now link to sites or pages that no longer exist.
+
+
 
  LevelingDelayFormat is the format for expressing the LevelingDelay duration in a task or assignment.
 

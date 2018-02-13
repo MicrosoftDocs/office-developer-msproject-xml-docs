@@ -15,7 +15,8 @@ monikerRange: '>= project-client-2007 || project-client-odc'
 
 # Saving and Opening Projects in XML Format
 
-This content is outdated and is no longer being maintained. It is provided as a courtesy for individuals who are still using these technologies. This page may contain URLs that were valid when originally published, but now link to sites or pages that no longer exist.
+
+
 
 The Microsoft Office Project 2007 XML Data Interchange Schema (mspdi\_pj12.xsd) defines how Project 2007 reads and writes project data in XML format. This article describes how to work with Project 2007 XML Data Interchange files, and contains the following sections:
 

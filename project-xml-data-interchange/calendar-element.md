@@ -15,7 +15,8 @@ monikerRange: '>= project-client-2007 || project-client-odc'
 
 # Calendar Element
 
-This content is outdated and is no longer being maintained. It is provided as a courtesy for individuals who are still using these technologies. This page may contain URLs that were valid when originally published, but now link to sites or pages that no longer exist.
+
+
 
 A calendar is used to define standard working and nonworking times in Microsoft Office Project. A project must have one base calendar. Tasks and resources may have their own calendars, which are based on a base calendar.
 

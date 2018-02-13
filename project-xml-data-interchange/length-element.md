@@ -13,7 +13,8 @@ monikerRange: '>= project-client-2007 || project-client-odc'
 
 # Length Element
 
-This content is outdated and is no longer being maintained. It is provided as a courtesy for individuals who are still using these technologies. This page may contain URLs that were valid when originally published, but now link to sites or pages that no longer exist.
+
+
 
 The number of characters required in an outline code mask or a work breakdown structure (WBS) mask, from 1 – 255. If the number of characters can be any value, Length is zero.
 

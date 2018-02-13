@@ -13,7 +13,8 @@ monikerRange: '>= project-client-2007 || project-client-odc'
 
 # CV Element
 
-This content is outdated and is no longer being maintained. It is provided as a courtesy for individuals who are still using these technologies. This page may contain URLs that were valid when originally published, but now link to sites or pages that no longer exist.
+
+
 
 CV is also called cost variance. In general, CV is the difference between how much it should have cost and how much it has actually cost to achieve the current level of completion up to the status date or today's date.
 

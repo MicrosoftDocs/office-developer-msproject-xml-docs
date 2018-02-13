@@ -13,7 +13,8 @@ monikerRange: '>= project-client-2007 || project-client-odc'
 
 # MaterialLabel Element
 
-This content is outdated and is no longer being maintained. It is provided as a courtesy for individuals who are still using these technologies. This page may contain URLs that were valid when originally published, but now link to sites or pages that no longer exist.
+
+
 
 The unit of measurement entered for a material resource, for example, tons, boxes, or cubic yards. This is used in conjunction with the material resource's assignment Units and is only available if the resource Type is set to 1 (a work resource).
 
