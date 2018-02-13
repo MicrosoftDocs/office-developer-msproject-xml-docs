@@ -1,4 +1,4 @@
-﻿---
+---
 title: IsInactive Element
 TOCTitle: IsInactive Element
 ms:assetid: be6efdc2-e71c-4cd1-8ef7-f4bba78b447c
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - IsInactive element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # IsInactive Element

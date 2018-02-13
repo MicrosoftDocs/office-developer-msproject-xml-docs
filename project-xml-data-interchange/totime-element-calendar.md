@@ -1,4 +1,4 @@
-﻿---
+---
 title: ToTime Element (Calendar)
 TOCTitle: ToTime Element
 ms:assetid: 3a232cf1-d34e-4d0e-b584-cea0c67ba03f
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - ToTime element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # ToTime Element (Calendar)

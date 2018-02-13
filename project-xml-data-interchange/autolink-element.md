@@ -1,4 +1,4 @@
-﻿---
+---
 title: Autolink Element
 TOCTitle: Autolink Element
 ms:assetid: 34903737-3894-4aef-83f1-f85d8b17330b
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Autolink element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Autolink Element

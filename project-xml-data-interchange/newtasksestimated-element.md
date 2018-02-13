@@ -1,4 +1,4 @@
-﻿---
+---
 title: NewTasksEstimated Element
 TOCTitle: NewTasksEstimated Element
 ms:assetid: dd34310a-4df3-4438-9477-9bb5436f373f
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - NewTasksEstimated element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # NewTasksEstimated Element

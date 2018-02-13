@@ -1,4 +1,4 @@
-﻿---
+---
 title: RemoveFileProperties Element
 TOCTitle: RemoveFileProperties Element
 ms:assetid: a205c498-80f3-4313-9377-9332324d3717
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - RemoveFileProperties element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # RemoveFileProperties Element

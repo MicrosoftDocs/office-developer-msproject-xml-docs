@@ -1,4 +1,4 @@
-﻿---
+---
 title: RemainingDuration Element
 TOCTitle: RemainingDuration Element
 ms:assetid: 9f1fb79f-bc69-4545-997f-fc658090e71e
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - RemainingDuration element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # RemainingDuration Element

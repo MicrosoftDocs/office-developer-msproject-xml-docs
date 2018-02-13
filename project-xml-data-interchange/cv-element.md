@@ -1,4 +1,4 @@
-﻿---
+---
 title: CV Element
 TOCTitle: CV Element
 ms:assetid: ca2558d2-f91d-4d0d-8028-da06173339fa
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - CV element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # CV Element

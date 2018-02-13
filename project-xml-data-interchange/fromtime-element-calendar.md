@@ -1,4 +1,4 @@
-﻿---
+---
 title: FromTime Element (Calendar)
 TOCTitle: FromTime Element
 ms:assetid: 1a578802-d5c7-4fd6-b0ef-7cd91e391719
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - FromTime element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # FromTime Element (Calendar)

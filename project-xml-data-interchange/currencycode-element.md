@@ -1,4 +1,4 @@
-﻿---
+---
 title: CurrencyCode Element
 TOCTitle: CurrencyCode Element
 ms:assetid: 8535d7d5-1414-4222-baaf-f16f8bc8131c
@@ -10,6 +10,7 @@ f1_keywords:
 - CurrencyCode element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # CurrencyCode Element

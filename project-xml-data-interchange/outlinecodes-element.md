@@ -1,4 +1,4 @@
-﻿---
+---
 title: OutlineCodes Element
 TOCTitle: OutlineCodes Element
 ms:assetid: f41592bc-3f23-49cb-836f-428ed1009e1f
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - OutlineCodes element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # OutlineCodes Element

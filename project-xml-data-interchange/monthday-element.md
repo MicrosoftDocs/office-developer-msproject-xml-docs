@@ -1,4 +1,4 @@
-﻿---
+---
 title: MonthDay Element
 TOCTitle: MonthDay Element
 ms:assetid: d6aadb78-4d79-4a08-81e6-c9a907ed1f28
@@ -10,6 +10,7 @@ f1_keywords:
 - MonthDay element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # MonthDay Element

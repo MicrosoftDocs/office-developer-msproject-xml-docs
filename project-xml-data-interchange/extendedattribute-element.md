@@ -1,4 +1,4 @@
-﻿---
+---
 title: ExtendedAttribute Element
 TOCTitle: ExtendedAttribute Element
 ms:assetid: c16eb20b-416e-4659-9d5a-2c006a45a1fb
@@ -10,6 +10,7 @@ f1_keywords:
 - ExtendedAttribute element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # ExtendedAttribute Element

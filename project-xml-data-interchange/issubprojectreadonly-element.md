@@ -1,4 +1,4 @@
-﻿---
+---
 title: IsSubprojectReadOnly Element
 TOCTitle: IsSubprojectReadOnly Element
 ms:assetid: 369991db-e724-41f8-898a-b3d517f0cdfa
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - IsSubprojectReadOnly element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # IsSubprojectReadOnly Element

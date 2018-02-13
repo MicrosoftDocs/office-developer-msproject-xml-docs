@@ -1,4 +1,4 @@
-﻿---
+---
 title: LeafOnly Element
 TOCTitle: LeafOnly Element
 ms:assetid: 129a8601-6947-47a3-856e-57f5e3bf5f75
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - LeafOnly element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # LeafOnly Element

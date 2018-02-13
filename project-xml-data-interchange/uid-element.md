@@ -1,4 +1,4 @@
-﻿---
+---
 title: UID Element
 TOCTitle: UID Element
 ms:assetid: 90074e2d-5cbf-475c-b456-5649c1b2949b
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - UID element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # UID Element

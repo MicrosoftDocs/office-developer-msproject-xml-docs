@@ -1,4 +1,4 @@
-﻿---
+---
 title: OutlineLevel Element
 TOCTitle: OutlineLevel Element
 ms:assetid: 39dd243f-1e7e-423d-9343-ea4b75d6b950
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - OutlineLevel element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # OutlineLevel Element

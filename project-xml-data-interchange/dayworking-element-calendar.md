@@ -1,4 +1,4 @@
-﻿---
+---
 title: DayWorking Element (Calendar)
 TOCTitle: DayWorking Element
 ms:assetid: c049f7a9-2ef3-4e48-89fa-6d20d8b337f1
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - DayWorking element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # DayWorking Element (Calendar)

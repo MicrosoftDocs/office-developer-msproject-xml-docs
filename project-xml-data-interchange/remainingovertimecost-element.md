@@ -1,4 +1,4 @@
-﻿---
+---
 title: RemainingOvertimeCost Element
 TOCTitle: RemainingOvertimeCost Element
 ms:assetid: cf512235-cff9-465e-a1a8-883caa8827a0
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - RemainingOvertimeCost element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # RemainingOvertimeCost Element

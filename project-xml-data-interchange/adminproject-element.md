@@ -1,4 +1,4 @@
-﻿---
+---
 title: AdminProject Element
 TOCTitle: AdminProject Element
 ms:assetid: d1f64863-3a12-4740-b94a-d7006bc4677c
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - AdminProject element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # AdminProject Element

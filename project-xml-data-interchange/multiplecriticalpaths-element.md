@@ -1,4 +1,4 @@
-﻿---
+---
 title: MultipleCriticalPaths Element
 TOCTitle: MultipleCriticalPaths Element
 ms:assetid: feb867ac-6164-43f7-a354-efe7cb8afcb6
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - MultipleCriticalPaths element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # MultipleCriticalPaths Element

@@ -1,4 +1,4 @@
-﻿---
+---
 title: ResourceSubstitutionEnabled Element
 TOCTitle: ResourceSubstitutionEnabled Element
 ms:assetid: 268bba0c-25fe-4d1b-b68f-87388ad411fa
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - ResourceSubstitutionEnabled element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # ResourceSubstitutionEnabled Element

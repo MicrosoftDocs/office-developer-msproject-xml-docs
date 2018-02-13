@@ -1,4 +1,4 @@
-﻿---
+---
 title: Calendar Element
 TOCTitle: Calendar Element
 ms:assetid: 4232bf41-6652-4763-a885-ba0c1c520152
@@ -10,6 +10,7 @@ f1_keywords:
 - Calendar element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Calendar Element

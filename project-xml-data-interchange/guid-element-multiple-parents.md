@@ -1,4 +1,4 @@
-﻿---
+---
 title: Guid Element (Multiple Parents)
 TOCTitle: Guid Element
 ms:assetid: 24a60efb-8976-4308-b601-e5a285b8a79f
@@ -10,6 +10,7 @@ f1_keywords:
 - Guid element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Guid Element (Multiple Parents)

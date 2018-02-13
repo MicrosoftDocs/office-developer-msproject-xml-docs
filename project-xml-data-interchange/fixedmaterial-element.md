@@ -1,4 +1,4 @@
-﻿---
+---
 title: FixedMaterial Element
 TOCTitle: FixedMaterial Element
 ms:assetid: 5de70a84-09be-41ba-adfe-f7798536db3f
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - FixedMaterial element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # FixedMaterial Element

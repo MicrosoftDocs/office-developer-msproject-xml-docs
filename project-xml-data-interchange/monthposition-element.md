@@ -1,4 +1,4 @@
-﻿---
+---
 title: MonthPosition Element
 TOCTitle: MonthPosition Element
 ms:assetid: a48960a9-a435-423e-9a15-1f01ed366621
@@ -10,6 +10,7 @@ f1_keywords:
 - MonthPosition element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # MonthPosition Element

@@ -1,4 +1,4 @@
-﻿---
+---
 title: StatusManager Element
 TOCTitle: StatusManager Element
 ms:assetid: a87e6390-ab36-4041-baa1-939bc6b448f7
@@ -10,6 +10,7 @@ f1_keywords:
 - StatusManager element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # StatusManager Element

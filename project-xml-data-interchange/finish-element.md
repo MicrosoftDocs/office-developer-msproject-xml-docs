@@ -1,4 +1,4 @@
-﻿---
+---
 title: Finish Element
 TOCTitle: Finish Element
 ms:assetid: 6af554a3-80d6-4046-be6a-e119ecbc4e65
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Finish element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Finish Element

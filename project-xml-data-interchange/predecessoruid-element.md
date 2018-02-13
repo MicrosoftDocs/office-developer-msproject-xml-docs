@@ -1,4 +1,4 @@
-﻿---
+---
 title: PredecessorUID Element
 TOCTitle: PredecessorUID Element
 ms:assetid: 28e536a1-6dc8-4a44-802f-e309cd499791
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - PredecessorUID element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # PredecessorUID Element

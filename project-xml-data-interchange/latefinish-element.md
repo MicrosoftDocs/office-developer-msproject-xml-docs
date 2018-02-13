@@ -1,4 +1,4 @@
-﻿---
+---
 title: LateFinish Element
 TOCTitle: LateFinish Element
 ms:assetid: c19f2ba8-ec7d-407e-9d3e-719b402ea52d
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - LateFinish element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # LateFinish Element

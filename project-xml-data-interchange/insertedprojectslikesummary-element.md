@@ -1,4 +1,4 @@
-﻿---
+---
 title: InsertedProjectsLikeSummary Element
 TOCTitle: InsertedProjectsLikeSummary Element
 ms:assetid: f770ccd0-6599-4dc4-98f1-99ad8a7ee0bc
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - InsertedProjectsLikeSummary element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # InsertedProjectsLikeSummary Element

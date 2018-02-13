@@ -1,4 +1,4 @@
-﻿---
+---
 title: Values Element
 TOCTitle: Values Element
 ms:assetid: 9a8a22f5-b1d8-41a6-b19f-1176da85cb0b
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Values element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Values Element

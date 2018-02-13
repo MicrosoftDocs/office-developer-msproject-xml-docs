@@ -1,4 +1,4 @@
-﻿---
+---
 title: IsBaseCalendar Element
 TOCTitle: IsBaseCalendar Element
 ms:assetid: 9e0570d7-1d10-4950-8149-83fe5d7bf023
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - IsBaseCalendar element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # IsBaseCalendar Element

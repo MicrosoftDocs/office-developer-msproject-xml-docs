@@ -1,4 +1,4 @@
-﻿---
+---
 title: EditableActualCosts Element
 TOCTitle: EditableActualCosts Element
 ms:assetid: 72afbfb3-f774-43c3-8585-ec91b3c57725
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - EditableActualCosts element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # EditableActualCosts Element

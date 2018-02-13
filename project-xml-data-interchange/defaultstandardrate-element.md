@@ -1,4 +1,4 @@
-﻿---
+---
 title: DefaultStandardRate Element
 TOCTitle: DefaultStandardRate Element
 ms:assetid: 2c96fc23-750a-456e-87e7-6c6d41fb0631
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - DefaultStandardRate element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # DefaultStandardRate Element

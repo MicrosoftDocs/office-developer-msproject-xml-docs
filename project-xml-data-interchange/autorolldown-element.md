@@ -1,4 +1,4 @@
-﻿---
+---
 title: AutoRollDown Element
 TOCTitle: AutoRollDown Element
 ms:assetid: 1c644e22-6e35-4a74-a845-e7665a45da1b
@@ -10,6 +10,7 @@ f1_keywords:
 - AutoRollDown element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # AutoRollDown Element

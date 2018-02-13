@@ -1,4 +1,4 @@
-﻿---
+---
 title: Work Element
 TOCTitle: Work Element
 ms:assetid: 84494840-6469-4cbd-ae35-8246d88dfe97
@@ -10,6 +10,7 @@ f1_keywords:
 - Work element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Work Element

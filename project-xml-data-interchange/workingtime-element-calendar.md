@@ -1,4 +1,4 @@
-﻿---
+---
 title: WorkingTime Element (Calendar)
 TOCTitle: WorkingTime Element
 ms:assetid: 8df6f9e2-701d-4ea4-87a9-8b3e6debd4b7
@@ -10,6 +10,7 @@ f1_keywords:
 - WorkingTime element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # WorkingTime Element (Calendar)

@@ -1,4 +1,4 @@
-﻿---
+---
 title: DayType Element
 TOCTitle: DayType Element
 ms:assetid: 36a712e4-e300-4884-981f-4250d3ebfeb4
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - DayType element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # DayType Element

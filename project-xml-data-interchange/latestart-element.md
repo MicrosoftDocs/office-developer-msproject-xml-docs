@@ -1,4 +1,4 @@
-﻿---
+---
 title: LateStart Element
 TOCTitle: LateStart Element
 ms:assetid: 85da55aa-5da1-4e82-8bea-b9be27341711
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - LateStart element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # LateStart Element

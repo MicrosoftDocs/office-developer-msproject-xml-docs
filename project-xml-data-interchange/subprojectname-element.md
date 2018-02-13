@@ -1,4 +1,4 @@
-﻿---
+---
 title: SubprojectName Element
 TOCTitle: SubprojectName Element
 ms:assetid: ba94763e-8c0a-4fe2-997c-cd85f5352ca3
@@ -10,6 +10,7 @@ f1_keywords:
 - SubprojectName element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # SubprojectName Element

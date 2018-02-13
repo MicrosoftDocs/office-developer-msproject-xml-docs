@@ -1,4 +1,4 @@
-﻿---
+---
 title: LevelingDelayFormat Element
 TOCTitle: LevelingDelayFormat Element
 ms:assetid: 2c22da44-4968-417b-887f-a2a1e05bdec9
@@ -10,6 +10,7 @@ f1_keywords:
 - LevelingDelayFormat element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # LevelingDelayFormat Element

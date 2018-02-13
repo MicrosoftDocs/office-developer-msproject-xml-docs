@@ -1,4 +1,4 @@
-﻿---
+---
 title: WorkVariance Element
 TOCTitle: WorkVariance Element
 ms:assetid: cd8c71ed-bf3a-4013-8e17-dd970785e79b
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - WorkVariance element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # WorkVariance Element

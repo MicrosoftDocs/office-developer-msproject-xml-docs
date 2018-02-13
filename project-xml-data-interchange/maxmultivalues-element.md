@@ -1,4 +1,4 @@
-﻿---
+---
 title: MaxMultiValues Element
 TOCTitle: MaxMultiValues Element
 ms:assetid: 56c818ed-8004-43a9-9339-45364ff93fee
@@ -10,6 +10,7 @@ f1_keywords:
 - MaxMultiValues element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # MaxMultiValues Element

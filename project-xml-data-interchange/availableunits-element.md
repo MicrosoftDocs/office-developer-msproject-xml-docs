@@ -1,4 +1,4 @@
-﻿---
+---
 title: AvailableUnits Element
 TOCTitle: AvailableUnits Element
 ms:assetid: 57c33e3d-36a0-48de-a1ab-637c0c0cb384
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - AvailableUnits element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # AvailableUnits Element

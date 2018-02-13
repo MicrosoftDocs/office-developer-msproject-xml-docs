@@ -1,4 +1,4 @@
-﻿---
+---
 title: Masks Element
 TOCTitle: Masks Element
 ms:assetid: 40be574e-cb69-4edc-acde-a52869df92a5
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Masks element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Masks Element

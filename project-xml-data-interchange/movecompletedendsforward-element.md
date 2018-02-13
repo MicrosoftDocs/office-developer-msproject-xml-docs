@@ -1,4 +1,4 @@
-﻿---
+---
 title: MoveCompletedEndsForward Element
 TOCTitle: MoveCompletedEndsForward Element
 ms:assetid: 370fee53-9488-4907-8d5c-d355fd85b8d3
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - MoveCompletedEndsForward element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # MoveCompletedEndsForward Element

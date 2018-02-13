@@ -1,4 +1,4 @@
-﻿---
+---
 title: Alphabetical List of Elements and Types
 TOCTitle: Alphabetical List of Elements and Types
 ms:assetid: c385873d-93b4-44ec-bff6-a089d194770c
@@ -10,6 +10,7 @@ f1_keywords:
 - XML and Project
 - XML in Project
 - Project 2007 XML
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Alphabetical List of Elements and Types

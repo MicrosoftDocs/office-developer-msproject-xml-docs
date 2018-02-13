@@ -1,4 +1,4 @@
-﻿---
+---
 title: Alias Element
 TOCTitle: Alias Element
 ms:assetid: 01c1a8dd-39cc-490d-84de-d75c4ba95fd1
@@ -10,6 +10,7 @@ f1_keywords:
 - Alias element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Alias Element

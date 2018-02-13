@@ -1,4 +1,4 @@
-﻿---
+---
 title: Priority Element
 TOCTitle: Priority Element
 ms:assetid: aebd63de-4e4f-4ac9-975e-5248a0911bb9
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Priority element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Priority Element

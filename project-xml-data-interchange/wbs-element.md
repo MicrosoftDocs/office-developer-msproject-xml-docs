@@ -1,4 +1,4 @@
-﻿---
+---
 title: WBS Element
 TOCTitle: WBS Element
 ms:assetid: 82e4cde0-01e5-4a2a-93e1-aa5de8c701cb
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - WBS element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # WBS Element

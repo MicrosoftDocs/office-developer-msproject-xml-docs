@@ -1,4 +1,4 @@
-﻿---
+---
 title: WeekDay Element
 TOCTitle: WeekDay Element
 ms:assetid: 20e6a844-282c-4007-b7e6-414d2d402ac1
@@ -10,6 +10,7 @@ f1_keywords:
 - WeekDay element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # WeekDay Element

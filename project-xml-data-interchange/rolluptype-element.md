@@ -1,4 +1,4 @@
-﻿---
+---
 title: RollupType Element
 TOCTitle: RollupType Element
 ms:assetid: 422ed965-01fe-45ec-8b7e-0a606b174c66
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - RollupType element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # RollupType Element

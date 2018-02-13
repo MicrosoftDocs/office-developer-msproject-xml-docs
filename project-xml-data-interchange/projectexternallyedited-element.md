@@ -1,4 +1,4 @@
-﻿---
+---
 title: ProjectExternallyEdited Element
 TOCTitle: ProjectExternallyEdited Element
 ms:assetid: c467ebd1-a49c-47a6-9d52-045bac0dcc02
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - ProjectExternallyEdited element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # ProjectExternallyEdited Element

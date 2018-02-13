@@ -1,4 +1,4 @@
-﻿---
+---
 title: MoveRemainingStartsForward Element
 TOCTitle: MoveRemainingStartsForward Element
 ms:assetid: 11e4beca-84b4-4594-83f0-99be5dc7a60a
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - MoveRemainingStartsForward element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # MoveRemainingStartsForward Element

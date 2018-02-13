@@ -1,4 +1,4 @@
-﻿---
+---
 title: AllLevelsRequired Element
 TOCTitle: AllLevelsRequired Element
 ms:assetid: 1076d061-cb67-4143-bc45-43466ad00ba1
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - AllLevelsRequired element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # AllLevelsRequired Element

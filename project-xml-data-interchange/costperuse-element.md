@@ -1,4 +1,4 @@
-﻿---
+---
 title: CostPerUse Element
 TOCTitle: CostPerUse Element
 ms:assetid: 519d5733-8493-4a86-a3dd-5e27b836b2ac
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - CostPerUse element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # CostPerUse Element

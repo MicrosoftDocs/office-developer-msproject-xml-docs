@@ -1,4 +1,4 @@
-﻿---
+---
 title: Recurring Element
 TOCTitle: Recurring Element
 ms:assetid: f2f6bdb0-d079-4a08-bfbc-97d60db23c15
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Recurring element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Recurring Element

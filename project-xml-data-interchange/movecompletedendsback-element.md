@@ -1,4 +1,4 @@
-﻿---
+---
 title: MoveCompletedEndsBack Element
 TOCTitle: MoveCompletedEndsBack Element
 ms:assetid: 31ad7845-ee66-48b4-8079-d36065d708d1
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - MoveCompletedEndsBack element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # MoveCompletedEndsBack Element

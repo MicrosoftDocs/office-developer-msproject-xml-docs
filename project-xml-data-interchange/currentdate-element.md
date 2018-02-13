@@ -1,4 +1,4 @@
-﻿---
+---
 title: CurrentDate Element
 TOCTitle: CurrentDate Element
 ms:assetid: a79bd181-eff3-421d-873c-e87bc882e0fc
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - CurrentDate element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # CurrentDate Element

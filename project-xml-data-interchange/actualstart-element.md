@@ -1,4 +1,4 @@
-﻿---
+---
 title: ActualStart Element
 TOCTitle: ActualStart Element
 ms:assetid: e4beed61-463b-4c19-99ff-7c585ce45d15
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - ActualStart element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # ActualStart Element

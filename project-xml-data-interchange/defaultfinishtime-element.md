@@ -1,4 +1,4 @@
-﻿---
+---
 title: DefaultFinishTime Element
 TOCTitle: DefaultFinishTime Element
 ms:assetid: 9466d2c7-8dbe-4228-b7ca-6746061a913f
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - DefaultFinishTime element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # DefaultFinishTime Element

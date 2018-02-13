@@ -1,4 +1,4 @@
-﻿---
+---
 title: ScheduleFromStart Element
 TOCTitle: ScheduleFromStart Element
 ms:assetid: f786738d-d6f6-46b1-a18b-94548a226150
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - ScheduleFromStart element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # ScheduleFromStart Element

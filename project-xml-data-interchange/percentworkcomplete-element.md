@@ -1,4 +1,4 @@
-﻿---
+---
 title: PercentWorkComplete Element
 TOCTitle: PercentWorkComplete Element
 ms:assetid: 9c4a9d5f-d0fd-43e9-99c0-bb13c3fd6da6
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - PercentWorkComplete element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # PercentWorkComplete Element

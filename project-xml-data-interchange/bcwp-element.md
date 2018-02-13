@@ -1,4 +1,4 @@
-﻿---
+---
 title: BCWP Element
 TOCTitle: BCWP Element
 ms:assetid: e4f0b550-4c8a-4d66-8041-6bed732a03a6
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - BCWP element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # BCWP Element

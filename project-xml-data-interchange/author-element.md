@@ -1,4 +1,4 @@
-﻿---
+---
 title: Author Element
 TOCTitle: Author Element
 ms:assetid: c67029a2-6896-4eae-83ab-4e6f8b2a3716
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Author element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Author Element

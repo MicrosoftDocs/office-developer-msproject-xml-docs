@@ -1,4 +1,4 @@
-﻿---
+---
 title: LevelingCanSplit Element
 TOCTitle: LevelingCanSplit Element
 ms:assetid: 3a5c5fd5-da78-41d0-8ed2-ccd61b5d69f2
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - LevelingCanSplit element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # LevelingCanSplit Element

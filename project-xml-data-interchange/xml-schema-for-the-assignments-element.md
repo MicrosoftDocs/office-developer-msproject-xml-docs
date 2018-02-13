@@ -1,4 +1,4 @@
-﻿---
+---
 title: XML Schema for the Assignments Element
 TOCTitle: XML Schema for the Assignments Element
 ms:assetid: 0f1de37d-fa67-4120-9d24-c98d7067f842
@@ -15,6 +15,7 @@ f1_keywords:
 - XML in Project
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # XML Schema for the Assignments Element

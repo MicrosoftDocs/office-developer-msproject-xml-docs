@@ -1,4 +1,4 @@
-﻿---
+---
 title: Start Element
 TOCTitle: Start Element
 ms:assetid: b0195d11-31a6-4d53-bf9c-6d91b389133e
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Start element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Start Element

@@ -1,4 +1,4 @@
-﻿---
+---
 title: ActualFinish Element
 TOCTitle: ActualFinish Element
 ms:assetid: 3d0bbb5a-18fc-42fc-890b-5caf3a109e64
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - ActualFinish element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # ActualFinish Element

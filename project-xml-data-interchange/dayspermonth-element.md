@@ -1,4 +1,4 @@
-﻿---
+---
 title: DaysPerMonth Element
 TOCTitle: DaysPerMonth Element
 ms:assetid: 920763d0-bc81-4b5c-82c2-1954ae6332f2
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - DaysPerMonth element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # DaysPerMonth Element

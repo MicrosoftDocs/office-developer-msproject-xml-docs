@@ -1,4 +1,4 @@
-﻿---
+---
 title: LevelingDelay Element
 TOCTitle: LevelingDelay Element
 ms:assetid: 02a5a3be-5569-4f08-97b0-c23dceb35861
@@ -10,6 +10,7 @@ f1_keywords:
 - LevelingDelay element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # LevelingDelay Element

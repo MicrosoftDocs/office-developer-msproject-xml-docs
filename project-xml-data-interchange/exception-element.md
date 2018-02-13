@@ -1,4 +1,4 @@
-﻿---
+---
 title: Exception Element
 TOCTitle: Exception Element
 ms:assetid: 4918cdc1-9871-4124-8dba-6df6a7f49512
@@ -10,6 +10,7 @@ f1_keywords:
 - Exception element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Exception Element

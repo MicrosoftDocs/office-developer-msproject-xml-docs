@@ -1,4 +1,4 @@
-﻿---
+---
 title: TimephasedDataType Elements and XML Structure
 TOCTitle: TimephasedDataType Elements and XML Structure
 ms:assetid: ed317823-7111-4dfd-ae38-50a06c6cb70f
@@ -14,6 +14,7 @@ f1_keywords:
 - Project XML elements
 - Project 2007 XML
 - Project XML structure
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # TimephasedDataType Elements and XML Structure

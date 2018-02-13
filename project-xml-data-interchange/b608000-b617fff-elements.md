@@ -1,4 +1,4 @@
-﻿---
+---
 title: b608000 - b617fff Elements
 TOCTitle: b608000 - b617fff Elements
 ms:assetid: 6c774043-2a50-47f8-97a0-815ade5bf2ad
@@ -10,6 +10,7 @@ f1_keywords:
 - b608000 - b617fff elements
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # b608000 - b617fff Elements

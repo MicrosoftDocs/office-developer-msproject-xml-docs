@@ -1,4 +1,4 @@
-﻿---
+---
 title: PhoneticAlias Element
 TOCTitle: PhoneticAlias Element
 ms:assetid: c24cb605-d64c-4c24-bcd6-467586275ccd
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - PhoneticAlias element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # PhoneticAlias Element

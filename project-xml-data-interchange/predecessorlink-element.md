@@ -1,4 +1,4 @@
-﻿---
+---
 title: PredecessorLink Element
 TOCTitle: PredecessorLink Element
 ms:assetid: e372749d-6fbd-47a8-b73b-a037b24fcb05
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - PredecessorLink element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # PredecessorLink Element

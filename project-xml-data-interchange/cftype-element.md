@@ -1,4 +1,4 @@
-﻿---
+---
 title: CFType Element
 TOCTitle: CFType Element
 ms:assetid: c4a58f3b-68ef-419f-9d73-1a50b5bc019e
@@ -10,6 +10,7 @@ f1_keywords:
 - CFType element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # CFType Element

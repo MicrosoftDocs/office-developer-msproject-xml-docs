@@ -1,4 +1,4 @@
-﻿---
+---
 title: CommitmentType Element
 TOCTitle: CommitmentType Element
 ms:assetid: e00871cd-1614-4fa8-83b2-66f2d1130428
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - CommitmentType element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # CommitmentType Element

@@ -1,4 +1,4 @@
-﻿---
+---
 title: ExtendedCreationDate Element
 TOCTitle: ExtendedCreationDate Element
 ms:assetid: 9b8bbf23-c5e5-4868-8cca-ddd8fcfe5288
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - ExtendedCreationDate element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # ExtendedCreationDate Element

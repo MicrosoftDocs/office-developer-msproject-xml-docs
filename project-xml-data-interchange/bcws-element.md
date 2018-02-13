@@ -1,4 +1,4 @@
-﻿---
+---
 title: BCWS Element
 TOCTitle: BCWS Element
 ms:assetid: 0e9e4541-0619-4545-bc05-63826397c10f
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - BCWS element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # BCWS Element

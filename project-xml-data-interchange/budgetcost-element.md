@@ -1,4 +1,4 @@
-﻿---
+---
 title: BudgetCost Element
 TOCTitle: BudgetCost Element
 ms:assetid: 69e0afa2-c74d-4264-aaea-d4d5ffacafdc
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - BudgetCost element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # BudgetCost Element

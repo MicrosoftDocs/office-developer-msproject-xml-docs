@@ -1,4 +1,4 @@
-﻿---
+---
 title: CurrencySymbol Element
 TOCTitle: CurrencySymbol Element
 ms:assetid: 52326940-06b2-401e-998c-71ca77c944a3
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - CurrencySymbol element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # CurrencySymbol Element

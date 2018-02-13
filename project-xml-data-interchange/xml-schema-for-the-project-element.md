@@ -1,4 +1,4 @@
-﻿---
+---
 title: XML Schema for the Project Element
 TOCTitle: XML Schema for the Project Element
 ms:assetid: d25633d3-3350-40d6-801d-fbb3809b52b8
@@ -15,6 +15,7 @@ f1_keywords:
 - XML in Project
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # XML Schema for the Project Element

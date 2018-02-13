@@ -1,4 +1,4 @@
-﻿---
+---
 title: WeekStartDay Element
 TOCTitle: WeekStartDay Element
 ms:assetid: 25643bd5-d21e-44af-b32c-759bc4c5a057
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - WeekStartDay element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # WeekStartDay Element

@@ -1,4 +1,4 @@
-﻿---
+---
 title: IsCostResource Element
 TOCTitle: IsCostResource Element
 ms:assetid: 74fc88e2-ebe0-45e9-8092-b3cfb7bc6e59
@@ -10,6 +10,7 @@ f1_keywords:
 - IsCostResource element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # IsCostResource Element

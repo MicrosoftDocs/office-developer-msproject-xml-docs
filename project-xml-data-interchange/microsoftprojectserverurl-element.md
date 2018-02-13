@@ -1,4 +1,4 @@
-﻿---
+---
 title: MicrosoftProjectServerURL Element
 TOCTitle: MicrosoftProjectServerURL Element
 ms:assetid: 7949f2d6-fbfc-49af-ad9a-48265a07fefb
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - MicrosoftProjectServerURL element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # MicrosoftProjectServerURL Element

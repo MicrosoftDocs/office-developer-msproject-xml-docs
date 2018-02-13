@@ -1,4 +1,4 @@
-﻿---
+---
 title: ActualWorkProtected Element
 TOCTitle: ActualWorkProtected Element
 ms:assetid: 0508f527-d189-4fde-a470-825ffa165bfe
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - ActualWorkProtected element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # ActualWorkProtected Element

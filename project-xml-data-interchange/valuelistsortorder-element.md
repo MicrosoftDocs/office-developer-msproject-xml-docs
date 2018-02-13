@@ -1,4 +1,4 @@
-﻿---
+---
 title: ValuelistSortOrder Element
 TOCTitle: ValuelistSortOrder Element
 ms:assetid: 1c4ca0fa-5e15-4020-aa46-fb38001b1871
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - ValuelistSortOrder element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # ValuelistSortOrder Element

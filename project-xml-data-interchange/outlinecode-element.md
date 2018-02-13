@@ -1,4 +1,4 @@
-﻿---
+---
 title: OutlineCode Element
 TOCTitle: OutlineCode Element
 ms:assetid: 0dc0478b-4281-4e0e-86c0-3fdea445e6d0
@@ -10,6 +10,7 @@ f1_keywords:
 - OutlineCode element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # OutlineCode Element

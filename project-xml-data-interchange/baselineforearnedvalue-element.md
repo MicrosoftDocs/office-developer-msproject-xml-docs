@@ -1,4 +1,4 @@
-﻿---
+---
 title: BaselineForEarnedValue Element
 TOCTitle: BaselineForEarnedValue Element
 ms:assetid: 6469e44f-a6b4-454e-ab38-f5fda8f90aaa
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - BaselineForEarnedValue element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # BaselineForEarnedValue Element

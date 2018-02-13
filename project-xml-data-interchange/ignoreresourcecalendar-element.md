@@ -1,4 +1,4 @@
-﻿---
+---
 title: IgnoreResourceCalendar Element
 TOCTitle: IgnoreResourceCalendar Element
 ms:assetid: 6f255f9d-c2dd-4092-aa71-58440f4c3b50
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - IgnoreResourceCalendar element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # IgnoreResourceCalendar Element

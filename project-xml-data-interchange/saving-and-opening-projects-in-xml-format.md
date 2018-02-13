@@ -1,4 +1,4 @@
-﻿---
+---
 title: Saving and Opening Projects in XML Format
 TOCTitle: Saving and Opening Projects in XML Format
 ms:assetid: a18319b3-7884-48bf-b45d-cecd756cc350
@@ -10,6 +10,7 @@ f1_keywords:
 - Project XML format
 - XML files
 - Project XML files
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Saving and Opening Projects in XML Format

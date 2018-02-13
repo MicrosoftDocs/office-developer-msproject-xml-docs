@@ -1,4 +1,4 @@
-﻿---
+---
 title: EarnedValueMethod Element
 TOCTitle: EarnedValueMethod Element
 ms:assetid: a151ec3f-e5f5-4141-aeaa-c595d57702e8
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - EarnedValueMethod element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # EarnedValueMethod Element

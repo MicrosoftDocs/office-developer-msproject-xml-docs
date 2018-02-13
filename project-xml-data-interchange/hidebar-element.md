@@ -1,4 +1,4 @@
-﻿---
+---
 title: HideBar Element
 TOCTitle: HideBar Element
 ms:assetid: cf614107-eec6-47ad-ba9e-6f1427fc6692
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - HideBar element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # HideBar Element

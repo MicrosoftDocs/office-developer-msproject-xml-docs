@@ -1,4 +1,4 @@
-﻿---
+---
 title: AvailabilityPeriods Element
 TOCTitle: AvailabilityPeriods Element
 ms:assetid: fc05e0c0-d221-4dbd-b61a-846d3209c1ec
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - AvailabilityPeriods element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # AvailabilityPeriods Element

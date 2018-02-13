@@ -1,4 +1,4 @@
-﻿---
+---
 title: ConstraintDate Element
 TOCTitle: ConstraintDate Element
 ms:assetid: 79436bd5-bea7-4b1c-bec7-ceb9cd43c0a4
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - ConstraintDate element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # ConstraintDate Element

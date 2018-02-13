@@ -1,4 +1,4 @@
-﻿---
+---
 title: RemainingOvertimeWork Element
 TOCTitle: RemainingOvertimeWork Element
 ms:assetid: 3ea2aaf6-517c-4bc7-a1ee-f4456d3edc36
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - RemainingOvertimeWork element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # RemainingOvertimeWork Element

@@ -1,4 +1,4 @@
-﻿---
+---
 title: SpreadActualCost Element
 TOCTitle: SpreadActualCost Element
 ms:assetid: 9b6b9e4a-cee0-407c-bd5b-62e2a21f06db
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - SpreadActualCost element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # SpreadActualCost Element

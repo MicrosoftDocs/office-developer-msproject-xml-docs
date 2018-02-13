@@ -1,4 +1,4 @@
-﻿---
+---
 title: LinkLag Element
 TOCTitle: LinkLag Element
 ms:assetid: 7c6ade5e-f175-4a2e-aa79-ee50bba4ab9c
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - LinkLag element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # LinkLag Element

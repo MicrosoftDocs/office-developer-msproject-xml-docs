@@ -1,4 +1,4 @@
-﻿---
+---
 title: ActualCost Element
 TOCTitle: ActualCost Element
 ms:assetid: 91560464-cbfd-46e1-9927-4ecaa218e84b
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - ActualCost element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # ActualCost Element

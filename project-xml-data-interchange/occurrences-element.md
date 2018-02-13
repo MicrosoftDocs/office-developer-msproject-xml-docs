@@ -1,4 +1,4 @@
-﻿---
+---
 title: Occurrences Element
 TOCTitle: Occurrences Element
 ms:assetid: e04aaef6-8207-47a9-8711-a66e628ad2ae
@@ -10,6 +10,7 @@ f1_keywords:
 - Occurrences element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Occurrences Element

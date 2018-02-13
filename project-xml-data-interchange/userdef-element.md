@@ -1,4 +1,4 @@
-﻿---
+---
 title: UserDef Element
 TOCTitle: UserDef Element
 ms:assetid: b2c8d091-91e3-4720-a04d-9a6a051cbd73
@@ -10,6 +10,7 @@ f1_keywords:
 - UserDef element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # UserDef Element

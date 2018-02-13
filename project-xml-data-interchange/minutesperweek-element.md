@@ -1,4 +1,4 @@
-﻿---
+---
 title: MinutesPerWeek Element
 TOCTitle: MinutesPerWeek Element
 ms:assetid: a7359158-54da-4956-a0f3-abb35f125f14
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - MinutesPerWeek element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # MinutesPerWeek Element

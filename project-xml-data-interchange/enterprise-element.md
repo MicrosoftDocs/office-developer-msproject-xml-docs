@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enterprise Element
 TOCTitle: Enterprise Element
 ms:assetid: 5d90c9a9-f903-422a-9934-11e4e373b3a2
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Enterprise element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Enterprise Element

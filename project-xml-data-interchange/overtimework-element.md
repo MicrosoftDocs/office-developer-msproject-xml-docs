@@ -1,4 +1,4 @@
-﻿---
+---
 title: OvertimeWork Element
 TOCTitle: OvertimeWork Element
 ms:assetid: 9d534b47-3d09-4ef7-90ee-416c3418d97d
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - OvertimeWork element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # OvertimeWork Element

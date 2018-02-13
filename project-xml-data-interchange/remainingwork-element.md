@@ -1,4 +1,4 @@
-﻿---
+---
 title: RemainingWork Element
 TOCTitle: RemainingWork Element
 ms:assetid: ec4c7c13-4a00-45b1-b991-4e686e9fe54f
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - RemainingWork element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # RemainingWork Element

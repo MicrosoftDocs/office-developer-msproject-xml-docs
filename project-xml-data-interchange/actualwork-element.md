@@ -1,4 +1,4 @@
-﻿---
+---
 title: ActualWork Element
 TOCTitle: ActualWork Element
 ms:assetid: 1d290661-adb0-4c3e-adc2-a04751b9a582
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - ActualWork element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # ActualWork Element

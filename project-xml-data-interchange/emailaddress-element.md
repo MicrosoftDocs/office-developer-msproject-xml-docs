@@ -1,4 +1,4 @@
-﻿---
+---
 title: EmailAddress Element
 TOCTitle: EmailAddress Element
 ms:assetid: 565c1bc0-bd74-48a9-b827-f2813d6f6c24
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - EmailAddress element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # EmailAddress Element

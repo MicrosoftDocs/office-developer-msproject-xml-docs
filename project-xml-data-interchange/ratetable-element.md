@@ -1,4 +1,4 @@
-﻿---
+---
 title: RateTable Element
 TOCTitle: RateTable Element
 ms:assetid: 84c07894-1df1-4ba3-aa45-0d57a84530ed
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - RateTable element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # RateTable Element

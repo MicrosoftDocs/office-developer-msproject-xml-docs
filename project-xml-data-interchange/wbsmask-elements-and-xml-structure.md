@@ -1,4 +1,4 @@
-﻿---
+---
 title: WBSMask Elements and XML Structure
 TOCTitle: WBSMask Elements and XML Structure
 ms:assetid: 101c3fa6-ccbf-4b34-ac5a-584c12fabbbd
@@ -14,6 +14,7 @@ f1_keywords:
 - Project XML elements
 - Project 2007 XML
 - Project XML structure
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # WBSMask Elements and XML Structure

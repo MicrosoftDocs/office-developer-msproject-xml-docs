@@ -1,4 +1,4 @@
-﻿---
+---
 title: ActualDuration Element
 TOCTitle: ActualDuration Element
 ms:assetid: 28e3cc27-b654-4215-a7ce-6ece3e3634a8
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - ActualDuration element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # ActualDuration Element

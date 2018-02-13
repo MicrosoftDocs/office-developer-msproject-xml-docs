@@ -1,4 +1,4 @@
-﻿---
+---
 title: OutlineCode Elements and XML Structure
 TOCTitle: OutlineCode Elements and XML Structure
 ms:assetid: 9765ae1e-5f80-4932-a576-467833fbc42b
@@ -14,6 +14,7 @@ f1_keywords:
 - Project XML elements
 - Project 2007 XML
 - Project XML structure
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # OutlineCode Elements and XML Structure

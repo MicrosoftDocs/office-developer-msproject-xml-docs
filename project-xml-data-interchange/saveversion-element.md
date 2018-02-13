@@ -1,4 +1,4 @@
-﻿---
+---
 title: SaveVersion Element
 TOCTitle: SaveVersion Element
 ms:assetid: b6a5948c-cdf5-480d-8b08-d748895809e9
@@ -10,6 +10,7 @@ f1_keywords:
 - SaveVersion element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # SaveVersion Element

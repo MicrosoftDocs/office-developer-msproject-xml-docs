@@ -1,4 +1,4 @@
-﻿---
+---
 title: OvertimeCost Element
 TOCTitle: OvertimeCost Element
 ms:assetid: 0b65ba79-f517-4328-a197-483ad524362f
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - OvertimeCost element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # OvertimeCost Element

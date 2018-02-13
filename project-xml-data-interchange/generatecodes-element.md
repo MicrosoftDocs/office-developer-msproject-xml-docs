@@ -1,4 +1,4 @@
-﻿---
+---
 title: GenerateCodes Element
 TOCTitle: GenerateCodes Element
 ms:assetid: dad4f0e1-faa8-43e3-9eec-ab7df41ddbb6
@@ -10,6 +10,7 @@ f1_keywords:
 - GenerateCodes element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # GenerateCodes Element

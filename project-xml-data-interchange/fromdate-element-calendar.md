@@ -1,4 +1,4 @@
-﻿---
+---
 title: FromDate Element (Calendar)
 TOCTitle: FromDate Element
 ms:assetid: 8cc812d8-347a-4507-8177-1d090ea70678
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - FromDate element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # FromDate Element (Calendar)

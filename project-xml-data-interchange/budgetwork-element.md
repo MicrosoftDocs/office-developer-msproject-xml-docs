@@ -1,4 +1,4 @@
-﻿---
+---
 title: BudgetWork Element
 TOCTitle: BudgetWork Element
 ms:assetid: 53274c16-a78b-474a-b546-e0f42b443979
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - BudgetWork element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # BudgetWork Element

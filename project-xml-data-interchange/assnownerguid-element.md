@@ -1,4 +1,4 @@
-﻿---
+---
 title: AssnOwnerGuid Element
 TOCTitle: AssnOwnerGuid Element
 ms:assetid: 782ab95f-9790-4d61-9227-111841305578
@@ -10,6 +10,7 @@ f1_keywords:
 - AssnOwnerGuid element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # AssnOwnerGuid Element

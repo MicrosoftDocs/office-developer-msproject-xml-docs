@@ -1,4 +1,4 @@
-﻿---
+---
 title: ExtendedAttributes Element
 TOCTitle: ExtendedAttributes Element
 ms:assetid: 1ad234fb-70c0-4d2d-96d3-ca50a2ca6fd2
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - ExtendedAttributes element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # ExtendedAttributes Element

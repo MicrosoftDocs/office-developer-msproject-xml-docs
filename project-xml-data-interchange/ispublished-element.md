@@ -1,4 +1,4 @@
-﻿---
+---
 title: IsPublished Element
 TOCTitle: IsPublished Element
 ms:assetid: 54c16411-8ce2-4eda-aa3c-7558a525f690
@@ -10,6 +10,7 @@ f1_keywords:
 - IsPublished element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # IsPublished Element

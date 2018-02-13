@@ -1,4 +1,4 @@
-﻿---
+---
 title: FinishDate Element
 TOCTitle: FinishDate Element
 ms:assetid: 58ea10c7-a2bc-405d-b6fc-d19d89376c61
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - FinishDate element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # FinishDate Element

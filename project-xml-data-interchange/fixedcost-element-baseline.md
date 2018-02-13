@@ -1,4 +1,4 @@
-﻿---
+---
 title: FixedCost Element (Baseline)
 TOCTitle: FixedCost Element
 ms:assetid: 4b64e229-c147-4b3a-9deb-cae32a27fb11
@@ -10,6 +10,7 @@ f1_keywords:
 - FixedCost element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # FixedCost Element (Baseline)

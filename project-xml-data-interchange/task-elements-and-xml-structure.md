@@ -1,4 +1,4 @@
-﻿---
+---
 title: Task Elements and XML Structure
 TOCTitle: Task Elements and XML Structure
 ms:assetid: 3fa5904f-841c-421b-bfdd-cb9531c8bdf7
@@ -14,6 +14,7 @@ f1_keywords:
 - Project XML elements
 - Project 2007 XML
 - Project XML structure
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Task Elements and XML Structure

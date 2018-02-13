@@ -1,4 +1,4 @@
-﻿---
+---
 title: AppendNewValues Element
 TOCTitle: AppendNewValues Element
 ms:assetid: edfa46a0-247f-4c4e-9281-fd976475c8bd
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - AppendNewValues element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # AppendNewValues Element

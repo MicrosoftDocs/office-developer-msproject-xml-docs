@@ -1,4 +1,4 @@
-﻿---
+---
 title: ExtendedAttribute Elements and XML Structure
 TOCTitle: ExtendedAttribute Elements and XML Structure
 ms:assetid: 88acf5ad-cdb2-4fda-b178-ad43dc572684
@@ -14,6 +14,7 @@ f1_keywords:
 - Project XML elements
 - Project 2007 XML
 - Project XML structure
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # ExtendedAttribute Elements and XML Structure

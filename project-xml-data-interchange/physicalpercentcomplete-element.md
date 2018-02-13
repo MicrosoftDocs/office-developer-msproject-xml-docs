@@ -1,4 +1,4 @@
-﻿---
+---
 title: PhysicalPercentComplete Element
 TOCTitle: PhysicalPercentComplete Element
 ms:assetid: 18db0094-c158-419e-890b-456b811bc658
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - PhysicalPercentComplete element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # PhysicalPercentComplete Element

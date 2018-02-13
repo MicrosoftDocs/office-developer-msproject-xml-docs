@@ -1,4 +1,4 @@
-﻿---
+---
 title: Critical Element
 TOCTitle: Critical Element
 ms:assetid: d0051eef-0756-4d6f-991b-665906d5d99d
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Critical element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Critical Element

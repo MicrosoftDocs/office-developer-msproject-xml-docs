@@ -1,4 +1,4 @@
-﻿---
+---
 title: CreateDate Element
 TOCTitle: CreateDate Element
 ms:assetid: 170481f1-6741-45a8-95b9-d79e7b3a1dfc
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - CreateDate element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # CreateDate Element

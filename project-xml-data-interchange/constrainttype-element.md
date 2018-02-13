@@ -1,4 +1,4 @@
-﻿---
+---
 title: ConstraintType Element
 TOCTitle: ConstraintType Element
 ms:assetid: d8ade667-0c92-4c1e-b0d8-76f8d2411330
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - ConstraintType element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # ConstraintType Element

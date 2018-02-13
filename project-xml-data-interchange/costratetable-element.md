@@ -1,4 +1,4 @@
-﻿---
+---
 title: CostRateTable Element
 TOCTitle: CostRateTable Element
 ms:assetid: 6f6996c4-10aa-467b-afe6-48c2872e32ce
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - CostRateTable element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # CostRateTable Element

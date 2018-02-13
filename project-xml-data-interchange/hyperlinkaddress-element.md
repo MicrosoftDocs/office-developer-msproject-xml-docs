@@ -1,4 +1,4 @@
-﻿---
+---
 title: HyperlinkAddress Element
 TOCTitle: HyperlinkAddress Element
 ms:assetid: 7fb7cf52-7d90-4ff8-a35b-c02f737eb13a
@@ -10,6 +10,7 @@ f1_keywords:
 - HyperlinkAddress element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # HyperlinkAddress Element

@@ -1,4 +1,4 @@
-﻿---
+---
 title: ResponsePending Element
 TOCTitle: ResponsePending Element
 ms:assetid: 407df87a-8074-4169-9d42-bd05111f43cc
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - ResponsePending element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # ResponsePending Element

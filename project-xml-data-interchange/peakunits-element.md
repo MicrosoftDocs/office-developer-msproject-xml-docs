@@ -1,4 +1,4 @@
-﻿---
+---
 title: PeakUnits Element
 TOCTitle: PeakUnits Element
 ms:assetid: 09daccfe-a214-43d6-a2f8-7372a1192187
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - PeakUnits element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # PeakUnits Element

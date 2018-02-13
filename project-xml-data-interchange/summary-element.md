@@ -1,4 +1,4 @@
-﻿---
+---
 title: Summary Element
 TOCTitle: Summary Element
 ms:assetid: 3a98d88c-72ab-48dd-a0a7-97928fbea13e
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Summary element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Summary Element

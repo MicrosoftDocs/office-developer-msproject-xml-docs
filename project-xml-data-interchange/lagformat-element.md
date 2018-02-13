@@ -1,4 +1,4 @@
-﻿---
+---
 title: LagFormat Element
 TOCTitle: LagFormat Element
 ms:assetid: d5f00183-976f-4aed-9a61-5571e0e5027f
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - LagFormat element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # LagFormat Element

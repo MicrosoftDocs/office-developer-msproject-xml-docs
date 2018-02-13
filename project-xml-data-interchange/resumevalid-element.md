@@ -1,4 +1,4 @@
-﻿---
+---
 title: ResumeValid Element
 TOCTitle: ResumeValid Element
 ms:assetid: c4d05caf-cebe-40f3-aa45-3cc2a00f7576
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - ResumeValid element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # ResumeValid Element

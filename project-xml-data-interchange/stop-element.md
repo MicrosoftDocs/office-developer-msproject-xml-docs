@@ -1,4 +1,4 @@
-﻿---
+---
 title: Stop Element
 TOCTitle: Stop Element
 ms:assetid: 3b4f7a6c-e08d-456e-85b4-186090f7791d
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Stop element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Stop Element

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Milestone Element
 TOCTitle: Milestone Element
 ms:assetid: 5dbe5481-b4a8-4a1d-826d-6557f57af3ef
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Milestone element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Milestone Element

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Calendar Elements and XML Structure
 TOCTitle: Calendar Elements and XML Structure
 ms:assetid: 8147b68c-654d-405e-9878-73548c661689
@@ -14,6 +14,7 @@ f1_keywords:
 - Project XML elements
 - Project 2007 XML
 - Project XML structure
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Calendar Elements and XML Structure

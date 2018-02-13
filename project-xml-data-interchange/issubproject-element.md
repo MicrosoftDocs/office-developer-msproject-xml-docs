@@ -1,4 +1,4 @@
-﻿---
+---
 title: IsSubproject Element
 TOCTitle: IsSubproject Element
 ms:assetid: a7dcc251-f796-4d75-8146-040fe30c066b
@@ -10,6 +10,7 @@ f1_keywords:
 - IsSubproject element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # IsSubproject Element

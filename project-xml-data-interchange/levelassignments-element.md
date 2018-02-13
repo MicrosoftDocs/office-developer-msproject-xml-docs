@@ -1,4 +1,4 @@
-﻿---
+---
 title: LevelAssignments Element
 TOCTitle: LevelAssignments Element
 ms:assetid: 2f38b196-4fca-40b4-af13-03d1b17abb9a
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - LevelAssignments element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # LevelAssignments Element

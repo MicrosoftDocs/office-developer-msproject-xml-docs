@@ -1,4 +1,4 @@
-﻿---
+---
 title: AssnOwner Element
 TOCTitle: AssnOwner Element
 ms:assetid: 0c2e69c8-c02a-430d-8470-931b6cb07440
@@ -10,6 +10,7 @@ f1_keywords:
 - AssnOwner element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # AssnOwner Element

@@ -1,4 +1,4 @@
-﻿---
+---
 title: SecondaryPID Element
 TOCTitle: SecondaryPID Element
 ms:assetid: 3605321a-9c32-45a0-8b9d-b544a0b21c1b
@@ -10,6 +10,7 @@ f1_keywords:
 - SecondaryPID element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # SecondaryPID Element

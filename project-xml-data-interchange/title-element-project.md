@@ -1,4 +1,4 @@
-﻿---
+---
 title: Title Element (Project)
 TOCTitle: Title Element
 ms:assetid: fbaae44b-c895-442d-a3c0-9c67dd5f9694
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Title element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Title Element (Project)

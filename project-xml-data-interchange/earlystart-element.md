@@ -1,4 +1,4 @@
-﻿---
+---
 title: EarlyStart Element
 TOCTitle: EarlyStart Element
 ms:assetid: 1fc9f14e-4ccc-42c0-824e-1687acb3e348
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - EarlyStart element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # EarlyStart Element

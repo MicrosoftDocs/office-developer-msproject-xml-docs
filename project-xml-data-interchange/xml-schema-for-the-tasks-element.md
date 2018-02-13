@@ -1,4 +1,4 @@
-﻿---
+---
 title: XML Schema for the Tasks Element
 TOCTitle: XML Schema for the Tasks Element
 ms:assetid: 0ff12ab6-ac7f-4d45-aadc-7f6fce6c082c
@@ -15,6 +15,7 @@ f1_keywords:
 - XML in Project
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # XML Schema for the Tasks Element

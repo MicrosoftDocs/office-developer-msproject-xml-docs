@@ -1,4 +1,4 @@
-﻿---
+---
 title: OnlyTableValuesAllowed Element
 TOCTitle: OnlyTableValuesAllowed Element
 ms:assetid: 2fd6405e-110a-4a62-adea-164b24f147c8
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - OnlyTableValuesAllowed element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # OnlyTableValuesAllowed Element

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Notes Element
 TOCTitle: Notes Element
 ms:assetid: 9fff6601-85f3-408b-a3db-c3d8d743b725
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Notes element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Notes Element

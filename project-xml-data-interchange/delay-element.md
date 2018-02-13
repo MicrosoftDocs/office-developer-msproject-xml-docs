@@ -1,4 +1,4 @@
-﻿---
+---
 title: Delay Element
 TOCTitle: Delay Element
 ms:assetid: c5022353-9908-42ea-b8e7-f4ea983349e3
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Delay element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Delay Element

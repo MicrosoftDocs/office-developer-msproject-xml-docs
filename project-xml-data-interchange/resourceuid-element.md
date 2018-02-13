@@ -1,4 +1,4 @@
-﻿---
+---
 title: ResourceUID Element
 TOCTitle: ResourceUID Element
 ms:assetid: 6b037a58-3507-4e18-b0ba-bf327cb6262d
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - ResourceUID element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # ResourceUID Element

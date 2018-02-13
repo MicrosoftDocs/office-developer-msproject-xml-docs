@@ -1,4 +1,4 @@
-﻿---
+---
 title: DefaultGuid Element
 TOCTitle: DefaultGuid Element
 ms:assetid: 22c2fd78-5409-4ce5-9e81-c62bd6403757
@@ -10,6 +10,7 @@ f1_keywords:
 - DefaultGuid element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # DefaultGuid Element

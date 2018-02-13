@@ -1,4 +1,4 @@
-﻿---
+---
 title: IsBudget Element
 TOCTitle: IsBudget Element
 ms:assetid: 9e3cbbb0-2df5-4c26-aa62-335daf8a238d
@@ -10,6 +10,7 @@ f1_keywords:
 - IsBudget element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # IsBudget Element

@@ -1,4 +1,4 @@
-﻿---
+---
 title: IsEnterprise Element
 TOCTitle: IsEnterprise Element
 ms:assetid: c0c35e00-4136-4071-b552-98d0a2e8df6c
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - IsEnterprise element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # IsEnterprise Element

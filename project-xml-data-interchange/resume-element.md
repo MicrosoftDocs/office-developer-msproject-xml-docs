@@ -1,4 +1,4 @@
-﻿---
+---
 title: Resume Element
 TOCTitle: Resume Element
 ms:assetid: 1851456a-e254-4a5b-952b-343bff6c0bce
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Resume element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Resume Element

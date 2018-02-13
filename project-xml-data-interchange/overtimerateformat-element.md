@@ -1,4 +1,4 @@
-﻿---
+---
 title: OvertimeRateFormat Element
 TOCTitle: OvertimeRateFormat Element
 ms:assetid: f6ee4272-f014-460f-8831-ad492150aedc
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - OvertimeRateFormat element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # OvertimeRateFormat Element

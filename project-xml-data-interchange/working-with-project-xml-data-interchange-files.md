@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with Project XML Data Interchange Files
 TOCTitle: Working with Project XML Data Interchange Files
 ms:assetid: 3aa2f971-417a-4720-a4d1-20008ea76313
@@ -10,6 +10,7 @@ f1_keywords:
 - XML and Project
 - XML schema [Project 2007]
 - Project 2007 XML
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Working with Project XML Data Interchange Files

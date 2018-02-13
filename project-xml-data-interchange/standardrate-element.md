@@ -1,4 +1,4 @@
-﻿---
+---
 title: StandardRate Element
 TOCTitle: StandardRate Element
 ms:assetid: 2f50de74-e869-4a70-bef7-c6e8b2893aa2
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - StandardRate element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # StandardRate Element

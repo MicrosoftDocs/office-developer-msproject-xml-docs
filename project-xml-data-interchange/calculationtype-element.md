@@ -1,4 +1,4 @@
-﻿---
+---
 title: CalculationType Element
 TOCTitle: CalculationType Element
 ms:assetid: 48b83514-aa40-4c8f-9c40-b2c3b0222b93
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - CalculationType element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # CalculationType Element

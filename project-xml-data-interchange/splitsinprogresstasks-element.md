@@ -1,4 +1,4 @@
-﻿---
+---
 title: SplitsInProgressTasks Element
 TOCTitle: SplitsInProgressTasks Element
 ms:assetid: 572e4880-9fdf-4809-bcb2-6bd23089ee2a
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - SplitsInProgressTasks element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # SplitsInProgressTasks Element

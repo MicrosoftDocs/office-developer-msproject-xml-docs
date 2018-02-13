@@ -1,4 +1,4 @@
-﻿---
+---
 title: CostVariance Element
 TOCTitle: CostVariance Element
 ms:assetid: c838169f-941a-4f63-ab4e-2ee8379c95d1
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - CostVariance element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # CostVariance Element

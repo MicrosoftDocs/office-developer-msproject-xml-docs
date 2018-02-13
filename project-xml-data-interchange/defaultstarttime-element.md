@@ -1,4 +1,4 @@
-﻿---
+---
 title: DefaultStartTime Element
 TOCTitle: DefaultStartTime Element
 ms:assetid: 86b1f0cf-d37a-4753-a904-39151b5d660a
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - DefaultStartTime element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # DefaultStartTime Element

@@ -1,4 +1,4 @@
-﻿---
+---
 title: CommitmentStart Element
 TOCTitle: CommitmentStart Element
 ms:assetid: 6744da3c-c277-4d0e-a604-7af5c35062de
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - CommitmentStart element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # CommitmentStart Element

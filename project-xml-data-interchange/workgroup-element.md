@@ -1,4 +1,4 @@
-﻿---
+---
 title: WorkGroup Element
 TOCTitle: WorkGroup Element
 ms:assetid: ed14d8e2-f8d6-4565-92db-6b1a7c91558d
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - WorkGroup element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # WorkGroup Element

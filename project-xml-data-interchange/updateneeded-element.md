@@ -1,4 +1,4 @@
-﻿---
+---
 title: UpdateNeeded Element
 TOCTitle: UpdateNeeded Element
 ms:assetid: f5141b03-2ef5-48fe-82ce-d1369021cbab
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - UpdateNeeded element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # UpdateNeeded Element

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Resources Element
 TOCTitle: Resources Element
 ms:assetid: f24823e7-514d-46fd-a724-cdd2e72ef4d8
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Resources element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Resources Element

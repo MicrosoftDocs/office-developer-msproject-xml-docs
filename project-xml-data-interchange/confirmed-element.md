@@ -1,4 +1,4 @@
-﻿---
+---
 title: Confirmed Element
 TOCTitle: Confirmed Element
 ms:assetid: 7f4bbb5c-236c-42b3-9294-d3ad7787ece9
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Confirmed element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Confirmed Element

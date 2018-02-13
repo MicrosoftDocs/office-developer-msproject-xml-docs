@@ -1,4 +1,4 @@
-﻿---
+---
 title: WBSLevel Element
 TOCTitle: WBSLevel Element
 ms:assetid: b4deee71-a5d0-4db2-ad06-f750db12de08
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - WBSLevel element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # WBSLevel Element

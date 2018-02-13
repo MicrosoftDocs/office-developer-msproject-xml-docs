@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'How to: Use XSLT Transformations with Project XML Data Interchange Files'
 TOCTitle: 'How to: Use XSLT Transformations with Project XML Data Interchange Files'
 ms:assetid: 66d1ac85-7ec8-44b8-a73f-3e4d6b148219
@@ -18,6 +18,7 @@ f1_keywords:
 - XSLT and Project
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # How to: Use XSLT Transformations with Project XML Data Interchange Files

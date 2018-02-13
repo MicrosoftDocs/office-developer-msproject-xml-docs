@@ -1,4 +1,4 @@
-﻿---
+---
 title: AvailableTo Element
 TOCTitle: AvailableTo Element
 ms:assetid: b26c7e48-a086-4389-8b46-9451222b23a0
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - AvailableTo element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # AvailableTo Element

@@ -1,4 +1,4 @@
-﻿---
+---
 title: DefaultOvertimeRate Element
 TOCTitle: DefaultOvertimeRate Element
 ms:assetid: 07dbdbe7-3d3e-41ef-ae24-7d4c9f88d70a
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - DefaultOvertimeRate element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # DefaultOvertimeRate Element

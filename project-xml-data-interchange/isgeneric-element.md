@@ -1,4 +1,4 @@
-﻿---
+---
 title: IsGeneric Element
 TOCTitle: IsGeneric Element
 ms:assetid: 864058c2-32e3-434c-a291-fee4f8bb5e76
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - IsGeneric element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # IsGeneric Element

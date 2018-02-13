@@ -1,4 +1,4 @@
-﻿---
+---
 title: Formula Element
 TOCTitle: Formula Element
 ms:assetid: 5fe72a47-57ae-4871-9fc0-a9efbe596351
@@ -10,6 +10,7 @@ f1_keywords:
 - Formula element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Formula Element

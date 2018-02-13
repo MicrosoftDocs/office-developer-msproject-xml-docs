@@ -1,4 +1,4 @@
-﻿---
+---
 title: HyperlinkSubAddress Element
 TOCTitle: HyperlinkSubAddress Element
 ms:assetid: 99c068ea-a59e-4572-b8e7-5701736b9056
@@ -10,6 +10,7 @@ f1_keywords:
 - HyperlinkSubAddress element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # HyperlinkSubAddress Element

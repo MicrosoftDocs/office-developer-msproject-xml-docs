@@ -1,4 +1,4 @@
-﻿---
+---
 title: RegularWork Element
 TOCTitle: RegularWork Element
 ms:assetid: 8cbad4e5-f427-4294-8290-de1e0f2fabcb
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - RegularWork element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # RegularWork Element

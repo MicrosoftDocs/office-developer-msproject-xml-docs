@@ -1,4 +1,4 @@
-﻿---
+---
 title: CommitmentFinish Element
 TOCTitle: CommitmentFinish Element
 ms:assetid: 380dbff1-7d04-4b16-902d-ba10d861ae62
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - CommitmentFinish element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # CommitmentFinish Element

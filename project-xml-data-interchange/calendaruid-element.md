@@ -1,4 +1,4 @@
-﻿---
+---
 title: CalendarUID Element
 TOCTitle: CalendarUID Element
 ms:assetid: 5745fc1f-dd0e-43fa-88b6-8974f776f088
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - CalendarUID element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # CalendarUID Element

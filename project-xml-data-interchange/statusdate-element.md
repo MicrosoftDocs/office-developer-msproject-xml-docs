@@ -1,4 +1,4 @@
-﻿---
+---
 title: StatusDate Element
 TOCTitle: StatusDate Element
 ms:assetid: a764c49b-6de0-4659-ba4c-af0e80ff214d
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - StatusDate element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # StatusDate Element

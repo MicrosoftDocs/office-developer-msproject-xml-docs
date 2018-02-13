@@ -1,4 +1,4 @@
-﻿---
+---
 title: Interim Element
 TOCTitle: Interim Element
 ms:assetid: 2346cd83-36ac-414e-9629-5c801097763f
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Interim element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Interim Element

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Number Element
 TOCTitle: Number Element
 ms:assetid: c6484f2f-6f65-4be3-81d4-1c75da171be8
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Number element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Number Element

@@ -1,4 +1,4 @@
-﻿---
+---
 title: LastSaved Element
 TOCTitle: LastSaved Element
 ms:assetid: f5cb631d-483c-453e-a1bb-c2c3e7af9593
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - LastSaved element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # LastSaved Element

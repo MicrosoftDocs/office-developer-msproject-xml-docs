@@ -1,4 +1,4 @@
-﻿---
+---
 title: Calendars Element
 TOCTitle: Calendars Element
 ms:assetid: 5003728c-292f-45ba-83a9-c1b78cdc45f4
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Calendars element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Calendars Element

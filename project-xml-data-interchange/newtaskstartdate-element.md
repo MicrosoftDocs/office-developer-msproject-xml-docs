@@ -1,4 +1,4 @@
-﻿---
+---
 title: NewTaskStartDate Element
 TOCTitle: NewTaskStartDate Element
 ms:assetid: d621417d-eb69-4fdb-abf7-cebd523eaad0
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - NewTaskStartDate element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # NewTaskStartDate Element

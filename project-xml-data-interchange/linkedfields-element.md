@@ -1,4 +1,4 @@
-﻿---
+---
 title: LinkedFields Element
 TOCTitle: LinkedFields Element
 ms:assetid: 4520fe34-698d-4890-92cf-5d210d35092b
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - LinkedFields element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # LinkedFields Element

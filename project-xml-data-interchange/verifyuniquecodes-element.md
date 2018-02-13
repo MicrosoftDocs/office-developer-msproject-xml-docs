@@ -1,4 +1,4 @@
-﻿---
+---
 title: VerifyUniqueCodes Element
 TOCTitle: VerifyUniqueCodes Element
 ms:assetid: 6619c7fa-8c1a-449e-b4a9-7712ac0dfa04
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - VerifyUniqueCodes element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # VerifyUniqueCodes Element

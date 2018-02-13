@@ -1,4 +1,4 @@
-﻿---
+---
 title: Custom Field Data in XML
 TOCTitle: Custom Field Data in XML
 ms:assetid: cb642a89-7686-441f-a9da-b3925a8612ea
@@ -13,6 +13,7 @@ f1_keywords:
 - Custom field data
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Custom Field Data in XML

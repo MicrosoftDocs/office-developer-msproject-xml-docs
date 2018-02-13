@@ -1,4 +1,4 @@
-﻿---
+---
 title: MaxUnits Element
 TOCTitle: MaxUnits Element
 ms:assetid: 8ffdb403-7572-43df-917b-ba829bbe5211
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - MaxUnits element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # MaxUnits Element

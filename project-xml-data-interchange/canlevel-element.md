@@ -1,4 +1,4 @@
-﻿---
+---
 title: CanLevel Element
 TOCTitle: CanLevel Element
 ms:assetid: 225e0a18-a617-4bbe-99b8-bd4b820ce370
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - CanLevel element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # CanLevel Element

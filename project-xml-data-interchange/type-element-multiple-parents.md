@@ -1,4 +1,4 @@
-﻿---
+---
 title: Type Element (Multiple Parents)
 TOCTitle: Type Element
 ms:assetid: 222dd5ab-8885-4858-b5c3-87f0d1636d2d
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Type element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Type Element (Multiple Parents)

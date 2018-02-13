@@ -1,4 +1,4 @@
-﻿---
+---
 title: HonorConstraints Element
 TOCTitle: HonorConstraints Element
 ms:assetid: 9f270de3-5c09-4e66-ba58-ff358fcd66af
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - HonorConstraints element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # HonorConstraints Element

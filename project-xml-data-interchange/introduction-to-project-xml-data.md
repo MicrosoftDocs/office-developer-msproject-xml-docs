@@ -1,4 +1,4 @@
-﻿---
+---
 title: Introduction to Project XML Data
 TOCTitle: Introduction to Project XML Data
 ms:assetid: b4d72252-5b88-4244-b350-8f026c3e60cf
@@ -10,6 +10,7 @@ f1_keywords:
 - XML and Project
 - XML in Project
 - Project 2007, XML
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Introduction to Project XML Data

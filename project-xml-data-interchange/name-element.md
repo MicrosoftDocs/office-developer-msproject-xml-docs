@@ -1,4 +1,4 @@
-﻿---
+---
 title: Name Element
 TOCTitle: Name Element
 ms:assetid: 99549287-024d-430e-8fde-53c3af351065
@@ -10,6 +10,7 @@ f1_keywords:
 - Name element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Name Element

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Subject Element
 TOCTitle: Subject Element
 ms:assetid: bb63e659-1be5-4f38-a9b3-a30b3307395d
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Subject element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Subject Element

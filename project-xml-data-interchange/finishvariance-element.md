@@ -1,4 +1,4 @@
-﻿---
+---
 title: FinishVariance Element
 TOCTitle: FinishVariance Element
 ms:assetid: eee82eb6-7eba-4cff-bad6-e7a991ca9a08
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - FinishVariance element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # FinishVariance Element

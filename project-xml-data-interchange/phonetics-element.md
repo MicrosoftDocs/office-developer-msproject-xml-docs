@@ -1,4 +1,4 @@
-﻿---
+---
 title: Phonetics Element
 TOCTitle: Phonetics Element
 ms:assetid: ac3e19fc-1b16-4b2b-a8ee-5739173445ee
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Phonetics element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Phonetics Element

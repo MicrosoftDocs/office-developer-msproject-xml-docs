@@ -1,4 +1,4 @@
-﻿---
+---
 title: MinutesPerDay Element
 TOCTitle: MinutesPerDay Element
 ms:assetid: 59034317-bf02-46a9-bf66-9411a695119c
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - MinutesPerDay element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # MinutesPerDay Element

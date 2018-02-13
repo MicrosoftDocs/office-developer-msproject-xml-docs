@@ -1,4 +1,4 @@
-﻿---
+---
 title: Assignments Element
 TOCTitle: Assignments Element
 ms:assetid: c8a78580-d326-4c8c-aee9-382cbece45f3
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Assignments element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Assignments Element

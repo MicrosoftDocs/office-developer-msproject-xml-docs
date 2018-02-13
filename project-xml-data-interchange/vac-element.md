@@ -1,4 +1,4 @@
-﻿---
+---
 title: VAC Element
 TOCTitle: VAC Element
 ms:assetid: 312f9c63-d387-4d73-9ac9-849abb0109ec
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - VAC element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # VAC Element

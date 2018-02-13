@@ -1,4 +1,4 @@
-﻿---
+---
 title: EnteredByOccurrences Element
 TOCTitle: EnteredByOccurrences Element
 ms:assetid: 81819336-f180-44ea-a4a4-c6140398d105
@@ -10,6 +10,7 @@ f1_keywords:
 - EnteredByOccurrences element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # EnteredByOccurrences Element

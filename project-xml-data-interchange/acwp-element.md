@@ -1,4 +1,4 @@
-﻿---
+---
 title: ACWP Element
 TOCTitle: ACWP Element
 ms:assetid: e9fd44ae-e18b-4fe7-ad7a-6b5fb1ef9456
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - ACWP element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # ACWP Element

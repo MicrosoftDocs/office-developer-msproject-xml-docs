@@ -1,4 +1,4 @@
-﻿---
+---
 title: FieldID Element
 TOCTitle: FieldID Element
 ms:assetid: 3ed97e9e-cb2a-4aea-911c-a192b9e11891
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - FieldID element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # FieldID Element

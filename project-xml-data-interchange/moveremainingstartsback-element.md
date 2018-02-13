@@ -1,4 +1,4 @@
-﻿---
+---
 title: MoveRemainingStartsBack Element
 TOCTitle: MoveRemainingStartsBack Element
 ms:assetid: b2fa4c92-1740-4532-bd40-03e32ed8a8c3
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - MoveRemainingStartsBack element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # MoveRemainingStartsBack Element

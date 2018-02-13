@@ -1,4 +1,4 @@
-﻿---
+---
 title: ParentValueID Element
 TOCTitle: ParentValueID Element
 ms:assetid: f76c3572-be6f-444a-99a7-27343ab8b13e
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - ParentValueID element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # ParentValueID Element

@@ -1,4 +1,4 @@
-﻿---
+---
 title: WorkFormat Element
 TOCTitle: WorkFormat Element
 ms:assetid: 6d1d40f3-cd02-4cd7-a28e-605b88518ee4
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - WorkFormat element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # WorkFormat Element

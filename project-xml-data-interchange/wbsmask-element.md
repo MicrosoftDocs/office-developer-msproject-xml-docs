@@ -1,4 +1,4 @@
-﻿---
+---
 title: WBSMask Element
 TOCTitle: WBSMask Element
 ms:assetid: ae403c08-a9a6-4116-933f-aaa6202ffda9
@@ -10,6 +10,7 @@ f1_keywords:
 - WBSMask element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # WBSMask Element

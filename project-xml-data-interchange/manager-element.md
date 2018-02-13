@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manager Element
 TOCTitle: Manager Element
 ms:assetid: c1930e60-ec58-4230-9f22-33abc01fd4f7
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Manager element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Manager Element

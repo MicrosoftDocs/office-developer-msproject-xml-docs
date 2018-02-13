@@ -1,4 +1,4 @@
-﻿---
+---
 title: Project Element
 TOCTitle: Project Element
 ms:assetid: d6c47ee7-56f0-480f-940c-a7b715e6c1c3
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Project element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Project Element

@@ -1,4 +1,4 @@
-﻿---
+---
 title: EffortDriven Element
 TOCTitle: EffortDriven Element
 ms:assetid: 852e988b-b99a-43e1-b65a-86cafa252304
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - EffortDriven element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # EffortDriven Element

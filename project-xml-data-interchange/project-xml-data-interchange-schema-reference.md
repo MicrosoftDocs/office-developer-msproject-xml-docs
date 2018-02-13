@@ -1,4 +1,4 @@
-﻿---
+---
 title: Project XML Data Interchange Schema Reference
 TOCTitle: Project XML Data Interchange Schema
 ms:assetid: f49e240f-75ac-4ba0-a6cf-40acf8679d0f
@@ -10,6 +10,7 @@ f1_keywords:
 - XML and Project
 - XML in Project
 - Project 2007, XML
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Project XML Data Interchange Schema Reference

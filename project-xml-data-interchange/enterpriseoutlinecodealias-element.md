@@ -1,4 +1,4 @@
-﻿---
+---
 title: EnterpriseOutlineCodeAlias Element
 TOCTitle: EnterpriseOutlineCodeAlias Element
 ms:assetid: 48ef7cf9-4133-4dc3-9255-ecb8ee896754
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - EnterpriseOutlineCodeAlias element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # EnterpriseOutlineCodeAlias Element

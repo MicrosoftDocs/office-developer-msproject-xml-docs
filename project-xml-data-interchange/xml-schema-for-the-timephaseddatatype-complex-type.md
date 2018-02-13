@@ -1,4 +1,4 @@
-﻿---
+---
 title: XML Schema for the TimephasedDataType Complex Type
 TOCTitle: XML Schema for the TimephasedDataType Complex Type
 ms:assetid: f500fe0e-9b75-43ac-8aa5-81b914984b4b
@@ -15,6 +15,7 @@ f1_keywords:
 - XML in Project
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # XML Schema for the TimephasedDataType Complex Type

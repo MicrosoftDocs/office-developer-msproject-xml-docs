@@ -1,4 +1,4 @@
-﻿---
+---
 title: Contact Element
 TOCTitle: Contact Element
 ms:assetid: 458e7a9d-0cc3-480b-8608-99d3ecdb868d
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Contact element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Contact Element

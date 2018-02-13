@@ -1,4 +1,4 @@
-﻿---
+---
 title: AccrueAt Element
 TOCTitle: AccrueAt Element
 ms:assetid: bde33cd5-b90c-4240-9d79-319aa55884ca
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - AccrueAt element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # AccrueAt Element

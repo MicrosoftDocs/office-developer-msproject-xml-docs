@@ -1,4 +1,4 @@
-﻿---
+---
 title: Period Element
 TOCTitle: Period Element
 ms:assetid: 7a3c8c71-6993-4b8b-8b50-9743ea95e732
@@ -10,6 +10,7 @@ f1_keywords:
 - Period element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Period Element

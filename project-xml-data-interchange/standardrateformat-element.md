@@ -1,4 +1,4 @@
-﻿---
+---
 title: StandardRateFormat Element
 TOCTitle: StandardRateFormat Element
 ms:assetid: f054d0a3-e5f3-44db-9708-088b579724d1
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - StandardRateFormat element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # StandardRateFormat Element

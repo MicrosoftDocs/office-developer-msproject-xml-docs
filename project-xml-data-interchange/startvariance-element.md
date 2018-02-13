@@ -1,4 +1,4 @@
-﻿---
+---
 title: StartVariance Element
 TOCTitle: StartVariance Element
 ms:assetid: 8f215245-9c2b-470e-b998-9ee79391f237
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - StartVariance element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # StartVariance Element

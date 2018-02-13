@@ -1,4 +1,4 @@
-﻿---
+---
 title: Category Element
 TOCTitle: Category Element
 ms:assetid: 3185457d-7db1-46ec-8e40-ae4ce41d88bc
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Category element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Category Element

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Duration Element
 TOCTitle: Duration Element
 ms:assetid: ae148392-e06e-475b-a4bd-d527b37930e2
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Duration element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Duration Element

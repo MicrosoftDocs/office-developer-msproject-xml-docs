@@ -1,4 +1,4 @@
-﻿---
+---
 title: Project Elements and XML Structure
 TOCTitle: Project Elements and XML Structure
 ms:assetid: 23b2326a-66cf-4978-a982-48567ded715b
@@ -14,6 +14,7 @@ f1_keywords:
 - Project XML elements
 - Project 2007 XML
 - Project XML structure
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Project Elements and XML Structure

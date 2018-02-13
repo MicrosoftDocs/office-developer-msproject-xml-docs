@@ -1,4 +1,4 @@
-﻿---
+---
 title: Description Element
 TOCTitle: Description Element
 ms:assetid: 838c9400-b121-4ae4-b83a-12d51ec51b26
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Description element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Description Element

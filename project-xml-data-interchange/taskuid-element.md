@@ -1,4 +1,4 @@
-﻿---
+---
 title: TaskUID Element
 TOCTitle: TaskUID Element
 ms:assetid: b14a5c5a-9245-4104-9622-559880a99086
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - TaskUID element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # TaskUID Element

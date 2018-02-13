@@ -1,4 +1,4 @@
-﻿---
+---
 title: Initials Element
 TOCTitle: Initials Element
 ms:assetid: bd3a91f2-7240-40c0-b14f-122ba549e7ea
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Initials element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Initials Element

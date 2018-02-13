@@ -1,4 +1,4 @@
-﻿---
+---
 title: Task Element
 TOCTitle: Task Element
 ms:assetid: 47e990dd-9bdc-4edc-b6e7-b1535afe1c6e
@@ -10,6 +10,7 @@ f1_keywords:
 - Task element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Task Element

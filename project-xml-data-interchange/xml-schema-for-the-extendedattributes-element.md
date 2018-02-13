@@ -1,4 +1,4 @@
-﻿---
+---
 title: XML Schema for the ExtendedAttributes Element
 TOCTitle: XML Schema for the ExtendedAttributes Element
 ms:assetid: db014a14-2934-4f15-8766-0ab0dd0add22
@@ -15,6 +15,7 @@ f1_keywords:
 - XML in Project
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # XML Schema for the ExtendedAttributes Element

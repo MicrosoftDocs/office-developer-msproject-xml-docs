@@ -1,4 +1,4 @@
-﻿---
+---
 title: XML Schema for the Calendars Element
 TOCTitle: XML Schema for the Calendars Element
 ms:assetid: 7afbe811-c94e-4ff6-8968-5b9aede4393a
@@ -15,6 +15,7 @@ f1_keywords:
 - XML in Project
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # XML Schema for the Calendars Element

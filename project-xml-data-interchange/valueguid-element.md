@@ -1,4 +1,4 @@
-﻿---
+---
 title: ValueGUID Element
 TOCTitle: ValueGUID Element
 ms:assetid: 8478818f-6da6-431f-b4d0-d2113329a476
@@ -10,6 +10,7 @@ f1_keywords:
 - ValueGUID element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # ValueGUID Element

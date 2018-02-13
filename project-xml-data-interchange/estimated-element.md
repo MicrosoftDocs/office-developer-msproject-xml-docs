@@ -1,4 +1,4 @@
-﻿---
+---
 title: Estimated Element
 TOCTitle: Estimated Element
 ms:assetid: e33f287f-a61e-49fd-a3e6-00ced5c31138
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Estimated element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Estimated Element

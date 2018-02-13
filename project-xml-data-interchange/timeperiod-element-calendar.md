@@ -1,4 +1,4 @@
-﻿---
+---
 title: TimePeriod Element (Calendar)
 TOCTitle: TimePeriod Element
 ms:assetid: bded10b6-c40c-4d6e-83c2-0ec82dd3eac8
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - TimePeriod element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # TimePeriod Element (Calendar)

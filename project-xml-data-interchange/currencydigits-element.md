@@ -1,4 +1,4 @@
-﻿---
+---
 title: CurrencyDigits Element
 TOCTitle: CurrencyDigits Element
 ms:assetid: adb6f90f-bbe0-4843-994b-390255360400
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - CurrencyDigits element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # CurrencyDigits Element

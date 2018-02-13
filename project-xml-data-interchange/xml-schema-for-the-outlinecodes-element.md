@@ -1,4 +1,4 @@
-﻿---
+---
 title: XML Schema for the OutlineCodes Element
 TOCTitle: XML Schema for the OutlineCodes Element
 ms:assetid: 8db24ef2-eeee-43be-a998-9aaf90f7e5d9
@@ -15,6 +15,7 @@ f1_keywords:
 - XML in Project
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # XML Schema for the OutlineCodes Element

@@ -1,4 +1,4 @@
-﻿---
+---
 title: MaterialLabel Element
 TOCTitle: MaterialLabel Element
 ms:assetid: 97ec1976-c165-42f4-9551-fbeb53654983
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - MaterialLabel element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # MaterialLabel Element

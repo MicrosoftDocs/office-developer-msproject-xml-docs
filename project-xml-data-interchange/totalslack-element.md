@@ -1,4 +1,4 @@
-﻿---
+---
 title: TotalSlack Element
 TOCTitle: TotalSlack Element
 ms:assetid: a87b9c2d-ea76-4cb7-9848-40295c72fd01
@@ -10,6 +10,7 @@ f1_keywords:
 - TotalSlack element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # TotalSlack Element

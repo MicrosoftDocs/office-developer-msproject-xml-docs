@@ -1,4 +1,4 @@
-﻿---
+---
 title: Project Data Interchange Elements
 TOCTitle: Project Data Interchange Elements
 ms:assetid: c0382453-e552-402c-be05-fa50af11e71d
@@ -11,6 +11,7 @@ f1_keywords:
 - XML schema [Project 2007]
 - Project XML elements
 - Project 2007 XML
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Project Data Interchange Elements

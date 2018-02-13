@@ -1,4 +1,4 @@
-﻿---
+---
 title: Units Element
 TOCTitle: Units Element
 ms:assetid: aeb0dd6d-1ccf-4fdc-92b9-0ab93269564f
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Units element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Units Element

@@ -1,4 +1,4 @@
-﻿---
+---
 title: TimephasedData Element
 TOCTitle: TimephasedData Element
 ms:assetid: 41c66612-a3af-499c-b9ba-c552216d5820
@@ -10,6 +10,7 @@ f1_keywords:
 - TimephasedData element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # TimephasedData Element

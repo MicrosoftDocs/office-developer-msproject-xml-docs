@@ -1,4 +1,4 @@
-﻿---
+---
 title: TaskUpdatesResource Element
 TOCTitle: TaskUpdatesResource Element
 ms:assetid: 96ead712-87f1-4465-ab02-ae1c15b22aeb
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - TaskUpdatesResource element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # TaskUpdatesResource Element

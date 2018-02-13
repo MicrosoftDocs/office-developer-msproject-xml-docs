@@ -1,4 +1,4 @@
-﻿---
+---
 title: ActualsInSync Element
 TOCTitle: ActualsInSync Element
 ms:assetid: 42d65b61-4953-4cdf-9609-41e852bd3c33
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - ActualsInSync element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # ActualsInSync Element

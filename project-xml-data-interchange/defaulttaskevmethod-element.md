@@ -1,4 +1,4 @@
-﻿---
+---
 title: DefaultTaskEVMethod Element
 TOCTitle: DefaultTaskEVMethod Element
 ms:assetid: 2481c4de-628a-4f30-89e5-f62fe1909c1a
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - DefaultTaskEVMethod element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # DefaultTaskEVMethod Element

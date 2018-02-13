@@ -1,4 +1,4 @@
-﻿---
+---
 title: IsNull Element
 TOCTitle: IsNull Element
 ms:assetid: c7c87463-e703-4bf3-8ccb-456fcb29a3b0
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - IsNull element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # IsNull Element

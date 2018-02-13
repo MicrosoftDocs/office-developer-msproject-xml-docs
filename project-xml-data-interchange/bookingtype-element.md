@@ -1,4 +1,4 @@
-﻿---
+---
 title: BookingType Element
 TOCTitle: BookingType Element
 ms:assetid: 52c614de-da86-413d-9042-482b7f51786c
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - BookingType element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # BookingType Element

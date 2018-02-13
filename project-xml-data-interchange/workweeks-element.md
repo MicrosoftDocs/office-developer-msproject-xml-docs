@@ -1,4 +1,4 @@
-﻿---
+---
 title: WorkWeeks Element
 TOCTitle: WorkWeeks Element
 ms:assetid: 4be76fb8-eb91-4f77-8447-4e2153e0e3d9
@@ -10,6 +10,7 @@ f1_keywords:
 - WorkWeeks element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # WorkWeeks Element

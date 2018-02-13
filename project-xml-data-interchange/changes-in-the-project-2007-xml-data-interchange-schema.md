@@ -1,4 +1,4 @@
-﻿---
+---
 title: Changes in the Project 2007 XML Data Interchange Schema
 TOCTitle: Changes in the Project 2007 XML Data Interchange Schema
 ms:assetid: 707c1121-154d-4550-916d-e2987eead64f
@@ -13,6 +13,7 @@ f1_keywords:
 - XML schema [Windows SharePoint Services 3.0]
 - Project 2007, XML
 - Project XML schema changes
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Changes in the Project 2007 XML Data Interchange Schema

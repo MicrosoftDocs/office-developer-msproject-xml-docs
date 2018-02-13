@@ -1,4 +1,4 @@
-﻿---
+---
 title: FreeSlack Element
 TOCTitle: FreeSlack Element
 ms:assetid: a26cf9d8-e0e9-4c34-a476-24ea8dee4b38
@@ -10,6 +10,7 @@ f1_keywords:
 - FreeSlack element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # FreeSlack Element

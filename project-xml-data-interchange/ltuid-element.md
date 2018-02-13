@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ltuid Element
 TOCTitle: Ltuid Element
 ms:assetid: 9c171e76-bf69-48e6-836d-7eb83080e430
@@ -10,6 +10,7 @@ f1_keywords:
 - Ltuid element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Ltuid Element

@@ -1,4 +1,4 @@
-﻿---
+---
 title: New XML Elements
 TOCTitle: New XML Elements
 ms:assetid: 8c9c7788-53b1-460f-88b5-c8f4f4fdedf7
@@ -11,6 +11,7 @@ f1_keywords:
 - Project XML schema
 - Project 2007, XML
 - Project XML schema changes
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # New XML Elements

@@ -1,4 +1,4 @@
-﻿---
+---
 title: CrossProjectName Element
 TOCTitle: CrossProjectName Element
 ms:assetid: 97d160ac-aa50-4b0d-ad53-48082052fd73
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - CrossProjectName element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # CrossProjectName Element

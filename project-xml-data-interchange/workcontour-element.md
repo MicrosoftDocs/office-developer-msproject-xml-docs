@@ -1,4 +1,4 @@
-﻿---
+---
 title: WorkContour Element
 TOCTitle: WorkContour Element
 ms:assetid: f0384509-c8b2-4802-b4a7-3d81040910ef
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - WorkContour element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # WorkContour Element

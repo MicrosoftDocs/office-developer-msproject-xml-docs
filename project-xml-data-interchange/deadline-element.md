@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deadline Element
 TOCTitle: Deadline Element
 ms:assetid: adc01240-b231-462e-a877-8a8b8a413ca7
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Deadline element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Deadline Element

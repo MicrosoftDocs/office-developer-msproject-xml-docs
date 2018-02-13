@@ -1,4 +1,4 @@
-﻿---
+---
 title: DaysOfWeek Element
 TOCTitle: DaysOfWeek Element
 ms:assetid: 83ab0be5-93bb-41c0-bf4c-4a4fce3d2cf5
@@ -10,6 +10,7 @@ f1_keywords:
 - DaysOfWeek element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # DaysOfWeek Element

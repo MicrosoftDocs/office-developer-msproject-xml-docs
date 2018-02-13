@@ -1,4 +1,4 @@
-﻿---
+---
 title: RemainingCost Element
 TOCTitle: RemainingCost Element
 ms:assetid: f14789f4-9450-40a8-b43d-b66f314518bd
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - RemainingCost element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # RemainingCost Element

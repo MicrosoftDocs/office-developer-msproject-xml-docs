@@ -1,4 +1,4 @@
-﻿---
+---
 title: CriticalSlackLimit Element
 TOCTitle: CriticalSlackLimit Element
 ms:assetid: 6834dee2-0128-4d0e-bf14-55e0022b9ac9
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - CriticalSlackLimit element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # CriticalSlackLimit Element

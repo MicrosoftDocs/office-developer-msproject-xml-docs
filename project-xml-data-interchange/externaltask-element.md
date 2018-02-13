@@ -1,4 +1,4 @@
-﻿---
+---
 title: ExternalTask Element
 TOCTitle: ExternalTask Element
 ms:assetid: 96f30b4f-3b97-45d0-964a-eb28a4042af1
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - ExternalTask element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # ExternalTask Element

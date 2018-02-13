@@ -1,4 +1,4 @@
-﻿---
+---
 title: Length Element
 TOCTitle: Length Element
 ms:assetid: 6150fa8b-6900-4438-bedd-ede839c8b260
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Length element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Length Element

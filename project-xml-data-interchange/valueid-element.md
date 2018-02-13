@@ -1,4 +1,4 @@
-﻿---
+---
 title: ValueID Element
 TOCTitle: ValueID Element
 ms:assetid: 0b4257c5-1238-4f8d-81fa-6fe80bb5af3e
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - ValueID element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # ValueID Element

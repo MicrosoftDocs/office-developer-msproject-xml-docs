@@ -1,4 +1,4 @@
-﻿---
+---
 title: Level Element
 TOCTitle: Level Element
 ms:assetid: aaf30a33-45ef-4855-90e4-ab778938946e
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Level element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Level Element

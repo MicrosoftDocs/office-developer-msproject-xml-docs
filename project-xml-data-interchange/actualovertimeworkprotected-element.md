@@ -1,4 +1,4 @@
-﻿---
+---
 title: ActualOvertimeWorkProtected Element
 TOCTitle: ActualOvertimeWorkProtected Element
 ms:assetid: c4c6c267-7e13-4501-ba58-5ff1cb5eac2b
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - ActualOvertimeWorkProtected element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # ActualOvertimeWorkProtected Element

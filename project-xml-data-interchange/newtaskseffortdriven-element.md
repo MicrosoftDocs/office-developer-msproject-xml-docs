@@ -1,4 +1,4 @@
-﻿---
+---
 title: NewTasksEffortDriven Element
 TOCTitle: NewTasksEffortDriven Element
 ms:assetid: 0eff21f0-a059-4cc4-a702-5ac2c33127a0
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - NewTasksEffortDriven element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # NewTasksEffortDriven Element

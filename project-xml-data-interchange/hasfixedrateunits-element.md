@@ -1,4 +1,4 @@
-﻿---
+---
 title: HasFixedRateUnits Element
 TOCTitle: HasFixedRateUnits Element
 ms:assetid: 73d1aa77-ed88-4479-94d1-b78d2601059c
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - HasFixedRateUnits element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # HasFixedRateUnits Element

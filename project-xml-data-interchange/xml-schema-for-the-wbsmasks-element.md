@@ -1,4 +1,4 @@
-﻿---
+---
 title: XML Schema for the WBSMasks Element
 TOCTitle: XML Schema for the WBSMasks Element
 ms:assetid: 822ec84d-c92a-419d-a0bf-905f5d1da8cc
@@ -15,6 +15,7 @@ f1_keywords:
 - XML in Project
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # XML Schema for the WBSMasks Element

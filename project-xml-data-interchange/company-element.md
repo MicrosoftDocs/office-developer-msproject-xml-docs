@@ -1,4 +1,4 @@
-﻿---
+---
 title: Company Element
 TOCTitle: Company Element
 ms:assetid: dc87eaf9-4788-49d9-85ae-a8fa01d7debe
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Company element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Company Element

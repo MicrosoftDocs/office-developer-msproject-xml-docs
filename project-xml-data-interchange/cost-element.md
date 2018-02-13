@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cost Element
 TOCTitle: Cost Element
 ms:assetid: 5e1959e5-0af9-4ea1-bbe7-33c7d277cfbd
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Cost element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Cost Element

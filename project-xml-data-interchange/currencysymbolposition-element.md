@@ -1,4 +1,4 @@
-﻿---
+---
 title: CurrencySymbolPosition Element
 TOCTitle: CurrencySymbolPosition Element
 ms:assetid: a800ac60-fceb-4aec-9d82-05c683b2e424
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - CurrencySymbolPosition element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # CurrencySymbolPosition Element

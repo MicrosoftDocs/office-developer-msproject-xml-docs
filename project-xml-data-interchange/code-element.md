@@ -1,4 +1,4 @@
-﻿---
+---
 title: Code Element
 TOCTitle: Code Element
 ms:assetid: 6f2489b0-52a7-4149-8183-440891428ee0
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Code element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Code Element

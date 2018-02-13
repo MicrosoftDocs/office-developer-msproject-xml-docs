@@ -1,4 +1,4 @@
-﻿---
+---
 title: DurationFormat Element
 TOCTitle: DurationFormat Element
 ms:assetid: ac69c48f-4758-4462-a9c3-edf085d52437
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - DurationFormat element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # DurationFormat Element

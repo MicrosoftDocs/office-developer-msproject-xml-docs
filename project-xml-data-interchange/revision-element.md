@@ -1,4 +1,4 @@
-﻿---
+---
 title: Revision Element
 TOCTitle: Revision Element
 ms:assetid: 99a9a9dd-1066-49ad-8c27-103749f162f6
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Revision element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Revision Element

@@ -1,4 +1,4 @@
-﻿---
+---
 title: StartDate Element
 TOCTitle: StartDate Element
 ms:assetid: 7fff5d88-c4ee-4e4f-8c9c-714990b2c036
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - StartDate element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # StartDate Element

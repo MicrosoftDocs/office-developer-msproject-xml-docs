@@ -1,4 +1,4 @@
-﻿---
+---
 title: b408000 - b417fff Elements
 TOCTitle: b408000 - b417fff Elements
 ms:assetid: eb451420-0c38-4c84-8029-4a3261f24a01
@@ -10,6 +10,7 @@ f1_keywords:
 - b408000 - b417fff elements
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # b408000 - b417fff Elements

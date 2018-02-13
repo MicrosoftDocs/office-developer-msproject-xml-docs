@@ -1,4 +1,4 @@
-﻿---
+---
 title: NTAccount Element
 TOCTitle: NTAccount Element
 ms:assetid: 1d5a1c69-5f86-48d7-994c-b584b872bdd1
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - NTAccount element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # NTAccount Element

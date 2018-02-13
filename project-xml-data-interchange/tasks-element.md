@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tasks Element
 TOCTitle: Tasks Element
 ms:assetid: a0a674fa-9f39-4df0-8af5-595d081426ed
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Tasks element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Tasks Element

@@ -1,4 +1,4 @@
-﻿---
+---
 title: DefaultFixedCostAccrual Element
 TOCTitle: DefaultFixedCostAccrual Element
 ms:assetid: f7bd8c0b-b3f8-4e8e-b7fb-59980002ecf3
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - DefaultFixedCostAccrual element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # DefaultFixedCostAccrual Element

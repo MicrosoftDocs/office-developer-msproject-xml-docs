@@ -1,4 +1,4 @@
-﻿---
+---
 title: ToDate Element (Calendar)
 TOCTitle: ToDate Element
 ms:assetid: 03b89d46-3f37-4717-8b0a-b27fbd7d6562
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - ToDate element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # ToDate Element (Calendar)

@@ -1,4 +1,4 @@
-﻿---
+---
 title: BaseCalendarUID Element
 TOCTitle: BaseCalendarUID Element
 ms:assetid: f82f2ed0-9c87-4d05-940d-7fe6ef02f09c
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - BaseCalendarUID element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # BaseCalendarUID Element

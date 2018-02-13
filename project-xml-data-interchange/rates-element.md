@@ -1,4 +1,4 @@
-﻿---
+---
 title: Rates Element
 TOCTitle: Rates Element
 ms:assetid: d0e057f1-90a1-4c62-b14d-8b697ab69c98
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Rates element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Rates Element

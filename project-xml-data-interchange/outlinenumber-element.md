@@ -1,4 +1,4 @@
-﻿---
+---
 title: OutlineNumber Element
 TOCTitle: OutlineNumber Element
 ms:assetid: b3a0a187-116d-4dec-898e-2cc3381525a5
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - OutlineNumber element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # OutlineNumber Element

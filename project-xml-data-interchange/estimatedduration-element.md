@@ -1,4 +1,4 @@
-﻿---
+---
 title: EstimatedDuration Element
 TOCTitle: EstimatedDuration Element
 ms:assetid: d3fe67e2-3152-4558-bb7e-a688003f1052
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - EstimatedDuration element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # EstimatedDuration Element

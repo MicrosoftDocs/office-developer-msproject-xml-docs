@@ -1,4 +1,4 @@
-﻿---
+---
 title: Default Element (ExtendedAttribute)
 TOCTitle: Default Element
 ms:assetid: f88019f5-1043-4668-83ae-8fe7bb9b766e
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Default element (ExtendedAttribute)
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Default Element (ExtendedAttribute)

@@ -1,4 +1,4 @@
-﻿---
+---
 title: ActiveDirectoryGUID Element
 TOCTitle: ActiveDirectoryGUID Element
 ms:assetid: 4e64d155-e50a-435e-a189-f6a774c041bd
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - ActiveDirectoryGUID element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # ActiveDirectoryGUID Element

@@ -1,4 +1,4 @@
-﻿---
+---
 title: SpreadPercentComplete Element
 TOCTitle: SpreadPercentComplete Element
 ms:assetid: 4fb2ddbf-30b9-499c-ba59-25ff8f4db2b3
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - SpreadPercentComplete element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # SpreadPercentComplete Element

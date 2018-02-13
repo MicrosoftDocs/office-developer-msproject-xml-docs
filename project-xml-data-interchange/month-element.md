@@ -1,4 +1,4 @@
-﻿---
+---
 title: Month Element
 TOCTitle: Month Element
 ms:assetid: 2d77e623-efaa-4695-a08f-1b64e8525292
@@ -10,6 +10,7 @@ f1_keywords:
 - Month element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Month Element

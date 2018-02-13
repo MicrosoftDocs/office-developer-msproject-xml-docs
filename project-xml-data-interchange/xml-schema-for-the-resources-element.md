@@ -1,4 +1,4 @@
-﻿---
+---
 title: XML Schema for the Resources Element
 TOCTitle: XML Schema for the Resources Element
 ms:assetid: 56a91683-2a3e-4879-a0ef-dcb7918c4965
@@ -15,6 +15,7 @@ f1_keywords:
 - XML in Project
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # XML Schema for the Resources Element

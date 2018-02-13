@@ -1,4 +1,4 @@
-﻿---
+---
 title: AutoAddNewResourcesAndTasks Element
 TOCTitle: AutoAddNewResourcesAndTasks Element
 ms:assetid: f7b73dcf-03bf-4d25-8c69-4759c1266c80
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - AutoAddNewResourcesAndTasks element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # AutoAddNewResourcesAndTasks Element

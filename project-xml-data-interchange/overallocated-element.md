@@ -1,4 +1,4 @@
-﻿---
+---
 title: OverAllocated Element
 TOCTitle: OverAllocated Element
 ms:assetid: 9f8faa7d-0f6a-4822-99a0-aaf381af279b
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - OverAllocated element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # OverAllocated Element

@@ -1,4 +1,4 @@
-﻿---
+---
 title: ElemType Element
 TOCTitle: ElemType Element
 ms:assetid: b9db69dd-41c2-4247-9e88-efa1fa74cff1
@@ -10,6 +10,7 @@ f1_keywords:
 - ElemType element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # ElemType Element

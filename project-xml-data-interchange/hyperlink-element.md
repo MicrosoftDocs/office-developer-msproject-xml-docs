@@ -1,4 +1,4 @@
-﻿---
+---
 title: Hyperlink Element
 TOCTitle: Hyperlink Element
 ms:assetid: f22dbcc7-ea0e-4171-8257-3d90df08e40d
@@ -10,6 +10,7 @@ f1_keywords:
 - Hyperlink element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Hyperlink Element

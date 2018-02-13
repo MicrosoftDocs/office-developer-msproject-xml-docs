@@ -1,4 +1,4 @@
-﻿---
+---
 title: Separator Element
 TOCTitle: Separator Element
 ms:assetid: 16572e35-3286-494a-a23b-fe5e70040b9f
@@ -8,6 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Separator element
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Separator Element

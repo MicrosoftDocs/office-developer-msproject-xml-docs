@@ -1,4 +1,4 @@
-﻿---
+---
 title: FieldGUID Element
 TOCTitle: FieldGUID Element
 ms:assetid: aa629c7c-8921-42c6-9f82-000baf39c3fa
@@ -10,6 +10,7 @@ f1_keywords:
 - FieldGUID element
 dev_langs:
 - xml
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # FieldGUID Element

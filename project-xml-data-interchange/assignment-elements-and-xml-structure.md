@@ -1,4 +1,4 @@
-﻿---
+---
 title: Assignment Elements and XML Structure
 TOCTitle: Assignment Elements and XML Structure
 ms:assetid: f74cca91-ea2a-478d-b935-528b25dddaa8
@@ -14,6 +14,7 @@ f1_keywords:
 - Project XML elements
 - Project 2007 XML
 - Project XML structure
+monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
 # Assignment Elements and XML Structure
