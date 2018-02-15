@@ -108,7 +108,7 @@ Table 1. Task-level Enterprise Custom Field IDs
 </tbody>
 </table>
 
-For more information, see [Custom Field Data in XML](bb968687\(v=office.12\).md).
+For more information, see [Custom Field Data in XML](custom-field-data-in-xml.md).
 
 ## Example
 
@@ -214,9 +214,9 @@ The following example shows three different representations of enterprise task c
 
 #### Concepts
 
-[Task Elements and XML Structure](bb968475\(v=office.12\).md)
+[Task Elements and XML Structure](task-elements-and-xml-structure.md)
 
-[XML Schema for the Tasks Element](bb968415\(v=office.12\).md)
+[XML Schema for the Tasks Element](xml-schema-for-the-tasks-element.md)
 
-[Custom Field Data in XML](bb968687\(v=office.12\).md)
+[Custom Field Data in XML](custom-field-data-in-xml.md)
 

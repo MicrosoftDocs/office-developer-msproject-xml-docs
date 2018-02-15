@@ -37,7 +37,7 @@ The start date of the calendar exception or work week.
 
 ## Remarks
 
-For an example that includes a calendar exception and a work week, see [Calendar Element](bb968481\(v=office.12\).md).
+For an example that includes a calendar exception and a work week, see [Calendar Element](calendar-element.md).
 
 ## Occurrences
 
@@ -57,7 +57,7 @@ For an example that includes a calendar exception and a work week, see [Calendar
 
 #### Concepts
 
-[Calendar Elements and XML Structure](bb968563\(v=office.12\).md)
+[Calendar Elements and XML Structure](calendar-elements-and-xml-structure.md)
 
-[XML Schema for the Calendars Element](bb968557\(v=office.12\).md)
+[XML Schema for the Calendars Element](xml-schema-for-the-calendars-element.md)
 

@@ -221,5 +221,5 @@ The complete Project XML Data Interchange Schema is included in the Project 2007
 
 #### Concepts
 
-[OutlineCode Elements and XML Structure](bb968596\(v=office.12\).md)
+[OutlineCode Elements and XML Structure](outlinecode-elements-and-xml-structure.md)
 

@@ -26,156 +26,156 @@ This section contains information about the Project element and the children of 
 
 ## XML Structure of Project Elements
 
-The following shows the XML structure of the elements defined by the Project schema section of mspdi\_pj12.xsd. The data type is indicated for those elements that require a text value. You can find more detailed information about valid text values for each element in the documentation annotations that are embedded in the [XML Schema for the Project Element](bb968695\(v=office.12\).md).
+The following shows the XML structure of the elements defined by the Project schema section of mspdi\_pj12.xsd. The data type is indicated for those elements that require a text value. You can find more detailed information about valid text values for each element in the documentation annotations that are embedded in the [XML Schema for the Project Element](xml-schema-for-the-project-element.md).
 
-For more information about the data types used in the Project 2007 XML Data Interchange Schema, see [Introduction to Project XML Data](bb968652\(v=office.12\).md).
+For more information about the data types used in the Project 2007 XML Data Interchange Schema, see [Introduction to Project XML Data](introduction-to-project-xml-data.md).
 
 
 > [!NOTE]
 >   Detailed information about the structure of the OutlineCodes, WBSMasks, ExtendedAttributes, Calendars, Tasks, Resources, and Assignments elements are shown in separate topics in this schema reference.
 
 
-\<[Project](bb968701\(v=office.12\).md)\>
+\<[Project](project-element.md)\>
 
-    \<[SaveVersion](bb968654\(v=office.12\).md)\>integer\</SaveVersion\>
+    \<[SaveVersion](saveversion-element.md)\>integer\</SaveVersion\>
 
-    \<[UID](bb968590\(v=office.12\).md) \>string\</UID\>
+    \<[UID](uid-element.md) \>string\</UID\>
 
-    \<[Name](bb968600\(v=office.12\).md)\>string\</Name\>
+    \<[Name](name-element.md)\>string\</Name\>
 
-    \<[Title](bb968746\(v=office.12\).md)\>string\</Title\>
+    \<[Title](title-element-project.md)\>string\</Title\>
 
-    \<[Subject](bb968657\(v=office.12\).md)\>string\</Subject\>
+    \<[Subject](subject-element.md)\>string\</Subject\>
 
-    \<[Category](bb968456\(v=office.12\).md)\>string\</Category\>
+    \<[Category](category-element.md)\>string\</Category\>
 
-    \<[Company](bb968707\(v=office.12\).md)\>string\</Company\>
+    \<[Company](company-element.md)\>string\</Company\>
 
-    \<[Manager](bb968670\(v=office.12\).md)\>string\</Manager\>
+    \<[Manager](manager-element.md)\>string\</Manager\>
 
-    \<[Author](bb968681\(v=office.12\).md)\>string\</Author\>
+    \<[Author](author-element.md)\>string\</Author\>
 
-    \<[CreationDate](bb968396\(v=office.12\).md)\>dateTime\</CreationDate\>
+    \<[CreationDate](creationdate-element.md)\>dateTime\</CreationDate\>
 
-    \<[Revision](bb968601\(v=office.12\).md)\>integer\</Revision\>
+    \<[Revision](revision-element.md)\>integer\</Revision\>
 
-    \<[LastSaved](bb968736\(v=office.12\).md)\>dateTime\</LastSaved\>
+    \<[LastSaved](lastsaved-element.md)\>dateTime\</LastSaved\>
 
-    \<[ScheduleFromStart](bb968741\(v=office.12\).md)\>boolean\</ScheduleFromStart\>
+    \<[ScheduleFromStart](schedulefromstart-element.md)\>boolean\</ScheduleFromStart\>
 
-    \<[StartDate](bb968562\(v=office.12\).md)\>dateTime\</StartDate\>
+    \<[StartDate](startdate-element.md)\>dateTime\</StartDate\>
 
-    \<[FinishDate](bb968517\(v=office.12\).md)\>dateTime\</FinishDate\>
+    \<[FinishDate](finishdate-element.md)\>dateTime\</FinishDate\>
 
-    \<[FYStartDate](bb968568\(v=office.12\).md)\>integer\</FYStartDate\>
+    \<[FYStartDate](fystartdate-element.md)\>integer\</FYStartDate\>
 
-    \<[CriticalSlackLimit](bb968531\(v=office.12\).md)\>integer\</CriticalSlackLimit\>
+    \<[CriticalSlackLimit](criticalslacklimit-element.md)\>integer\</CriticalSlackLimit\>
 
-    \<[CurrencyDigits](bb968638\(v=office.12\).md)\>integer\</CurrencyDigits\>
+    \<[CurrencyDigits](currencydigits-element.md)\>integer\</CurrencyDigits\>
 
-    \<[CurrencySymbol](bb968502\(v=office.12\).md)\>string\</CurrencySymbol\>
+    \<[CurrencySymbol](currencysymbol-element.md)\>string\</CurrencySymbol\>
 
-    \<[CurrencyCode](bb968575\(v=office.12\).md) \>string\</CurrencyCode\>
+    \<[CurrencyCode](currencycode-element.md) \>string\</CurrencyCode\>
 
-    \<[CurrencySymbolPosition](bb968631\(v=office.12\).md)\>integer\</CurrencySymbolPosition\>
+    \<[CurrencySymbolPosition](currencysymbolposition-element.md)\>integer\</CurrencySymbolPosition\>
 
-    \<[CalendarUID](bb968514\(v=office.12\).md)\>integer\</CalendarUID\>
+    \<[CalendarUID](calendaruid-element.md)\>integer\</CalendarUID\>
 
-    \<[DefaultStartTime](bb968578\(v=office.12\).md)\>time\</DefaultStartTime\>
+    \<[DefaultStartTime](defaultstarttime-element.md)\>time\</DefaultStartTime\>
 
-    \<[DefaultFinishTime](bb968593\(v=office.12\).md)\>time\</DefaultFinishTime\>
+    \<[DefaultFinishTime](defaultfinishtime-element.md)\>time\</DefaultFinishTime\>
 
-    \<[MinutesPerDay](bb968518\(v=office.12\).md)\>integer\</MinutesPerDay\>
+    \<[MinutesPerDay](minutesperday-element.md)\>integer\</MinutesPerDay\>
 
-    \<[MinutesPerWeek](bb968627\(v=office.12\).md)\>integer\</MinutesPerWeek\>
+    \<[MinutesPerWeek](minutesperweek-element.md)\>integer\</MinutesPerWeek\>
 
-    \<[DaysPerMonth](bb968592\(v=office.12\).md)\>integer\</DaysPerMonth\>
+    \<[DaysPerMonth](dayspermonth-element.md)\>integer\</DaysPerMonth\>
 
-    \<[DefaultTaskType](bb968603\(v=office.12\).md)\>integer\</DefaultTaskType\>
+    \<[DefaultTaskType](defaulttasktype-element.md)\>integer\</DefaultTaskType\>
 
-    \<[DefaultFixedCostAccrual](bb968743\(v=office.12\).md)\>integer\</DefaultFixedCostAccrual\>
+    \<[DefaultFixedCostAccrual](defaultfixedcostaccrual-element.md)\>integer\</DefaultFixedCostAccrual\>
 
-    \<[DefaultStandardRate](bb968449\(v=office.12\).md)\>float\</DefaultStandardRate\>
+    \<[DefaultStandardRate](defaultstandardrate-element.md)\>float\</DefaultStandardRate\>
 
-    \<[DefaultOvertimeRate](bb968402\(v=office.12\).md)\>float\</DefaultOvertimeRate\>
+    \<[DefaultOvertimeRate](defaultovertimerate-element.md)\>float\</DefaultOvertimeRate\>
 
-    \<[DurationFormat](bb968637\(v=office.12\).md)\>integer\</DurationFormat\>
+    \<[DurationFormat](durationformat-element.md)\>integer\</DurationFormat\>
 
-    \<[WorkFormat](bb968538\(v=office.12\).md)\>integer\</WorkFormat\>
+    \<[WorkFormat](workformat-element.md)\>integer\</WorkFormat\>
 
-    \<[EditableActualCosts](bb968544\(v=office.12\).md)\>boolean\</EditableActualCosts\>
+    \<[EditableActualCosts](editableactualcosts-element.md)\>boolean\</EditableActualCosts\>
 
-    \<[HonorConstraints](bb968614\(v=office.12\).md)\>boolean\</HonorConstraints\>
+    \<[HonorConstraints](honorconstraints-element.md)\>boolean\</HonorConstraints\>
 
-    \<[EarnedValueMethod](bb968620\(v=office.12\).md)\>integer\</EarnedValueMethod\>
+    \<[EarnedValueMethod](earnedvaluemethod-element.md)\>integer\</EarnedValueMethod\>
 
-    \<[InsertedProjectsLikeSummary](bb968740\(v=office.12\).md)\>boolean\</InsertedProjectsLikeSummary\>
+    \<[InsertedProjectsLikeSummary](insertedprojectslikesummary-element.md)\>boolean\</InsertedProjectsLikeSummary\>
 
-    \<[MultipleCriticalPaths](bb968750\(v=office.12\).md)\>boolean\</MultipleCriticalPaths\>
+    \<[MultipleCriticalPaths](multiplecriticalpaths-element.md)\>boolean\</MultipleCriticalPaths\>
 
-    \<[NewTasksEffortDriven](bb968412\(v=office.12\).md)\>boolean\</NewTasksEffortDriven\>
+    \<[NewTasksEffortDriven](newtaskseffortdriven-element.md)\>boolean\</NewTasksEffortDriven\>
 
-    \<[NewTasksEstimated](bb968708\(v=office.12\).md)\>boolean\</NewTasksEstimated\>
+    \<[NewTasksEstimated](newtasksestimated-element.md)\>boolean\</NewTasksEstimated\>
 
-    \<[SplitsInProgressTasks](bb968513\(v=office.12\).md)\>boolean\</SplitsInProgressTasks\>
+    \<[SplitsInProgressTasks](splitsinprogresstasks-element.md)\>boolean\</SplitsInProgressTasks\>
 
-    \<[SpreadActualCost](bb968605\(v=office.12\).md)\>boolean\</SpreadActualCost\>
+    \<[SpreadActualCost](spreadactualcost-element.md)\>boolean\</SpreadActualCost\>
 
-    \<[SpreadPercentComplete](bb968498\(v=office.12\).md)\>boolean\</SpreadPercentComplete\>
+    \<[SpreadPercentComplete](spreadpercentcomplete-element.md)\>boolean\</SpreadPercentComplete\>
 
-    \<[TaskUpdatesResource](bb968594\(v=office.12\).md)\>boolean\</TaskUpdatesResource\>
+    \<[TaskUpdatesResource](taskupdatesresource-element.md)\>boolean\</TaskUpdatesResource\>
 
-    \<[FiscalYearStart](bb968550\(v=office.12\).md)\>boolean\</FiscalYearStart\>
+    \<[FiscalYearStart](fiscalyearstart-element.md)\>boolean\</FiscalYearStart\>
 
-    \<[WeekStartDay](bb968442\(v=office.12\).md)\>integer\</WeekStartDay\>
+    \<[WeekStartDay](weekstartday-element.md)\>integer\</WeekStartDay\>
 
-    \<[MoveCompletedEndsBack](bb968457\(v=office.12\).md)\>boolean\</MoveCompletedEndsBack\>
+    \<[MoveCompletedEndsBack](movecompletedendsback-element.md)\>boolean\</MoveCompletedEndsBack\>
 
-    \<[MoveRemainingStartsBack](bb968650\(v=office.12\).md)\>boolean\</MoveRemainingStartsBack\>
+    \<[MoveRemainingStartsBack](moveremainingstartsback-element.md)\>boolean\</MoveRemainingStartsBack\>
 
-    \<[MoveRemainingStartsForward](bb968418\(v=office.12\).md)\>boolean\</MoveRemainingStartsForward\>
+    \<[MoveRemainingStartsForward](moveremainingstartsforward-element.md)\>boolean\</MoveRemainingStartsForward\>
 
-    \<[MoveCompletedEndsForward](bb968463\(v=office.12\).md)\>boolean\</MoveCompletedEndsForward\>
+    \<[MoveCompletedEndsForward](movecompletedendsforward-element.md)\>boolean\</MoveCompletedEndsForward\>
 
-    \<[BaselineForEarnedValue](bb968527\(v=office.12\).md)\>integer\</BaselineForEarnedValue\>
+    \<[BaselineForEarnedValue](baselineforearnedvalue-element.md)\>integer\</BaselineForEarnedValue\>
 
-    \<[AutoAddNewResourcesAndTasks](bb968742\(v=office.12\).md)\>boolean\</AutoAddNewResourcesAndTasks\>
+    \<[AutoAddNewResourcesAndTasks](autoaddnewresourcesandtasks-element.md)\>boolean\</AutoAddNewResourcesAndTasks\>
 
-    \<[StatusDate](bb968628\(v=office.12\).md)\>dateTime\</StatusDate\>
+    \<[StatusDate](statusdate-element.md)\>dateTime\</StatusDate\>
 
-    \<[CurrentDate](bb968629\(v=office.12\).md)\>dateTime\</CurrentDate\>
+    \<[CurrentDate](currentdate-element.md)\>dateTime\</CurrentDate\>
 
-    \<[MicrosoftProjectServerURL](bb968553\(v=office.12\).md)\>boolean\</MicrosoftProjectServerURL\>
+    \<[MicrosoftProjectServerURL](microsoftprojectserverurl-element.md)\>boolean\</MicrosoftProjectServerURL\>
 
-    \<[Autolink](bb968458\(v=office.12\).md)\>boolean\</Autolink\>
+    \<[Autolink](autolink-element.md)\>boolean\</Autolink\>
 
-    \<[NewTaskStartDate](bb968699\(v=office.12\).md)\>integer\</NewTaskStartDate\>
+    \<[NewTaskStartDate](newtaskstartdate-element.md)\>integer\</NewTaskStartDate\>
 
-    \<[DefaultTaskEVMethod](bb968440\(v=office.12\).md)\>integer\</DefaultTaskEVMethod\>
+    \<[DefaultTaskEVMethod](defaulttaskevmethod-element.md)\>integer\</DefaultTaskEVMethod\>
 
-    \<[ProjectExternallyEdited](bb968674\(v=office.12\).md)\>boolean\</ProjectExternallyEdited\>
+    \<[ProjectExternallyEdited](projectexternallyedited-element.md)\>boolean\</ProjectExternallyEdited\>
 
-    \<[ExtendedCreationDate](bb968606\(v=office.12\).md)\>dateTime\</ExtendedCreationDate\>
+    \<[ExtendedCreationDate](extendedcreationdate-element.md)\>dateTime\</ExtendedCreationDate\>
 
-    \<[ActualsInSync](bb968482\(v=office.12\).md)\>boolean\</ActualsInSync\>
+    \<[ActualsInSync](actualsinsync-element.md)\>boolean\</ActualsInSync\>
 
-    \<[RemoveFileProperties](bb968622\(v=office.12\).md)\>boolean\</RemoveFileProperties\>
+    \<[RemoveFileProperties](removefileproperties-element.md)\>boolean\</RemoveFileProperties\>
 
-    \<[AdminProject](bb968694\(v=office.12\).md)\>boolean\</AdminProject\>
+    \<[AdminProject](adminproject-element.md)\>boolean\</AdminProject\>
 
-    \<[OutlineCodes](bb968596\(v=office.12\).md)\> . . . \</OutlineCodes\>
+    \<[OutlineCodes](outlinecode-elements-and-xml-structure.md)\> . . . \</OutlineCodes\>
 
-    \<[WBSMasks](bb968416\(v=office.12\).md)\> . . . \</WBSMasks\>
+    \<[WBSMasks](wbsmask-elements-and-xml-structure.md)\> . . . \</WBSMasks\>
 
-    \<[ExtendedAttributes](bb968579\(v=office.12\).md)…\</ExtendedAttributes\>
+    \<[ExtendedAttributes](extendedattribute-elements-and-xml-structure.md)…\</ExtendedAttributes\>
 
-    \<[Calendars](bb968563\(v=office.12\).md)\> . . . \</Calendars\>
+    \<[Calendars](calendar-elements-and-xml-structure.md)\> . . . \</Calendars\>
 
-    \<[Tasks](bb968475\(v=office.12\).md)\> . . . \</Tasks\>
+    \<[Tasks](task-elements-and-xml-structure.md)\> . . . \</Tasks\>
 
-    \<[Resources](bb968445\(v=office.12\).md)\> . . . \</Resources\>
+    \<[Resources](resource-elements-and-xml-structure.md)\> . . . \</Resources\>
 
-    \<[Assignments](bb968738\(v=office.12\).md)\> . . . \</Assignments\>
+    \<[Assignments](assignment-elements-and-xml-structure.md)\> . . . \</Assignments\>
 
 \</Project\>
 
@@ -183,23 +183,23 @@ For more information about the data types used in the Project 2007 XML Data Inte
 
 #### Concepts
 
-[Introduction to Project XML Data](bb968652\(v=office.12\).md)
+[Introduction to Project XML Data](introduction-to-project-xml-data.md)
 
-[XML Schema for the Project Element](bb968695\(v=office.12\).md)
+[XML Schema for the Project Element](xml-schema-for-the-project-element.md)
 
-[OutlineCode Elements and XML Structure](bb968596\(v=office.12\).md)
+[OutlineCode Elements and XML Structure](outlinecode-elements-and-xml-structure.md)
 
-[WBSMask Elements and XML Structure](bb968416\(v=office.12\).md)
+[WBSMask Elements and XML Structure](wbsmask-elements-and-xml-structure.md)
 
-[ExtendedAttribute Elements and XML Structure](bb968579\(v=office.12\).md)
+[ExtendedAttribute Elements and XML Structure](extendedattribute-elements-and-xml-structure.md)
 
-[Calendar Elements and XML Structure](bb968563\(v=office.12\).md)
+[Calendar Elements and XML Structure](calendar-elements-and-xml-structure.md)
 
-[Task Elements and XML Structure](bb968475\(v=office.12\).md)
+[Task Elements and XML Structure](task-elements-and-xml-structure.md)
 
-[Resource Elements and XML Structure](bb968445\(v=office.12\).md)
+[Resource Elements and XML Structure](resource-elements-and-xml-structure.md)
 
-[Assignment Elements and XML Structure](bb968738\(v=office.12\).md)
+[Assignment Elements and XML Structure](assignment-elements-and-xml-structure.md)
 
-[TimephasedDataType Elements and XML Structure](bb968722\(v=office.12\).md)
+[TimephasedDataType Elements and XML Structure](timephaseddatatype-elements-and-xml-structure.md)
 

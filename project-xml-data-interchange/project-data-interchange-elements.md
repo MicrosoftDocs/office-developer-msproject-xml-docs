@@ -33,7 +33,7 @@ This topic includes the following sections:
 
 The Project Data Interchange Schema is included in the Project 2007 SDK download. For a link to the Project 2007 SDK download, see [Welcome to the Microsoft Office Project 2007 SDK](https://msdn.microsoft.com/en-us/library/ms512767).
 
-For a list of all elements in the schema, see [Alphabetical List of Elements and Types](bb968673\(v=office.12\).md).
+For a list of all elements in the schema, see [Alphabetical List of Elements and Types](alphabetical-list-of-elements-and-types.md).
 
 Many elements in the Project Data Interchange Schema represent data fields in Microsoft Office Project Professional 2007. For more information about fields in Project Professional 2007 and Project Standard 2007, see [Fields Reference](http://office.microsoft.com/en-us/project/ch100788901033.aspx).
 
@@ -41,23 +41,23 @@ Many elements in the Project Data Interchange Schema represent data fields in Mi
 
 The following outline shows the high-level XML element structure of the Microsoft Office Project 2007 XML Data Interchange Schema (mspdi\_pj12.xsd). Links in the outline go to individual element descriptions. For the XML structure of each of the following elements, see Detailed Element Structure.
 
-\<[Project](bb968701\(v=office.12\).md)\>
+\<[Project](project-element.md)\>
 
     \<\!-- … additional child elements of Project --\>
 
-    \<[OutlineCodes](bb968732\(v=office.12\).md)\> … \</OutlineCodes\>
+    \<[OutlineCodes](outlinecodes-element.md)\> … \</OutlineCodes\>
 
-    \<[WBSMasks](bb968580\(v=office.12\).md)\> … \</WBSMasks\>
+    \<[WBSMasks](wbsmasks-element.md)\> … \</WBSMasks\>
 
-    \<[ExtendedAttributes](bb968426\(v=office.12\).md)\> … \</ExtendedAttributes\>
+    \<[ExtendedAttributes](extendedattributes-element.md)\> … \</ExtendedAttributes\>
 
-    \<[Calendars](bb968499\(v=office.12\).md)\> … \</Calendars\>
+    \<[Calendars](calendars-element.md)\> … \</Calendars\>
 
-    \<[Tasks](bb968617\(v=office.12\).md)\> … \</Tasks\>
+    \<[Tasks](tasks-element.md)\> … \</Tasks\>
 
-    \<[Resources](bb968730\(v=office.12\).md)\> … \</Resources\>
+    \<[Resources](resources-element.md)\> … \</Resources\>
 
-    \<[Assignments](bb968684\(v=office.12\).md)\> … \</Assignments\>
+    \<[Assignments](assignments-element.md)\> … \</Assignments\>
 
 \</Project\>
 
@@ -65,35 +65,35 @@ The following outline shows the high-level XML element structure of the Microsof
 
 For details of the XML structure of each of the major elements, see the following topics:
 
-  - [Project Elements and XML Structure](bb968439\(v=office.12\).md)
+  - [Project Elements and XML Structure](project-elements-and-xml-structure.md)
 
-  - [OutlineCode Elements and XML Structure](bb968596\(v=office.12\).md)
+  - [OutlineCode Elements and XML Structure](outlinecode-elements-and-xml-structure.md)
 
-  - [WBSMask Elements and XML Structure](bb968416\(v=office.12\).md)
+  - [WBSMask Elements and XML Structure](wbsmask-elements-and-xml-structure.md)
 
-  - [ExtendedAttribute Elements and XML Structure](bb968579\(v=office.12\).md)
+  - [ExtendedAttribute Elements and XML Structure](extendedattribute-elements-and-xml-structure.md)
 
-  - [Calendar Elements and XML Structure](bb968563\(v=office.12\).md)
+  - [Calendar Elements and XML Structure](calendar-elements-and-xml-structure.md)
 
-  - [Task Elements and XML Structure](bb968475\(v=office.12\).md)
+  - [Task Elements and XML Structure](task-elements-and-xml-structure.md)
 
-  - [Resource Elements and XML Structure](bb968445\(v=office.12\).md)
+  - [Resource Elements and XML Structure](resource-elements-and-xml-structure.md)
 
-  - [Assignment Elements and XML Structure](bb968738\(v=office.12\).md)
+  - [Assignment Elements and XML Structure](assignment-elements-and-xml-structure.md)
 
-  - [TimephasedDataType Elements and XML Structure](bb968722\(v=office.12\).md)
+  - [TimephasedDataType Elements and XML Structure](timephaseddatatype-elements-and-xml-structure.md)
 
 ## See Also
 
 #### Concepts
 
-[Introduction to Project XML Data](bb968652\(v=office.12\).md)
+[Introduction to Project XML Data](introduction-to-project-xml-data.md)
 
 #### Other Resources
 
-[Changes in the Project 2007 XML Data Interchange Schema](bb968543\(v=office.12\).md)
+[Changes in the Project 2007 XML Data Interchange Schema](changes-in-the-project-2007-xml-data-interchange-schema.md)
 
-[Working with Project XML Data Interchange Files](bb968469\(v=office.12\).md)
+[Working with Project XML Data Interchange Files](working-with-project-xml-data-interchange-files.md)
 
 [Fields Reference](http://office.microsoft.com/en-us/project/ch100788901033.aspx)
 

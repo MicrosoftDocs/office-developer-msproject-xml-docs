@@ -24,71 +24,71 @@ monikerRange: '>= project-client-2007 || project-client-odc'
 
 This section contains information about children of the OutlineCodes element defined in the Microsoft Office Project 2007 XML Data Interchange Schema (mspdi\_pj12.xsd). The elements represent outline code data when you save a project in the XML format.
 
-OutlineCodes is a child of the Project element. For more information, see [Project Elements and XML Structure](bb968439\(v=office.12\).md).
+OutlineCodes is a child of the Project element. For more information, see [Project Elements and XML Structure](project-elements-and-xml-structure.md).
 
 ## XML Structure of OutlineCode Elements
 
-The following shows the XML structure of the elements defined by the OutlineCode schema section of mspdi\_pj12.xsd. The data type is indicated for those elements that require a text value. You can find more detailed information about valid text values for each element in the documentation annotations that are embedded in the [XML Schema for the OutlineCodes Element](bb968584\(v=office.12\).md).
+The following shows the XML structure of the elements defined by the OutlineCode schema section of mspdi\_pj12.xsd. The data type is indicated for those elements that require a text value. You can find more detailed information about valid text values for each element in the documentation annotations that are embedded in the [XML Schema for the OutlineCodes Element](xml-schema-for-the-outlinecodes-element.md).
 
-For more information on the data types used in the Project 2007 XML Data Interchange Schema, see [Introduction to Project XML Data](bb968652\(v=office.12\).md).
+For more information on the data types used in the Project 2007 XML Data Interchange Schema, see [Introduction to Project XML Data](introduction-to-project-xml-data.md).
 
-\<[OutlineCodes](bb968732\(v=office.12\).md)\>
+\<[OutlineCodes](outlinecodes-element.md)\>
 
-    \<[OutlineCode](bb968410\(v=office.12\).md)\>
+    \<[OutlineCode](outlinecode-element.md)\>
 
-        \<[Guid](bb968441\(v=office.12\).md)\>string\</Guid\>
+        \<[Guid](guid-element-multiple-parents.md)\>string\</Guid\>
 
-        \<[FieldID](bb968474\(v=office.12\).md)\>string\</FieldID\>
+        \<[FieldID](fieldid-element.md)\>string\</FieldID\>
 
-        \<[FieldName](bb968619\(v=office.12\).md)\>string\</FieldName\>
+        \<[FieldName](fieldname-element.md)\>string\</FieldName\>
 
-        \<[Alias](bb968395\(v=office.12\).md)\>string\</Alias\>
+        \<[Alias](alias-element.md)\>string\</Alias\>
 
-        \<[PhoneticAlias](bb968672\(v=office.12\).md)\>string\</PhoneticAlias\>
+        \<[PhoneticAlias](phoneticalias-element.md)\>string\</PhoneticAlias\>
 
-        \<[Values](bb968604\(v=office.12\).md)\>
+        \<[Values](values-element.md)\>
 
-            \<[Value](bb968696\(v=office.12\).md)\>
+            \<[Value](value-element.md)\>
 
-                \<[ValueID](bb968406\(v=office.12\).md)\>integer\</ValueID\>
+                \<[ValueID](valueid-element.md)\>integer\</ValueID\>
 
-                \<[FieldGUID](bb968634\(v=office.12\).md)\>string\</FieldGUID\>
+                \<[FieldGUID](fieldguid-element.md)\>string\</FieldGUID\>
 
-                \<[Type](bb968434\(v=office.12\).md)\>integer\</Type\>
+                \<[Type](type-element-multiple-parents.md)\>integer\</Type\>
 
-                \<[ParentValueID](bb968739\(v=office.12\).md)\>integer\</ParentValueID\>
+                \<[ParentValueID](parentvalueid-element.md)\>integer\</ParentValueID\>
 
-                \<[Value](bb968696\(v=office.12\).md)\>string\</Value\>
+                \<[Value](value-element.md)\>string\</Value\>
 
-                \<[Description](bb968567\(v=office.12\).md)\>string\</Description\>
+                \<[Description](description-element.md)\>string\</Description\>
 
             \</Value\>
 
         \</Values\>
 
-        \<[Enterprise](bb968519\(v=office.12\).md)\>boolean\</Enterprise\>
+        \<[Enterprise](enterprise-element.md)\>boolean\</Enterprise\>
 
-        \<[EnterpriseOutlineCodeAlias](bb968491\(v=office.12\).md)\>integer\</EnterpriseOutlineCodeAlias\>
+        \<[EnterpriseOutlineCodeAlias](enterpriseoutlinecodealias-element.md)\>integer\</EnterpriseOutlineCodeAlias\>
 
-        \<[ResourceSubstitutionEnabled](bb968443\(v=office.12\).md)\>boolean\</ResourceSubstitutionEnabled\>
+        \<[ResourceSubstitutionEnabled](resourcesubstitutionenabled-element.md)\>boolean\</ResourceSubstitutionEnabled\>
 
-        \<[LeafOnly](bb968419\(v=office.12\).md)\>boolean\</LeafOnly\>
+        \<[LeafOnly](leafonly-element.md)\>boolean\</LeafOnly\>
 
-        \<[AllLevelsRequired](bb968417\(v=office.12\).md)\>boolean\</AllLevelsRequired\>
+        \<[AllLevelsRequired](alllevelsrequired-element.md)\>boolean\</AllLevelsRequired\>
 
-        \<[OnlyTableValuesAllowed](bb968454\(v=office.12\).md)\>boolean\</OnlyTableValuesAllowed\>
+        \<[OnlyTableValuesAllowed](onlytablevaluesallowed-element.md)\>boolean\</OnlyTableValuesAllowed\>
 
-        \<[Masks](bb968478\(v=office.12\).md)\>
+        \<[Masks](masks-element.md)\>
 
-            \<[Mask](bb968659\(v=office.12\).md)\>
+            \<[Mask](mask-element.md)\>
 
-                \<[Level](bb968635\(v=office.12\).md)\>integer\</Level\>
+                \<[Level](level-element.md)\>integer\</Level\>
 
-                \<[Type](bb968434\(v=office.12\).md)\>integer\</Type\>
+                \<[Type](type-element-multiple-parents.md)\>integer\</Type\>
 
-                \<[Length](bb968526\(v=office.12\).md)\>integer\</Length\>
+                \<[Length](length-element.md)\>integer\</Length\>
 
-                \<[Separator](bb968421\(v=office.12\).md)\>string\</Separator\>
+                \<[Separator](separator-element.md)\>string\</Separator\>
 
             \</Mask\>
 
@@ -102,9 +102,9 @@ For more information on the data types used in the Project 2007 XML Data Interch
 
 #### Concepts
 
-[Introduction to Project XML Data](bb968652\(v=office.12\).md)
+[Introduction to Project XML Data](introduction-to-project-xml-data.md)
 
-[XML Schema for the OutlineCodes Element](bb968584\(v=office.12\).md)
+[XML Schema for the OutlineCodes Element](xml-schema-for-the-outlinecodes-element.md)
 
-[Project Elements and XML Structure](bb968439\(v=office.12\).md)
+[Project Elements and XML Structure](project-elements-and-xml-structure.md)
 

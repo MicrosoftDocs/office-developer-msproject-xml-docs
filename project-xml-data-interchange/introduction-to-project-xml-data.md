@@ -22,33 +22,33 @@ Microsoft Office Project 2007 can save and import project data in an XML file fo
 
 ## In This Section
 
-  - [Changes in the Project 2007 XML Data Interchange Schema](bb968543\(v=office.12\).md) includes a list of new XML elements in Project 2007 and explains changes in XML data for custom fields.
+  - [Changes in the Project 2007 XML Data Interchange Schema](changes-in-the-project-2007-xml-data-interchange-schema.md) includes a list of new XML elements in Project 2007 and explains changes in XML data for custom fields.
 
-  - [Working with Project XML Data Interchange Files](bb968469\(v=office.12\).md) explains how to save and open projects in XML format and shows how to use XSLT transformations to create reports with Project XML data.
+  - [Working with Project XML Data Interchange Files](working-with-project-xml-data-interchange-files.md) explains how to save and open projects in XML format and shows how to use XSLT transformations to create reports with Project XML data.
 
-  - [Project Data Interchange Elements](bb968664\(v=office.12\).md) includes an alphabetical list of elements and types and a reference for each main section of the Project 2007 XML Data Interchange Schema.
+  - [Project Data Interchange Elements](project-data-interchange-elements.md) includes an alphabetical list of elements and types and a reference for each main section of the Project 2007 XML Data Interchange Schema.
 
 ## Project Data Interchange Schema Reference Structure
 
 The Project XML Data Interchange Schema Reference is structured into the following main sections:
 
-  - [Project Elements and XML Structure](bb968439\(v=office.12\).md)
+  - [Project Elements and XML Structure](project-elements-and-xml-structure.md)
 
-  - [OutlineCode Elements and XML Structure](bb968596\(v=office.12\).md)
+  - [OutlineCode Elements and XML Structure](outlinecode-elements-and-xml-structure.md)
 
-  - [WBSMask Elements and XML Structure](bb968416\(v=office.12\).md)
+  - [WBSMask Elements and XML Structure](wbsmask-elements-and-xml-structure.md)
 
-  - [ExtendedAttribute Elements and XML Structure](bb968579\(v=office.12\).md)
+  - [ExtendedAttribute Elements and XML Structure](extendedattribute-elements-and-xml-structure.md)
 
-  - [Calendar Elements and XML Structure](bb968563\(v=office.12\).md)
+  - [Calendar Elements and XML Structure](calendar-elements-and-xml-structure.md)
 
-  - [Task Elements and XML Structure](bb968475\(v=office.12\).md)
+  - [Task Elements and XML Structure](task-elements-and-xml-structure.md)
 
-  - [Resource Elements and XML Structure](bb968445\(v=office.12\).md)
+  - [Resource Elements and XML Structure](resource-elements-and-xml-structure.md)
 
-  - [Assignment Elements and XML Structure](bb968738\(v=office.12\).md)
+  - [Assignment Elements and XML Structure](assignment-elements-and-xml-structure.md)
 
-  - [TimephasedDataType Elements and XML Structure](bb968722\(v=office.12\).md)
+  - [TimephasedDataType Elements and XML Structure](timephaseddatatype-elements-and-xml-structure.md)
 
 ## Data Types
 
@@ -112,5 +112,5 @@ Table 1. Data types for text values
 
 #### Concepts
 
-[Project Data Interchange Elements](bb968664\(v=office.12\).md)
+[Project Data Interchange Elements](project-data-interchange-elements.md)
 

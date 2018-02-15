@@ -132,19 +132,19 @@ In the following example, ValueGUID and ValueID for the outline code in the task
 
 #### Reference
 
-[OutlineCode Element](bb968410\(v=office.12\).md)
+[OutlineCode Element](outlinecode-element.md)
 
 #### Concepts
 
-[OutlineCode Elements and XML Structure](bb968596\(v=office.12\).md)
+[OutlineCode Elements and XML Structure](outlinecode-elements-and-xml-structure.md)
 
-[XML Schema for the OutlineCodes Element](bb968584\(v=office.12\).md)
+[XML Schema for the OutlineCodes Element](xml-schema-for-the-outlinecodes-element.md)
 
-[Task Elements and XML Structure](bb968475\(v=office.12\).md)
+[Task Elements and XML Structure](task-elements-and-xml-structure.md)
 
-[XML Schema for the Tasks Element](bb968415\(v=office.12\).md)
+[XML Schema for the Tasks Element](xml-schema-for-the-tasks-element.md)
 
-[Resource Elements and XML Structure](bb968445\(v=office.12\).md)
+[Resource Elements and XML Structure](resource-elements-and-xml-structure.md)
 
-[XML Schema for the Resources Element](bb968511\(v=office.12\).md)
+[XML Schema for the Resources Element](xml-schema-for-the-resources-element.md)
 

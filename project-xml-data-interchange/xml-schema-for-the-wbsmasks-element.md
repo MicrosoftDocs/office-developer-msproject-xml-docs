@@ -105,5 +105,5 @@ The complete Project XML Data Interchange Schema is included in the Project 2007
 
 #### Concepts
 
-[WBSMask Elements and XML Structure](bb968416\(v=office.12\).md)
+[WBSMask Elements and XML Structure](wbsmask-elements-and-xml-structure.md)
 

@@ -24,13 +24,13 @@ monikerRange: '>= project-client-2007 || project-client-odc'
 
 This section contains information about children of the Tasks element defined in the Microsoft Office Project 2007 XML Data Interchange Schema (mspdi\_pj12.xsd). The elements represent task data when you save a project in the XML format.
 
-Tasks is a child of the Project element. For more information, see [Project Elements and XML Structure](bb968439\(v=office.12\).md).
+Tasks is a child of the Project element. For more information, see [Project Elements and XML Structure](project-elements-and-xml-structure.md).
 
 ## XML Structure of Task Elements
 
-The following shows the XML structure of the elements defined by the Task schema section of mspdi\_pj12.xsd. The data type is indicated for those elements that require a text value. You can find more detailed information about valid text values for each element in the documentation annotations that are embedded in the [Task Schema](bb968415\(v=office.12\).md).
+The following shows the XML structure of the elements defined by the Task schema section of mspdi\_pj12.xsd. The data type is indicated for those elements that require a text value. You can find more detailed information about valid text values for each element in the documentation annotations that are embedded in the [Task Schema](xml-schema-for-the-tasks-element.md).
 
-For more information about the data types used in the Project 2007 XML Data Interchange Schema, see [Introduction to Project XML Data](bb968652\(v=office.12\).md).
+For more information about the data types used in the Project 2007 XML Data Interchange Schema, see [Introduction to Project XML Data](introduction-to-project-xml-data.md).
 
 Many of the Task elements represent data fields in Microsoft Office Project. For more information about fields in Project Professional 2007 and Project Standard 2007, see [Fields Reference](http://office.microsoft.com/en-us/project/ch100788901033.aspx).
 
@@ -39,289 +39,289 @@ Many of the Task elements represent data fields in Microsoft Office Project. For
 > Detailed information about the structure of the TimephasedData element is shown in <A href="https://msdn.microsoft.com/en-us/library/317823-7111-4dfd-ae38-50a06c6cb70f(v=office.12)">TimephasedDataType Elements and XML Structure</A> in this schema reference.
 
 
-\<[Tasks](bb968617\(v=office.12\).md)\>
+\<[Tasks](tasks-element.md)\>
 
-    \<[Task](bb968487\(v=office.12\).md)\>
+    \<[Task](task-element.md)\>
 
-        \<[UID](bb968590\(v=office.12\).md)\>integer\</UID\>
+        \<[UID](uid-element.md)\>integer\</UID\>
 
-        \<[ID](bb968437\(v=office.12\).md)\>integer\</ID\>
+        \<[ID](id-element.md)\>integer\</ID\>
 
-        \<[Name](bb968600\(v=office.12\).md)\>string\</Name\>
+        \<[Name](name-element.md)\>string\</Name\>
 
-        \<[Type](bb968434\(v=office.12\).md)\>integer\</Type\>
+        \<[Type](type-element-multiple-parents.md)\>integer\</Type\>
 
-        \<[IsNull](bb968682\(v=office.12\).md)\>boolean\<IsNull\>
+        \<[IsNull](isnull-element.md)\>boolean\<IsNull\>
 
-        \<[CreateDate](bb968422\(v=office.12\).md)\>dateTime\</CreateDate\>
+        \<[CreateDate](createdate-element.md)\>dateTime\</CreateDate\>
 
-        \<[Contact](bb968485\(v=office.12\).md)\>string\</Contact\>
+        \<[Contact](contact-element.md)\>string\</Contact\>
 
-        \<[WBS](bb968566\(v=office.12\).md)\>string\</WBS\>
+        \<[WBS](wbs-element.md)\>string\</WBS\>
 
-        \<[WBSLevel](bb968653\(v=office.12\).md)\>string\<WBSLevel\>
+        \<[WBSLevel](wbslevel-element.md)\>string\<WBSLevel\>
 
-        \<[OutlineNumber](bb968651\(v=office.12\).md)\>string\</OutlineNumber\>
+        \<[OutlineNumber](outlinenumber-element.md)\>string\</OutlineNumber\>
 
-        \<[OutlineLevel](bb968465\(v=office.12\).md)\>integer\</OutlineLevel\>
+        \<[OutlineLevel](outlinelevel-element.md)\>integer\</OutlineLevel\>
 
-        \<[Priority](bb968643\(v=office.12\).md)\>integer\</Priority\>
+        \<[Priority](priority-element.md)\>integer\</Priority\>
 
-        \<[Start](bb968645\(v=office.12\).md)\>dateTime\</Start\>
+        \<[Start](start-element.md)\>dateTime\</Start\>
 
-        \<[Finish](bb968534\(v=office.12\).md)\>dateTime\</Finish\>
+        \<[Finish](finish-element.md)\>dateTime\</Finish\>
 
-        \<[Duration](bb968640\(v=office.12\).md)\>duration\</Duration\>
+        \<[Duration](duration-element.md)\>duration\</Duration\>
 
-        \<[DurationFormat](bb968637\(v=office.12\).md)\>integer\</DurationFormat\>
+        \<[DurationFormat](durationformat-element.md)\>integer\</DurationFormat\>
 
-        \<[Work](bb968571\(v=office.12\).md)\>duration\</Work\>
+        \<[Work](work-element.md)\>duration\</Work\>
 
-        \<[Stop](bb968470\(v=office.12\).md)\>dateTime\</Stop\>
+        \<[Stop](stop-element.md)\>dateTime\</Stop\>
 
-        \<[Resume](bb968423\(v=office.12\).md)\>dateTime\</Resume\>
+        \<[Resume](resume-element.md)\>dateTime\</Resume\>
 
-        \<[ResumeValid](bb968677\(v=office.12\).md)\>boolean\</ResumeValid\>
+        \<[ResumeValid](resumevalid-element.md)\>boolean\</ResumeValid\>
 
-        \<[EffortDriven](bb968574\(v=office.12\).md)\>boolean\</EffortDriven\>
+        \<[EffortDriven](effortdriven-element.md)\>boolean\</EffortDriven\>
 
-        \<[Recurring](bb968731\(v=office.12\).md)\>boolean\</Recurring\>
+        \<[Recurring](recurring-element.md)\>boolean\</Recurring\>
 
-        \<[OverAllocated](bb968615\(v=office.12\).md)\>boolean\</OverAllocated\>
+        \<[OverAllocated](overallocated-element.md)\>boolean\</OverAllocated\>
 
-        \<[Estimated](bb968711\(v=office.12\).md)\>boolean\</Estimated\>
+        \<[Estimated](estimated-element.md)\>boolean\</Estimated\>
 
-        \<[Milestone](bb968520\(v=office.12\).md)\>boolean\</Milestone\>
+        \<[Milestone](milestone-element.md)\>boolean\</Milestone\>
 
-        \<[Summary](bb968468\(v=office.12\).md)\>boolean\</Summary\>
+        \<[Summary](summary-element.md)\>boolean\</Summary\>
 
-        \<[Critical](bb968692\(v=office.12\).md)\>boolean\</Critical\>
+        \<[Critical](critical-element.md)\>boolean\</Critical\>
 
-        \<[IsSubproject](bb968630\(v=office.12\).md)\>boolean\</IsSubproject\>
+        \<[IsSubproject](issubproject-element.md)\>boolean\</IsSubproject\>
 
-        \<[IsSubprojectReadOnly](bb968461\(v=office.12\).md)\>boolean\</IsSubprojectReadOnly\>
+        \<[IsSubprojectReadOnly](issubprojectreadonly-element.md)\>boolean\</IsSubprojectReadOnly\>
 
-        \<[SubprojectName](bb968656\(v=office.12\).md)\>string\</SubprojectName\>
+        \<[SubprojectName](subprojectname-element.md)\>string\</SubprojectName\>
 
-        \<[ExternalTask](bb968595\(v=office.12\).md)\>boolean\</ExternalTask\>
+        \<[ExternalTask](externaltask-element.md)\>boolean\</ExternalTask\>
 
-        \<[ExternalTaskProject](bb968537\(v=office.12\).md)\>string\</ExternalTaskProject\>
+        \<[ExternalTaskProject](externaltaskproject-element.md)\>string\</ExternalTaskProject\>
 
-        \<[EarlyStart](bb968432\(v=office.12\).md)\>dateTime\</EarlyStart\>
+        \<[EarlyStart](earlystart-element.md)\>dateTime\</EarlyStart\>
 
-        \<[EarlyFinish](bb968483\(v=office.12\).md)\>dateTime\</EarlyFinish\>
+        \<[EarlyFinish](earlyfinish-element.md)\>dateTime\</EarlyFinish\>
 
-        \<[LateStart](bb968576\(v=office.12\).md)\>dateTime\</LateStart\>
+        \<[LateStart](latestart-element.md)\>dateTime\</LateStart\>
 
-        \<[LateFinish](bb968671\(v=office.12\).md)\>dateTime\</LateFinish\>
+        \<[LateFinish](latefinish-element.md)\>dateTime\</LateFinish\>
 
-        \<[StartVariance](bb968588\(v=office.12\).md)\>integer\</StartVariance\>
+        \<[StartVariance](startvariance-element.md)\>integer\</StartVariance\>
 
-        \<[FinishVariance](bb968724\(v=office.12\).md)\>integer\</FinishVariance\>
+        \<[FinishVariance](finishvariance-element.md)\>integer\</FinishVariance\>
 
-        \<[WorkVariance](bb968689\(v=office.12\).md)\>float\</WorkVariance\>
+        \<[WorkVariance](workvariance-element.md)\>float\</WorkVariance\>
 
-        \<[FreeSlack](bb968623\(v=office.12\).md)\>integer\</FreeSlack\>
+        \<[FreeSlack](freeslack-element.md)\>integer\</FreeSlack\>
 
-        \<[TotalSlack](bb968632\(v=office.12\).md)\>integer\</TotalSlack\>
+        \<[TotalSlack](totalslack-element.md)\>integer\</TotalSlack\>
 
-        \<[FixedCost](bb968494\(v=office.12\).md)\>float\</FixedCost\>
+        \<[FixedCost](fixedcost-element-baseline.md)\>float\</FixedCost\>
 
-        \<[FixedCostAccrual](bb968493\(v=office.12\).md)\>string\</FixedCostAccrual\>
+        \<[FixedCostAccrual](fixedcostaccrual-element.md)\>string\</FixedCostAccrual\>
 
-        \<[PercentComplete](bb968546\(v=office.12\).md)\>integer\</PercentComplete\>
+        \<[PercentComplete](percentcomplete-element.md)\>integer\</PercentComplete\>
 
-        \<[PercentWorkComplete](bb968608\(v=office.12\).md)\>integer\</PercentWorkComplete\>
+        \<[PercentWorkComplete](percentworkcomplete-element.md)\>integer\</PercentWorkComplete\>
 
-        \<[Cost](bb968522\(v=office.12\).md)\>decimal\</Cost\>
+        \<[Cost](cost-element.md)\>decimal\</Cost\>
 
-        \<[OvertimeCost](bb968407\(v=office.12\).md)\>decimal\</OvertimeCost\>
+        \<[OvertimeCost](overtimecost-element.md)\>decimal\</OvertimeCost\>
 
-        \<[OvertimeWork](bb968609\(v=office.12\).md)\>duration\</OvertimeWork\>
+        \<[OvertimeWork](overtimework-element.md)\>duration\</OvertimeWork\>
 
-        \<[ActualStart](bb968713\(v=office.12\).md)\>dateTime\<ActualStart\>
+        \<[ActualStart](actualstart-element.md)\>dateTime\<ActualStart\>
 
-        \<[ActualFinish](bb968472\(v=office.12\).md)\>dateTime\</ActualFinish\>
+        \<[ActualFinish](actualfinish-element.md)\>dateTime\</ActualFinish\>
 
-        \<[ActualDuration](bb968446\(v=office.12\).md)\>duration\</ActualDuration\>
+        \<[ActualDuration](actualduration-element.md)\>duration\</ActualDuration\>
 
-        \<[ActualCost](bb968591\(v=office.12\).md)\>decimal\</ActualCost\>
+        \<[ActualCost](actualcost-element.md)\>decimal\</ActualCost\>
 
-        \<[ActualOvertimeCost](bb968431\(v=office.12\).md)\>decimal\</ActualOvertimeCost\>
+        \<[ActualOvertimeCost](actualovertimecost-element.md)\>decimal\</ActualOvertimeCost\>
 
-        \<[ActualWork](bb968429\(v=office.12\).md)\>duration\</ActualWork\>
+        \<[ActualWork](actualwork-element.md)\>duration\</ActualWork\>
 
-        \<[ActualOvertimeWork](bb968413\(v=office.12\).md)\>duration\</ActualOvertimeWork\>
+        \<[ActualOvertimeWork](actualovertimework-element.md)\>duration\</ActualOvertimeWork\>
 
-        \<[RegularWork](bb968582\(v=office.12\).md)\>duration\</RegularWork\>
+        \<[RegularWork](regularwork-element.md)\>duration\</RegularWork\>
 
-        \<[RemainingDuration](bb968613\(v=office.12\).md)\>duration\</RemainingDuration\>
+        \<[RemainingDuration](remainingduration-element.md)\>duration\</RemainingDuration\>
 
-        \<[RemainingCost](bb968728\(v=office.12\).md)\>decimal\</RemainingCost\>
+        \<[RemainingCost](remainingcost-element.md)\>decimal\</RemainingCost\>
 
-        \<[RemainingWork](bb968720\(v=office.12\).md)\>duration\</RemainingWork\>
+        \<[RemainingWork](remainingwork-element.md)\>duration\</RemainingWork\>
 
-        \<[RemainingOvertimeCost](bb968690\(v=office.12\).md)\>decimal\</RemainingOvertimeCost\>
+        \<[RemainingOvertimeCost](remainingovertimecost-element.md)\>decimal\</RemainingOvertimeCost\>
 
-        \<[RemainingOvertimeWork](bb968473\(v=office.12\).md)\>duration\</RemainingOvertimeWork\>
+        \<[RemainingOvertimeWork](remainingovertimework-element.md)\>duration\</RemainingOvertimeWork\>
 
-        \<[ACWP](bb968717\(v=office.12\).md)\>float\</ACWP\>
+        \<[ACWP](acwp-element.md)\>float\</ACWP\>
 
-        \<[CV](bb968685\(v=office.12\).md)\>float\</CV\>
+        \<[CV](cv-element.md)\>float\</CV\>
 
-        \<[ConstraintType](bb968703\(v=office.12\).md)\>integer\</ConstraintType\>
+        \<[ConstraintType](constrainttype-element.md)\>integer\</ConstraintType\>
 
-        \<[CalendarUID](bb968514\(v=office.12\).md)\>integer\</CalendarUID\>
+        \<[CalendarUID](calendaruid-element.md)\>integer\</CalendarUID\>
 
-        \<[ConstraintDate](bb968552\(v=office.12\).md)\>dateTime\</ConstraintDate\>
+        \<[ConstraintDate](constraintdate-element.md)\>dateTime\</ConstraintDate\>
 
-        \<[Deadline](bb968639\(v=office.12\).md)\>dateTime\</Deadline\>
+        \<[Deadline](deadline-element.md)\>dateTime\</Deadline\>
 
-        \<[LevelAssignments](bb968452\(v=office.12\).md)\>boolean\</LevelAssignments\>
+        \<[LevelAssignments](levelassignments-element.md)\>boolean\</LevelAssignments\>
 
-        \<[LevelingCanSplit](bb968467\(v=office.12\).md)\>boolean\</LevelingCanSplit\>
+        \<[LevelingCanSplit](levelingcansplit-element.md)\>boolean\</LevelingCanSplit\>
 
-        \<[LevelingDelay](bb968397\(v=office.12\).md)\>integer\</LevelingDelay\>
+        \<[LevelingDelay](levelingdelay-element.md)\>integer\</LevelingDelay\>
 
-        \<[LevelingDelayFormat](bb968448\(v=office.12\).md)\>integer\</LevelingDelayFormat\>
+        \<[LevelingDelayFormat](levelingdelayformat-element.md)\>integer\</LevelingDelayFormat\>
 
-        \<[PreLeveledStart](bb968725\(v=office.12\).md)\>dateTime\</PreLeveledStart\>
+        \<[PreLeveledStart](preleveledstart-element.md)\>dateTime\</PreLeveledStart\>
 
-        \<[PreLeveledFinish](bb968501\(v=office.12\).md)\>dateTime\</PreLeveledFinish\>
+        \<[PreLeveledFinish](preleveledfinish-element.md)\>dateTime\</PreLeveledFinish\>
 
-        \<[Hyperlink](bb968729\(v=office.12\).md)\>string\</Hyperlink\>
+        \<[Hyperlink](hyperlink-element.md)\>string\</Hyperlink\>
 
-        \<[HyperlinkAddress](bb968561\(v=office.12\).md)\>string\</HyperlinkAddress\>
+        \<[HyperlinkAddress](hyperlinkaddress-element.md)\>string\</HyperlinkAddress\>
 
-        \<[HyperlinkSubAddress](bb968602\(v=office.12\).md)\>string\</HyperlinkSubAddress\>
+        \<[HyperlinkSubAddress](hyperlinksubaddress-element.md)\>string\</HyperlinkSubAddress\>
 
-        \<[IgnoreResourceCalendar](bb968540\(v=office.12\).md)\>boolean\</IgnoreResourceCalendar\>
+        \<[IgnoreResourceCalendar](ignoreresourcecalendar-element.md)\>boolean\</IgnoreResourceCalendar\>
 
-        \<[Notes](bb968616\(v=office.12\).md)\>string\</Notes\>
+        \<[Notes](notes-element.md)\>string\</Notes\>
 
-        \<[HideBar](bb968691\(v=office.12\).md)\>boolean\</HideBar\>
+        \<[HideBar](hidebar-element.md)\>boolean\</HideBar\>
 
-        \<[Rollup](bb968489\(v=office.12\).md)\>boolean\</Rollup\>
+        \<[Rollup](rollup-element.md)\>boolean\</Rollup\>
 
-        \<[BCWS](bb968411\(v=office.12\).md)\>float\</BCWS\>
+        \<[BCWS](bcws-element.md)\>float\</BCWS\>
 
-        \<[BCWP](bb968714\(v=office.12\).md)\>float\</BCWP\>
+        \<[BCWP](bcwp-element.md)\>float\</BCWP\>
 
-        \<[PhysicalPercentComplete](bb968424\(v=office.12\).md)\>integer\</PhysicalPercentComplete\>
+        \<[PhysicalPercentComplete](physicalpercentcomplete-element.md)\>integer\</PhysicalPercentComplete\>
 
-        \<[EarnedValueMethod](bb968620\(v=office.12\).md)\>integer\</EarnedValueMethod\>
+        \<[EarnedValueMethod](earnedvaluemethod-element.md)\>integer\</EarnedValueMethod\>
 
-        \<[PredecessorLink](bb968712\(v=office.12\).md)\>
+        \<[PredecessorLink](predecessorlink-element.md)\>
 
-            \<[PredecessorUID](bb968447\(v=office.12\).md)\>integer\</PredecessorUID\>
+            \<[PredecessorUID](predecessoruid-element.md)\>integer\</PredecessorUID\>
 
-            \<[Type](bb968434\(v=office.12\).md)\>integer\</Type\>
+            \<[Type](type-element-multiple-parents.md)\>integer\</Type\>
 
-            \<[CrossProject](bb968586\(v=office.12\).md)\>boolean\</CrossProject\>
+            \<[CrossProject](crossproject-element.md)\>boolean\</CrossProject\>
 
-            \<[CrossProjectName](bb968597\(v=office.12\).md)\>string\</CrossProjectName\>
+            \<[CrossProjectName](crossprojectname-element.md)\>string\</CrossProjectName\>
 
-            \<[LinkLag](bb968558\(v=office.12\).md)\>integer\</LinkLag\>
+            \<[LinkLag](linklag-element.md)\>integer\</LinkLag\>
 
-            \<[LagFormat](bb968698\(v=office.12\).md)\>integer\</LagFormat\>
+            \<[LagFormat](lagformat-element.md)\>integer\</LagFormat\>
 
         \</PredecessorLink\>
 
-        \<[ActualWorkProtected](bb968400\(v=office.12\).md)\>duration\</ActualWorkProtected\>
+        \<[ActualWorkProtected](actualworkprotected-element.md)\>duration\</ActualWorkProtected\>
 
-        \<[ActualOvertimeWorkProtected](bb968676\(v=office.12\).md)\>duration\</ActualOvertimeWorkProtected\>
+        \<[ActualOvertimeWorkProtected](actualovertimeworkprotected-element.md)\>duration\</ActualOvertimeWorkProtected\>
 
-        \<[ExtendedAttribute](bb968669\(v=office.12\).md)\>
+        \<[ExtendedAttribute](extendedattribute-element.md)\>
 
-            \<[UID](bb968590\(v=office.12\).md)\>integer\</UID\>
+            \<[UID](uid-element.md)\>integer\</UID\>
 
-            \<[FieldID](bb968474\(v=office.12\).md)\>string\</FieldID\>
+            \<[FieldID](fieldid-element.md)\>string\</FieldID\>
 
-            \<[Value](bb968696\(v=office.12\).md)\>string\</Value\>
+            \<[Value](value-element.md)\>string\</Value\>
 
-            \<[ValueID](bb968406\(v=office.12\).md)\>integer\</ValueID\>
+            \<[ValueID](valueid-element.md)\>integer\</ValueID\>
 
-            \<[DurationFormat](bb968637\(v=office.12\).md)\>integer\</DurationFormat\>
+            \<[DurationFormat](durationformat-element.md)\>integer\</DurationFormat\>
 
         \</ExtendedAttribute\>
 
-        \<[Baseline](bb968599\(v=office.12\).md)\>
+        \<[Baseline](baseline-element.md)\>
 
-            [\<TimephasedData\>](bb968722\(v=office.12\).md)…\</TimephasedData\>
+            [\<TimephasedData\>](timephaseddatatype-elements-and-xml-structure.md)…\</TimephasedData\>
 
-            \<[Number](bb968680\(v=office.12\).md)\>integer\</Number\>
+            \<[Number](number-element.md)\>integer\</Number\>
 
-            \<[Interim](bb968438\(v=office.12\).md)\>boolean\</Interim\>
+            \<[Interim](interim-element.md)\>boolean\</Interim\>
 
-            \<[Start](bb968645\(v=office.12\).md)\>dateTime\</Start\>
+            \<[Start](start-element.md)\>dateTime\</Start\>
 
-            \<[Finish](bb968534\(v=office.12\).md)\>dateTime\</Finish\>
+            \<[Finish](finish-element.md)\>dateTime\</Finish\>
 
-            \<[Duration](bb968640\(v=office.12\).md)\>duration\</Duration\>
+            \<[Duration](duration-element.md)\>duration\</Duration\>
 
-            \<[DurationFormat](bb968637\(v=office.12\).md)\>integer\</DurationFormat\>
+            \<[DurationFormat](durationformat-element.md)\>integer\</DurationFormat\>
 
-            \<[EstimatedDuration](bb968697\(v=office.12\).md)\>boolean\</EstimatedDuration\>
+            \<[EstimatedDuration](estimatedduration-element.md)\>boolean\</EstimatedDuration\>
 
-            \<[Work](bb968571\(v=office.12\).md)\>duration\</Work\>
+            \<[Work](work-element.md)\>duration\</Work\>
 
-            \<[Cost](bb968522\(v=office.12\).md)\>decimal\</Cost\>
+            \<[Cost](cost-element.md)\>decimal\</Cost\>
 
-            \<[BCWS](bb968411\(v=office.12\).md)\>float\</BCWS\>
+            \<[BCWS](bcws-element.md)\>float\</BCWS\>
 
-            \<[BCWP](bb968714\(v=office.12\).md)\>float\</BCWP\>
+            \<[BCWP](bcwp-element.md)\>float\</BCWP\>
 
-            \<[FixedCost](bb968494\(v=office.12\).md)\>float\</FixedCost\>
+            \<[FixedCost](fixedcost-element-baseline.md)\>float\</FixedCost\>
 
         \</Baseline\>
 
-        \<[IsPublished](bb968507\(v=office.12\).md)\>boolean\</IsPublished\>
+        \<[IsPublished](ispublished-element.md)\>boolean\</IsPublished\>
 
-        \<[StatusManager](bb968633\(v=office.12\).md)\>string\</StatusManager\>
+        \<[StatusManager](statusmanager-element.md)\>string\</StatusManager\>
 
-        \<[CommitmentStart](bb968530\(v=office.12\).md)\>dateTime\</CommitmentStart\>
+        \<[CommitmentStart](commitmentstart-element.md)\>dateTime\</CommitmentStart\>
 
-        \<[CommitmentFinish](bb968464\(v=office.12\).md)\>dateTime\</CommitmentFinish\>
+        \<[CommitmentFinish](commitmentfinish-element.md)\>dateTime\</CommitmentFinish\>
 
-        \<[CommitmentType](bb968709\(v=office.12\).md)\>integer\</CommitmentType\>
+        \<[CommitmentType](commitmenttype-element.md)\>integer\</CommitmentType\>
 
-        \<[b408000 – b417fff](bb968719\(v=office.12\).md)\>
+        \<[b408000 – b417fff](b408000-b417fff-elements.md)\>
 
                 \<\!-- \#\#New Project 2007 enterprise task custom field data.
 
-                        See [Custom Field Data in XML](bb968687\(v=office.12\).md) for more information. --\>
+                        See [Custom Field Data in XML](custom-field-data-in-xml.md) for more information. --\>
 
         \</b408000 – b417fff\>
 
-        \<[b608000 – b617fff](bb968536\(v=office.12\).md)\>
+        \<[b608000 – b617fff](b608000-b617fff-elements.md)\>
 
                 \<\!-- \#\#New Project 2007 enterprise project custom field data. --\>
 
         \</b608000 – b617fff\>
 
-        \<[ExtendedAttribute](bb968669\(v=office.12\).md)\>
+        \<[ExtendedAttribute](extendedattribute-element.md)\>
 
-            \<[FieldID](bb968474\(v=office.12\).md)\>string\</FieldID\>
+            \<[FieldID](fieldid-element.md)\>string\</FieldID\>
 
-            \<[Value](bb968696\(v=office.12\).md)\>string\</ValueID\>
+            \<[Value](value-element.md)\>string\</ValueID\>
 
-            \<[ValueGUID](bb968572\(v=office.12\).md)\>string\</UID\>
+            \<[ValueGUID](valueguid-element.md)\>string\</UID\>
 
-            \<[DurationFormat](bb968637\(v=office.12\).md)\>integer\</ValueID\>
+            \<[DurationFormat](durationformat-element.md)\>integer\</ValueID\>
 
         \</ExtendedAttribute\>
 
-        \<[OutlineCode](bb968410\(v=office.12\).md)\>
+        \<[OutlineCode](outlinecode-element.md)\>
 
-            \<[FieldID](bb968474\(v=office.12\).md)\>string\</FieldID\>
+            \<[FieldID](fieldid-element.md)\>string\</FieldID\>
 
-            \<[ValueID](bb968406\(v=office.12\).md)\>integer\</ValueID\>
+            \<[ValueID](valueid-element.md)\>integer\</ValueID\>
 
-            \<[ValueGUID](bb968572\(v=office.12\).md)\>string\</UID\>
+            \<[ValueGUID](valueguid-element.md)\>string\</UID\>
 
         \</OutlineCode\>
 
-        \<[TimephasedData](bb968479\(v=office.12\).md)\>. . .\</TimephasedData\>
+        \<[TimephasedData](timephaseddata-element.md)\>. . .\</TimephasedData\>
 
     \</Task\>
 
@@ -335,13 +335,13 @@ Many of the Task elements represent data fields in Microsoft Office Project. For
 
 #### Concepts
 
-[Introduction to Project XML Data](bb968652\(v=office.12\).md)
+[Introduction to Project XML Data](introduction-to-project-xml-data.md)
 
-[XML Schema for the Tasks Element](bb968415\(v=office.12\).md)
+[XML Schema for the Tasks Element](xml-schema-for-the-tasks-element.md)
 
-[Custom Field Data in XML](bb968687\(v=office.12\).md)
+[Custom Field Data in XML](custom-field-data-in-xml.md)
 
-[Project Elements and XML Structure](bb968439\(v=office.12\).md)
+[Project Elements and XML Structure](project-elements-and-xml-structure.md)
 
 #### Other Resources
 

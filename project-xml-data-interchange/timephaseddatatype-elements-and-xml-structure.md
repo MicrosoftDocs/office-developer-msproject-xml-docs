@@ -26,39 +26,39 @@ This section contains information about elements in the TimephasedDataType compl
 
 ## XML Structure of TimephasedData Elements
 
-The following shows the XML structure of the elements defined by the TimephasedDataType schema section of mspdi\_pj12.xsd. The data type is indicated for those elements that require a text value. You can find more detailed information about valid text values for each element in the documentation annotations that are embedded in the [XML Schema for the TimephasedDataType Complex Type](bb968734\(v=office.12\).md).
+The following shows the XML structure of the elements defined by the TimephasedDataType schema section of mspdi\_pj12.xsd. The data type is indicated for those elements that require a text value. You can find more detailed information about valid text values for each element in the documentation annotations that are embedded in the [XML Schema for the TimephasedDataType Complex Type](xml-schema-for-the-timephaseddatatype-complex-type.md).
 
-\<[TimephasedData](bb968479\(v=office.12\).md)\>
+\<[TimephasedData](timephaseddata-element.md)\>
 
-    \<[Type](bb968434\(v=office.12\).md)\>integer\</Type\>
+    \<[Type](type-element-multiple-parents.md)\>integer\</Type\>
 
-    \<[UID](bb968590\(v=office.12\).md)\>integer\</UID\>
+    \<[UID](uid-element.md)\>integer\</UID\>
 
-    \<[Start](bb968645\(v=office.12\).md) \>dateTime\</Start\>
+    \<[Start](start-element.md) \>dateTime\</Start\>
 
-    \<[Finish](bb968534\(v=office.12\).md)\>dateTime\</Finish\>
+    \<[Finish](finish-element.md)\>dateTime\</Finish\>
 
-    \<[Unit](bb968545\(v=office.12\).md)\>integer\</Unit\>
+    \<[Unit](unit-element.md)\>integer\</Unit\>
 
-    \<[Value](bb968696\(v=office.12\).md)\>string\</Value\>
+    \<[Value](value-element.md)\>string\</Value\>
 
 \</TimephasedData\>
 
-For more information about the data types used in the Project 2007 XML Data Interchange Schema, see [Introduction to Project XML Data](bb968652\(v=office.12\).md).
+For more information about the data types used in the Project 2007 XML Data Interchange Schema, see [Introduction to Project XML Data](introduction-to-project-xml-data.md).
 
 ## See Also
 
 #### Reference
 
-[Baseline Element](bb968599\(v=office.12\).md)
+[Baseline Element](baseline-element.md)
 
 #### Concepts
 
-[XML Schema for the TimephasedDataType Complex Type](bb968734\(v=office.12\).md)
+[XML Schema for the TimephasedDataType Complex Type](xml-schema-for-the-timephaseddatatype-complex-type.md)
 
-[Task Elements and XML Structure](bb968475\(v=office.12\).md)
+[Task Elements and XML Structure](task-elements-and-xml-structure.md)
 
-[Resource Elements and XML Structure](bb968445\(v=office.12\).md)
+[Resource Elements and XML Structure](resource-elements-and-xml-structure.md)
 
-[Assignment Elements and XML Structure](bb968738\(v=office.12\).md)
+[Assignment Elements and XML Structure](assignment-elements-and-xml-structure.md)
 

@@ -270,7 +270,7 @@ Figure 1. Transformed Project XML file
 
 ## See also
 
-- [Saving and Opening Projects in XML Format](bb968621\(v=office.12\).md)
+- [Saving and Opening Projects in XML Format](saving-and-opening-projects-in-xml-format.md)
 
 - [What is XSLT?](http://msdn2.microsoft.com/en-us/library/ms759096.aspx)
 

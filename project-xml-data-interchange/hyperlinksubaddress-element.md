@@ -72,21 +72,21 @@ The following example shows a hyperlink for a task named T2, where the complete 
 
 #### Reference
 
-[Hyperlink Element](bb968729\(v=office.12\).md)
+[Hyperlink Element](hyperlink-element.md)
 
-[HyperlinkAddress Element](bb968561\(v=office.12\).md)
+[HyperlinkAddress Element](hyperlinkaddress-element.md)
 
 #### Concepts
 
-[Task Elements and XML Structure](bb968475\(v=office.12\).md)
+[Task Elements and XML Structure](task-elements-and-xml-structure.md)
 
-[XML Schema for the Tasks Element](bb968415\(v=office.12\).md)
+[XML Schema for the Tasks Element](xml-schema-for-the-tasks-element.md)
 
-[Resource Elements and XML Structure](bb968445\(v=office.12\).md)
+[Resource Elements and XML Structure](resource-elements-and-xml-structure.md)
 
-[XML Schema for the Resources Element](bb968511\(v=office.12\).md)
+[XML Schema for the Resources Element](xml-schema-for-the-resources-element.md)
 
-[Assignment Elements and XML Structure](bb968738\(v=office.12\).md)
+[Assignment Elements and XML Structure](assignment-elements-and-xml-structure.md)
 
-[XML Schema for the Assignments Element](bb968414\(v=office.12\).md)
+[XML Schema for the Assignments Element](xml-schema-for-the-assignments-element.md)
 

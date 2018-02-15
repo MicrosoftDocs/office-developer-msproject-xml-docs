@@ -24,31 +24,31 @@ monikerRange: '>= project-client-2007 || project-client-odc'
 
 This section contains information about children of the WBSMasks element defined in the Microsoft Office Project 2007 XML Data Interchange Schema (mspdi\_pj12.xsd). The XML elements represent work breakdown structure (WBS) code mask data when you save a project in the XML format.
 
-WBSMasks is a child of the Project element. For more information, see [Project Elements and XML Structure](bb968439\(v=office.12\).md).
+WBSMasks is a child of the Project element. For more information, see [Project Elements and XML Structure](project-elements-and-xml-structure.md).
 
 ## XML Structure of WBSMasks Elements
 
-The following shows the XML structure of the elements defined by the WBSMask schema section of mspdi\_pj12.xsd. The data type is indicated for those elements that require a text value. You can find more detailed information about valid text values for each element in the documentation annotations that are embedded in the [XML Schema for the Resources Element](bb968511\(v=office.12\).md).
+The following shows the XML structure of the elements defined by the WBSMask schema section of mspdi\_pj12.xsd. The data type is indicated for those elements that require a text value. You can find more detailed information about valid text values for each element in the documentation annotations that are embedded in the [XML Schema for the Resources Element](xml-schema-for-the-resources-element.md).
 
-For more information about the data types used in the Project 2007 XML Data Interchange Schema, see [Introduction to Project XML Data](bb968652\(v=office.12\).md).
+For more information about the data types used in the Project 2007 XML Data Interchange Schema, see [Introduction to Project XML Data](introduction-to-project-xml-data.md).
 
-\<[WBSMasks](bb968580\(v=office.12\).md)\>
+\<[WBSMasks](wbsmasks-element.md)\>
 
-    \<[VerifyUniqueCodes](bb968528\(v=office.12\).md)\>boolean\</VerifyUniqueCodes\>
+    \<[VerifyUniqueCodes](verifyuniquecodes-element.md)\>boolean\</VerifyUniqueCodes\>
 
-    \<[GenerateCodes](bb968704\(v=office.12\).md)\>boolean\</GenerateCodes\>
+    \<[GenerateCodes](generatecodes-element.md)\>boolean\</GenerateCodes\>
 
-    \<[Prefix](bb968516\(v=office.12\).md)\>string\<Prefix\>
+    \<[Prefix](prefix-element.md)\>string\<Prefix\>
 
-    \<[WBSMask](bb968641\(v=office.12\).md)\>
+    \<[WBSMask](wbsmask-element.md)\>
 
-        \<[Level](bb968635\(v=office.12\).md)\>integer\</Level\>
+        \<[Level](level-element.md)\>integer\</Level\>
 
-        \<[Type](bb968434\(v=office.12\).md)\>integer\</Type\>
+        \<[Type](type-element-multiple-parents.md)\>integer\</Type\>
 
-        \<[Length](bb968526\(v=office.12\).md)\>string\</Length\>
+        \<[Length](length-element.md)\>string\</Length\>
 
-        \<[Separator](bb968421\(v=office.12\).md)\>string\</Separator\>
+        \<[Separator](separator-element.md)\>string\</Separator\>
 
     \</WBSMask\>
 
@@ -58,9 +58,9 @@ For more information about the data types used in the Project 2007 XML Data Inte
 
 #### Concepts
 
-[Introduction to Project XML Data](bb968652\(v=office.12\).md)
+[Introduction to Project XML Data](introduction-to-project-xml-data.md)
 
-[XML Schema for the WBSMasks Element](bb968565\(v=office.12\).md)
+[XML Schema for the WBSMasks Element](xml-schema-for-the-wbsmasks-element.md)
 
-[Project Elements and XML Structure](bb968439\(v=office.12\).md)
+[Project Elements and XML Structure](project-elements-and-xml-structure.md)
 

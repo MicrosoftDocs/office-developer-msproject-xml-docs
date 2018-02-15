@@ -751,7 +751,7 @@ The complete Project XML Data Interchange Schema is included in the Project 2007
 
 #### Concepts
 
-[Assignment Elements and XML Structure](bb968738\(v=office.12\).md)
+[Assignment Elements and XML Structure](assignment-elements-and-xml-structure.md)
 
-[Custom Field Data in XML](bb968687\(v=office.12\).md)
+[Custom Field Data in XML](custom-field-data-in-xml.md)
 

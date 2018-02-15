@@ -606,23 +606,23 @@ The Type element has an integer value that represents the type of timephased dat
 
 #### Concepts
 
-[OutlineCode Elements and XML Structure](bb968596\(v=office.12\).md)
+[OutlineCode Elements and XML Structure](outlinecode-elements-and-xml-structure.md)
 
-[XML Schema for the OutlineCodes Element](bb968584\(v=office.12\).md)
+[XML Schema for the OutlineCodes Element](xml-schema-for-the-outlinecodes-element.md)
 
-[WBSMask Elements and XML Structure](bb968416\(v=office.12\).md)
+[WBSMask Elements and XML Structure](wbsmask-elements-and-xml-structure.md)
 
-[XML Schema for the WBSMasks Element](bb968565\(v=office.12\).md)
+[XML Schema for the WBSMasks Element](xml-schema-for-the-wbsmasks-element.md)
 
-[Task Elements and XML Structure](bb968475\(v=office.12\).md)
+[Task Elements and XML Structure](task-elements-and-xml-structure.md)
 
-[XML Schema for the Tasks Element](bb968415\(v=office.12\).md)
+[XML Schema for the Tasks Element](xml-schema-for-the-tasks-element.md)
 
-[Assignment Elements and XML Structure](bb968738\(v=office.12\).md)
+[Assignment Elements and XML Structure](assignment-elements-and-xml-structure.md)
 
-[XML Schema for the Resources Element](bb968511\(v=office.12\).md)
+[XML Schema for the Resources Element](xml-schema-for-the-resources-element.md)
 
-[TimephasedDataType Elements and XML Structure](bb968722\(v=office.12\).md)
+[TimephasedDataType Elements and XML Structure](timephaseddatatype-elements-and-xml-structure.md)
 
-[XML Schema for the TimephasedDataType Complex Type](bb968734\(v=office.12\).md)
+[XML Schema for the TimephasedDataType Complex Type](xml-schema-for-the-timephaseddatatype-complex-type.md)
 

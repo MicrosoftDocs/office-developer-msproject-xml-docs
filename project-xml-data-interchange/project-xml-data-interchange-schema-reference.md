@@ -22,15 +22,15 @@ This section provides information about the Microsoft Office Project 2007 XML Da
 
 ## In This Section
 
-[Introduction to Project XML Data](bb968652\(v=office.12\).md)
+[Introduction to Project XML Data](introduction-to-project-xml-data.md)
 
-[Changes in the Project 2007 XML Data Interchange Schema](bb968543\(v=office.12\).md)
+[Changes in the Project 2007 XML Data Interchange Schema](changes-in-the-project-2007-xml-data-interchange-schema.md)
 
-[Working with Project XML Data Interchange Files](bb968469\(v=office.12\).md)
+[Working with Project XML Data Interchange Files](working-with-project-xml-data-interchange-files.md)
 
 ## Reference
 
-[Project Data Interchange Elements](bb968664\(v=office.12\).md)
+[Project Data Interchange Elements](project-data-interchange-elements.md)
 
 ## See Also
 

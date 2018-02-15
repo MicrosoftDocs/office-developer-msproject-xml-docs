@@ -25,15 +25,15 @@ This section provides information about changes to the Microsoft Office Project 
 
 ## In This Section
 
-[New XML Elements](bb968581\(v=office.12\).md)
+[New XML Elements](new-xml-elements.md)
 
-[Custom Field Data in XML](bb968687\(v=office.12\).md)
+[Custom Field Data in XML](custom-field-data-in-xml.md)
 
 ## Reference
 
-[Project Data Interchange Elements](bb968664\(v=office.12\).md)
+[Project Data Interchange Elements](project-data-interchange-elements.md)
 
 ## Related Sections
 
-[Introduction to Project XML Data](bb968652\(v=office.12\).md)
+[Introduction to Project XML Data](introduction-to-project-xml-data.md)
 

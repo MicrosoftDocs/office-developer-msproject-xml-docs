@@ -130,7 +130,7 @@ The following example shows the manually edited sections in bold font and with c
 
 #### Concepts
 
-[Calendar Elements and XML Structure](bb968563\(v=office.12\).md)
+[Calendar Elements and XML Structure](calendar-elements-and-xml-structure.md)
 
-[XML Schema for the Calendars Element](bb968557\(v=office.12\).md)
+[XML Schema for the Calendars Element](xml-schema-for-the-calendars-element.md)
 

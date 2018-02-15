@@ -85,13 +85,13 @@ Table 1. Assignment-level Enterprise Custom Field IDs
 </tbody>
 </table>
 
-For more information, see [Custom Field Data in XML](bb968687\(v=office.12\).md).
+For more information, see [Custom Field Data in XML](custom-field-data-in-xml.md).
 
 ## See Also
 
 #### Concepts
 
-[Assignment Elements and XML Structure](bb968738\(v=office.12\).md)
+[Assignment Elements and XML Structure](assignment-elements-and-xml-structure.md)
 
-[XML Schema for the Assignments Element](bb968414\(v=office.12\).md)
+[XML Schema for the Assignments Element](xml-schema-for-the-assignments-element.md)
 

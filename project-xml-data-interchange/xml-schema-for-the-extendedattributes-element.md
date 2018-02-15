@@ -250,7 +250,7 @@ The complete Project Data Interchange Schema is included in the Project 2007 SDK
 
 #### Concepts
 
-[ExtendedAttribute Elements and XML Structure](bb968579\(v=office.12\).md)
+[ExtendedAttribute Elements and XML Structure](extendedattribute-elements-and-xml-structure.md)
 
-[Custom Field Data in XML](bb968687\(v=office.12\).md)
+[Custom Field Data in XML](custom-field-data-in-xml.md)
 

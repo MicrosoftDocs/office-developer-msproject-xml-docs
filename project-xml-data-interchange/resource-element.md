@@ -437,7 +437,7 @@ A resource in the project. There must be at least one resource in each Resources
 
 #### Concepts
 
-[Resource Elements and XML Structure](bb968445\(v=office.12\).md)
+[Resource Elements and XML Structure](resource-elements-and-xml-structure.md)
 
-[XML Schema for the Resources Element](bb968511\(v=office.12\).md)
+[XML Schema for the Resources Element](xml-schema-for-the-resources-element.md)
 

@@ -80,13 +80,13 @@ Defines a set of exception days or a work week.
 
 ## Remarks
 
-For an example that includes a calendar exception and a work week, see [Calendar Element](bb968481\(v=office.12\).md).
+For an example that includes a calendar exception and a work week, see [Calendar Element](calendar-element.md).
 
 ## See Also
 
 #### Concepts
 
-[Calendar Elements and XML Structure](bb968563\(v=office.12\).md)
+[Calendar Elements and XML Structure](calendar-elements-and-xml-structure.md)
 
-[XML Schema for the Calendars Element](bb968557\(v=office.12\).md)
+[XML Schema for the Calendars Element](xml-schema-for-the-calendars-element.md)
 

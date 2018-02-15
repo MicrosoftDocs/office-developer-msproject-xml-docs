@@ -70,7 +70,7 @@ Outline codes can be associated with tasks or resources in a local project. You 
 
 #### Concepts
 
-[OutlineCode Elements and XML Structure](bb968596\(v=office.12\).md)
+[OutlineCode Elements and XML Structure](outlinecode-elements-and-xml-structure.md)
 
-[XML Schema for the OutlineCodes Element](bb968584\(v=office.12\).md)
+[XML Schema for the OutlineCodes Element](xml-schema-for-the-outlinecodes-element.md)
 

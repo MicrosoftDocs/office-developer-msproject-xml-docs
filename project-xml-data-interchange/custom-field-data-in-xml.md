@@ -29,7 +29,7 @@ Project stores information about custom fields as one of two types:
 
   - **Custom field definition**  A custom field definition consists of data required to define a local or enterprise custom field. This data includes information such as the custom field name, custom field ID, and custom field type.
     
-    The XML elements that are used to store custom field definitions are defined in the [XML Schema for the ExtendedAttributes Element](bb968705\(v=office.12\).md) section of the Project XML Data Interchange Schema.
+    The XML elements that are used to store custom field definitions are defined in the [XML Schema for the ExtendedAttributes Element](xml-schema-for-the-extendedattributes-element.md) section of the Project XML Data Interchange Schema.
 
   - **Custom field value**  A custom field value is data required to define a particular value for a custom field and associate it with a project, task, resource, or assignment. For example, you can configure the Health enterprise custom field to the value Late for a particular task.
 
@@ -69,7 +69,7 @@ The following example shows the XML representation of an extended attribute coll
 
 When you save a project as XML, all local custom field definitions are written to the extended attributes collection. However, you can choose to include only the currently loaded enterprise custom fields in the XML output. Electing to save only the currently loaded enterprise global items can result in a smaller, more manageable XML file.
 
-For more information about saving projects as XML, see [Saving and Opening Projects in XML Format](bb968621\(v=office.12\).md).
+For more information about saving projects as XML, see [Saving and Opening Projects in XML Format](saving-and-opening-projects-in-xml-format.md).
 
 ## Custom Field Values in XML
 
@@ -225,7 +225,7 @@ This XML satisfies the three requirements for storing a custom field value in XM
 
 #### Concepts
 
-[Introduction to Project XML Data](bb968652\(v=office.12\).md)
+[Introduction to Project XML Data](introduction-to-project-xml-data.md)
 
-[Project Data Interchange Elements](bb968664\(v=office.12\).md)
+[Project Data Interchange Elements](project-data-interchange-elements.md)
 

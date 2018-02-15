@@ -65,7 +65,7 @@ Contains a collection of work week defintions.
 
 ## Remarks
 
-For an example that uses the WorkWeeks element, see [Calendar Element](bb968481\(v=office.12\).md)
+For an example that uses the WorkWeeks element, see [Calendar Element](calendar-element.md)
 
 
 > [!WARNING]
@@ -95,7 +95,7 @@ The following example defines a non-standard work week named Test work week. The
 
 #### Concepts
 
-[Calendar Elements and XML Structure](bb968563\(v=office.12\).md)
+[Calendar Elements and XML Structure](calendar-elements-and-xml-structure.md)
 
-[XML Schema for the Calendars Element](bb968557\(v=office.12\).md)
+[XML Schema for the Calendars Element](xml-schema-for-the-calendars-element.md)
 

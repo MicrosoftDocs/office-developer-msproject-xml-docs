@@ -53,19 +53,19 @@ Refers to a valid calendar UID element (unique ID) for a calendar used in the pr
 
 #### Concepts
 
-[Project Elements and XML Structure](bb968439\(v=office.12\).md)
+[Project Elements and XML Structure](project-elements-and-xml-structure.md)
 
-[XML Schema for the Project Element](bb968695\(v=office.12\).md)
+[XML Schema for the Project Element](xml-schema-for-the-project-element.md)
 
-[Calendar Elements and XML Structure](bb968563\(v=office.12\).md)
+[Calendar Elements and XML Structure](calendar-elements-and-xml-structure.md)
 
-[XML Schema for the Calendars Element](bb968557\(v=office.12\).md)
+[XML Schema for the Calendars Element](xml-schema-for-the-calendars-element.md)
 
-[Task Elements and XML Structure](bb968475\(v=office.12\).md)
+[Task Elements and XML Structure](task-elements-and-xml-structure.md)
 
-[XML Schema for the Tasks Element](bb968415\(v=office.12\).md)
+[XML Schema for the Tasks Element](xml-schema-for-the-tasks-element.md)
 
-[Resource Elements and XML Structure](bb968445\(v=office.12\).md)
+[Resource Elements and XML Structure](resource-elements-and-xml-structure.md)
 
-[XML Schema for the Resources Element](bb968511\(v=office.12\).md)
+[XML Schema for the Resources Element](xml-schema-for-the-resources-element.md)
 

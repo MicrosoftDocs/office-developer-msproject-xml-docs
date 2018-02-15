@@ -72,15 +72,15 @@ The following example uses the AssnOwner element and the AssnOwnerGuid element t
 
 #### Reference
 
-[AssnOwnerGuid Element](bb968551\(v=office.12\).md)
+[AssnOwnerGuid Element](assnownerguid-element.md)
 
 #### Concepts
 
-[Resource Elements and XML Structure](bb968445\(v=office.12\).md)
+[Resource Elements and XML Structure](resource-elements-and-xml-structure.md)
 
-[XML Schema for the Resources Element](bb968511\(v=office.12\).md)
+[XML Schema for the Resources Element](xml-schema-for-the-resources-element.md)
 
-[Assignment Elements and XML Structure](bb968738\(v=office.12\).md)
+[Assignment Elements and XML Structure](assignment-elements-and-xml-structure.md)
 
-[XML Schema for the Assignments Element](bb968414\(v=office.12\).md)
+[XML Schema for the Assignments Element](xml-schema-for-the-assignments-element.md)
 

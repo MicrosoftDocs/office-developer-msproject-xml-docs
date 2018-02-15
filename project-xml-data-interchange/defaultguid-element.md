@@ -77,7 +77,7 @@ The following example uses the DefaultGuid element to specify the GUID of the de
 
 #### Concepts
 
-[ExtendedAttribute Elements and XML Structure](bb968579\(v=office.12\).md)
+[ExtendedAttribute Elements and XML Structure](extendedattribute-elements-and-xml-structure.md)
 
-[XML Schema for the ExtendedAttributes Element](bb968705\(v=office.12\).md)
+[XML Schema for the ExtendedAttributes Element](xml-schema-for-the-extendedattributes-element.md)
 

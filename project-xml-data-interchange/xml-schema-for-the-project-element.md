@@ -591,19 +591,19 @@ The complete Project XML Data Interchange Schema is included in the Project 2007
 
 #### Concepts
 
-[Project Elements and XML Structure](bb968439\(v=office.12\).md)
+[Project Elements and XML Structure](project-elements-and-xml-structure.md)
 
-[XML Schema for the OutlineCodes Element](bb968584\(v=office.12\).md)
+[XML Schema for the OutlineCodes Element](xml-schema-for-the-outlinecodes-element.md)
 
-[XML Schema for the WBSMasks Element](bb968565\(v=office.12\).md)
+[XML Schema for the WBSMasks Element](xml-schema-for-the-wbsmasks-element.md)
 
-[XML Schema for the ExtendedAttributes Element](bb968705\(v=office.12\).md)
+[XML Schema for the ExtendedAttributes Element](xml-schema-for-the-extendedattributes-element.md)
 
-[XML Schema for the Calendars Element](bb968557\(v=office.12\).md)
+[XML Schema for the Calendars Element](xml-schema-for-the-calendars-element.md)
 
-[XML Schema for the Tasks Element](bb968415\(v=office.12\).md)
+[XML Schema for the Tasks Element](xml-schema-for-the-tasks-element.md)
 
-[XML Schema for the Resources Element](bb968511\(v=office.12\).md)
+[XML Schema for the Resources Element](xml-schema-for-the-resources-element.md)
 
-[XML Schema for the Assignments Element](bb968414\(v=office.12\).md)
+[XML Schema for the Assignments Element](xml-schema-for-the-assignments-element.md)
 

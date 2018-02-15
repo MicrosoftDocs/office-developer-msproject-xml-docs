@@ -28,7 +28,7 @@ The Microsoft Office Project 2007 XML Data Interchange Schema (mspdi\_pj12.xsd) 
 
 In Project Standard 2007 and Project Professional 2007, you can save any project as a Project XML Data Interchange file. The steps in Procedure 1 applies to Project Professional.
 
-Project data stored in Project XML files can be filtered and displayed by using XSLT transformations. For more information, see [How to: Use XSLT Transformations with Project XML Data Interchange Files](bb968529\(v=office.12\).md).
+Project data stored in Project XML files can be filtered and displayed by using XSLT transformations. For more information, see [How to: Use XSLT Transformations with Project XML Data Interchange Files](how-to-use-xslt-transformations-with-project-xml-data-interchange-files.md).
 
 ### Procedure 1. To save a project file as XML using Project Professional
 
@@ -110,11 +110,11 @@ Any valid Project 2007 XML Data Interchange file can be opened by Project Standa
 
 ## See also
 
-- [How to: Use XSLT Transformations with Project XML Data Interchange Files](bb968529\(v=office.12\).md)
+- [How to: Use XSLT Transformations with Project XML Data Interchange Files](how-to-use-xslt-transformations-with-project-xml-data-interchange-files.md)
 
-- [Introduction to Project XML Data](bb968652\(v=office.12\).md)
+- [Introduction to Project XML Data](introduction-to-project-xml-data.md)
 
-- [Custom Field Data in XML](bb968687\(v=office.12\).md)
+- [Custom Field Data in XML](custom-field-data-in-xml.md)
 
-- [Project Data Interchange Elements](bb968664\(v=office.12\).md)
+- [Project Data Interchange Elements](project-data-interchange-elements.md)
 

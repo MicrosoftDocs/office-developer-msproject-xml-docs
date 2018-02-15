@@ -124,7 +124,7 @@ The following example uses the CFType element to indicate that the enterprise He
 
 #### Concepts
 
-[ExtendedAttribute Elements and XML Structure](bb968579\(v=office.12\).md)
+[ExtendedAttribute Elements and XML Structure](extendedattribute-elements-and-xml-structure.md)
 
-[XML Schema for the ExtendedAttributes Element](bb968705\(v=office.12\).md)
+[XML Schema for the ExtendedAttributes Element](xml-schema-for-the-extendedattributes-element.md)
 

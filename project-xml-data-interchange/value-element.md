@@ -155,27 +155,27 @@ Child elements of Value can appear in any order.
 
 #### Reference
 
-[OutlineCode Element](bb968410\(v=office.12\).md)
+[OutlineCode Element](outlinecode-element.md)
 
-[Assignment Element](bb968611\(v=office.12\).md)
+[Assignment Element](assignment-element.md)
 
-[Baseline Element](bb968599\(v=office.12\).md)
+[Baseline Element](baseline-element.md)
 
-[Resource Element](bb968715\(v=office.12\).md)
+[Resource Element](resource-element.md)
 
-[Task Element](bb968487\(v=office.12\).md)
+[Task Element](task-element.md)
 
 #### Concepts
 
-[OutlineCode Elements and XML Structure](bb968596\(v=office.12\).md)
+[OutlineCode Elements and XML Structure](outlinecode-elements-and-xml-structure.md)
 
-[XML Schema for the OutlineCodes Element](bb968584\(v=office.12\).md)
+[XML Schema for the OutlineCodes Element](xml-schema-for-the-outlinecodes-element.md)
 
-[ExtendedAttribute Elements and XML Structure](bb968579\(v=office.12\).md)
+[ExtendedAttribute Elements and XML Structure](extendedattribute-elements-and-xml-structure.md)
 
-[XML Schema for the ExtendedAttributes Element](bb968705\(v=office.12\).md)
+[XML Schema for the ExtendedAttributes Element](xml-schema-for-the-extendedattributes-element.md)
 
-[TimephasedDataType Elements and XML Structure](bb968722\(v=office.12\).md)
+[TimephasedDataType Elements and XML Structure](timephaseddatatype-elements-and-xml-structure.md)
 
-[XML Schema for the TimephasedDataType Complex Type](bb968734\(v=office.12\).md)
+[XML Schema for the TimephasedDataType Complex Type](xml-schema-for-the-timephaseddatatype-complex-type.md)
 

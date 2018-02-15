@@ -235,5 +235,5 @@ The complete Project Data Interchange Schema is included in the Project 2007 SDK
 
 #### Concepts
 
-[TimephasedDataType Elements and XML Structure](bb968722\(v=office.12\).md)
+[TimephasedDataType Elements and XML Structure](timephaseddatatype-elements-and-xml-structure.md)
 

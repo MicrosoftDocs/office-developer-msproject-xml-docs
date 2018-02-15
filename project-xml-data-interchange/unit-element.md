@@ -96,7 +96,7 @@ The Unit element has an integer value that represents one of the following time 
 
 #### Concepts
 
-[TimephasedDataType Elements and XML Structure](bb968722\(v=office.12\).md)
+[TimephasedDataType Elements and XML Structure](timephaseddatatype-elements-and-xml-structure.md)
 
-[XML Schema for the TimephasedDataType Complex Type](bb968734\(v=office.12\).md)
+[XML Schema for the TimephasedDataType Complex Type](xml-schema-for-the-timephaseddatatype-complex-type.md)
 

@@ -57,7 +57,7 @@ A text value of type string is required. The string must be in the form "HHHHHHH
 
 ## Remarks
 
-FieldGUID corresponds to the [ValueGUID](bb968572\(v=office.12\).md) element in the outline code value for a task or resource.
+FieldGUID corresponds to the [ValueGUID](valueguid-element.md) element in the outline code value for a task or resource.
 
 ## Example
 
@@ -106,15 +106,15 @@ The ValueID is unique only within the project and the FieldGUID is unique across
 
 #### Reference
 
-[ValueID Element](bb968406\(v=office.12\).md)
+[ValueID Element](valueid-element.md)
 
 #### Concepts
 
-[Project Elements and XML Structure](bb968439\(v=office.12\).md)
+[Project Elements and XML Structure](project-elements-and-xml-structure.md)
 
-[XML Schema for the Project Element](bb968695\(v=office.12\).md)
+[XML Schema for the Project Element](xml-schema-for-the-project-element.md)
 
-[OutlineCode Elements and XML Structure](bb968596\(v=office.12\).md)
+[OutlineCode Elements and XML Structure](outlinecode-elements-and-xml-structure.md)
 
-[XML Schema for the OutlineCodes Element](bb968584\(v=office.12\).md)
+[XML Schema for the OutlineCodes Element](xml-schema-for-the-outlinecodes-element.md)
 

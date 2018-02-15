@@ -254,27 +254,27 @@ ValueGUID and ValueID for the outline code in the task both correspond to the *S
 
 #### Reference
 
-[Ltuid Element](bb968607\(v=office.12\).md)
+[Ltuid Element](ltuid-element.md)
 
-[ExtendedAttribute Element](bb968669\(v=office.12\).md)
+[ExtendedAttribute Element](extendedattribute-element.md)
 
 #### Concepts
 
-[Project Elements and XML Structure](bb968439\(v=office.12\).md)
+[Project Elements and XML Structure](project-elements-and-xml-structure.md)
 
-[XML Schema for the Project Element](bb968695\(v=office.12\).md)
+[XML Schema for the Project Element](xml-schema-for-the-project-element.md)
 
-[OutlineCode Elements and XML Structure](bb968596\(v=office.12\).md)
+[OutlineCode Elements and XML Structure](outlinecode-elements-and-xml-structure.md)
 
-[XML Schema for the OutlineCodes Element](bb968584\(v=office.12\).md)
+[XML Schema for the OutlineCodes Element](xml-schema-for-the-outlinecodes-element.md)
 
-[Resource Elements and XML Structure](bb968445\(v=office.12\).md)
+[Resource Elements and XML Structure](resource-elements-and-xml-structure.md)
 
-[XML Schema for the Resources Element](bb968511\(v=office.12\).md)
+[XML Schema for the Resources Element](xml-schema-for-the-resources-element.md)
 
-[Task Elements and XML Structure](bb968475\(v=office.12\).md)
+[Task Elements and XML Structure](task-elements-and-xml-structure.md)
 
-[XML Schema for the Tasks Element](bb968415\(v=office.12\).md)
+[XML Schema for the Tasks Element](xml-schema-for-the-tasks-element.md)
 
 #### Other Resources
 

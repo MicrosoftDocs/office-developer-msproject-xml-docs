@@ -57,11 +57,11 @@ For example, if the task WBS is A.01.03, the WBSLevel is 03.
 
 #### Reference
 
-[WBS Element](bb968566\(v=office.12\).md)
+[WBS Element](wbs-element.md)
 
 #### Concepts
 
-[Task Elements and XML Structure](bb968475\(v=office.12\).md)
+[Task Elements and XML Structure](task-elements-and-xml-structure.md)
 
-[XML Schema for the Tasks Element](bb968415\(v=office.12\).md)
+[XML Schema for the Tasks Element](xml-schema-for-the-tasks-element.md)
 

@@ -53,11 +53,11 @@ The character used to separate outline code mask levels or work breakdown struct
 
 #### Concepts
 
-[OutlineCode Elements and XML Structure](bb968596\(v=office.12\).md)
+[OutlineCode Elements and XML Structure](outlinecode-elements-and-xml-structure.md)
 
-[XML Schema for the OutlineCodes Element](bb968584\(v=office.12\).md)
+[XML Schema for the OutlineCodes Element](xml-schema-for-the-outlinecodes-element.md)
 
-[WBSMask Elements and XML Structure](bb968416\(v=office.12\).md)
+[WBSMask Elements and XML Structure](wbsmask-elements-and-xml-structure.md)
 
-[XML Schema for the WBSMasks Element](bb968565\(v=office.12\).md)
+[XML Schema for the WBSMasks Element](xml-schema-for-the-wbsmasks-element.md)
 

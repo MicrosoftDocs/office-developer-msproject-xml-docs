@@ -24,69 +24,69 @@ monikerRange: '>= project-client-2007 || project-client-odc'
 
 This section contains information about children of the ExtendedAttributes element defined in the Microsoft Office Project 2007 XML Data Interchange Schema (mspdi\_pj12.xsd). The XML elements in an ExtendedAttribute represent data for a custom field.
 
-ExtendedAttributes is a child of the Project element. For more information, see [Project Elements and XML Structure](bb968439\(v=office.12\).md). A Task, Resource, or Assignment element can also contain individual ExtendedAttribute elements. For more information, see [Task Elements and XML Structure](bb968475\(v=office.12\).md), [Resource Elements and XML Structure](bb968445\(v=office.12\).md), and [Assignment Elements and XML Structure](bb968738\(v=office.12\).md).
+ExtendedAttributes is a child of the Project element. For more information, see [Project Elements and XML Structure](project-elements-and-xml-structure.md). A Task, Resource, or Assignment element can also contain individual ExtendedAttribute elements. For more information, see [Task Elements and XML Structure](task-elements-and-xml-structure.md), [Resource Elements and XML Structure](resource-elements-and-xml-structure.md), and [Assignment Elements and XML Structure](assignment-elements-and-xml-structure.md).
 
 ## XML Structure of ExtendedAttributes
 
-The following shows the XML structure of the elements defined by the ExtendedAttribute schema section of mspdi\_pj12.xsd. The data type is indicated for those elements that require a text value. You can find more detailed information about valid text values for each element in the documentation annotations that are embedded in the [XML Schema for the ExtendedAttributes Element](bb968705\(v=office.12\).md).
+The following shows the XML structure of the elements defined by the ExtendedAttribute schema section of mspdi\_pj12.xsd. The data type is indicated for those elements that require a text value. You can find more detailed information about valid text values for each element in the documentation annotations that are embedded in the [XML Schema for the ExtendedAttributes Element](xml-schema-for-the-extendedattributes-element.md).
 
-For more information about the data types used in the Project 2007 XML Data Interchange Schema, see [Introduction to Project XML Data](bb968652\(v=office.12\).md).
+For more information about the data types used in the Project 2007 XML Data Interchange Schema, see [Introduction to Project XML Data](introduction-to-project-xml-data.md).
 
-\<[ExtendedAttributes](bb968426\(v=office.12\).md)\>
+\<[ExtendedAttributes](extendedattributes-element.md)\>
 
-    \<[ExtendedAttribute](bb968669\(v=office.12\).md)\>
+    \<[ExtendedAttribute](extendedattribute-element.md)\>
 
-        \<[FieldID](bb968474\(v=office.12\).md)\>string\</FieldID\>
+        \<[FieldID](fieldid-element.md)\>string\</FieldID\>
 
-        \<[FieldName](bb968619\(v=office.12\).md)\>string\</FieldName\>
+        \<[FieldName](fieldname-element.md)\>string\</FieldName\>
 
-        \<[CFType](bb968675\(v=office.12\).md)\>integer\</CFType\>
+        \<[CFType](cftype-element.md)\>integer\</CFType\>
 
-        \<[Guid](bb968441\(v=office.12\).md)\>string\</Guid\>
+        \<[Guid](guid-element-multiple-parents.md)\>string\</Guid\>
 
-        \<[ElemType](bb968655\(v=office.12\).md)\>integer\</ElemType\>
+        \<[ElemType](elemtype-element.md)\>integer\</ElemType\>
 
-        \<[MaxMultiValues](bb968512\(v=office.12\).md)\>integer\</MaxMultiValues\>
+        \<[MaxMultiValues](maxmultivalues-element.md)\>integer\</MaxMultiValues\>
 
-        \<[UserDef](bb968649\(v=office.12\).md)\>boolean\</UserDef\>
+        \<[UserDef](userdef-element.md)\>boolean\</UserDef\>
 
-        \<[Alias](bb968395\(v=office.12\).md)\>string\</Alias\>
+        \<[Alias](alias-element.md)\>string\</Alias\>
 
-        \<[SecondaryPID](bb968460\(v=office.12\).md)\>string\</SecondaryPID\>
+        \<[SecondaryPID](secondarypid-element.md)\>string\</SecondaryPID\>
 
-        \<[AutoRollDown](bb968428\(v=office.12\).md)\>boolean\</AutoRollDown\>
+        \<[AutoRollDown](autorolldown-element.md)\>boolean\</AutoRollDown\>
 
-        \<[DefaultGuid](bb968436\(v=office.12\).md)\>string\</DefaultGuid\>
+        \<[DefaultGuid](defaultguid-element.md)\>string\</DefaultGuid\>
 
-        \<[Ltuid](bb968607\(v=office.12\).md)\>string\</Ltuid\>
+        \<[Ltuid](ltuid-element.md)\>string\</Ltuid\>
 
-        \<[PhoneticAlias](bb968672\(v=office.12\).md)\>string\</PhoneticAlias\>
+        \<[PhoneticAlias](phoneticalias-element.md)\>string\</PhoneticAlias\>
 
-        \<[RollupType](bb968480\(v=office.12\).md)\>integer\</RollupType\>
+        \<[RollupType](rolluptype-element.md)\>integer\</RollupType\>
 
-        \<[CalculationType](bb968490\(v=office.12\).md)\>integer\</CalculationType\>
+        \<[CalculationType](calculationtype-element.md)\>integer\</CalculationType\>
 
-        \<[Formula](bb968523\(v=office.12\).md)\>string\</Formula\>
+        \<[Formula](formula-element.md)\>string\</Formula\>
 
-        \<[RestrictValues](bb968626\(v=office.12\).md)\>boolean\</RestrictValues\>
+        \<[RestrictValues](restrictvalues-element.md)\>boolean\</RestrictValues\>
 
-        \<[ValuelistSortOrder](bb968427\(v=office.12\).md)\>integer\</ValuelistSortOrder\>
+        \<[ValuelistSortOrder](valuelistsortorder-element.md)\>integer\</ValuelistSortOrder\>
 
-        \<[AppendNewValues](bb968723\(v=office.12\).md)\>boolean\</AppendNewValues\>
+        \<[AppendNewValues](appendnewvalues-element.md)\>boolean\</AppendNewValues\>
 
-        \<[Default](bb968745\(v=office.12\).md)\>string\</Default\>
+        \<[Default](default-element-extendedattribute.md)\>string\</Default\>
 
-        \<[ValueList](bb968702\(v=office.12\).md)\>
+        \<[ValueList](valuelist-element.md)\>
 
-            \<[Value](bb968696\(v=office.12\).md)\>
+            \<[Value](value-element.md)\>
 
-                \<[ID](bb968437\(v=office.12\).md)\>integer\</ID\>
+                \<[ID](id-element.md)\>integer\</ID\>
 
-                \<[Value](bb968696\(v=office.12\).md)\>string\</Value\>
+                \<[Value](value-element.md)\>string\</Value\>
 
-                \<[Description](bb968567\(v=office.12\).md)\>string\</Description\>
+                \<[Description](description-element.md)\>string\</Description\>
 
-                \<[Phonetic](bb968486\(v=office.12\).md)\>string\</Phonetic\>
+                \<[Phonetic](phonetic-element.md)\>string\</Phonetic\>
 
             \</Value\>
 
@@ -100,17 +100,17 @@ For more information about the data types used in the Project 2007 XML Data Inte
 
 #### Concepts
 
-[Introduction to Project XML Data](bb968652\(v=office.12\).md)
+[Introduction to Project XML Data](introduction-to-project-xml-data.md)
 
-[XML Schema for the ExtendedAttributes Element](bb968705\(v=office.12\).md)
+[XML Schema for the ExtendedAttributes Element](xml-schema-for-the-extendedattributes-element.md)
 
-[Custom Field Data in XML](bb968687\(v=office.12\).md)
+[Custom Field Data in XML](custom-field-data-in-xml.md)
 
-[Project Elements and XML Structure](bb968439\(v=office.12\).md)
+[Project Elements and XML Structure](project-elements-and-xml-structure.md)
 
-[Task Elements and XML Structure](bb968475\(v=office.12\).md)
+[Task Elements and XML Structure](task-elements-and-xml-structure.md)
 
-[Resource Elements and XML Structure](bb968445\(v=office.12\).md)
+[Resource Elements and XML Structure](resource-elements-and-xml-structure.md)
 
-[Assignment Elements and XML Structure](bb968738\(v=office.12\).md)
+[Assignment Elements and XML Structure](assignment-elements-and-xml-structure.md)
 

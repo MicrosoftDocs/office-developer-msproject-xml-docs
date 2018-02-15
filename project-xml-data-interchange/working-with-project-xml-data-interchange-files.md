@@ -22,13 +22,13 @@ This section provides information about working with Project XML Data Interchang
 
 ## In This Section
 
-[Saving and Opening Projects in XML Format](bb968621\(v=office.12\).md)
+[Saving and Opening Projects in XML Format](saving-and-opening-projects-in-xml-format.md)
 
-[How to: Use XSLT Transformations with Project XML Data Interchange Files](bb968529\(v=office.12\).md)
+[How to: Use XSLT Transformations with Project XML Data Interchange Files](how-to-use-xslt-transformations-with-project-xml-data-interchange-files.md)
 
 ## Related Sections
 
-[Introduction to Project XML Data](bb968652\(v=office.12\).md)
+[Introduction to Project XML Data](introduction-to-project-xml-data.md)
 
-[Custom Field Data in XML](bb968687\(v=office.12\).md)
+[Custom Field Data in XML](custom-field-data-in-xml.md)
 

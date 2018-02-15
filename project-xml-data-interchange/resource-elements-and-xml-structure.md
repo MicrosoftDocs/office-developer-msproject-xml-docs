@@ -24,13 +24,13 @@ monikerRange: '>= project-client-2007 || project-client-odc'
 
 This section contains information about children of the Resources element defined in the Microsoft Office Project 2007 XML Data Interchange Schema (mspdi\_pj12.xsd). The XML elements represent resource data when you save a project in the XML format.
 
-Resources is a child of the Project element. For more information, see [Project Elements and XML Structure](bb968439\(v=office.12\).md).
+Resources is a child of the Project element. For more information, see [Project Elements and XML Structure](project-elements-and-xml-structure.md).
 
 ## XML Structure of Resource Elements
 
-The following shows the XML structure of the elements defined in the Resource schema section of mspdi\_pj12.xsd. The data type is indicated for those elements that require a text value. You can find more detailed information about valid text values for each element in the documentation annotations that are embedded in the [Resource Schema](bb968511\(v=office.12\).md).
+The following shows the XML structure of the elements defined in the Resource schema section of mspdi\_pj12.xsd. The data type is indicated for those elements that require a text value. You can find more detailed information about valid text values for each element in the documentation annotations that are embedded in the [Resource Schema](xml-schema-for-the-resources-element.md).
 
-For more information about the data types used in the Project2007 XML Data Interchange Schema, see [Introduction to Project XML Data](bb968652\(v=office.12\).md).
+For more information about the data types used in the Project2007 XML Data Interchange Schema, see [Introduction to Project XML Data](introduction-to-project-xml-data.md).
 
 Many of the Resource elements represent data fields in Microsoft Office Project. For more information about fields in Project Professional 2007 and Project Standard 2007, see [Fields Reference](http://office.microsoft.com/en-us/project/ch100788901033.aspx).
 
@@ -39,247 +39,247 @@ Many of the Resource elements represent data fields in Microsoft Office Project.
 > Detailed information about the structure of the TimephasedData element is shown in <A href="https://msdn.microsoft.com/en-us/library/317823-7111-4dfd-ae38-50a06c6cb70f(v=office.12)">TimephasedDataType Elements and XML Structure</A> in this schema reference.
 
 
-\<[Resources](bb968730\(v=office.12\).md)\>
+\<[Resources](resources-element.md)\>
 
-    \<[Resource](bb968715\(v=office.12\).md)\>
+    \<[Resource](resource-element.md)\>
 
-        \<[UID](bb968590\(v=office.12\).md)\>integer\</UID\>
+        \<[UID](uid-element.md)\>integer\</UID\>
 
-        \<[ID](bb968437\(v=office.12\).md)\>integer\</ID\>
+        \<[ID](id-element.md)\>integer\</ID\>
 
-        \<[Name](bb968600\(v=office.12\).md)\>string\</Name\>
+        \<[Name](name-element.md)\>string\</Name\>
 
-        \<[Type](bb968434\(v=office.12\).md)\>integer\</Type\>
+        \<[Type](type-element-multiple-parents.md)\>integer\</Type\>
 
-        \<[IsNull](bb968682\(v=office.12\).md)\>boolean\</IsNull\>
+        \<[IsNull](isnull-element.md)\>boolean\</IsNull\>
 
-        \<[Initials](bb968658\(v=office.12\).md)\>string\</Initials\>
+        \<[Initials](initials-element.md)\>string\</Initials\>
 
-        \<[Phonetics](bb968636\(v=office.12\).md)\>string\</Phonetics\>
+        \<[Phonetics](phonetics-element.md)\>string\</Phonetics\>
 
-        \<[NTAccount](bb968430\(v=office.12\).md)\>string\</NTAccount\>
+        \<[NTAccount](ntaccount-element.md)\>string\</NTAccount\>
 
-        \<[MaterialLabel](bb968598\(v=office.12\).md)\>string\</MaterialLabel\>
+        \<[MaterialLabel](materiallabel-element.md)\>string\</MaterialLabel\>
 
-        \<[Code](bb968539\(v=office.12\).md)\>string\</Code\>
+        \<[Code](code-element.md)\>string\</Code\>
 
-        \<[Group](bb968570\(v=office.12\).md)\>string\</Group\>
+        \<[Group](group-element.md)\>string\</Group\>
 
-        \<[WorkGroup](bb968721\(v=office.12\).md)\>integer\</WorkGroup\>
+        \<[WorkGroup](workgroup-element.md)\>integer\</WorkGroup\>
 
-        \<[EmailAddress](bb968510\(v=office.12\).md)\>string\</EmailAddress\>
+        \<[EmailAddress](emailaddress-element.md)\>string\</EmailAddress\>
 
-        \<[Hyperlink](bb968729\(v=office.12\).md)\>string\</Hyperlink\>
+        \<[Hyperlink](hyperlink-element.md)\>string\</Hyperlink\>
 
-        \<[HyperlinkAddress](bb968561\(v=office.12\).md)\>string\</HyperlinkAddress\>
+        \<[HyperlinkAddress](hyperlinkaddress-element.md)\>string\</HyperlinkAddress\>
 
-        \<[HyperlinkSubAddress](bb968602\(v=office.12\).md)\>string\</HyperlinkSubAddress\>
+        \<[HyperlinkSubAddress](hyperlinksubaddress-element.md)\>string\</HyperlinkSubAddress\>
 
-        \<[MaxUnits](bb968589\(v=office.12\).md)\>float\</MaxUnits\>
+        \<[MaxUnits](maxunits-element.md)\>float\</MaxUnits\>
 
-        \<[PeakUnits](bb968404\(v=office.12\).md)\>float\</PeakUnits\>
+        \<[PeakUnits](peakunits-element.md)\>float\</PeakUnits\>
 
-        \<[OverAllocated](bb968615\(v=office.12\).md)\>boolean\</OverAllocated\>
+        \<[OverAllocated](overallocated-element.md)\>boolean\</OverAllocated\>
 
-        \<[AvailableFrom](bb968686\(v=office.12\).md)\>dateTime\</AvailableFrom\>
+        \<[AvailableFrom](availablefrom-element.md)\>dateTime\</AvailableFrom\>
 
-        \<[AvailableTo](bb968648\(v=office.12\).md)\>dateTime\</AvailableTo\>
+        \<[AvailableTo](availableto-element.md)\>dateTime\</AvailableTo\>
 
-        \<[Start](bb968645\(v=office.12\).md)\>dateTime\</Start\>
+        \<[Start](start-element.md)\>dateTime\</Start\>
 
-        \<[Finish](bb968534\(v=office.12\).md)\>dateTime\</Finish\>
+        \<[Finish](finish-element.md)\>dateTime\</Finish\>
 
-        \<[CanLevel](bb968435\(v=office.12\).md)\>boolean\</CanLevel\>
+        \<[CanLevel](canlevel-element.md)\>boolean\</CanLevel\>
 
-        \<[AccrueAt](bb968660\(v=office.12\).md)\>integer\</AccrueAt\>
+        \<[AccrueAt](accrueat-element.md)\>integer\</AccrueAt\>
 
-        \<[Work](bb968571\(v=office.12\).md)\>duration\</Work\>
+        \<[Work](work-element.md)\>duration\</Work\>
 
-        \<[RegularWork](bb968582\(v=office.12\).md)\>duration\</RegularWork\>
+        \<[RegularWork](regularwork-element.md)\>duration\</RegularWork\>
 
-        \<[OvertimeWork](bb968609\(v=office.12\).md)\>duration\</OvertimeWork\>
+        \<[OvertimeWork](overtimework-element.md)\>duration\</OvertimeWork\>
 
-        \<[ActualWork](bb968429\(v=office.12\).md)\>duration\</ActualWork\>
+        \<[ActualWork](actualwork-element.md)\>duration\</ActualWork\>
 
-        \<[RemainingWork](bb968720\(v=office.12\).md)\>duration\</RemainingWork\>
+        \<[RemainingWork](remainingwork-element.md)\>duration\</RemainingWork\>
 
-        \<[ActualOvertimeWork](bb968413\(v=office.12\).md)\>duration\</ActualOvertimeWork\>
+        \<[ActualOvertimeWork](actualovertimework-element.md)\>duration\</ActualOvertimeWork\>
 
-        \<[RemainingOvertimeWork](bb968473\(v=office.12\).md)\>duration\</RemainingOvertimeWork\>
+        \<[RemainingOvertimeWork](remainingovertimework-element.md)\>duration\</RemainingOvertimeWork\>
 
-        \<[PercentWorkComplete](bb968608\(v=office.12\).md)\>integer\</PercentWorkComplete\>
+        \<[PercentWorkComplete](percentworkcomplete-element.md)\>integer\</PercentWorkComplete\>
 
-        \<[StandardRate](bb968453\(v=office.12\).md)\>decimal\</StandardRate\>
+        \<[StandardRate](standardrate-element.md)\>decimal\</StandardRate\>
 
-        \<[StandardRateFormat](bb968727\(v=office.12\).md)\>integer\</StandardRateFormat\>
+        \<[StandardRateFormat](standardrateformat-element.md)\>integer\</StandardRateFormat\>
 
-        \<[Cost](bb968522\(v=office.12\).md)\>decimal\</Cost\>
+        \<[Cost](cost-element.md)\>decimal\</Cost\>
 
-        \<[OvertimeRate](bb968679\(v=office.12\).md)\>decimal\</OvertimeRate\>
+        \<[OvertimeRate](overtimerate-element.md)\>decimal\</OvertimeRate\>
 
-        \<[OvertimeRateFormat](bb968737\(v=office.12\).md)\>integer\</OvertimeRateFormat\>
+        \<[OvertimeRateFormat](overtimerateformat-element.md)\>integer\</OvertimeRateFormat\>
 
-        \<[OvertimeCost](bb968407\(v=office.12\).md)\>decimal\</OvertimeCost\>
+        \<[OvertimeCost](overtimecost-element.md)\>decimal\</OvertimeCost\>
 
-        \<[CostPerUse](bb968500\(v=office.12\).md)\>decimal\</CostPerUse\>
+        \<[CostPerUse](costperuse-element.md)\>decimal\</CostPerUse\>
 
-        \<[ActualCost](bb968591\(v=office.12\).md)\>decimal\</ActualCost\>
+        \<[ActualCost](actualcost-element.md)\>decimal\</ActualCost\>
 
-        \<[ActualOvertimeCost](bb968431\(v=office.12\).md)\>decimal\</ActualOvertimeCost\>
+        \<[ActualOvertimeCost](actualovertimecost-element.md)\>decimal\</ActualOvertimeCost\>
 
-        \<[RemainingCost](bb968728\(v=office.12\).md)\>decimal\</RemainingCost\>
+        \<[RemainingCost](remainingcost-element.md)\>decimal\</RemainingCost\>
 
-        \<[RemainingOvertimeCost](bb968690\(v=office.12\).md)\>decimal\</RemainingOvertimeCost\>
+        \<[RemainingOvertimeCost](remainingovertimecost-element.md)\>decimal\</RemainingOvertimeCost\>
 
-        \<[WorkVariance](bb968689\(v=office.12\).md)\>float\</WorkVariance\>
+        \<[WorkVariance](workvariance-element.md)\>float\</WorkVariance\>
 
-        \<[CostVariance](bb968683\(v=office.12\).md)\>float\</CostVariance\>
+        \<[CostVariance](costvariance-element.md)\>float\</CostVariance\>
 
-        \<[SV](bb968647\(v=office.12\).md)\>float\</SV\>
+        \<[SV](sv-element.md)\>float\</SV\>
 
-        \<[CV](bb968685\(v=office.12\).md)\>float\</CV\>
+        \<[CV](cv-element.md)\>float\</CV\>
 
-        \<[ACWP](bb968717\(v=office.12\).md)\>float\</ACWP\>
+        \<[ACWP](acwp-element.md)\>float\</ACWP\>
 
-        \<[CalendarUID](bb968514\(v=office.12\).md)\>integer\</CalendarUID\>
+        \<[CalendarUID](calendaruid-element.md)\>integer\</CalendarUID\>
 
-        \<[Notes](bb968616\(v=office.12\).md)\>string\</Notes\>
+        \<[Notes](notes-element.md)\>string\</Notes\>
 
-        \<[BCWS](bb968411\(v=office.12\).md)\>float\</BCWS\>
+        \<[BCWS](bcws-element.md)\>float\</BCWS\>
 
-        \<[BCWP](bb968714\(v=office.12\).md)\>float\</BCWP\>
+        \<[BCWP](bcwp-element.md)\>float\</BCWP\>
 
-        \<[IsGeneric](bb968577\(v=office.12\).md)\>boolean\</IsGeneric\>
+        \<[IsGeneric](isgeneric-element.md)\>boolean\</IsGeneric\>
 
-        \<[IsInactive](bb968663\(v=office.12\).md)\>boolean\</IsInactive\>
+        \<[IsInactive](isinactive-element.md)\>boolean\</IsInactive\>
 
-        \<[IsEnterprise](bb968668\(v=office.12\).md)\>boolean\</IsEnterprise\>
+        \<[IsEnterprise](isenterprise-element.md)\>boolean\</IsEnterprise\>
 
-        \<[BookingType](bb968505\(v=office.12\).md)\>integer\</BookingType\>
+        \<[BookingType](bookingtype-element.md)\>integer\</BookingType\>
 
-        \<[ActualWorkProtected](bb968400\(v=office.12\).md)\>duration\</ActualWorkProtected\>
+        \<[ActualWorkProtected](actualworkprotected-element.md)\>duration\</ActualWorkProtected\>
 
-        \<[ActualOvertimeWorkProtected](bb968676\(v=office.12\).md)\>duration\</ActualOvertimeWorkProtected\>
+        \<[ActualOvertimeWorkProtected](actualovertimeworkprotected-element.md)\>duration\</ActualOvertimeWorkProtected\>
 
-        \<[ActiveDirectoryGUID](bb968497\(v=office.12\).md)\>string\</ActiveDirectoryGUID\>
+        \<[ActiveDirectoryGUID](activedirectoryguid-element.md)\>string\</ActiveDirectoryGUID\>
 
-        \<[CreationDate](bb968396\(v=office.12\).md)\>dateTime\</CreationDate\>
+        \<[CreationDate](creationdate-element.md)\>dateTime\</CreationDate\>
 
-        \<[ExtendedAttribute](bb968669\(v=office.12\).md)\>
+        \<[ExtendedAttribute](extendedattribute-element.md)\>
 
-            \<[UID](bb968590\(v=office.12\).md)\>integer\</UID\>
+            \<[UID](uid-element.md)\>integer\</UID\>
 
-            \<[FieldID](bb968474\(v=office.12\).md)\>string\</FieldID\>
+            \<[FieldID](fieldid-element.md)\>string\</FieldID\>
 
-            \<[Value](bb968696\(v=office.12\).md)\>string\</Value\>
+            \<[Value](value-element.md)\>string\</Value\>
 
-            \<[ValueID](bb968406\(v=office.12\).md)\>integer\</ValueID\>
+            \<[ValueID](valueid-element.md)\>integer\</ValueID\>
 
-            \<[DurationFormat](bb968637\(v=office.12\).md)\>integer\</DurationFormat\>
+            \<[DurationFormat](durationformat-element.md)\>integer\</DurationFormat\>
 
         \</ExtendedAttribute\>
 
-        \<[Baseline](bb968599\(v=office.12\).md)\>
+        \<[Baseline](baseline-element.md)\>
 
-            \<[Number](bb968680\(v=office.12\).md)\>integer\</Number\>
+            \<[Number](number-element.md)\>integer\</Number\>
 
-            \<[Work](bb968571\(v=office.12\).md)\>duration\</Work\>
+            \<[Work](work-element.md)\>duration\</Work\>
 
-            \<[Cost](bb968522\(v=office.12\).md)\>float\</Cost\>
+            \<[Cost](cost-element.md)\>float\</Cost\>
 
-            \<[BCWS](bb968411\(v=office.12\).md)\>float\</BCWS\>
+            \<[BCWS](bcws-element.md)\>float\</BCWS\>
 
-            \<[BCWP](bb968714\(v=office.12\).md)\>float\</BCWP\>
+            \<[BCWP](bcwp-element.md)\>float\</BCWP\>
 
         \</Baseline\>
 
-        \<[OutlineCode](bb968410\(v=office.12\).md)\>
+        \<[OutlineCode](outlinecode-element.md)\>
 
-            \<[UID](bb968590\(v=office.12\).md)\>integer\</UID\>
+            \<[UID](uid-element.md)\>integer\</UID\>
 
-            \<[FieldID](bb968474\(v=office.12\).md)\>string\</FieldID\>
+            \<[FieldID](fieldid-element.md)\>string\</FieldID\>
 
-            \<[ValueID](bb968406\(v=office.12\).md)\>integer\</ValueID\>
+            \<[ValueID](valueid-element.md)\>integer\</ValueID\>
 
         \</OutlineCode\>
 
-        \<[IsCostResource](bb968549\(v=office.12\).md)\>boolean\</IsCostResource\>
+        \<[IsCostResource](iscostresource-element.md)\>boolean\</IsCostResource\>
 
-        \<[AssnOwner](bb968408\(v=office.12\).md)\>string\</AssnOwner\>
+        \<[AssnOwner](assnowner-element.md)\>string\</AssnOwner\>
 
-        \<[AssnOwnerGuid](bb968551\(v=office.12\).md)\>string\</AssnOwnerGuid\>
+        \<[AssnOwnerGuid](assnownerguid-element.md)\>string\</AssnOwnerGuid\>
 
-        \<[IsBudget](bb968612\(v=office.12\).md)\>boolean\</IsBudget\>
+        \<[IsBudget](isbudget-element.md)\>boolean\</IsBudget\>
 
-        \<[AvailabilityPeriods](bb968747\(v=office.12\).md)\>
+        \<[AvailabilityPeriods](availabilityperiods-element.md)\>
 
-            \<[AvailabilityPeriod](bb968625\(v=office.12\).md)\>
+            \<[AvailabilityPeriod](availabilityperiod-element.md)\>
 
-                \<[AvailableFrom](bb968686\(v=office.12\).md)\>dateTime\</AvailableFrom\>
+                \<[AvailableFrom](availablefrom-element.md)\>dateTime\</AvailableFrom\>
 
-                \<[AvailableTo](bb968648\(v=office.12\).md)\>dateTime\</AvailableTo\>
+                \<[AvailableTo](availableto-element.md)\>dateTime\</AvailableTo\>
 
-                \<[AvailableUnits](bb968515\(v=office.12\).md)\>float\</AvailableUnits\>
+                \<[AvailableUnits](availableunits-element.md)\>float\</AvailableUnits\>
 
             \</AvailabilityPeriod\>
 
         \</AvailablilityPeriods\>
 
-        \<[Rates](bb968693\(v=office.12\).md)\>
+        \<[Rates](rates-element.md)\>
 
-            \<[Rate](bb968716\(v=office.12\).md)\>
+            \<[Rate](rate-element.md)\>
 
-                \<[RatesFrom](bb968409\(v=office.12\).md)\>dateTime\</RatesFrom\>
+                \<[RatesFrom](ratesfrom-element.md)\>dateTime\</RatesFrom\>
 
-                \<[RatesTo](bb968548\(v=office.12\).md)\>dateTime\</RatesTo\>
+                \<[RatesTo](ratesto-element.md)\>dateTime\</RatesTo\>
 
-                \<[RateTable](bb968573\(v=office.12\).md)\>integer\</RateTable\>
+                \<[RateTable](ratetable-element.md)\>integer\</RateTable\>
 
-                \<[StandardRate](bb968453\(v=office.12\).md)\>decimal\</StandardRate\>
+                \<[StandardRate](standardrate-element.md)\>decimal\</StandardRate\>
 
-                \<[StandardRateFormat](bb968727\(v=office.12\).md)\>integer\</StandardRateFormat\>
+                \<[StandardRateFormat](standardrateformat-element.md)\>integer\</StandardRateFormat\>
 
-                \<[OvertimeRate](bb968679\(v=office.12\).md)\>decimal\</OvertimeRate\>
+                \<[OvertimeRate](overtimerate-element.md)\>decimal\</OvertimeRate\>
 
-                \<[OvertimeRateFormat](bb968737\(v=office.12\).md)\>integer\</OvertimeRateFormat\>
+                \<[OvertimeRateFormat](overtimerateformat-element.md)\>integer\</OvertimeRateFormat\>
 
-                \<[CostPerUse](bb968500\(v=office.12\).md)\>decimal\</CostPerUse\>
+                \<[CostPerUse](costperuse-element.md)\>decimal\</CostPerUse\>
 
             \</Rate\>
 
         \</Rates\>
 
-        \<[c408000 – c417fff](bb968524\(v=office.12\).md)\>
+        \<[c408000 – c417fff](c408000-c417fff-elements.md)\>
 
                 \<\!-- \#\#New Project 2007 enterprise resource custom field data.
 
-                                See [Custom Field Data in XML](bb968687\(v=office.12\).md) for more information. --\>
+                                See [Custom Field Data in XML](custom-field-data-in-xml.md) for more information. --\>
 
         \</c408000 – c417fff\>
 
-        \<[ExtendedAttribute](bb968669\(v=office.12\).md)\>
+        \<[ExtendedAttribute](extendedattribute-element.md)\>
 
-            \<[FieldID](bb968474\(v=office.12\).md)\>string\</FieldID\>
+            \<[FieldID](fieldid-element.md)\>string\</FieldID\>
 
-            \<[Value](bb968696\(v=office.12\).md)\>string\</ValueID\>
+            \<[Value](value-element.md)\>string\</ValueID\>
 
-            \<[ValueGUID](bb968572\(v=office.12\).md)\>string\</UID\>
+            \<[ValueGUID](valueguid-element.md)\>string\</UID\>
 
-            \<[DurationFormat](bb968637\(v=office.12\).md)\>integer\</ValueID\>
+            \<[DurationFormat](durationformat-element.md)\>integer\</ValueID\>
 
         \</ExtendedAttribute\>
 
-        \<[OutlineCode](bb968410\(v=office.12\).md)\>
+        \<[OutlineCode](outlinecode-element.md)\>
 
-            \<[FieldID](bb968474\(v=office.12\).md)\>string\</FieldID\>
+            \<[FieldID](fieldid-element.md)\>string\</FieldID\>
 
-            \<[ValueID](bb968406\(v=office.12\).md)\>integer\</ValueID\>
+            \<[ValueID](valueid-element.md)\>integer\</ValueID\>
 
-            \<[ValueGUID](bb968572\(v=office.12\).md)\>string\</UID\>
+            \<[ValueGUID](valueguid-element.md)\>string\</UID\>
 
         \</OutlineCode\>
 
-        \<[TimephasedData](bb968479\(v=office.12\).md)\>. . .\</TimephasedData\>
+        \<[TimephasedData](timephaseddata-element.md)\>. . .\</TimephasedData\>
 
     \</Resource\>
 
@@ -293,13 +293,13 @@ Many of the Resource elements represent data fields in Microsoft Office Project.
 
 #### Concepts
 
-[Introduction to Project XML Data](bb968652\(v=office.12\).md)
+[Introduction to Project XML Data](introduction-to-project-xml-data.md)
 
-[XML Schema for the Resources Element](bb968511\(v=office.12\).md)
+[XML Schema for the Resources Element](xml-schema-for-the-resources-element.md)
 
-[Custom Field Data in XML](bb968687\(v=office.12\).md)
+[Custom Field Data in XML](custom-field-data-in-xml.md)
 
-[Project Elements and XML Structure](bb968439\(v=office.12\).md)
+[Project Elements and XML Structure](project-elements-and-xml-structure.md)
 
 #### Other Resources
 

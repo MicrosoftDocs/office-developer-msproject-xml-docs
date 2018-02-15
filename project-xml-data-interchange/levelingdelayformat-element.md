@@ -191,15 +191,15 @@ A LevelingDelay requires the LevelingDelayFormat to be specified. For exampl
 
 #### Reference
 
-[LevelingDelay Element](bb968397\(v=office.12\).md)
+[LevelingDelay Element](levelingdelay-element.md)
 
 #### Concepts
 
-[Task Elements and XML Structure](bb968475\(v=office.12\).md)
+[Task Elements and XML Structure](task-elements-and-xml-structure.md)
 
-[XML Schema for the Tasks Element](bb968415\(v=office.12\).md)
+[XML Schema for the Tasks Element](xml-schema-for-the-tasks-element.md)
 
-[Assignment Elements and XML Structure](bb968738\(v=office.12\).md)
+[Assignment Elements and XML Structure](assignment-elements-and-xml-structure.md)
 
-[XML Schema for the Assignments Element](bb968414\(v=office.12\).md)
+[XML Schema for the Assignments Element](xml-schema-for-the-assignments-element.md)
 

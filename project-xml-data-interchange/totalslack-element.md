@@ -68,11 +68,11 @@ The following example shows a task can be delayed by two days, if the work day i
 
 #### Reference
 
-[FreeSlack Element](bb968623\(v=office.12\).md)
+[FreeSlack Element](freeslack-element.md)
 
 #### Concepts
 
-[Task Elements and XML Structure](bb968475\(v=office.12\).md)
+[Task Elements and XML Structure](task-elements-and-xml-structure.md)
 
-[XML Schema for the Tasks Element](bb968415\(v=office.12\).md)
+[XML Schema for the Tasks Element](xml-schema-for-the-tasks-element.md)
 

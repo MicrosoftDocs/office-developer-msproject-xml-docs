@@ -438,5 +438,5 @@ The complete Project 2007 XML Data Interchange Schema is included in the Project
 
 #### Concepts
 
-[Calendar Elements and XML Structure](bb968563\(v=office.12\).md)
+[Calendar Elements and XML Structure](calendar-elements-and-xml-structure.md)
 

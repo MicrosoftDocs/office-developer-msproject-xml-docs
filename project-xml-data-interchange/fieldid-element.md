@@ -55,7 +55,7 @@ In an ExtendedAttribute, it corresponds to the enumeration value of a local cus
 
 You should not use FieldID to identify uniqueness across multiple projects or versions of Microsoft Office Project.
 
-For an enterprise custom field, the integer value of FieldID is the decimal equivalent of the hexadecimal enterprise custom field element name. For example, if an enterprise resource custom field element is c408005, the FieldID value is 205553669. For more information, see [c408000 - c417fff Elements](bb968524\(v=office.12\).md).
+For an enterprise custom field, the integer value of FieldID is the decimal equivalent of the hexadecimal enterprise custom field element name. For example, if an enterprise resource custom field element is c408005, the FieldID value is 205553669. For more information, see [c408000 - c417fff Elements](c408000-c417fff-elements.md).
 
 For a local custom field, the FieldID corresponds to PjCustomField enumeration value. For example, the FieldID 188743731 matches the pjCustomTaskText1 value in [PjCustomField Enumeration](http://msdn2.microsoft.com/en-ca/library/bb221982.aspx).
 
@@ -68,13 +68,13 @@ For a local custom field, the FieldID corresponds to PjCustomField enumeration v
 
 #### Concepts
 
-[OutlineCode Elements and XML Structure](bb968596\(v=office.12\).md)
+[OutlineCode Elements and XML Structure](outlinecode-elements-and-xml-structure.md)
 
-[XML Schema for the OutlineCodes Element](bb968584\(v=office.12\).md)
+[XML Schema for the OutlineCodes Element](xml-schema-for-the-outlinecodes-element.md)
 
-[ExtendedAttribute Elements and XML Structure](bb968579\(v=office.12\).md)
+[ExtendedAttribute Elements and XML Structure](extendedattribute-elements-and-xml-structure.md)
 
-[XML Schema for the ExtendedAttributes Element](bb968705\(v=office.12\).md)
+[XML Schema for the ExtendedAttributes Element](xml-schema-for-the-extendedattributes-element.md)
 
 #### Other Resources
 

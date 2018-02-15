@@ -24,49 +24,49 @@ monikerRange: '>= project-client-2007 || project-client-odc'
 
 This section contains information about children of the Calendars element defined in the Microsoft Office Project 2007 XML Data Interchange Schema (mspdi\_pj12.xsd). The elements represent calendar data when you save a project in the XML format.
 
-Calendars is a child of the Project element. For more information, see [Project Elements and XML Structure](bb968439\(v=office.12\).md).
+Calendars is a child of the Project element. For more information, see [Project Elements and XML Structure](project-elements-and-xml-structure.md).
 
 ## XML Structure of Calendar Elements
 
-The following shows the XML structure of the elements defined by the Calendar schema section of mspdi\_pj12.xsd. The data type is indicated for those elements that require a text value. You can find more detailed information about valid text values for each element in the documentation annotations that are embedded in the [XML Schema for the Calendars Element](bb968557\(v=office.12\).md).
+The following shows the XML structure of the elements defined by the Calendar schema section of mspdi\_pj12.xsd. The data type is indicated for those elements that require a text value. You can find more detailed information about valid text values for each element in the documentation annotations that are embedded in the [XML Schema for the Calendars Element](xml-schema-for-the-calendars-element.md).
 
-For more information about the data types used in the Project 2007 XML Data Interchange Schema, see [Introduction to Project XML Data](bb968652\(v=office.12\).md).
+For more information about the data types used in the Project 2007 XML Data Interchange Schema, see [Introduction to Project XML Data](introduction-to-project-xml-data.md).
 
-\<[Calendars](bb968499\(v=office.12\).md)\>
+\<[Calendars](calendars-element.md)\>
 
-    \<[Calendar](bb968481\(v=office.12\).md)\>
+    \<[Calendar](calendar-element.md)\>
 
-        \<[UID](bb968590\(v=office.12\).md)\>integer\</UID\>
+        \<[UID](uid-element.md)\>integer\</UID\>
 
-        \<[Name](bb968600\(v=office.12\).md)\>string\</Name\>
+        \<[Name](name-element.md)\>string\</Name\>
 
-        \<[IsBaseCalendar](bb968610\(v=office.12\).md)\>boolean\</IsBaseCalendar\>
+        \<[IsBaseCalendar](isbasecalendar-element.md)\>boolean\</IsBaseCalendar\>
 
-        \<[BaseCalendarUID](bb968744\(v=office.12\).md)\>integer\</BaseCalendarUID\>
+        \<[BaseCalendarUID](basecalendaruid-element.md)\>integer\</BaseCalendarUID\>
 
-        \<[WeekDays](bb968420\(v=office.12\).md)\>
+        \<[WeekDays](weekdays-element.md)\>
 
-            \<[WeekDay](bb968433\(v=office.12\).md)\>
+            \<[WeekDay](weekday-element.md)\>
 
-                \<[DayType](bb968462\(v=office.12\).md)\>integer\</DayType\>
+                \<[DayType](daytype-element.md)\>integer\</DayType\>
 
-                \<[DayWorking](bb968665\(v=office.12\).md)\>boolean\</DayWorking\>
+                \<[DayWorking](dayworking-element-calendar.md)\>boolean\</DayWorking\>
 
-                \<[TimePeriod](bb968661\(v=office.12\).md)\>
+                \<[TimePeriod](timeperiod-element-calendar.md)\>
 
-                    \<[FromDate](bb968583\(v=office.12\).md)\>dateTime\</FromDate\>
+                    \<[FromDate](fromdate-element-calendar.md)\>dateTime\</FromDate\>
 
-                    \<[ToDate](bb968399\(v=office.12\).md)\>dateTime\</ToDate\>
+                    \<[ToDate](todate-element-calendar.md)\>dateTime\</ToDate\>
 
                 \</TimePeriod\>
 
-                \<[WorkingTimes](bb968403\(v=office.12\).md)\>
+                \<[WorkingTimes](workingtimes-element-calendar.md)\>
 
-                    \<[WorkingTime](bb968585\(v=office.12\).md)\>
+                    \<[WorkingTime](workingtime-element-calendar.md)\>
 
-                        \<[FromTime](bb968425\(v=office.12\).md)\>time\</FromTime\>
+                        \<[FromTime](fromtime-element-calendar.md)\>time\</FromTime\>
 
-                        \<[ToTime](bb968466\(v=office.12\).md)\>time\</Time\>
+                        \<[ToTime](totime-element-calendar.md)\>time\</Time\>
 
                     \</WorkingTime\>
 
@@ -76,47 +76,47 @@ For more information about the data types used in the Project 2007 XML Data Inte
 
         \</WeekDays\>
 
-        \<[Exceptions](bb968618\(v=office.12\).md)\>
+        \<[Exceptions](exceptions-element.md)\>
 
-            \<[Exception](bb968492\(v=office.12\).md)\>
+            \<[Exception](exception-element.md)\>
 
-                \<[EnteredByOccurrences](bb968564\(v=office.12\).md)\>boolean\</EnteredByOccurrences\>
+                \<[EnteredByOccurrences](enteredbyoccurrences-element.md)\>boolean\</EnteredByOccurrences\>
 
-                \<[TimePeriod](bb968661\(v=office.12\).md)\>
+                \<[TimePeriod](timeperiod-element-calendar.md)\>
 
-                    \<[FromDate](bb968583\(v=office.12\).md)\>dateTime\</FromDate\>
+                    \<[FromDate](fromdate-element-calendar.md)\>dateTime\</FromDate\>
 
-                    \<[ToDate](bb968399\(v=office.12\).md)\>dateTime\</ToDate\>
+                    \<[ToDate](todate-element-calendar.md)\>dateTime\</ToDate\>
 
                 \</TimePeriod\>
 
-                \<[Occurrences](bb968710\(v=office.12\).md)\>integer\</Occurrences\>
+                \<[Occurrences](occurrences-element.md)\>integer\</Occurrences\>
 
-                \<[Name](bb968600\(v=office.12\).md)\>string\</Name\>
+                \<[Name](name-element.md)\>string\</Name\>
 
-                \<[Type](bb968434\(v=office.12\).md)\>integer\</Type\>
+                \<[Type](type-element-multiple-parents.md)\>integer\</Type\>
 
-                \<[Period](bb968554\(v=office.12\).md)\>integer\</Period\>
+                \<[Period](period-element.md)\>integer\</Period\>
 
-                \<[DaysOfWeek](bb968569\(v=office.12\).md)\>integer\</DaysOfWeek\>
+                \<[DaysOfWeek](daysofweek-element.md)\>integer\</DaysOfWeek\>
 
-                \<[MonthItem](bb968560\(v=office.12\).md)\>integer\</MonthItem\>
+                \<[MonthItem](monthitem-element.md)\>integer\</MonthItem\>
 
-                \<[MonthPosition](bb968624\(v=office.12\).md)\>integer\</MonthPosition\>
+                \<[MonthPosition](monthposition-element.md)\>integer\</MonthPosition\>
 
-                \<[Month](bb968450\(v=office.12\).md)\>integer\</Month\>
+                \<[Month](month-element.md)\>integer\</Month\>
 
-                \<[MonthDay](bb968700\(v=office.12\).md)\>integer\</MonthDay\>
+                \<[MonthDay](monthday-element.md)\>integer\</MonthDay\>
 
-                \<[DayWorking](bb968665\(v=office.12\).md)\>boolean\</DayWorking\>
+                \<[DayWorking](dayworking-element-calendar.md)\>boolean\</DayWorking\>
 
-                \<[WorkingTimes](bb968403\(v=office.12\).md)\>
+                \<[WorkingTimes](workingtimes-element-calendar.md)\>
 
-                    \<[WorkingTime](bb968585\(v=office.12\).md)\>
+                    \<[WorkingTime](workingtime-element-calendar.md)\>
 
-                        \<[FromTime](bb968425\(v=office.12\).md)\>time\</FromTime\>
+                        \<[FromTime](fromtime-element-calendar.md)\>time\</FromTime\>
 
-                        \<[ToTime](bb968466\(v=office.12\).md)\>time\</ToTime\>
+                        \<[ToTime](totime-element-calendar.md)\>time\</ToTime\>
 
                     \</WorkingTime\>
 
@@ -126,25 +126,25 @@ For more information about the data types used in the Project 2007 XML Data Inte
 
         \</Exceptions\>
 
-        \<[WorkWeeks](bb968496\(v=office.12\).md)\>   \<\!-- See note in the WorkWeeks and WorkWeek topics --\>
+        \<[WorkWeeks](workweeks-element.md)\>   \<\!-- See note in the WorkWeeks and WorkWeek topics --\>
 
-            \<[WorkWeek](bb968525\(v=office.12\).md)\>
+            \<[WorkWeek](workweek-element.md)\>
 
-                \<[TimePeriod](bb968661\(v=office.12\).md)\>
+                \<[TimePeriod](timeperiod-element-calendar.md)\>
 
-                    \<[FromDate](bb968583\(v=office.12\).md)\>dateTime\</FromDate\>
+                    \<[FromDate](fromdate-element-calendar.md)\>dateTime\</FromDate\>
 
-                    \<[ToDate](bb968399\(v=office.12\).md)\>dateTime\</ToDate\>
+                    \<[ToDate](todate-element-calendar.md)\>dateTime\</ToDate\>
 
                 \</TimePeriod\>
 
-                \<[Name](bb968600\(v=office.12\).md)\>string\</Name\>
+                \<[Name](name-element.md)\>string\</Name\>
 
-                \<[WeekDay](bb968433\(v=office.12\).md)\>
+                \<[WeekDay](weekday-element.md)\>
 
-                    \<[DayType](bb968462\(v=office.12\).md)\>integer\</DayType\>
+                    \<[DayType](daytype-element.md)\>integer\</DayType\>
 
-                    \<[DayWorking](bb968665\(v=office.12\).md)\>boolean\</DayWorking\>
+                    \<[DayWorking](dayworking-element-calendar.md)\>boolean\</DayWorking\>
 
                 \</WeekDay\>
 
@@ -160,9 +160,9 @@ For more information about the data types used in the Project 2007 XML Data Inte
 
 #### Concepts
 
-[Introduction to Project XML Data](bb968652\(v=office.12\).md)
+[Introduction to Project XML Data](introduction-to-project-xml-data.md)
 
-[XML Schema for the Calendars Element](bb968557\(v=office.12\).md)
+[XML Schema for the Calendars Element](xml-schema-for-the-calendars-element.md)
 
-[Project Elements and XML Structure](bb968439\(v=office.12\).md)
+[Project Elements and XML Structure](project-elements-and-xml-structure.md)
 

@@ -108,7 +108,7 @@ Table 1. Resource-level enterprise custom field IDs
 </tbody>
 </table>
 
-For more information, see [Custom Field Data in XML](bb968687\(v=office.12\).md).
+For more information, see [Custom Field Data in XML](custom-field-data-in-xml.md).
 
 ## Example
 
@@ -214,9 +214,9 @@ The following example shows three different representations of enterprise resour
 
 #### Concepts
 
-[Resource Elements and XML Structure](bb968445\(v=office.12\).md)
+[Resource Elements and XML Structure](resource-elements-and-xml-structure.md)
 
-[XML Schema for the Resources Element](bb968511\(v=office.12\).md)
+[XML Schema for the Resources Element](xml-schema-for-the-resources-element.md)
 
-[Custom Field Data in XML](bb968687\(v=office.12\).md)
+[Custom Field Data in XML](custom-field-data-in-xml.md)
 

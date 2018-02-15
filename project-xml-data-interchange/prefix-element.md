@@ -53,7 +53,7 @@ The prefix for all work breakdown structure (WBS) codes.
 
 #### Concepts
 
-[WBSMask Elements and XML Structure](bb968416\(v=office.12\).md)
+[WBSMask Elements and XML Structure](wbsmask-elements-and-xml-structure.md)
 
-[XML Schema for the WBSMasks Element](bb968565\(v=office.12\).md)
+[XML Schema for the WBSMasks Element](xml-schema-for-the-wbsmasks-element.md)
 

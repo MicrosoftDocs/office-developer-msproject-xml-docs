@@ -23,9 +23,9 @@ The Microsoft Office Project 2007 XML Data Interchange Schema (mspdi\_pj12.xsd) 
 
 ## New XML Elements in Project 2007
 
-The following sections briefly describe the new elements in the Project XML Data Interchange Schema in Project 2007. In addition, Project 2007 includes changes to the way that some custom field information is represented in XML. For more information, see [Custom Field Data in XML](bb968687\(v=office.12\).md).
+The following sections briefly describe the new elements in the Project XML Data Interchange Schema in Project 2007. In addition, Project 2007 includes changes to the way that some custom field information is represented in XML. For more information, see [Custom Field Data in XML](custom-field-data-in-xml.md).
 
-This article organizes the new elements alphabetically within the following sections, which parallel the organization of this schema reference. For detailed information about XML element structure, see [Project Data Interchange Elements](bb968664\(v=office.12\).md).
+This article organizes the new elements alphabetically within the following sections, which parallel the organization of this schema reference. For detailed information about XML element structure, see [Project Data Interchange Elements](project-data-interchange-elements.md).
 
   - Table 1: New Project elements
 
@@ -363,9 +363,9 @@ This article organizes the new elements alphabetically within the following sect
 
 ## See also
 
-- [Custom Field Data in XML](bb968687\(v=office.12\).md)
+- [Custom Field Data in XML](custom-field-data-in-xml.md)
 
-- [Introduction to Project XML Data](bb968652\(v=office.12\).md)
+- [Introduction to Project XML Data](introduction-to-project-xml-data.md)
 
-- [Project Data Interchange Elements](bb968664\(v=office.12\).md)
+- [Project Data Interchange Elements](project-data-interchange-elements.md)
 
