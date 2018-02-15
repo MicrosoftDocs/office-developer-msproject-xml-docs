@@ -30,7 +30,7 @@ The collection of extended attribute (custom field) definitions associated with 
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968701(v=office.12).md">Project</a></p></td>
+<td><p><a href="project-element.md">Project</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -43,7 +43,7 @@ The collection of extended attribute (custom field) definitions associated with 
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968669(v=office.12).md">ExtendedAttribute</a></p></td>
+<td><p><a href="extendedattribute-element.md">ExtendedAttribute</a></p></td>
 </tr>
 </tbody>
 </table>

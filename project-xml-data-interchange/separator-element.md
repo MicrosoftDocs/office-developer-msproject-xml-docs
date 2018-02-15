@@ -30,7 +30,7 @@ The character used to separate outline code mask levels or work breakdown struct
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968659(v=office.12).md">Mask</a>, <a href="bb968641(v=office.12).md">WBSMask</a></p></td>
+<td><p><a href="mask-element.md">Mask</a>, <a href="wbsmask-element.md">WBSMask</a></p></td>
 </tr>
 </tbody>
 </table>

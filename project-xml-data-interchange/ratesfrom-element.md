@@ -30,7 +30,7 @@ The date the resource rate becomes available.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968716(v=office.12).md">Rate</a></p></td>
+<td><p><a href="rate-element.md">Rate</a></p></td>
 </tr>
 </tbody>
 </table>

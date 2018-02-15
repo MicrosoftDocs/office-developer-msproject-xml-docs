@@ -30,7 +30,7 @@ Indicates whether the specified date or day type is a working day.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968433(v=office.12).md">WeekDay</a></p></td>
+<td><p><a href="weekday-element.md">WeekDay</a></p></td>
 </tr>
 </tbody>
 </table>

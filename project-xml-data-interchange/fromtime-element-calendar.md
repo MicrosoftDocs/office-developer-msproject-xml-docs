@@ -30,7 +30,7 @@ The start of the working time.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968585(v=office.12).md">WorkingTime</a></p></td>
+<td><p><a href="workingtime-element-calendar.md">WorkingTime</a></p></td>
 </tr>
 </tbody>
 </table>

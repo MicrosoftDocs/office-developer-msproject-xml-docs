@@ -32,7 +32,7 @@ The collection of working times that defines the time for work on a working day 
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968433(v=office.12).md">WeekDay</a></p></td>
+<td><p><a href="weekday-element.md">WeekDay</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -45,7 +45,7 @@ The collection of working times that defines the time for work on a working day 
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968585(v=office.12).md">WorkingTime</a></p></td>
+<td><p><a href="workingtime-element-calendar.md">WorkingTime</a></p></td>
 </tr>
 </tbody>
 </table>

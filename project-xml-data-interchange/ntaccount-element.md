@@ -30,7 +30,7 @@ The Windows account name for a resource; for example, domain\_name\\user\_name.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968715(v=office.12).md">Resource</a></p></td>
+<td><p><a href="resource-element.md">Resource</a></p></td>
 </tr>
 </tbody>
 </table>

@@ -30,7 +30,7 @@ Indicates whether work breakdown structure (WBS) codes are unique for new tasks.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968580(v=office.12).md">WBSMasks</a></p></td>
+<td><p><a href="wbsmasks-element.md">WBSMasks</a></p></td>
 </tr>
 </tbody>
 </table>

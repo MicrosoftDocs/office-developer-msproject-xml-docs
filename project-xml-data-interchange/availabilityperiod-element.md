@@ -30,7 +30,7 @@ Defines a period when a resource is available.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968747(v=office.12).md">AvailabilityPeriods</a></p></td>
+<td><p><a href="availabilityperiods-element.md">AvailabilityPeriods</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -43,7 +43,7 @@ Defines a period when a resource is available.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968686(v=office.12).md">AvailableFrom</a>, <a href="bb968648(v=office.12).md">AvailableTo</a>, <a href="bb968515(v=office.12).md">AvailableUnits</a></p></td>
+<td><p><a href="availablefrom-element.md">AvailableFrom</a>, <a href="availableto-element.md">AvailableTo</a>, <a href="availableunits-element.md">AvailableUnits</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -63,17 +63,17 @@ Defines a period when a resource is available.
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968686(v=office.12).md">AvailableFrom</a></p></td>
+<td><p><a href="availablefrom-element.md">AvailableFrom</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The starting date that a resource is available for work at the units specified for the current time period.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968648(v=office.12).md">AvailableTo</a></p></td>
+<td><p><a href="availableto-element.md">AvailableTo</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The ending date that a resource will be available for work at the units specified for the current time period.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968515(v=office.12).md">AvailableUnits</a></p></td>
+<td><p><a href="availableunits-element.md">AvailableUnits</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The percentage that the resource is available during the specified period.</p></td>
 </tr>

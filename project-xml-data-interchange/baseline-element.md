@@ -30,7 +30,7 @@ The collection of baseline values associated with the task, resource or assignme
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968487(v=office.12).md">Task</a>, <a href="bb968715(v=office.12).md">Resource</a>, <a href="bb968611(v=office.12).md">Assignment</a></p></td>
+<td><p><a href="task-element.md">Task</a>, <a href="resource-element.md">Resource</a>, <a href="assignment-element.md">Assignment</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -52,67 +52,67 @@ The collection of baseline values associated with the task, resource or assignme
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968479(v=office.12).md">TimephasedData</a></p></td>
+<td><p><a href="timephaseddata-element.md">TimephasedData</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The timephased data block associated with the task baseline.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968680(v=office.12).md">Number</a></p></td>
+<td><p><a href="number-element.md">Number</a></p></td>
 <td><p>Required</p></td>
 <td><p>The unique number of the baseline data record.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968438(v=office.12).md">Interim</a></p></td>
+<td><p><a href="interim-element.md">Interim</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Indicates whether the baseline is an interim baseline.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968645(v=office.12).md">Start</a></p></td>
+<td><p><a href="start-element.md">Start</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The scheduled start date of the task when the baseline was saved.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968534(v=office.12).md">Finish</a></p></td>
+<td><p><a href="finish-element.md">Finish</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The scheduled finish date of the task when the baseline was saved.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968640(v=office.12).md">Duration</a></p></td>
+<td><p><a href="duration-element.md">Duration</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The scheduled duration of the task when the baseline was saved.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968637(v=office.12).md">DurationFormat</a></p></td>
+<td><p><a href="durationformat-element.md">DurationFormat</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The format for expressing the duration of the task baseline.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968697(v=office.12).md">EstimatedDuration</a></p></td>
+<td><p><a href="estimatedduration-element.md">EstimatedDuration</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Indicates whether the duration of the task is estimated.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968571(v=office.12).md">Work</a></p></td>
+<td><p><a href="work-element.md">Work</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The scheduled work for the task when the baseline was saved.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968522(v=office.12).md">Cost</a></p></td>
+<td><p><a href="cost-element.md">Cost</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The projected cost of the task when the baseline was saved.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968411(v=office.12).md">BCWS</a></p></td>
+<td><p><a href="bcws-element.md">BCWS</a></p></td>
 <td><p>Optional</p></td>
 <td><p>BCWS is the budgeted cost of work scheduled. The cumulative timephased baseline costs up to the status date or today's date.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968714(v=office.12).md">BCWP</a></p></td>
+<td><p><a href="bcwp-element.md">BCWP</a></p></td>
 <td><p>Optional</p></td>
 <td><p>BCWP is the budgeted cost of work performed. The cumulative value of the task's timephased percent complete multiplied by the task's timephased baseline cost, up to the status date or today's date.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968494(v=office.12).md">FixedCost</a></p></td>
+<td><p><a href="fixedcost-element-baseline.md">FixedCost</a></p></td>
 <td><p>Optional</p></td>
 <td><p>New for Baseline in Project 2007. The fixed cost of the task when the baseline was saved.</p></td>
 </tr>
@@ -136,27 +136,27 @@ The collection of baseline values associated with the task, resource or assignme
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968680(v=office.12).md">Number</a></p></td>
+<td><p><a href="number-element.md">Number</a></p></td>
 <td><p>Required</p></td>
 <td><p>The unique number of the baseline data record.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968571(v=office.12).md">Work</a></p></td>
+<td><p><a href="work-element.md">Work</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The work assigned to the resource when the baseline is saved.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968522(v=office.12).md">Cost</a></p></td>
+<td><p><a href="cost-element.md">Cost</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The projected cost for the resource when the baseline was saved.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968411(v=office.12).md">BCWS</a></p></td>
+<td><p><a href="bcws-element.md">BCWS</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The budgeted cost of work scheduled for the resource.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968714(v=office.12).md">BCWP</a></p></td>
+<td><p><a href="bcwp-element.md">BCWP</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The budgeted cost of the work performed by the resource on the project to-date.</p></td>
 </tr>
@@ -180,42 +180,42 @@ The collection of baseline values associated with the task, resource or assignme
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968479(v=office.12).md">TimephasedData</a></p></td>
+<td><p><a href="timephaseddata-element.md">TimephasedData</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The timephased data block associated with the task baseline.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968680(v=office.12).md">Number</a></p></td>
+<td><p><a href="number-element.md">Number</a></p></td>
 <td><p>Required</p></td>
 <td><p>The unique number of the baseline data record.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968645(v=office.12).md">Start</a></p></td>
+<td><p><a href="start-element.md">Start</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The scheduled start date of the assignment when the baseline was saved.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968534(v=office.12).md">Finish</a></p></td>
+<td><p><a href="finish-element.md">Finish</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The scheduled finish date of the assignment when the baseline was saved.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968571(v=office.12).md">Work</a></p></td>
+<td><p><a href="work-element.md">Work</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The total amount of work scheduled on the assignment when the baseline was saved.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968522(v=office.12).md">Cost</a></p></td>
+<td><p><a href="cost-element.md">Cost</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The total projected cost of the assignment when the baseline was saved.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968411(v=office.12).md">BCWS</a></p></td>
+<td><p><a href="bcws-element.md">BCWS</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The budgeted cost of work scheduled on the assignment.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968714(v=office.12).md">BCWP</a></p></td>
+<td><p><a href="bcwp-element.md">BCWP</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The budgeted cost of the work performed on the assignment to date.</p></td>
 </tr>

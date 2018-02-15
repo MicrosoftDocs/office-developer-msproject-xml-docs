@@ -30,7 +30,7 @@ Defines a set of exception days or a work week.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968433(v=office.12).md">WeekDay</a>, <a href="bb968525(v=office.12).md">WorkWeek</a></p></td>
+<td><p><a href="weekday-element.md">WeekDay</a>, <a href="workweek-element.md">WorkWeek</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -52,12 +52,12 @@ Defines a set of exception days or a work week.
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968583(v=office.12).md">FromDate</a></p></td>
+<td><p><a href="fromdate-element-calendar.md">FromDate</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Start date of the calendar exception or work week.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968399(v=office.12).md">ToDate</a></p></td>
+<td><p><a href="todate-element-calendar.md">ToDate</a></p></td>
 <td><p>Optional</p></td>
 <td><p>End date of the calendar exception or work week.</p></td>
 </tr>

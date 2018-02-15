@@ -32,7 +32,7 @@ The collection of exceptions associated with a calendar.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968481(v=office.12).md">Calendar</a></p></td>
+<td><p><a href="calendar-element.md">Calendar</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -45,7 +45,7 @@ The collection of exceptions associated with a calendar.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968492(v=office.12).md">Exception</a></p></td>
+<td><p><a href="exception-element.md">Exception</a></p></td>
 </tr>
 </tbody>
 </table>

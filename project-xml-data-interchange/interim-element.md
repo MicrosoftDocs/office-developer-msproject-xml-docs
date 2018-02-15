@@ -30,7 +30,7 @@ Indicates whether the baseline is an interim baseline in a task, resource, or as
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968599(v=office.12).md">Baseline</a></p></td>
+<td><p><a href="baseline-element.md">Baseline</a></p></td>
 </tr>
 </tbody>
 </table>

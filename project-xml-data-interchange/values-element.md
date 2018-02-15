@@ -30,7 +30,7 @@ The collection of values associated with a custom outline code.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968410(v=office.12).md">OutlineCode</a></p></td>
+<td><p><a href="outlinecode-element.md">OutlineCode</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -43,7 +43,7 @@ The collection of values associated with a custom outline code.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968696(v=office.12).md">Value</a></p></td>
+<td><p><a href="value-element.md">Value</a></p></td>
 </tr>
 </tbody>
 </table>

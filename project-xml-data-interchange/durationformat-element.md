@@ -36,7 +36,7 @@ For ExtendedAttribute, it is the format for the duration of the extended attrib
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968701(v=office.12).md">Project</a>, <a href="bb968487(v=office.12).md">Task</a>, <a href="bb968599(v=office.12).md">Baseline</a>, <a href="bb968669(v=office.12).md">ExtendedAttribute</a></p></td>
+<td><p><a href="project-element.md">Project</a>, <a href="task-element.md">Task</a>, <a href="baseline-element.md">Baseline</a>, <a href="extendedattribute-element.md">ExtendedAttribute</a></p></td>
 </tr>
 </tbody>
 </table>

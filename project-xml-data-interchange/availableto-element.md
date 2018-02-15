@@ -30,7 +30,7 @@ The ending date that a resource will be available for work at the units specifie
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968625(v=office.12).md">AvailabilityPeriod</a>, <a href="bb968715(v=office.12).md">Resource</a></p></td>
+<td><p><a href="availabilityperiod-element.md">AvailabilityPeriod</a>, <a href="resource-element.md">Resource</a></p></td>
 </tr>
 </tbody>
 </table>

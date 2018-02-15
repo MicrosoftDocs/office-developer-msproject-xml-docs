@@ -30,7 +30,7 @@ Time unit for the timephased data period.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968479(v=office.12).md">TimephasedData</a></p></td>
+<td><p><a href="timephaseddata-element.md">TimephasedData</a></p></td>
 </tr>
 </tbody>
 </table>

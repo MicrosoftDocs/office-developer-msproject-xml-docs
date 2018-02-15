@@ -30,7 +30,7 @@ The collection of resources that make up the project. There must be at least one
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968701(v=office.12).md">Project</a></p></td>
+<td><p><a href="project-element.md">Project</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -43,7 +43,7 @@ The collection of resources that make up the project. There must be at least one
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968715(v=office.12).md">Resource</a></p></td>
+<td><p><a href="resource-element.md">Resource</a></p></td>
 </tr>
 </tbody>
 </table>

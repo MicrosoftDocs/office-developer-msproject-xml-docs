@@ -32,7 +32,7 @@ Calendars are used to define standard working and nonworking times. A project mu
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968701(v=office.12).md">Project</a></p></td>
+<td><p><a href="project-element.md">Project</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -45,7 +45,7 @@ Calendars are used to define standard working and nonworking times. A project mu
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968481(v=office.12).md">Calendar</a></p></td>
+<td><p><a href="calendar-element.md">Calendar</a></p></td>
 </tr>
 </tbody>
 </table>

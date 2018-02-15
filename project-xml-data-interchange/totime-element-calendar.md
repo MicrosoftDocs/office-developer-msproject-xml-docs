@@ -30,7 +30,7 @@ The end of the working time in the calendar or calendar exception.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968585(v=office.12).md">WorkingTime</a></p></td>
+<td><p><a href="workingtime-element-calendar.md">WorkingTime</a></p></td>
 </tr>
 </tbody>
 </table>

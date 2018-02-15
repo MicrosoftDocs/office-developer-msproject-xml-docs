@@ -32,7 +32,7 @@ Contains the collection of WeekDay elements that define a calendar.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968481(v=office.12).md">Calendar</a></p></td>
+<td><p><a href="calendar-element.md">Calendar</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -45,7 +45,7 @@ Contains the collection of WeekDay elements that define a calendar.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968433(v=office.12).md">WeekDay</a></p></td>
+<td><p><a href="weekday-element.md">WeekDay</a></p></td>
 </tr>
 </tbody>
 </table>

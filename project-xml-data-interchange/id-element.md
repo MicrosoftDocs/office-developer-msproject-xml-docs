@@ -34,7 +34,7 @@ For Value, it is the ID of the value within the project.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968715(v=office.12).md">Resource</a>, <a href="bb968487(v=office.12).md">Task</a>, <a href="bb968696(v=office.12).md">Value</a></p></td>
+<td><p><a href="resource-element.md">Resource</a>, <a href="task-element.md">Task</a>, <a href="value-element.md">Value</a></p></td>
 </tr>
 </tbody>
 </table>

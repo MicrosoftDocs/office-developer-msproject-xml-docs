@@ -34,7 +34,7 @@ In a TimephasedData element, Value is the value for each unit in the timephase
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968702(v=office.12).md">ValueList</a>, <a href="bb968604(v=office.12).md">Values</a>, <a href="bb968669(v=office.12).md">ExtendedAttribute</a>, <a href="https://msdn.microsoft.com/en-us/library/office%7cps12con%7c%7e%5chtml%5cpjxml_elemtimephaseddata_hv01056849.xml.htm(v=office.12)">TimephasedData</a></p></td>
+<td><p><a href="valuelist-element.md">ValueList</a>, <a href="values-element.md">Values</a>, <a href="extendedattribute-element.md">ExtendedAttribute</a>, <a href="https://msdn.microsoft.com/en-us/library/office%7cps12con%7c%7e%5chtml%5cpjxml_elemtimephaseddata_hv01056849.xml.htm(v=office.12)">TimephasedData</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -58,22 +58,22 @@ Values is the parent of a Value element within an OutlineCode element.
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968406(v=office.12).md">ValueID</a></p></td>
+<td><p><a href="valueid-element.md">ValueID</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Unique ID for the custom outline code.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968634(v=office.12).md">FieldGUID</a></p></td>
+<td><p><a href="fieldguid-element.md">FieldGUID</a></p></td>
 <td><p>Required</p></td>
 <td><p>New in Project 2007. GUID of the outline code value.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968434(v=office.12).md">Type</a></p></td>
+<td><p><a href="type-element-multiple-parents.md">Type</a></p></td>
 <td><p>Required</p></td>
 <td><p>New in Project 2007. Type of the outline code (text, date, duration, flag, cost, number)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968739(v=office.12).md">ParentValueID</a> </p></td>
+<td><p><a href="parentvalueid-element.md">ParentValueID</a> </p></td>
 <td><p>Optional</p></td>
 <td><p>Unique ID for the parent node of the custom outline code.</p></td>
 </tr>
@@ -83,7 +83,7 @@ Values is the parent of a Value element within an OutlineCode element.
 <td><p>Actual value of the custom outline code.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968567(v=office.12).md">Description</a></p></td>
+<td><p><a href="description-element.md">Description</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Description of the custom outline code.</p></td>
 </tr>
@@ -107,7 +107,7 @@ Values is the parent of a Value element within an OutlineCode element.
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968437(v=office.12).md">ID</a> </p></td>
+<td><p><a href="id-element.md">ID</a> </p></td>
 <td><p>Required</p></td>
 <td><p>Unique ID for the outline code or custom field.</p></td>
 </tr>
@@ -117,12 +117,12 @@ Values is the parent of a Value element within an OutlineCode element.
 <td><p>Actual value of the outline code or custom field.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968567(v=office.12).md">Description</a></p></td>
+<td><p><a href="description-element.md">Description</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Description of the outline code or custom field.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968486(v=office.12).md">Phonetic</a></p></td>
+<td><p><a href="phonetic-element.md">Phonetic</a></p></td>
 <td><p>Optional</p></td>
 <td><p>New in Project 2007. Phonetic information for custom field or outline code names.</p></td>
 </tr>

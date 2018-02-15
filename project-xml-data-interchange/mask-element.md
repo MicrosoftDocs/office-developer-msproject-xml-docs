@@ -30,7 +30,7 @@ Indicates whether the custom outline code must be used with all related resource
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968478(v=office.12).md">Masks</a></p></td>
+<td><p><a href="masks-element.md">Masks</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -52,22 +52,22 @@ Indicates whether the custom outline code must be used with all related resource
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968635(v=office.12).md">Level</a></p></td>
+<td><p><a href="level-element.md">Level</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Level that is assigned to each outline code value, beginning with 1.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968434(v=office.12).md">Type</a></p></td>
+<td><p><a href="type-element-multiple-parents.md">Type</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Type of code string for first-level tasks.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968526(v=office.12).md">Length</a></p></td>
+<td><p><a href="length-element.md">Length</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Maximum length in characters of the outline code values, from 1 – 255. If length is any, the value is zero.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968421(v=office.12).md">Separator</a></p></td>
+<td><p><a href="separator-element.md">Separator</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Character used to separate outline code levels.</p></td>
 </tr>

@@ -30,7 +30,7 @@ The start date of the calendar exception or work week.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968661(v=office.12).md">TimePeriod</a></p></td>
+<td><p><a href="timeperiod-element-calendar.md">TimePeriod</a></p></td>
 </tr>
 </tbody>
 </table>

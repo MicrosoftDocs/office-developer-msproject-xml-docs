@@ -33,7 +33,7 @@ The name of the project, calendar, calendar exception, effective work week, reso
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968701(v=office.12).md">Project</a>, <a href="bb968481(v=office.12).md">Calendar</a>, <a href="bb968492(v=office.12).md">Exception</a>, <a href="bb968525(v=office.12).md">WorkWeek</a>, <a href="bb968715(v=office.12).md">Resource</a>, <a href="bb968487(v=office.12).md">Task</a></p></td>
+<td><p><a href="project-element.md">Project</a>, <a href="calendar-element.md">Calendar</a>, <a href="exception-element.md">Exception</a>, <a href="workweek-element.md">WorkWeek</a>, <a href="resource-element.md">Resource</a>, <a href="task-element.md">Task</a></p></td>
 </tr>
 </tbody>
 </table>

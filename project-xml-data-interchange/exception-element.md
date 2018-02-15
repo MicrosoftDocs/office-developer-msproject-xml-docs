@@ -32,7 +32,7 @@ The Exception element defines a single calendar exception.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968618(v=office.12).md">Exceptions</a></p></td>
+<td><p><a href="exceptions-element.md">Exceptions</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -54,22 +54,22 @@ The Exception element defines a single calendar exception.
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968564(v=office.12).md">EnteredByOccurrences</a></p></td>
+<td><p><a href="enteredbyoccurrences-element.md">EnteredByOccurrences</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Indicates whether the range of recurrence for the calendar exception is defined by a number of occurrences, or by a finish date.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968661(v=office.12).md">TimePeriod</a></p></td>
+<td><p><a href="timeperiod-element-calendar.md">TimePeriod</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Defines a set of exception days.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968710(v=office.12).md">Occurrences</a></p></td>
+<td><p><a href="occurrences-element.md">Occurrences</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Number of occurrences for which the calendar exception is valid.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968600(v=office.12).md">Name</a></p></td>
+<td><p><a href="name-element.md">Name</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Name of the calendar exception.</p></td>
 </tr>
@@ -79,42 +79,42 @@ The Exception element defines a single calendar exception.
 <td><p>Type of calendar exception (daily, yearly by day of the month, monthly by position, weekly, by day count, and so on).</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968554(v=office.12).md">Period</a></p></td>
+<td><p><a href="period-element.md">Period</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The period of recurrence for the exception.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968569(v=office.12).md">DaysOfWeek</a></p></td>
+<td><p><a href="daysofweek-element.md">DaysOfWeek</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Specifies the day or days of the week the exception is valid.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968560(v=office.12).md">MonthItem</a></p></td>
+<td><p><a href="monthitem-element.md">MonthItem</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The month item for which an exception recurrence is scheduled (day, weekday, Sunday, Monday, and so on).</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968624(v=office.12).md">MonthPosition</a></p></td>
+<td><p><a href="monthposition-element.md">MonthPosition</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The position of a month item within a month (first, second, third, fourth, or last).</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968450(v=office.12).md">Month</a></p></td>
+<td><p><a href="month-element.md">Month</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The month for which an exception recurrence is scheduled ( 0 = January, …, 11 = December).</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968700(v=office.12).md">MonthDay</a></p></td>
+<td><p><a href="monthday-element.md">MonthDay</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The day of the month on which an exception recurrence is scheduled.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968665(v=office.12).md">DayWorking</a></p></td>
+<td><p><a href="dayworking-element-calendar.md">DayWorking</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Indicates whether the specified exception day type is a working day.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968403(v=office.12).md">WorkingTimes</a></p></td>
+<td><p><a href="workingtimes-element-calendar.md">WorkingTimes</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The collection of working times that define the time worked on the working day. There must be at least one WorkingTime and a maximum of five specified.</p></td>
 </tr>

@@ -32,7 +32,7 @@ Indicates whether the range of recurrence for the calendar exception is defined 
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968492(v=office.12).md">Exception</a></p></td>
+<td><p><a href="exception-element.md">Exception</a></p></td>
 </tr>
 </tbody>
 </table>

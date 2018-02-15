@@ -30,7 +30,7 @@ Defines the predecessor task on which this task depends for its start or finish 
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968487(v=office.12).md">Task</a></p></td>
+<td><p><a href="task-element.md">Task</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -52,32 +52,32 @@ Defines the predecessor task on which this task depends for its start or finish 
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968447(v=office.12).md">PredecessorUID</a></p></td>
+<td><p><a href="predecessoruid-element.md">PredecessorUID</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Unique ID number for the predecessor task.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968434(v=office.12).md">Type</a></p></td>
+<td><p><a href="type-element-multiple-parents.md">Type</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Type of predecessor task link (FF, FS, SF, SS).</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968586(v=office.12).md">CrossProject</a></p></td>
+<td><p><a href="crossproject-element.md">CrossProject</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Indicates whether the task predecessor is part of another project.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968597(v=office.12).md">CrossProjectName</a></p></td>
+<td><p><a href="crossprojectname-element.md">CrossProjectName</a></p></td>
 <td><p>Optional</p></td>
 <td><p>External predecessor project.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968558(v=office.12).md">LinkLag</a></p></td>
+<td><p><a href="linklag-element.md">LinkLag</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Amount of lag time (in tenths of a minute) from the predecessor task.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968698(v=office.12).md">LagFormat</a></p></td>
+<td><p><a href="lagformat-element.md">LagFormat</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Indicates the time format (hours, days, and so on) for the amount of lag specified in LinkLag.</p></td>
 </tr>

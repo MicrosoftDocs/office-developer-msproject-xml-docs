@@ -32,7 +32,7 @@ For Task, it indicates the type of earned value method to use in the task.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968701(v=office.12).md">Project</a>, <a href="bb968487(v=office.12).md">Task</a></p></td>
+<td><p><a href="project-element.md">Project</a>, <a href="task-element.md">Task</a></p></td>
 </tr>
 </tbody>
 </table>

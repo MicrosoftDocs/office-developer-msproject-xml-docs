@@ -32,7 +32,7 @@ The type of entity (task, resource, or assignment) with which the custom field d
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968669(v=office.12).md">ExtendedAttribute</a></p></td>
+<td><p><a href="extendedattribute-element.md">ExtendedAttribute</a></p></td>
 </tr>
 </tbody>
 </table>

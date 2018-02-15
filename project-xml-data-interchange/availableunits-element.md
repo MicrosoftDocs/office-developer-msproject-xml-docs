@@ -30,7 +30,7 @@ The percentage that the resource is available during the specified period.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968625(v=office.12).md">AvailabilityPeriod</a></p></td>
+<td><p><a href="availabilityperiod-element.md">AvailabilityPeriod</a></p></td>
 </tr>
 </tbody>
 </table>

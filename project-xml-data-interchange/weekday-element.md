@@ -32,7 +32,7 @@ A weekday defines either days of the week or exception days in a calendar.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968420(v=office.12).md">WeekDays</a></p></td>
+<td><p><a href="weekdays-element.md">WeekDays</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -54,22 +54,22 @@ A weekday defines either days of the week or exception days in a calendar.
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968462(v=office.12).md">DayType</a></p></td>
+<td><p><a href="daytype-element.md">DayType</a></p></td>
 <td><p>Required</p></td>
 <td><p>Type of working day (exception, or Monday - Sunday)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968665(v=office.12).md">DayWorking</a></p></td>
+<td><p><a href="dayworking-element-calendar.md">DayWorking</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Indicates whether the specified date or date type is a working day.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968661(v=office.12).md">TimePeriod</a></p></td>
+<td><p><a href="timeperiod-element-calendar.md">TimePeriod</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Defines a set of exception days.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968403(v=office.12).md">WorkingTimes</a></p></td>
+<td><p><a href="workingtimes-element-calendar.md">WorkingTimes</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Collection of working times that define the time worked.</p></td>
 </tr>

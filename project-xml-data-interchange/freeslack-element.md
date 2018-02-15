@@ -32,7 +32,7 @@ The actual amount of time that a task can be delayed without delaying any succes
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968487(v=office.12).md">Task</a></p></td>
+<td><p><a href="task-element.md">Task</a></p></td>
 </tr>
 </tbody>
 </table>

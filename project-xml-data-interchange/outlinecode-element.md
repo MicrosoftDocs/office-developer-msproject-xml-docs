@@ -32,7 +32,7 @@ Defines an outline code and associated value list in a project, or specifies the
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968732(v=office.12).md">OutlineCodes</a>, <a href="bb968715(v=office.12).md">Resource</a>, <a href="bb968487(v=office.12).md">Task</a></p></td>
+<td><p><a href="outlinecodes-element.md">OutlineCodes</a>, <a href="resource-element.md">Resource</a>, <a href="task-element.md">Task</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -54,67 +54,67 @@ Defines an outline code and associated value list in a project, or specifies the
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968441(v=office.12).md">Guid</a></p></td>
+<td><p><a href="guid-element-multiple-parents.md">Guid</a></p></td>
 <td><p>Required</p></td>
 <td><p>New in Microsoft Office Project 2007. The globally unique identifier (GUID) of the outline code. Corresponds to the Ltuid element in associated ExtendedAttribute values.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968474(v=office.12).md">FieldID</a></p></td>
+<td><p><a href="fieldid-element.md">FieldID</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Field ID number for the outline code. Field numbers correspond to Outline Code1, Outline Code2, . . . , Outline Code10, for resources and tasks.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968619(v=office.12).md">FieldName</a></p></td>
+<td><p><a href="fieldname-element.md">FieldName</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Name of the custom outline code.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968395(v=office.12).md">Alias</a></p></td>
+<td><p><a href="alias-element.md">Alias</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Alias of the outline code.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968672(v=office.12).md">PhoneticAlias</a></p></td>
+<td><p><a href="phoneticalias-element.md">PhoneticAlias</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Contains phonetic pronunciation information in either Hiragana or Katakana for a custom outline code; used only in the Japanese version of Project.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968604(v=office.12).md">Values</a></p></td>
+<td><p><a href="values-element.md">Values</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Collection of the value definitions of the outline code.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968519(v=office.12).md">Enterprise</a></p></td>
+<td><p><a href="enterprise-element.md">Enterprise</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Indicates whether the outline code is an enterprise custom field.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968491(v=office.12).md">EnterpriseOutlineCodeAlias</a></p></td>
+<td><p><a href="enterpriseoutlinecodealias-element.md">EnterpriseOutlineCodeAlias</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Refers to an enterprise custom field for which the outline code is an alias.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968443(v=office.12).md">ResourceSubstitutionEnabled</a></p></td>
+<td><p><a href="resourcesubstitutionenabled-element.md">ResourceSubstitutionEnabled</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Indicates whether the outline code is used with the Resource Substitution Wizard in Project. The Resource Substitution Wizard is used only with enterprise custom fields.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968419(v=office.12).md">LeafOnly</a></p></td>
+<td><p><a href="leafonly-element.md">LeafOnly</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Indicates whether the value specified for an outline code in a resource or task must be a leaf value.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968417(v=office.12).md">AllLevelsRequired</a></p></td>
+<td><p><a href="alllevelsrequired-element.md">AllLevelsRequired</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Indicates whether new codes must have all levels present. Not used for enterprise custom fields.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968454(v=office.12).md">OnlyTableValuesAllowed</a></p></td>
+<td><p><a href="onlytablevaluesallowed-element.md">OnlyTableValuesAllowed</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Indicates whether the outline code value must come from the associated lookup table.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968478(v=office.12).md">Masks</a></p></td>
+<td><p><a href="masks-element.md">Masks</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Collection of code masks for the outline code value list.</p></td>
 </tr>
@@ -138,17 +138,17 @@ Defines an outline code and associated value list in a project, or specifies the
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968474(v=office.12).md">FieldID</a></p></td>
+<td><p><a href="fieldid-element.md">FieldID</a></p></td>
 <td><p>Required</p></td>
 <td><p>Field ID number for the outline code. Field numbers correspond to Outline Code1, Outline Code2, . . . , Outline Code10, for resources and tasks.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968406(v=office.12).md">ValueID</a></p></td>
+<td><p><a href="valueid-element.md">ValueID</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Local ID number in the Value list associated with the outline code definition. Required for Project 2003 to read XML files saved from Project 2007.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968572(v=office.12).md">ValueGUID</a></p></td>
+<td><p><a href="valueguid-element.md">ValueGUID</a></p></td>
 <td><p>Optional</p></td>
 <td><p>New in Project 2007. GUID of the value in the outline code value list. The ValueGUID matches the FieldGUID in the Value element.</p></td>
 </tr>

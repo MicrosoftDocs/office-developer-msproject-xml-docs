@@ -30,7 +30,7 @@ The budgeted work amount for work or material resources on an assignment.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968611(v=office.12).md">Assignment</a></p></td>
+<td><p><a href="assignment-element.md">Assignment</a></p></td>
 </tr>
 </tbody>
 </table>

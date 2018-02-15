@@ -30,7 +30,7 @@ Refers to a valid calendar UID element (unique ID) for a calendar used in the pr
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968701(v=office.12).md">Project</a>, <a href="bb968487(v=office.12).md">Task</a>, <a href="bb968715(v=office.12).md">Resource</a></p></td>
+<td><p><a href="project-element.md">Project</a>, <a href="task-element.md">Task</a>, <a href="resource-element.md">Resource</a></p></td>
 </tr>
 </tbody>
 </table>

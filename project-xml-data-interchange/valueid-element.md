@@ -32,7 +32,7 @@ In ExtendedAttribute, it is the ID of the value of an extended attribute (a cust
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968696(v=office.12).md">Value</a></p></td>
+<td><p><a href="value-element.md">Value</a></p></td>
 </tr>
 </tbody>
 </table>

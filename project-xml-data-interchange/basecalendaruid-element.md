@@ -30,7 +30,7 @@ The unique ID for the base calendar on which this calendar depends; only used if
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968481(v=office.12).md">Calendar</a></p></td>
+<td><p><a href="calendar-element.md">Calendar</a></p></td>
 </tr>
 </tbody>
 </table>

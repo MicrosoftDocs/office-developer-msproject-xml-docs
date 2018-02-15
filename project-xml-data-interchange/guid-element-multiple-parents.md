@@ -32,7 +32,7 @@ The globally unique identifier (GUID) of an outline code or enterprise custom fi
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968410(v=office.12).md">OutlineCode</a>, <a href="bb968669(v=office.12).md">ExtendedAttribute</a></p></td>
+<td><p><a href="outlinecode-element.md">OutlineCode</a>, <a href="extendedattribute-element.md">ExtendedAttribute</a></p></td>
 </tr>
 </tbody>
 </table>

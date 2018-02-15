@@ -29,7 +29,7 @@ monikerRange: '>= project-client-2007 || project-client-odc'
 The Extensible Stylesheet Language Transformation (XSLT) standard specifies a language definition for XML data transformations. XSLT is used to transform XML documents into XHTML documents, or into other XML documents. This article shows you how to use XSLT with Microsoft Office Project 2007 XML Data Interchange files to filter and display project information. (The content of this article was contributed by Jessica Britton, Microsoft Corporation.)
 
 > [!NOTE]
-> For information about saving projects as Project XML Data Interchange files, see <A href="bb968621(v=office.12).md">Saving and Opening Projects in XML Format</A>.
+> For information about saving projects as Project XML Data Interchange files, see <A href="saving-and-opening-projects-in-xml-format.md">Saving and Opening Projects in XML Format</A>.
 
 An XSLT stylesheet is an XML document that consists of a combination of XHTML markup, XSLT template rules, and XPath statements that work together.
 

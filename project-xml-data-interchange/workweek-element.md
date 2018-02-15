@@ -32,7 +32,7 @@ Contains the elements that define an effective work week.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968496(v=office.12).md">WorkWeeks</a></p></td>
+<td><p><a href="workweeks-element.md">WorkWeeks</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -54,17 +54,17 @@ Contains the elements that define an effective work week.
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968661(v=office.12).md">TimePeriod</a></p></td>
+<td><p><a href="timeperiod-element-calendar.md">TimePeriod</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Defines a contiguous set of days in a work week.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968600(v=office.12).md">Name</a></p></td>
+<td><p><a href="name-element.md">Name</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Name of the effective week</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968433(v=office.12).md">WeekDay</a></p></td>
+<td><p><a href="weekday-element.md">WeekDay</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Defines days in the work week.</p></td>
 </tr>

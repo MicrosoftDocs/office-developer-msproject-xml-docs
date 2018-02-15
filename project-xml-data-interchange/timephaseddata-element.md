@@ -33,7 +33,7 @@ monikerRange: '>= project-client-2007 || project-client-odc'
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968487(v=office.12).md">Task</a>, <a href="bb968715(v=office.12).md">Resource</a>, <a href="bb968611(v=office.12).md">Assignment</a>, <a href="bb968599(v=office.12).md">Baseline</a></p></td>
+<td><p><a href="task-element.md">Task</a>, <a href="resource-element.md">Resource</a>, <a href="assignment-element.md">Assignment</a>, <a href="baseline-element.md">Baseline</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -55,32 +55,32 @@ monikerRange: '>= project-client-2007 || project-client-odc'
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968434(v=office.12).md">Type</a></p></td>
+<td><p><a href="type-element-multiple-parents.md">Type</a></p></td>
 <td><p>Optional</p></td>
 <td><p>One of the 76 types of timephased data.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968590(v=office.12).md">UID</a></p></td>
+<td><p><a href="uid-element.md">UID</a></p></td>
 <td><p>Required</p></td>
 <td><p>Unique ID for the timephased data record.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968645(v=office.12).md">Start</a></p></td>
+<td><p><a href="start-element.md">Start</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Start date for the timephased data record.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968534(v=office.12).md">Finish</a></p></td>
+<td><p><a href="finish-element.md">Finish</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Finish date for the timephased data record.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968545(v=office.12).md">Unit</a></p></td>
+<td><p><a href="unit-element.md">Unit</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Time unit for the timephased data record.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968696(v=office.12).md">Value</a></p></td>
+<td><p><a href="value-element.md">Value</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Value for each unit in the timephased data record.</p></td>
 </tr>

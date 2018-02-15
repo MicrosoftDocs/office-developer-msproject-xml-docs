@@ -31,7 +31,7 @@ The UID element is a unique identifier. UID specifies the data record of any o
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968701(v=office.12).md">Project</a>, <a href="bb968481(v=office.12).md">Calendar</a>, <a href="bb968715(v=office.12).md">Resource</a>, <a href="bb968611(v=office.12).md">Assignment</a>, <a href="bb968487(v=office.12).md">Task</a>, <a href="bb968669(v=office.12).md">ExtendedAttribute</a>, <a href="bb968479(v=office.12).md">TimephasedData</a></p></td>
+<td><p><a href="project-element.md">Project</a>, <a href="calendar-element.md">Calendar</a>, <a href="resource-element.md">Resource</a>, <a href="assignment-element.md">Assignment</a>, <a href="task-element.md">Task</a>, <a href="extendedattribute-element.md">ExtendedAttribute</a>, <a href="timephaseddata-element.md">TimephasedData</a></p></td>
 </tr>
 </tbody>
 </table>

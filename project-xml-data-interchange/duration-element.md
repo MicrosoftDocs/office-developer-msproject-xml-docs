@@ -32,7 +32,7 @@ For a task's Baseline , it is the scheduled duration of the task when the base
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968599(v=office.12).md">Baseline</a>, <a href="bb968487(v=office.12).md">Task</a></p></td>
+<td><p><a href="baseline-element.md">Baseline</a>, <a href="task-element.md">Task</a></p></td>
 </tr>
 </tbody>
 </table>

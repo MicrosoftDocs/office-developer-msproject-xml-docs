@@ -32,7 +32,7 @@ A calendar is used to define standard working and nonworking times in Microsoft 
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968499(v=office.12).md">Calendars</a></p></td>
+<td><p><a href="calendars-element.md">Calendars</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -54,37 +54,37 @@ A calendar is used to define standard working and nonworking times in Microsoft 
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968590(v=office.12).md">UID</a></p></td>
+<td><p><a href="uid-element.md">UID</a></p></td>
 <td><p>Required</p></td>
 <td><p>The unique ID for the calendar.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968600(v=office.12).md">Name</a></p></td>
+<td><p><a href="name-element.md">Name</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The name of the calendar.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968610(v=office.12).md">IsBaseCalendar</a></p></td>
+<td><p><a href="isbasecalendar-element.md">IsBaseCalendar</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Indicates whether the calendar is a base calendar.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968744(v=office.12).md">BaseCalendarUID</a></p></td>
+<td><p><a href="basecalendaruid-element.md">BaseCalendarUID</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The unique ID for the base calendar on which this calendar depends; only used if this calendar is not a base calendar.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968420(v=office.12).md">WeekDays</a></p></td>
+<td><p><a href="weekdays-element.md">WeekDays</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The type of working day (a day of the week, or exception).</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968618(v=office.12).md">Exceptions</a></p></td>
+<td><p><a href="exceptions-element.md">Exceptions</a></p></td>
 <td><p>Optional</p></td>
 <td><p>New in Project 2007. Collection of exceptions associated with the calendar.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968496(v=office.12).md">WorkWeeks</a></p></td>
+<td><p><a href="workweeks-element.md">WorkWeeks</a></p></td>
 <td><p>Optional</p></td>
 <td><p>New in Project 2007. Collection of work week definitions.</p></td>
 </tr>
@@ -111,7 +111,7 @@ The following example shows a local calendar named Team Base Calendar. The calen
 
 
 > [!WARNING]
-> In the releases of Project 2007 through SP1, the WorkWeeks element name is missing when you save a project that has a non-default work week as XML. If you try to open the XML file in Project, you get an error, "An unexpected problem occurred while opening the file. The file may be damaged." The workaround is to edit the XML file and add the WorkWeeks element name, as in the following example. The XML file then opens normally. However, because the WorkWeek element contains other errors, we recommend that you do not use Project XML files to save work week data until the errors are fixed in a later service pack. For more information about editing other elements for work weeks, see the <A href="bb968525(v=office.12).md">WorkWeek Element</A>.
+> In the releases of Project 2007 through SP1, the WorkWeeks element name is missing when you save a project that has a non-default work week as XML. If you try to open the XML file in Project, you get an error, "An unexpected problem occurred while opening the file. The file may be damaged." The workaround is to edit the XML file and add the WorkWeeks element name, as in the following example. The XML file then opens normally. However, because the WorkWeek element contains other errors, we recommend that you do not use Project XML files to save work week data until the errors are fixed in a later service pack. For more information about editing other elements for work weeks, see the <A href="workweek-element.md">WorkWeek Element</A>.
 
 
 ``` xml

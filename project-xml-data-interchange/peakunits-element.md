@@ -30,7 +30,7 @@ The largest number of units that a resource is assigned for a task.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968611(v=office.12).md">Assignment</a></p></td>
+<td><p><a href="assignment-element.md">Assignment</a></p></td>
 </tr>
 </tbody>
 </table>

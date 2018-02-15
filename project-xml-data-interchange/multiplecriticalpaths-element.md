@@ -30,7 +30,7 @@ Indicates whether Microsoft Office Project calculates and displays a critical pa
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968701(v=office.12).md">Project</a></p></td>
+<td><p><a href="project-element.md">Project</a></p></td>
 </tr>
 </tbody>
 </table>

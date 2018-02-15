@@ -30,7 +30,7 @@ The collection of Mask elements that define an outline code mask.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968410(v=office.12).md">OutlineCode</a></p></td>
+<td><p><a href="outlinecode-element.md">OutlineCode</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -43,7 +43,7 @@ The collection of Mask elements that define an outline code mask.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968659(v=office.12).md">Mask</a></p></td>
+<td><p><a href="mask-element.md">Mask</a></p></td>
 </tr>
 </tbody>
 </table>

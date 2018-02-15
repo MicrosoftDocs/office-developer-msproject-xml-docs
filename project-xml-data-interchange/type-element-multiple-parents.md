@@ -42,7 +42,7 @@ In TimephasedData element, Type is one of the 76 types of timephased data.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968659(v=office.12).md">Mask</a>, <a href="bb968641(v=office.12).md">WBSMask</a>, <a href="bb968487(v=office.12).md">Task</a>, <a href="bb968712(v=office.12).md">PredecessorLink</a>, <a href="bb968715(v=office.12).md">Resource</a>, <a href="bb968492(v=office.12).md">Exception Element</a>, <a href="bb968696(v=office.12).md">Value Element</a>, <a href="bb968479(v=office.12).md">TimephasedData</a></p></td>
+<td><p><a href="mask-element.md">Mask</a>, <a href="wbsmask-element.md">WBSMask</a>, <a href="task-element.md">Task</a>, <a href="predecessorlink-element.md">PredecessorLink</a>, <a href="resource-element.md">Resource</a>, <a href="exception-element.md">Exception Element</a>, <a href="value-element.md">Value Element</a>, <a href="timephaseddata-element.md">TimephasedData</a></p></td>
 </tr>
 </tbody>
 </table>

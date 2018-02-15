@@ -32,7 +32,7 @@ The work breakdown structure (WBS) mask that is applied to all tasks in the proj
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968580(v=office.12).md">WBSMasks</a></p></td>
+<td><p><a href="wbsmasks-element.md">WBSMasks</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -54,22 +54,22 @@ The work breakdown structure (WBS) mask that is applied to all tasks in the proj
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968635(v=office.12).md">Level</a></p></td>
+<td><p><a href="level-element.md">Level</a></p></td>
 <td><p>Required</p></td>
 <td><p>Number of the WBS level, beginning with 1.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968434(v=office.12).md">Type</a></p></td>
+<td><p><a href="type-element-multiple-parents.md">Type</a></p></td>
 <td><p>Required</p></td>
 <td><p>Type of code string for first-level tasks.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968526(v=office.12).md">Length</a></p></td>
+<td><p><a href="length-element.md">Length</a></p></td>
 <td><p>Required</p></td>
 <td><p>Number of characters required for the WBS mask value, from 1-255. If there can be any number of characters, Length is zero.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968421(v=office.12).md">Separator</a></p></td>
+<td><p><a href="separator-element.md">Separator</a></p></td>
 <td><p>Required</p></td>
 <td><p>Character used to separate the WBS mask levels.</p></td>
 </tr>

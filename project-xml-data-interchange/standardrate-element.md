@@ -30,7 +30,7 @@ The rate of pay for regular, non-overtime work performed by a resource.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968716(v=office.12).md">Rate</a>, <a href="bb968715(v=office.12).md">Resource</a></p></td>
+<td><p><a href="rate-element.md">Rate</a>, <a href="resource-element.md">Resource</a></p></td>
 </tr>
 </tbody>
 </table>

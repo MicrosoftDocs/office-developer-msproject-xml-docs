@@ -30,7 +30,7 @@ Indicates the method used to calculate custom field rollup values for summary ta
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968669(v=office.12).md">ExtendedAttribute</a></p></td>
+<td><p><a href="extendedattribute-element.md">ExtendedAttribute</a></p></td>
 </tr>
 </tbody>
 </table>

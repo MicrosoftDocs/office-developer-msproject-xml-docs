@@ -32,7 +32,7 @@ An extended attribute represents a custom field or outline code in Microsoft Off
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968426(v=office.12).md">ExtendedAttributes</a>, <a href="bb968487(v=office.12).md">Task</a>, <a href="bb968715(v=office.12).md">Resource</a>, <a href="bb968611(v=office.12).md">Assignment</a></p></td>
+<td><p><a href="extendedattributes-element.md">ExtendedAttributes</a>, <a href="task-element.md">Task</a>, <a href="resource-element.md">Resource</a>, <a href="assignment-element.md">Assignment</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -54,107 +54,107 @@ An extended attribute represents a custom field or outline code in Microsoft Off
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968474(v=office.12).md">FieldID</a></p></td>
+<td><p><a href="fieldid-element.md">FieldID</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Corresponds to the enumeration value of the local custom field (Text1, Text2, and so forth). FieldID is not unique across multiple projects.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968619(v=office.12).md">FieldName</a></p></td>
+<td><p><a href="fieldname-element.md">FieldName</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Name of the custom field.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968675(v=office.12).md">CFType</a></p></td>
+<td><p><a href="cftype-element.md">CFType</a></p></td>
 <td><p>Optional</p></td>
 <td><p>New in Project 2007. Type of custom field (cost, date, duration, finish, flag, number, start, or text).</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968441(v=office.12).md">Guid</a></p></td>
+<td><p><a href="guid-element-multiple-parents.md">Guid</a></p></td>
 <td><p>Optional</p></td>
 <td><p>New in Project 2007. GUID of the custom field.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968655(v=office.12).md">ElemType</a></p></td>
+<td><p><a href="elemtype-element.md">ElemType</a></p></td>
 <td><p>Optional</p></td>
 <td><p>New in Project 2007. Type of entity (task, resource, or assignment) with which the custom field is associated.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968512(v=office.12).md">MaxMultiValues</a></p></td>
+<td><p><a href="maxmultivalues-element.md">MaxMultiValues</a></p></td>
 <td><p>Optional</p></td>
 <td><p>New in Project 2007. Maximum number of values you can select in a custom field value list</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968649(v=office.12).md">UserDef</a></p></td>
+<td><p><a href="userdef-element.md">UserDef</a></p></td>
 <td><p>Optional</p></td>
 <td><p>New in Project 2007. Indicates whether the custom field is user defined.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968395(v=office.12).md">Alias</a></p></td>
+<td><p><a href="alias-element.md">Alias</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Alias of the custom field.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968460(v=office.12).md">SecondaryPID</a></p></td>
+<td><p><a href="secondarypid-element.md">SecondaryPID</a></p></td>
 <td><p>Optional</p></td>
 <td><p>New in Project 2007. Secondary project identifier (PID) of the custom field for assignment roll down.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968428(v=office.12).md">AutoRollDown</a></p></td>
+<td><p><a href="autorolldown-element.md">AutoRollDown</a></p></td>
 <td><p>Optional</p></td>
 <td><p>New in Project 2007. Indicates whether automatic roll down of custom field values to the assignment level is enabled.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968436(v=office.12).md">DefaultGuid</a></p></td>
+<td><p><a href="defaultguid-element.md">DefaultGuid</a></p></td>
 <td><p>Optional</p></td>
 <td><p>New in Project 2007. Specifies the GUID of the default lookup table entry.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968607(v=office.12).md">Ltuid</a></p></td>
+<td><p><a href="ltuid-element.md">Ltuid</a></p></td>
 <td><p>Optional</p></td>
 <td><p>New in Project 2007. GUID of the lookup table associated with the custom field.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968672(v=office.12).md">PhoneticAlias</a></p></td>
+<td><p><a href="phoneticalias-element.md">PhoneticAlias</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Contains phonetic information in either Hiragana or Katakana for an extended attribute; used only in the Japanese version of Project.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968480(v=office.12).md">RollupType</a></p></td>
+<td><p><a href="rolluptype-element.md">RollupType</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Indicates the method used to calculate roll-ups to summary tasks.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968490(v=office.12).md">CalculationType</a></p></td>
+<td><p><a href="calculationtype-element.md">CalculationType</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Indicates whether roll-ups are calculated for task and group summary rows.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968523(v=office.12).md">Formula</a></p></td>
+<td><p><a href="formula-element.md">Formula</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Formula that Project uses to populate the custom field.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968626(v=office.12).md">RestrictValues</a></p></td>
+<td><p><a href="restrictvalues-element.md">RestrictValues</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Indicates whether only values in the list are allowed in the file.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968427(v=office.12).md">ValuelistSortOrder</a></p></td>
+<td><p><a href="valuelistsortorder-element.md">ValuelistSortOrder</a></p></td>
 <td><p>Optional</p></td>
 <td><p>New in Project 2007. Indicates how value lists are sorted (descending or ascending).</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968723(v=office.12).md">AppendNewValues</a></p></td>
+<td><p><a href="appendnewvalues-element.md">AppendNewValues</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Indicates whether new values added to the project are automatically added to the list.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968745(v=office.12).md">Default</a></p></td>
+<td><p><a href="default-element-extendedattribute.md">Default</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Refers to the ID of the default value in the list; not used if there is no default set.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968702(v=office.12).md">ValueList</a></p></td>
+<td><p><a href="valuelist-element.md">ValueList</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The collection of extended attribute values.</p></td>
 </tr>
@@ -178,22 +178,22 @@ An extended attribute represents a custom field or outline code in Microsoft Off
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968474(v=office.12).md">FieldID Element</a></p></td>
+<td><p><a href="fieldid-element.md">FieldID Element</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Field ID for the extended attribute.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968696(v=office.12).md">Value Element</a></p></td>
+<td><p><a href="value-element.md">Value Element</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Actual value of the extended attribute.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968637(v=office.12).md">DurationFormat Element</a></p></td>
+<td><p><a href="durationformat-element.md">DurationFormat Element</a></p></td>
 <td><p>Optional</p></td>
 <td><p>An enumeration of the duration format for the extended attribute (day, week, month, and so forth).</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968572(v=office.12).md">ValueGUID</a></p></td>
+<td><p><a href="valueguid-element.md">ValueGUID</a></p></td>
 <td><p>Optional</p></td>
 <td><p>New in Project 2007. GUID of the value in the custom field value list. The ValueGUID matches the FieldGUID in the Value element, for multi-value custom fields.</p></td>
 </tr>

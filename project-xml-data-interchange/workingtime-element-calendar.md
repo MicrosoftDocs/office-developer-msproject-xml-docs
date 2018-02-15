@@ -32,7 +32,7 @@ Defines up to five time periods for work on a working day or for a calendar exce
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968403(v=office.12).md">WorkingTimes</a></p></td>
+<td><p><a href="workingtimes-element-calendar.md">WorkingTimes</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -54,12 +54,12 @@ Defines up to five time periods for work on a working day or for a calendar exce
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968425(v=office.12).md">FromTime</a></p></td>
+<td><p><a href="fromtime-element-calendar.md">FromTime</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Start of the working time.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968466(v=office.12).md">ToTime</a></p></td>
+<td><p><a href="totime-element-calendar.md">ToTime</a></p></td>
 <td><p>Optional</p></td>
 <td><p>End of the working time.</p></td>
 </tr>

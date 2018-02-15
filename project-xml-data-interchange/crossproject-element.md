@@ -30,7 +30,7 @@ Indicates whether the predecessor task is part of another project.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968712(v=office.12).md">PredecessorLink</a></p></td>
+<td><p><a href="predecessorlink-element.md">PredecessorLink</a></p></td>
 </tr>
 </tbody>
 </table>

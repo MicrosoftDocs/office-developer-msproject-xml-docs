@@ -40,7 +40,7 @@ A task-level enterprise custom field value.
 <tbody>
 <tr class="odd">
 <td><p>DurationFormat</p></td>
-<td><p>Specifies the format for a duration custom field value (days, weeks, months, and so on). For more information, see <a href="bb968637(v=office.12).md">DurationFormat Element</a>.</p></td>
+<td><p>Specifies the format for a duration custom field value (days, weeks, months, and so on). For more information, see <a href="durationformat-element.md">DurationFormat Element</a>.</p></td>
 </tr>
 </tbody>
 </table>
@@ -53,7 +53,7 @@ A task-level enterprise custom field value.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968487(v=office.12).md">Task</a></p></td>
+<td><p><a href="task-element.md">Task</a></p></td>
 </tr>
 </tbody>
 </table>

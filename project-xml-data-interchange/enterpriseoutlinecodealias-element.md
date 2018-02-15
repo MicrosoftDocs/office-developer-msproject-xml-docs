@@ -30,7 +30,7 @@ Refers to an enterprise custom field for which the current outline code is an al
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968410(v=office.12).md">OutlineCode</a></p></td>
+<td><p><a href="outlinecode-element.md">OutlineCode</a></p></td>
 </tr>
 </tbody>
 </table>

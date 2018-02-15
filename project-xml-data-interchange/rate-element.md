@@ -30,7 +30,7 @@ The definition of a time period, and the rates applicable for the resource durin
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968693(v=office.12).md">Rates</a></p></td>
+<td><p><a href="rates-element.md">Rates</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -52,42 +52,42 @@ The definition of a time period, and the rates applicable for the resource durin
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968409(v=office.12).md">RatesFrom</a></p></td>
+<td><p><a href="ratesfrom-element.md">RatesFrom</a></p></td>
 <td><p>Required</p></td>
 <td><p>The date the rate becomes available.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968548(v=office.12).md">RatesTo</a></p></td>
+<td><p><a href="ratesto-element.md">RatesTo</a></p></td>
 <td><p>Required</p></td>
 <td><p>The last date the rate is available.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968573(v=office.12).md">RateTable</a></p></td>
+<td><p><a href="ratetable-element.md">RateTable</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The unique identifier of the cost rate table (A through E) for the resource.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968453(v=office.12).md">StandardRate</a></p></td>
+<td><p><a href="standardrate-element.md">StandardRate</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The standard pay rate for the resource for the defined period.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968727(v=office.12).md">StandardRateFormat</a></p></td>
+<td><p><a href="standardrateformat-element.md">StandardRateFormat</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The units used to display the standard rate.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968679(v=office.12).md">OvertimeRate</a></p></td>
+<td><p><a href="overtimerate-element.md">OvertimeRate</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The overtime rate for the resource for the defined period.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968737(v=office.12).md">OvertimeRateFormat</a></p></td>
+<td><p><a href="overtimerateformat-element.md">OvertimeRateFormat</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The units used to display the overtime rate.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968500(v=office.12).md">CostPerUse</a></p></td>
+<td><p><a href="costperuse-element.md">CostPerUse</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The cost per use of the resource.</p></td>
 </tr>

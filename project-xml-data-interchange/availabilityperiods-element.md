@@ -30,7 +30,7 @@ A collection of periods during which the resource is available.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968715(v=office.12).md">Resource</a></p></td>
+<td><p><a href="resource-element.md">Resource</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -43,7 +43,7 @@ A collection of periods during which the resource is available.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968625(v=office.12).md">AvailabilityPeriod</a></p></td>
+<td><p><a href="availabilityperiod-element.md">AvailabilityPeriod</a></p></td>
 </tr>
 </tbody>
 </table>

@@ -32,7 +32,7 @@ The collection of elements that define a work breakdown structure (WBS) mask.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968701(v=office.12).md">Project</a></p></td>
+<td><p><a href="project-element.md">Project</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -54,22 +54,22 @@ The collection of elements that define a work breakdown structure (WBS) mask.
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968528(v=office.12).md">VerifyUniqueCodes</a></p></td>
+<td><p><a href="verifyuniquecodes-element.md">VerifyUniqueCodes</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Indicates whether WBS codes are unique for new tasks.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968704(v=office.12).md">GenerateCodes</a></p></td>
+<td><p><a href="generatecodes-element.md">GenerateCodes</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Indicates whether WBS codes are generated for new tasks.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="bb968516(v=office.12).md">Prefix</a></p></td>
+<td><p><a href="prefix-element.md">Prefix</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Prefix for all WBS codes.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="bb968641(v=office.12).md">WBSMask</a></p></td>
+<td><p><a href="wbsmask-element.md">WBSMask</a></p></td>
 <td><p>Optional</p></td>
 <td><p>WBS mask that is applied to all tasks in the project.</p></td>
 </tr>

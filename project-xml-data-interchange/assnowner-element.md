@@ -32,7 +32,7 @@ Name of the assignment owner.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968611(v=office.12).md">Assignment</a>, <a href="bb968715(v=office.12).md">Resource</a></p></td>
+<td><p><a href="assignment-element.md">Assignment</a>, <a href="resource-element.md">Resource</a></p></td>
 </tr>
 </tbody>
 </table>

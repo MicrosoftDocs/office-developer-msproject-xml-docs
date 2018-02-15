@@ -30,7 +30,7 @@ Indicates whether the task is a summary task or the assignment is on a summary t
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968611(v=office.12).md">Assignment</a>, <a href="bb968487(v=office.12).md">Task</a></p></td>
+<td><p><a href="assignment-element.md">Assignment</a>, <a href="task-element.md">Task</a></p></td>
 </tr>
 </tbody>
 </table>

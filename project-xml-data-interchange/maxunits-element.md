@@ -30,7 +30,7 @@ The maximum percentage, or number of units, that represents the maximum amount t
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="bb968715(v=office.12).md">Resource</a></p></td>
+<td><p><a href="resource-element.md">Resource</a></p></td>
 </tr>
 </tbody>
 </table>
