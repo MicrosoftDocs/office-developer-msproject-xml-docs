@@ -1,13 +1,10 @@
 ---
 title: BuildNumber Element
 TOCTitle: BuildNumber Element
-ms:assetid: c67029a2-6896-4eae-83ab-4e6f8b2a3716 (UPDATE)
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968681(v=office.12)
-ms:contentKeyID: 13188371 (UPDATE)
 ms.date: 02/16/2018
 mtps_version: v=office.12
 f1_keywords:
-- Author element
+- BuildNumber element
 monikerRange: '>= project-client-2007 || project-client-odc'
 ---
 
@@ -16,7 +13,7 @@ monikerRange: '>= project-client-2007 || project-client-odc'
 
 
 
-The author of the project.
+The build number of Microsoft Project that was used to create the xml file.
 
     <BuildNumber>
       String(512)Value
