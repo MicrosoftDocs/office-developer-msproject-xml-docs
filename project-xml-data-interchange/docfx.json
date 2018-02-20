@@ -40,6 +40,11 @@
     "externalReference": [],
     "globalMetadata": {
       "breadcrumb_path": "/office/dev/project-xml-data-interchange/breadcrumb/toc.json",
+	"ms.suite": "office",
+        "ms.prod": "project",
+        "ms.author": "o365devx",
+        "author": "o365devx",
+        "ms.topic": "reference",
       "extendBreadcrumb": true
     },
     "fileMetadata": {},
