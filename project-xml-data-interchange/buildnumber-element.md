@@ -1,10 +1,7 @@
 ---
 title: BuildNumber Element
-TOCTitle: BuildNumber Element
 ms.date: 02/16/2018
 mtps_version: v=office.14
-f1_keywords:
-- BuildNumber element
 monikerRange: '>= project-client-2010 || project-client-odc'
 ---
 
@@ -13,7 +10,7 @@ monikerRange: '>= project-client-2010 || project-client-odc'
 
 
 
-The build number of Microsoft Project that was used to create the xml file.
+The build number of Microsoft Project that was used to create the xml file. This field is not loadable.
 
     <BuildNumber>
       String(512)Value
