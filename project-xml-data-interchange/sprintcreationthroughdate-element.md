@@ -1,7 +1,6 @@
 ---
 title: SprintCreationThroughDate Element
 ms.date: 02/20/2018
-mtps_version: v=office.14
 monikerRange: 'project-client-odc'
 ---
 
