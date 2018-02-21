@@ -1,7 +1,6 @@
 ---
 title: AgileMode Element
 ms.date: 02/20/2018
-mtps_version: v=office.14
 monikerRange: 'project-client-odc'
 ---
 
@@ -10,7 +9,7 @@ monikerRange: 'project-client-odc'
 
 
 
-A value that represents what mode the project is in. The modes are 0 for scrum, 1 for Kanban and 2 for none.
+A value that represents what mode the project is in. The modes are 0 for scrum, 1 for Kanban and 2 for none. If the element isn't specified, the mode is defaulted to none.
 
     <AgileMode>
       IntegerValue
