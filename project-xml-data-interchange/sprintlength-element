@@ -12,9 +12,9 @@ monikerRange: 'project-client-odc'
 
 The default length in weeks for new sprints
 
-    <SprintLength>
+    \<SprintLength\>
       IntegerValue
-    </SprintLength>
+    \</SprintLength\>
 
 ## Parent Elements
 
