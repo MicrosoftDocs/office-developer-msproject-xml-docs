@@ -39,6 +39,8 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
+	    "uhfHeaderId": "MSDocsHeader-Dev_Office",
+      "searchScope": ["Project XML Data Interchange"],
       "breadcrumb_path": "/office/dev/project-xml-data-interchange/breadcrumb/toc.json",
 	"ms.suite": "office",
         "ms.prod": "project",
