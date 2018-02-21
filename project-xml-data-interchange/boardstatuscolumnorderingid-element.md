@@ -1,7 +1,6 @@
 ---
 title: BoardStatusColumnOrderingID Element
 ms.date: 02/21/2018
-mtps_version: v=office.14
 monikerRange: 'project-client-odc'
 ---
 
