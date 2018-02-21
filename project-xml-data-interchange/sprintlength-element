@@ -1,7 +1,7 @@
 ---
 title: SprintLength Element
 ms.date: 02/20/2018
-mtps_version: v=office.14 - UPDATE
+mtps_version: v=office.14
 monikerRange: 'project-client-odc'
 ---
 
@@ -43,9 +43,6 @@ The default sprint length for new sprints.
 </tbody>
 </table>
 
-## Remarks
-
-This is the default sprint length in weeks. For example, if the value is 2 that is treated as 2 weeks.
 
 ## See Also
 
