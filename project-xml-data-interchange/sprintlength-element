@@ -1,20 +1,20 @@
 ---
-title: SprintLength Element
+title: BuildNumber Element
 ms.date: 02/16/2018
 mtps_version: v=office.14
-monikerRange: 'project-client-odc'
+monikerRange: '>= project-client-2010 || project-client-odc'
 ---
 
-# SprintLength Element
+# Build Number Element
 
 
 
 
-The default length for new sprints.
+The build number of Microsoft Project that was used to create the xml file. This field is not loadable.
 
-    <SprintLength>
-      IntegerValue
-    </SprintLength>
+    <BuildNumber>
+      String(512)Value
+    </BuildNumber>
 
 ## Parent Elements
 
