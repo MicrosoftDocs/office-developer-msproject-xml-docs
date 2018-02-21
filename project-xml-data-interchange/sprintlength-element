@@ -44,6 +44,10 @@ The default sprint length for new sprints.
 </table>
 
 
+## Remarks
+
+This is the default sprint length in weeks. For example, if the value is 2 that is treated as 2 weeks.
+
 ## See Also
 
 #### Concepts
