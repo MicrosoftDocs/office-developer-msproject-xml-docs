@@ -5,7 +5,7 @@ mtps_version: v=office.14
 monikerRange: 'project-client-odc'
 ---
 
-# Sprint Length Through Date Element
+# SprintLengthThroughDate Element
 
 
 
