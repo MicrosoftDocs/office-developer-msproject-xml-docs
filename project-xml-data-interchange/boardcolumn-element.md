@@ -56,12 +56,12 @@ A board status value that is a part of the BoardColumns element. This value can 
 </tr>
 <tr class="odd">
 <td><p><a href="guid-element.md">GUID</a></p></td>
-<td><p>Required</p></td>
+<td><p>Optional</p></td>
 <td><p>The GUID for the board column.</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="name-element.md">Name</a></p></td>
-<td><p>Optional</p></td>
+<td><p>Required</p></td>
 <td><p>The name of the board column.</p></td>
 </tr>
 <tr class="odd">
