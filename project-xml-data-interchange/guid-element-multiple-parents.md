@@ -1,16 +1,7 @@
 ---
 title: Guid Element (Multiple Parents)
-TOCTitle: Guid Element
-ms:assetid: 24a60efb-8976-4308-b601-e5a285b8a79f
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968441(v=office.12)
-ms:contentKeyID: 13188134
 ms.date: 05/05/2014
-mtps_version: v=office.12
-f1_keywords:
-- Guid element
-dev_langs:
-- xml
-monikerRange: '>= project-client-2007 || project-client-odc'
+monikerRange: '>= project-client-2010 || project-client-odc'
 ---
 
 # Guid Element (Multiple Parents)
