@@ -9,7 +9,7 @@ monikerRange: 'project-client-odc'
 
 
 
-The collection of board columns that is associated with the project.
+The collection of board column values that are associated with the project.
 
 
 
