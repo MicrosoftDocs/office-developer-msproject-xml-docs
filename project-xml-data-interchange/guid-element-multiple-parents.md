@@ -18,7 +18,7 @@ monikerRange: '>= project-client-2007 || project-client-odc'
 
 
 
-The globally unique identifier (GUID) of an outline code or enterprise custom field.
+The globally unique identifier (GUID) of an outline code, enterprise custom field, project, task, board column, sprint, assignment, resource, or calendar. The value is not loadable for the project, task, board column, sprint, assignment, resource, or calendar elements.
 
     <Guid>
         StringValue
@@ -32,7 +32,7 @@ The globally unique identifier (GUID) of an outline code or enterprise custom fi
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="outlinecode-element.md">OutlineCode</a>, <a href="extendedattribute-element.md">ExtendedAttribute</a></p></td>
+<td><p><a href="project-element.md">Project</a>, <a href="calendar-element.md">Calendar</a>, <a href="resource-element.md">Resource</a>, <a href="assignment-element.md">Assignment</a>, <a href="task-element.md">Task</a>, <a href="outlinecode-element.md">OutlineCode</a>, <a href="extendedattribute-element.md">ExtendedAttribute</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -45,7 +45,7 @@ The globally unique identifier (GUID) of an outline code or enterprise custom fi
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p>Minimum: 0 for local custom fields; 1 for outline codes and enterprise custom fields.</p>
+<td><p>Minimum: 0 for local custom fields, tasks, resources, assignments, calendars, board columns, sprints, and project; 1 for outline codes and enterprise custom fields.</p>
 <p>Maximum: 1</p></td>
 </tr>
 </tbody>
