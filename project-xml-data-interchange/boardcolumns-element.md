@@ -9,7 +9,7 @@ monikerRange: 'project-client-odc'
 
 
 
-The collection of board column values that are associated with the project.
+The collection of board status values that are associated with the project. This shows up as the Board Status field within Project and can be used in the Task Board view.
 
 
 
