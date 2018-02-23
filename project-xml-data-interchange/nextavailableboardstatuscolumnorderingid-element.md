@@ -46,7 +46,7 @@ Used internally for ordering tasks in the Task Board view when the view is arran
 
 #### Concepts
 
-[Project Elements and XML Structure](project-elements-and-xml-structure.md)
+[Task Elements and XML Structure](task-elements-and-xml-structure.md)
 
-[XML Schema for the Project Element](xml-schema-for-the-project-element.md)
+[XML Schema for the Tasks Element](xml-schema-for-the-tasks-element.md)
 
