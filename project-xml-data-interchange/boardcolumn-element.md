@@ -81,7 +81,7 @@ A board status value that is a part of the BoardColumns element. This value can 
 <tbody>
 <tr class="odd">
 <td><p>Minimum: 1</p>
-<p>Maximum: Unbounded</p></td>
+<p>Maximum: 100</p></td>
 </tr>
 </tbody>
 </table>
