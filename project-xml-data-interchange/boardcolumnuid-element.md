@@ -1,19 +1,19 @@
 ---
-title: SprintUID Element
+title: BoardColumnUID Element
 ms.date: 02/22/2018
 monikerRange: 'project-client-odc'
 ---
 
-# SprintUID Element
+# BoardColumnUID Element
 
 
 
 
-The UID of the Sprint associated with the task. If not specified, the field will show up as No Sprint for the task.
+The UID of the Board Status field value associated with the task. If not specified, the field will show up as the first value in the Board Status field for the task.
 
-    <SprintUID>
+    <BoardColumnUID>
       IntegerValue
-    </SprintUID>
+    </BoardColumnUID>
 
 ## Parent Elements
 
