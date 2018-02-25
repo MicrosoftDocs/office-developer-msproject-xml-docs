@@ -1,21 +1,21 @@
 ---
-title: Sprints Element
+title: Views Element
 ms.date: 02/24/2018
-monikerRange: 'project-client-odc'
+monikerRange: '>= project-client-2010 || project-client-odc'
 ---
 
-# Sprints Element
+# Views Element
 
 
 
 
-The collection of sprints that are associated with the project. 
+The collection of views that are associated with the project. 
 
 
 
-    <Sprints>
+    <Views>
       ComplexTypeValue
-    </Sprints>
+    </Views>
 
 ## Parent Elements
 
@@ -38,7 +38,7 @@ The collection of sprints that are associated with the project.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="sprint-element.md">Sprint</a></p></td>
+<td><p><a href="view-element.md">View</a></p></td>
 </tr>
 </tbody>
 </table>
