@@ -1,19 +1,19 @@
 ---
-title: BoardColumn Element
-ms.date: 02/21/2018
+title: Sprint Element
+ms.date: 02/24/2018
 monikerRange: 'project-client-odc'
 ---
 
-# BoardColumn Element
+# Sprint Element
 
 
-A board status value that is a part of the BoardColumns element. This value can be selected for a task through the Board Status field.
+A specific sprint within the  Sprints element. 
 
 
 
-    <BoardColumn>
+    <Sprint>
       ComplexTypeValue
-    </BoardColumn>
+    </Sprint>
 
 ## Parent Elements
 
@@ -23,7 +23,7 @@ A board status value that is a part of the BoardColumns element. This value can 
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="boardcolumns-element.md">BoardColumns</a></p></td>
+<td><p><a href="sprints-element.md">Sprints</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -65,9 +65,24 @@ A board status value that is a part of the BoardColumns element. This value can 
 <td><p>The name of the board column.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="description-element.md">Description</a></p></td>
+<td><p><a href="start-element.md">Start</a></p></td>
 <td><p>Optional</p></td>
-<td><p>The description of the board column.</p></td>
+<td><p>The start date of the sprint.</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="finish-element.md">Finish</a></p></td>
+<td><p>Optional</p></td>
+<td><p>The finish date of the sprint.</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="durationunits-element.md">DurationUnits</a></p></td>
+<td><p>Required</p></td>
+<td><p>The duration units of the sprint.</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="duration-element.md">Duration</a></p></td>
+<td><p>Required</p></td>
+<td><p>The duration value of the sprint. </p></td>
 </tr>
 </tbody>
 </table>
@@ -81,7 +96,7 @@ A board status value that is a part of the BoardColumns element. This value can 
 <tbody>
 <tr class="odd">
 <td><p>Minimum: 1</p>
-<p>Maximum: 100</p></td>
+<p>Maximum: 1000</p></td>
 </tr>
 </tbody>
 </table>
@@ -90,7 +105,7 @@ A board status value that is a part of the BoardColumns element. This value can 
 
 #### Concepts
 
-[Calendar Elements and XML Structure](calendar-elements-and-xml-structure.md)
+[Project Elements and XML Structure](project-elements-and-xml-structure.md)
 
-[XML Schema for the Calendars Element](xml-schema-for-the-calendars-element.md)
+[XML Schema for the Project Element](xml-schema-for-the-project-element.md)
 
