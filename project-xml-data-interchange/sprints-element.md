@@ -1,21 +1,21 @@
 ---
-title: BoardColumns Element
-ms.date: 02/21/2018
+title: Sprints Element
+ms.date: 02/24/2018
 monikerRange: 'project-client-odc'
 ---
 
-# BoardColumns Element
+# Sprints Element
 
 
 
 
-The collection of board status values that are associated with the project. This shows up as the Board Status field within Project and can be used in the Task Board view.
+The collection of sprints that are associated with the project. 
 
 
 
-    <BoardColumns>
+    <Sprints>
       ComplexTypeValue
-    </BoardColumns>
+    </Sprints>
 
 ## Parent Elements
 
@@ -38,7 +38,7 @@ The collection of board status values that are associated with the project. This
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="boardcolumn-element.md">BoardColumn</a></p></td>
+<td><p><a href="sprint-element.md">Sprint</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -65,7 +65,5 @@ The collection of board status values that are associated with the project. This
 
 [XML Schema for the Project Element](xml-schema-for-the-project-element.md)
 
-[Calendar Elements and XML Structure](calendar-elements-and-xml-structure.md)
 
-[XML Schema for the Calendars Element](xml-schema-for-the-calendars-element.md)
 
