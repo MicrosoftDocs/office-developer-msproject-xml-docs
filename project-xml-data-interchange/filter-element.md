@@ -7,7 +7,7 @@ monikerRange: '>= project-client-2010 || project-client-odc'
 # Filter Element
 
 
-A specific filter for the project within the  Filters element. 
+A specific filter for the project within the Filters element. 
 
 
 
