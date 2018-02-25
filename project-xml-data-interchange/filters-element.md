@@ -1,21 +1,21 @@
 ---
-title: Views Element
+title: Filters Element
 ms.date: 02/24/2018
 monikerRange: '>= project-client-2010 || project-client-odc'
 ---
 
-# Views Element
+# Filters Element
 
 
 
 
-The collection of views that are associated with the project. 
+The collection of filters that are associated with the project. 
 
 
 
-    <Views>
+    <Filters>
       ComplexTypeValue
-    </Views>
+    </Filters>
 
 ## Parent Elements
 
@@ -38,7 +38,7 @@ The collection of views that are associated with the project.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="view-element.md">View</a></p></td>
+<td><p><a href="filter-element.md">Filter</a></p></td>
 </tr>
 </tbody>
 </table>
