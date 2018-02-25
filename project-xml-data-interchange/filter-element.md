@@ -1,19 +1,19 @@
 ---
-title: View Element
+title: Filter Element
 ms.date: 02/24/2018
 monikerRange: '>= project-client-2010 || project-client-odc'
 ---
 
-# View Element
+# Filter Element
 
 
-A specific view for the project within the  Views element. 
+A specific filter for the project within the  Filters element. 
 
 
 
-    <View>
+    <Filter>
       ComplexTypeValue
-    </View>
+    </Filter>
 
 ## Parent Elements
 
@@ -23,7 +23,7 @@ A specific view for the project within the  Views element.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="views-element.md">Views</a></p></td>
+<td><p><a href="filters-element.md">Filters</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -47,12 +47,12 @@ A specific view for the project within the  Views element.
 <tr class="odd">
 <td><p><a href="name-element.md">Name</a></p></td>
 <td><p>Required</p></td>
-<td><p>The name of the view.</p></td>
+<td><p>The name of the filter.</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="iscustomized-element.md">IsCustomized</a></p></td>
 <td><p>Optional</p></td>
-<td><p>A boolean indicating if the view has been cusotmized from the version in the global.</p></td>
+<td><p>A boolean indicating if the filter has been cusotmized from the version in the global.</p></td>
 </tr>
 </tbody>
 </table>
