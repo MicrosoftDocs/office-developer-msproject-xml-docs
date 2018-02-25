@@ -1,32 +1,20 @@
 ---
-title: DurationFormat Element
-TOCTitle: DurationFormat Element
-ms:assetid: ac69c48f-4758-4462-a9c3-edf085d52437
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968637(v=office.12)
-ms:contentKeyID: 13188328
-ms.date: 05/05/2014
-mtps_version: v=office.12
-f1_keywords:
-- DurationFormat element
-monikerRange: '>= project-client-2007 || project-client-odc'
+title: DurationUnits Element
+ms.date: 02/24/2018
+monikerRange: 'project-client-odc'
 ---
 
-# DurationFormat Element
+# DurationUnits Element
 
 
 
 
-For Project, DurationFormat is the default format for all durations in the project.
+For a Sprint, it is the format for the duration. This paired with the duration value determine the actual duration of the sprint.
 
-For Task , it is the format used to show the duration of the task.
 
-For Baseline, it is the format for expressing the duration of the task baseline.
-
-For ExtendedAttribute, it is the format for the duration of the extended attribute, such as a duration custom field.
-
-    <DurationFormat>
+    <DurationUnits>
       IntegerValue
-    </DurationFormat>
+    </DurationUnits>
 
 ## Parent Elements
 
@@ -36,7 +24,7 @@ For ExtendedAttribute, it is the format for the duration of the extended attrib
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="project-element.md">Project</a>, <a href="task-element.md">Task</a>, <a href="baseline-element.md">Baseline</a>, <a href="extendedattribute-element.md">ExtendedAttribute</a></p></td>
+<td><p><a href="sprint-element.md">Sprint</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -183,9 +171,6 @@ A text value of type integer is required.
 </tbody>
 </table>
 
-## Remarks
-
-A DurationFormat can be included within a Baseline or ExtendedAttribute in a Resource or Assignment, as well as in a Task. It is used to override the default duration format in the Project element.
 
 ## See Also
 
@@ -195,11 +180,4 @@ A DurationFormat can be included within a Baseline or ExtendedAttribute in
 
 [XML Schema for the Project Element](xml-schema-for-the-project-element.md)
 
-[Task Elements and XML Structure](task-elements-and-xml-structure.md)
-
-[XML Schema for the Tasks Element](xml-schema-for-the-tasks-element.md)
-
-[ExtendedAttribute Elements and XML Structure](extendedattribute-elements-and-xml-structure.md)
-
-[XML Schema for the ExtendedAttributes Element](xml-schema-for-the-extendedattributes-element.md)
 
