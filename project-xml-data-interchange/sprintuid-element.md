@@ -1,19 +1,19 @@
 ---
-title: SprintColumnUID Element
+title: SprintUID Element
 ms.date: 02/22/2018
 monikerRange: 'project-client-odc'
 ---
 
-# SprintColumnUID Element
+# SprintUID Element
 
 
 
 
 The UID of the Sprint value associated with the task. If not specified, the field will show up as No Sprint for the task.
 
-    <SprintColumnUID>
+    <SprintUID>
       IntegerValue
-    </SprintColumnUID>
+    </SprintUID>
 
 ## Parent Elements
 
