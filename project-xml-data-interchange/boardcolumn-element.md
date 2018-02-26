@@ -1,19 +1,19 @@
 ---
-title: Filter Element
+title: BoardColumn Element
 ms.date: 02/24/2018
-monikerRange: '>= project-client-2010 || project-client-odc'
+monikerRange: 'project-client-odc'
 ---
 
-# Filter Element
+# BoardColumn Element
 
 
-A specific filter for the project within the Filters element. 
+A specific value in the Board Status field for the project. 
 
 
 
-    <Filter>
+    <BoardColumn>
       ComplexTypeValue
-    </Filter>
+    </BoardColumn>
 
 ## Parent Elements
 
@@ -23,7 +23,7 @@ A specific filter for the project within the Filters element.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="filters-element.md">Filters</a></p></td>
+<td><p><a href="boardcolumns-element.md">BoardColumns</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -45,14 +45,29 @@ A specific filter for the project within the Filters element.
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="name-element.md">Name</a></p></td>
+<td><p><a href="uid-element.md">UID</a></p></td>
 <td><p>Required</p></td>
-<td><p>The name of the filter.</p></td>
+<td><p>The UID of the BoardColumn.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="iscustomized-element.md">IsCustomized</a></p></td>
+<td><p><a href="id-element.md">ID</a></p></td>
+<td><p>Required</p></td>
+<td><p>The ID of the BoardColumn.</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="GUID-element.md">GUID</a></p></td>
 <td><p>Optional</p></td>
-<td><p>A boolean indicating if the filter has been cusotmized from the version in the global.</p></td>
+<td><p>The GUID of the BoardColumn.</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="name-element.md">Name</a></p></td>
+<td><p>Required</p></td>
+<td><p>The name of the BoardColumn.</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="description-element.md">Description</a></p></td>
+<td><p>Optional</p></td>
+<td><p>The description of the BoardColumn.</p></td>
 </tr>
 </tbody>
 </table>
@@ -66,7 +81,7 @@ A specific filter for the project within the Filters element.
 <tbody>
 <tr class="odd">
 <td><p>Minimum: 1</p>
-<p>Maximum: 1000</p></td>
+<p>Maximum: 100</p></td>
 </tr>
 </tbody>
 </table>
