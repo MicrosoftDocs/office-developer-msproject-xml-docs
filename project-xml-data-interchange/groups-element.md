@@ -38,7 +38,7 @@ The collection of groups that are associated with the project.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="group-element.md">Group</a></p></td>
+<td><p><a href="groupgroups-element.md">Group</a></p></td>
 </tr>
 </tbody>
 </table>
