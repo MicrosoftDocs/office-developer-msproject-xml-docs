@@ -6,7 +6,7 @@
       "build_output_subfolder": "officedocs-dev-project-xml-data-interchange",
       "locale": "en-us",
       "monikers": [],
-      "moniker_ranges": ["project-client-2007","project-client-2010","project-client-2013","project-client-2016"],
+      "moniker_ranges": [">= project-client-2007"],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
