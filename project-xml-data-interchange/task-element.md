@@ -53,6 +53,12 @@ There must be at least one task in each Tasks collection.
 </tr>
 </thead>
 <tbody>
+<tr class="even">
+<td><p><a href="guid-element-multiple-parents.md">GUID</a></p></td>
+<td><p>Optional</p></td>
+<td><p>GUID for the task.</p></td>
+</tr>
+
 <tr class="odd">
 <td><p><a href="uid-element.md">UID</a></p></td>
 <td><p>Required</p></td>
