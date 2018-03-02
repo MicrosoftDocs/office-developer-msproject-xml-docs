@@ -55,7 +55,7 @@ A specific sprint for the project within the Sprints element.
 <td><p>The ID of the Sprint.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="GUID-element.md">GUID</a></p></td>
+<td><p><a href="guid-element-multiple-parents.md">GUID</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The GUID of the Sprint.</p></td>
 </tr>
