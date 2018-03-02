@@ -14,7 +14,7 @@ f1_keywords:
 - Project XML elements
 - Project 2007 XML
 - Project XML structure
-monikerRange: '>= project-client-2007 || project-client-odc'
+monikerRange: '>= project-client-2010 || project-client-odc'
 ---
 
 # Project Elements and XML Structure
@@ -38,10 +38,14 @@ For more information about the data types used in the Project 2007 XML Data Inte
 \<[Project](project-element.md)\>
 
     \<[SaveVersion](saveversion-element.md)\>integer\</SaveVersion\>
+    
+    \<[BuildNumber](buildnumber-element.md)\>string\</BuildNumber\>    
 
     \<[UID](uid-element.md) \>string\</UID\>
 
     \<[Name](name-element.md)\>string\</Name\>
+    
+    \<[GUID](guid-element-multiple-parents.md)\>string\</GUID\>
 
     \<[Title](title-element-project.md)\>string\</Title\>
 
