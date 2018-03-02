@@ -41,7 +41,17 @@ Project is the top level element of the document. Project child elements includ
 <tr class="odd">
 <td><p><a href="saveversion-element.md">SaveVersion</a></p></td>
 <td><p>Required</p></td>
-<td><p>New. The version of Project that saved the project XML file. SaveVersion = 12 for Microsoft Office Project 2007.</p></td>
+<td><p>The version of Project that saved the project XML file. SaveVersion = 12 for Microsoft Office Project 2007.</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="buildnumber-element.md">BuildNumber</a></p></td>
+<td><p>Optional</p></td>
+<td><p>The build number of Microsoft Project that was used to create the xml file.</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="guid-element-multiple-parents.md">GUID</a></p></td>
+<td><p>Optional</p></td>
+<td><p>The globally unique identifier (GUID) of the project.</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="uid-element.md">UID</a></p></td>
