@@ -4,16 +4,16 @@ ms.date: 02/20/2018
 monikerRange: 'project-client-odc'
 ---
 
-# SprintLengthThroughDate Element
+# SprintCreationThroughDate Element
 
 
 
 
 The date that sprints are generated for the project through.
 
-    <SprintLengthThroughDate>
+    <SprintCreationThroughDate>
       DateTimeValue
-    </SprintLengthThroughDate>
+    </SprintCreationThroughDate>
 
 ## Parent Elements
 
