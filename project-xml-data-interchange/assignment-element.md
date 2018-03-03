@@ -8,7 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Assignment element
-monikerRange: '>= project-client-2007 || project-client-odc'
+monikerRange: '>= project-client-2010 || project-client-odc'
 ---
 
 # Assignment Element
@@ -51,10 +51,15 @@ There must be at least one assignment in each Assignments collection.
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="uid-element.md">UID</a></p></td>
 <td><p>Required</p></td>
 <td><p>The unique ID for the assignment.</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="guid-element-multiple-parents.md">GUID</a></p></td>
+<td><p>Optional</p></td>
+<td><p>The GUID for the assignment.</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="taskuid-element.md">TaskUID</a></p></td>
