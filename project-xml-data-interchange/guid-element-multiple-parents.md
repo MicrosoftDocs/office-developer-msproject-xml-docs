@@ -6,14 +6,23 @@ monikerRange: '>= project-client-2010 || project-client-odc'
 
 # Guid Element (Multiple Parents)
 
+::: moniker range=">= project-client-2010"
 
+The globally unique identifier (GUID) of an outline code, enterprise custom field, project, task, assignment, resource, or calendar. The value is not loadable for the project, task, assignment, resource, or calendar elements.
 
+::: moniker-end
+
+::: moniker range="project-client-odc"
 
 The globally unique identifier (GUID) of an outline code, enterprise custom field, project, task, board column, sprint, assignment, resource, or calendar. The value is not loadable for the project, task, board column, sprint, assignment, resource, or calendar elements.
+
+::: moniker-end
 
     <Guid>
         StringValue
     <Guid>
+    
+    
 
 ## Parent Elements
 
@@ -23,7 +32,14 @@ The globally unique identifier (GUID) of an outline code, enterprise custom fiel
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="project-element.md">Project</a>, <a href="calendar-element.md">Calendar</a>, <a href="resource-element.md">Resource</a>, <a href="assignment-element.md">Assignment</a>, <a href="task-element.md">Task</a>, <a href="outlinecode-element.md">OutlineCode</a>, <a href="extendedattribute-element.md">ExtendedAttribute</a></p></td>
+<td><p><a href="project-element.md">Project</a>, <a href="calendar-element.md">Calendar</a>, <a href="resource-element.md">Resource</a>, <a href="assignment-element.md">Assignment</a>, <a href="task-element.md">Task</a>, <a href="outlinecode-element.md">OutlineCode</a>, <a href="extendedattribute-element.md">ExtendedAttribute</a>
+    ::: moniker range="project-client-odc"
+
+<a href="boardcolumn-element.md">Board Column</a><a href="sprint-element.md">Sprint</a>
+
+::: moniker-end
+    
+    </p></td>
 </tr>
 </tbody>
 </table>
@@ -36,7 +52,7 @@ The globally unique identifier (GUID) of an outline code, enterprise custom fiel
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p>Minimum: 0 for local custom fields, tasks, resources, assignments, calendars, board columns, sprints, and project; 1 for outline codes and enterprise custom fields.</p>
+<td><p>Minimum: 0 for all items except 1 for outline codes and enterprise custom fields.</p>
 <p>Maximum: 1</p></td>
 </tr>
 </tbody>
