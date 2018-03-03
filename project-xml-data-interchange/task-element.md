@@ -10,7 +10,7 @@ f1_keywords:
 - Task element
 dev_langs:
 - xml
-monikerRange: '>= project-client-2007 || project-client-odc'
+monikerRange: '>= project-client-2010 || project-client-odc'
 ---
 
 # Task Element
