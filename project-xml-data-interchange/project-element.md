@@ -8,7 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - Project element
-monikerRange: '>= project-client-2007 || project-client-odc'
+monikerRange: '>= project-client-2010 || project-client-odc'
 ---
 
 # Project Element
@@ -400,6 +400,44 @@ Project is the top level element of the document. Project child elements includ
 </tr>
 </tbody>
 </table>
+
+::: moniker range="project-client-odc"
+
+The following items were added for Project Online Desktop Client.
+
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>Element</p></th>
+<th><p>Required / Optional</p></th>
+<th><p>Description</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="sprintlength-element.md">SprintLength</a></p></td>
+<td><p>Optional</p></td>
+<td><p>The default length in weeks for new sprints.</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="sprintcreationthroughdate-element.md">SprintCreationThroughDate</a></p></td>
+<td><p>Optional</p></td>
+<td><p>The date that sprints are generated for the project through.</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="agilemode-element.md">AgileMode</a></p></td>
+<td><p>Optional</p></td>
+<td><p>A value that represents what mode the project is in.</p></td>
+</tr>
+</tbody>
+</table>
+
+::: moniker-end
 
 ## Occurrences
 
