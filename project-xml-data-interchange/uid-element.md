@@ -8,7 +8,7 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - UID element
-monikerRange: '>= project-client-2007 || project-client-odc'
+monikerRange: '>= project-client-2010 || project-client-odc'
 ---
 
 # UID Element
@@ -25,6 +25,8 @@ The UID element is a unique identifier. UID specifies the data record of any o
 
 ## Parent Elements
 
+::: moniker range=">= project-client-2010"
+
 <table>
 <colgroup>
 <col style="width: 100%" />
@@ -35,6 +37,23 @@ The UID element is a unique identifier. UID specifies the data record of any o
 </tr>
 </tbody>
 </table>
+
+::: moniker-end
+
+::: moniker range="project-client-odc"
+
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><a href="project-element.md">Project</a>, <a href="calendar-element.md">Calendar</a>, <a href="resource-element.md">Resource</a>, <a href="assignment-element.md">Assignment</a>, <a href="task-element.md">Task</a>, <a href="extendedattribute-element.md">ExtendedAttribute</a>, <a href="timephaseddata-element.md">TimephasedData</a>, <a href="boardcolumn-element.md">BoardColumn</a>, <a href="sprint-element.md">Sprint</a></p></td>
+</tr>
+</tbody>
+</table>
+
+::: moniker-end
 
 ## Occurrences
 
