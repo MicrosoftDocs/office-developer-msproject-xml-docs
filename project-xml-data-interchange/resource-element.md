@@ -51,10 +51,15 @@ A resource in the project. There must be at least one resource in each Resources
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="uid-element.md">UID Element</a></p></td>
 <td><p>Required</p></td>
 <td><p>The unique ID for the resource.</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="guid-element-multiple-parents.md">GUID</a></p></td>
+<td><p>Optional</p></td>
+<td><p>The GUID for the resource.</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="id-element.md">ID Element</a></p></td>
