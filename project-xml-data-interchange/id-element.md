@@ -8,25 +8,23 @@ ms.date: 05/05/2014
 mtps_version: v=office.12
 f1_keywords:
 - ID element
-monikerRange: '>= project-client-2007 || project-client-odc'
+monikerRange: '>= project-client-2010 || project-client-odc'
 ---
 
 # ID Element
 
-
-
-
-For Resource, ID is the position identifier of the resource within the list of resources.
-
-For Task, it is the position identifier of the task in the list of tasks.
-
 For Value, it is the ID of the value within the project.
+
+For everything else, it is the position identifier of the item within of list of items of the same kind. For example, for resources it is the position identifier within the list of resources.
+
 
     <ID>
       IntegerValue
     </ID>
 
 ## Parent Elements
+
+::: moniker range=">= project-client-2010"
 
 <table>
 <colgroup>
@@ -38,6 +36,23 @@ For Value, it is the ID of the value within the project.
 </tr>
 </tbody>
 </table>
+
+::: moniker-end
+
+::: moniker range="project-client-odc"
+
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><a href="resource-element.md">Resource</a>, <a href="task-element.md">Task</a>, <a href="value-element.md">Value</a>, <a href="boardcolumn-element.md">BoardColumn</a>, <a href="sprint-element.md">Sprint</a></p></td>
+</tr>
+</tbody>
+</table>
+
+::: moniker-end
 
 ## Occurrences
 
