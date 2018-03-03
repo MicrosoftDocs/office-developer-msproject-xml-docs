@@ -53,10 +53,15 @@ A calendar is used to define standard working and nonworking times in Microsoft 
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="uid-element.md">UID</a></p></td>
 <td><p>Required</p></td>
 <td><p>The unique ID for the calendar.</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="guid-element-multiple-parents.md">GUID</a></p></td>
+<td><p>Optional</p></td>
+<td><p>The GUID for the calendar.</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="name-element.md">Name</a></p></td>
