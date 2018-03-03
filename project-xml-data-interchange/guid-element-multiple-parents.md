@@ -34,8 +34,7 @@ The globally unique identifier (GUID) of an outline code, enterprise custom fiel
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="project-element.md">Project</a>, <a href="calendar-element.md">Calendar</a>, <a href="resource-element.md">Resource</a>, <a href="assignment-element.md">Assignment</a>, <a href="task-element.md">Task</a>, <a href="outlinecode-element.md">OutlineCode</a>, <a href="extendedattribute-element.md">ExtendedAttribute</a><a href="boardcolumn-element.md">Board Column</a><a href="sprint-element.md">Sprint</a>
-  </p></td>
+<td><p><a href="project-element.md">Project</a>, <a href="calendar-element.md">Calendar</a>, <a href="resource-element.md">Resource</a>, <a href="assignment-element.md">Assignment</a>, <a href="task-element.md">Task</a>, <a href="outlinecode-element.md">OutlineCode</a>, <a href="extendedattribute-element.md">ExtendedAttribute</a>  </p></td>
 </tr>
 </tbody>
 </table>
@@ -50,7 +49,7 @@ The globally unique identifier (GUID) of an outline code, enterprise custom fiel
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="project-element.md">Project</a>, <a href="calendar-element.md">Calendar</a>, <a href="resource-element.md">Resource</a>, <a href="assignment-element.md">Assignment</a>, <a href="task-element.md">Task</a>, <a href="outlinecode-element.md">OutlineCode</a>, <a href="extendedattribute-element.md">ExtendedAttribute</a><a href="boardcolumn-element.md">Board Column</a><a href="sprint-element.md">Sprint</a>
+<td><p><a href="project-element.md">Project</a>, <a href="calendar-element.md">Calendar</a>, <a href="resource-element.md">Resource</a>, <a href="assignment-element.md">Assignment</a>, <a href="task-element.md">Task</a>, <a href="outlinecode-element.md">OutlineCode</a>, <a href="extendedattribute-element.md">ExtendedAttribute</a>, <a href="boardcolumn-element.md">Board Column</a>, <a href="sprint-element.md">Sprint</a>
   </p></td>
 </tr>
 </tbody>
