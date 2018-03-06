@@ -61,7 +61,7 @@
     "groups": {
       "office-project": {
         "dest": "",
-        "moniker_range": ">= project-client-2007"
+        "moniker_range": ">= project-client-2007 || project-client-odc || project-online || >=project-server-2007 || >=sharepoint-projects-2017"
       }
     }
   }
