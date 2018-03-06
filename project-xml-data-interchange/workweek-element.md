@@ -1,5 +1,6 @@
 ---
 title: WorkWeek Element
+titleSuffix: Project XML Data Interchange Schema
 TOCTitle: WorkWeek Element
 ms:assetid: 608d30fc-c808-40e6-b8b4-6d7f77397d7b
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968525(v=office.12)
