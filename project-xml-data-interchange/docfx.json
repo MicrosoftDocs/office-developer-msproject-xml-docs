@@ -2,6 +2,9 @@
   "build": {
     "content": [
       {
+        "group": "office-project",
+        "src": ".",
+        "dest": "",
         "files": [
           "**/*.md",
           "**/*.yml"
@@ -16,10 +19,13 @@
           "LICENSE-CODE",
           "ThirdPartyNotices"
         ]
-      }
+      }      
     ],
     "resource": [
       {
+        "group": "office-project",
+        "src": ".",
+        "dest": "",
         "files": [
 													 "**/*.png",
                                                      "**/*.jpg",
@@ -51,6 +57,12 @@
     },
     "fileMetadata": {},
     "template": [],
-    "dest": "officedocs-dev-project-xml-data-interchange"
+    "dest": "officedocs-dev-project-xml-data-interchange",
+    "groups": {
+      "office-project": {
+        "dest": "",
+        "moniker_range": ">= project-client-2007 || project-client-odc || project-online || >=project-server-2007 || >=sharepoint-projects-2017"
+      }
+    }
   }
 }
