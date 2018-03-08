@@ -1,15 +1,6 @@
 ---
 title: Task Element
-TOCTitle: Task Element
-ms:assetid: 47e990dd-9bdc-4edc-b6e7-b1535afe1c6e
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968487(v=office.12)
-ms:contentKeyID: 13188179
-ms.date: 05/05/2014
-mtps_version: v=office.12
-f1_keywords:
-- Task element
-dev_langs:
-- xml
+ms.date: 03/08/2018
 monikerRange: '>= project-client-2010 || project-client-odc'
 ---
 
@@ -58,7 +49,6 @@ There must be at least one task in each Tasks collection.
 <td><p>Optional</p></td>
 <td><p>GUID for the task.</p></td>
 </tr>
-
 <tr class="odd">
 <td><p><a href="uid-element.md">UID</a></p></td>
 <td><p>Required</p></td>
@@ -556,6 +546,59 @@ There must be at least one task in each Tasks collection.
 </tr>
 </tbody>
 </table>
+
+::: moniker range="project-client-odc"
+
+The following items were added for Project Online Desktop Client
+
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>Element</p></th>
+<th><p>Required / Optional</p></th>
+<th><p>Description</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="even">
+<td><p><a href="boardstatuscolumnorderingid-element.md">BoardStatusColumnOrderingID</a></p></td>
+<td><p>Optional</p></td>
+<td><p>Used for ordering tasks in the Task Board view when the view is arranged by the Board Status column.</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="sprintcolumnorderingid-element.md">SprintColumnOrderingID</a></p></td>
+<td><p>Optional</p></td>
+<td><p>Used for ordering tasks in the Task Board view when the view is arranged by the Board Status column.</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="nextavailableboardstatuscolumnorderingid-element.md">NextAvailableBoardStatusColumnOrderingID</a></p></td>
+<td><p>Optional</p></td>
+<td><p>Used internally for ordering tasks in the Task Board view when the view is arranged by the Board Status column.</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="nextavailablesprintorderingid-element.md">NextAvailableSprintOrderingID</a></p></td>
+<td><p>Optional</p></td>
+<td><p>Used internally for ordering tasks in the Task Board view when the view is arranged by Sprints.</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="sprintuid-element.md">SprintUID</a></p></td>
+<td><p>Optional</p></td>
+<td><p>The UID of the Sprint value associated with the task.</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="boardcolumnUID-element.md">BoardColumnUID</a></p></td>
+<td><p>Optional</p></td>
+<td><p>The UID of the Board Column value associated with the task.</p></td>
+</tr>
+</tbody>
+</table>
+
+::: moniker-end
 
 ## Occurrences
 
