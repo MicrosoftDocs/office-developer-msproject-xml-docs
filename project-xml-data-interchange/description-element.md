@@ -1,14 +1,7 @@
 ---
 title: Description Element
-TOCTitle: Description Element
-ms:assetid: 838c9400-b121-4ae4-b83a-12d51ec51b26
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968567(v=office.12)
-ms:contentKeyID: 13188258
-ms.date: 05/05/2014
-mtps_version: v=office.12
-f1_keywords:
-- Description element
-monikerRange: '>= project-client-2007 || project-client-odc'
+ms.date: 03/07/18
+monikerRange: '>= project-client-2010 || project-client-odc'
 ---
 
 # Description Element
