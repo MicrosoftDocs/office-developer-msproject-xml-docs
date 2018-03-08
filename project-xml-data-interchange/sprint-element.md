@@ -70,17 +70,17 @@ A specific sprint for the project within the Sprints element.
 <td><p>The start date of the sprint.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="finish-element.md">Start</a></p></td>
+<td><p><a href="finish-element.md">Finish</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The finish date of the sprint.</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="durationunits-element.md">DurationUnits</a></p></td>
-<td><p>Required</p></td>
+<td><p>Required</p></td>/
 <td><p>The duration units of the sprint.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="duration-element.md">Start</a></p></td>
+<td><p><a href="duration-element.md">Duration</a></p></td>
 <td><p>Required</p></td>
 <td><p>The duration value of the sprint.</p></td>
 </tr>
