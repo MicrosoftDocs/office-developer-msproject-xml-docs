@@ -1,31 +1,35 @@
 ---
 title: Name Element
-TOCTitle: Name Element
-ms:assetid: 99549287-024d-430e-8fde-53c3af351065
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968600(v=office.12)
-ms:contentKeyID: 13188291
-ms.date: 05/05/2014
-mtps_version: v=office.12
-f1_keywords:
-- Name element
-dev_langs:
-- xml
-monikerRange: '>= project-client-2007 || project-client-odc'
+ms.date: 03/07/18
+monikerRange: '>= project-client-2010 || project-client-odc'
 ---
 
 # Name Element
 
-
-
-
-The name of the project, calendar, calendar exception, effective work week, resource, or task.
+::: moniker range=">= project-client-2010"
+The name of the project, calendar, calendar exception, effective work week, resource, task, view, filter, group, map, table, drawing, report, or VBA project. The field is not loadable for views, filters, groups, maps, tables, drawings, reports or VBA projects.
 
     <Name>
       String(512): for Project, Exception, or WorkWeek; 
-      String(255): for Calendar, Resource, or Task
+      String(255): for Calendar, Resource, Task, View, Filter, Group, Map, Table, Drawing, Report, or VBA project
     </Name>
+    
+::: moniker-end
+
+::: moniker range="project-client-odc"
+The name of the project, calendar, calendar exception, effective work week, resource, task, view, filter, group, map, table, drawing, report, VBA project, board column, or sprint. The field is not loadable for views, filters, groups, maps, tables, drawings, reports or VBA projects.
+
+    <Name>
+      String(512): for Project, Exception, or WorkWeek; 
+      String(255): for Calendar, Resource, Task, View, Filter, Group, Map, Table, Drawing, Report, VBA project, Board Column, or Sprint
+    </Name>
+    
+::: moniker-end
 
 ## Parent Elements
+
+
+::: moniker range=">= project-client-2010"
 
 <table>
 <colgroup>
@@ -33,10 +37,29 @@ The name of the project, calendar, calendar exception, effective work week, reso
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="project-element.md">Project</a>, <a href="calendar-element.md">Calendar</a>, <a href="exception-element.md">Exception</a>, <a href="workweek-element.md">WorkWeek</a>, <a href="resource-element.md">Resource</a>, <a href="task-element.md">Task</a></p></td>
+<td><p><a href="project-element.md">Project</a>, <a href="calendar-element.md">Calendar</a>, <a href="exception-element.md">Exception</a>, <a href="workweek-element.md">WorkWeek</a>, <a href="resource-element.md">Resource</a>, <a href="task-element.md">Task</a>, <a href="view-element.md">View</a>, <a href="filter-element.md">Filter</a>, <a href="group-element.md">Group</a>,  <a href="map-element.md">Map</a>, <a href="table-element.md">Table</a>, <a href="drawing-element.md">Drawing</a>, <a href="report-element.md">Report</a>, <a href="vbaproject-element.md">VBA Project</a></p></td>
 </tr>
 </tbody>
 </table>
+
+::: moniker-end
+
+::: moniker range="project-client-odc"
+
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><a href="project-element.md">Project</a>, <a href="calendar-element.md">Calendar</a>, <a href="exception-element.md">Exception</a>, <a href="workweek-element.md">WorkWeek</a>, <a href="resource-element.md">Resource</a>, <a href="task-element.md">Task</a>, <a href="view-element.md">View</a>, <a href="filter-element.md">Filter</a>, <a href="group-element.md">Group</a>,  <a href="map-element.md">Map</a>, <a href="table-element.md">Table</a>, <a href="drawing-element.md">Drawing</a>, <a href="report-element.md">Report</a>, <a href="vbaproject-element.md">VBA Project</a>, <a href="boardcolumn-element.md">Board Column</a>, <a href="sprint-element.md">Sprint</a></p></td>
+</tr>
+</tbody>
+</table>
+
+::: moniker-end
+
+
 
 ## Occurrences
 
