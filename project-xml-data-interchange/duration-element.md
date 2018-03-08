@@ -1,24 +1,21 @@
 ---
 title: Duration Element
-TOCTitle: Duration Element
-ms:assetid: ae148392-e06e-475b-a4bd-d527b37930e2
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968640(v=office.12)
-ms:contentKeyID: 13188331
 ms.date: 05/05/2014
-mtps_version: v=office.12
-f1_keywords:
-- Duration element
-monikerRange: '>= project-client-2007 || project-client-odc'
+monikerRange: '>= project-client-2010 || project-client-odc'
 ---
 
 # Duration Element
 
 
-
-
 For a Task , Duration is the total span of active working time.
 
 For a task's Baseline , it is the scheduled duration of the task when the baseline was saved.
+
+::: moniker range="project-client-odc"
+
+For Sprints, the duration value of the sprint.
+
+::: moniker-end
 
     <Duration>
       TimeSpanValue
@@ -26,16 +23,36 @@ For a task's Baseline , it is the scheduled duration of the task when the base
 
 ## Parent Elements
 
+::: moniker range=">= project-client-2010"
+
 <table>
 <colgroup>
 <col style="width: 100%" />
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="baseline-element.md">Baseline</a>, <a href="task-element.md">Task</a></p></td>
+<td><p><a href="baseline-element.md">Baseline</a>, <a href="task-element.md">Task</a>, <a href="sprint-element.md">Sprint</a></p></td>
 </tr>
 </tbody>
 </table>
+
+::: moniker-end
+
+::: moniker range="project-client-odc"
+
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><a href="baseline-element.md">Baseline</a>, <a href="task-element.md">Task</a></p></td>
+</tr>
+</tbody>
+</table>
+
+
+::: moniker-end
 
 ## Occurrences
 
