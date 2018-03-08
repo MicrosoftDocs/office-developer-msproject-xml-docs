@@ -544,6 +544,11 @@ There must be at least one task in each Tasks collection.
 <td><p>Optional</p></td>
 <td><p>If the task is a subproject, specifies the inserted subproject data.</p></td>
 </tr>
+<tr class="even">
+<td><p><a href="notecontainsobjects-element.md">NoteContainsObjects</a></p></td>
+<td><p>Optional</p></td>
+<td><p>This value is true if the note for a task contains an object.</p></td>
+</tr>
 </tbody>
 </table>
 
