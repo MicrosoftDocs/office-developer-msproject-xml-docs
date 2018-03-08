@@ -1,3 +1,4 @@
+
 ---
 title: Name Element
 ms.date: 03/07/18
@@ -7,6 +8,8 @@ monikerRange: '>= project-client-2010 || project-client-odc'
 # Name Element
 
 ::: moniker range=">= project-client-2010"
+
+
 The name of the project, calendar, calendar exception, effective work week, resource, task, view, filter, group, map, table, drawing, report, or VBA project. The field is not loadable for views, filters, groups, maps, tables, drawings, reports or VBA projects.
 
     <Name>
@@ -17,6 +20,8 @@ The name of the project, calendar, calendar exception, effective work week, reso
 ::: moniker-end
 
 ::: moniker range="project-client-odc"
+
+
 The name of the project, calendar, calendar exception, effective work week, resource, task, view, filter, group, map, table, drawing, report, VBA project, board column, or sprint. The field is not loadable for views, filters, groups, maps, tables, drawings, reports or VBA projects.
 
     <Name>
