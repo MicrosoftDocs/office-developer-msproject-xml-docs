@@ -1,14 +1,7 @@
 ---
 title: Start Element
-TOCTitle: Start Element
-ms:assetid: b0195d11-31a6-4d53-bf9c-6d91b389133e
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968645(v=office.12)
-ms:contentKeyID: 13188336
-ms.date: 05/05/2014
-mtps_version: v=office.12
-f1_keywords:
-- Start element
-monikerRange: '>= project-client-2007 || project-client-odc'
+ms.date: 03/08/2018
+monikerRange: '>= project-client-2010 || project-client-odc'
 ---
 
 # Start Element
