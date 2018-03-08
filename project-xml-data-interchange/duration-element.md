@@ -31,7 +31,7 @@ For Sprints, the duration value of the sprint.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="baseline-element.md">Baseline</a>, <a href="task-element.md">Task</a>, <a href="sprint-element.md">Sprint</a></p></td>
+<td><p><a href="baseline-element.md">Baseline</a>, <a href="task-element.md">Task</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -46,7 +46,7 @@ For Sprints, the duration value of the sprint.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="baseline-element.md">Baseline</a>, <a href="task-element.md">Task</a></p></td>
+<td><p><a href="baseline-element.md">Baseline</a>, <a href="task-element.md">Task</a>, <a href="sprint-element.md">Sprint</a></p></td>
 </tr>
 </tbody>
 </table>
