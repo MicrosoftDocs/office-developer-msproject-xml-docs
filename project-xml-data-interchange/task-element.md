@@ -591,7 +591,7 @@ The following items were added for Project Online Desktop Client
 <td><p>The UID of the Sprint value associated with the task.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="boardcolumnUID-element.md">BoardColumnUID</a></p></td>
+<td><p><a href="boardcolumnuid-element.md">BoardColumnUID</a></p></td>
 <td><p>Optional</p></td>
 <td><p>The UID of the Board Column value associated with the task.</p></td>
 </tr>
