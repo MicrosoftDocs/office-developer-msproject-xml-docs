@@ -13,11 +13,19 @@ In OutlineCode, the description of the outline code.
 
 In ExtendedAttribute, the description of the value in the list.
 
+::: moniker range="project-client-odc"
+
+In BoardColumn, the description of the board column element.
+
+::: moniker-end
+
     <Description>
-      StringValue
+      StringValue(255)
     </Description>
 
 ## Parent Elements
+
+::: moniker range=">= project-client-2010"
 
 <table>
 <colgroup>
@@ -29,6 +37,24 @@ In ExtendedAttribute, the description of the value in the list.
 </tr>
 </tbody>
 </table>
+
+::: moniker-end
+
+::: moniker range="project-client-odc"
+
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><a href="value-element.md">Value</a>, <a href="boardcolumn-element.md">Board Column</a></p></td>
+</tr>
+</tbody>
+</table>
+
+::: moniker-end
+
 
 ## Occurrences
 
