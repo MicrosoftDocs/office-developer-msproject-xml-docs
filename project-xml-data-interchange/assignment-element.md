@@ -1,13 +1,6 @@
 ---
 title: Assignment Element
-TOCTitle: Assignment Element
-ms:assetid: 9e3ad85f-0226-4c99-8d3e-93c217f95308
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968611(v=office.12)
-ms:contentKeyID: 13188302
-ms.date: 05/05/2014
-mtps_version: v=office.12
-f1_keywords:
-- Assignment element
+ms.date: 03/08/2018
 monikerRange: '>= project-client-2010 || project-client-odc'
 ---
 
@@ -380,6 +373,11 @@ There must be at least one assignment in each Assignments collection.
 <td><p><a href="timephaseddata-element.md">TimephasedData</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Information about the assignment that is distributed over time.</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="notecontainsobjects-element.md">NoteContainsObjects</a></p></td>
+<td><p>Optional</p></td>
+<td><p>This value is true if the note for an assignment contains an object.</p></td>
 </tr>
 </tbody>
 </table>
