@@ -6,7 +6,7 @@ monikerRange: '>= project-client-2010 || project-client-odc'
 
 # IsCustomized Element
 
-A boolean indicating if the view has been cusotmized from the version in the global.
+A boolean indicating if the view has been customized from the version in the global.
 
     <IsCustomized>
       BooleanValue
