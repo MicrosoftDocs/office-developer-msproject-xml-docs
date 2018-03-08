@@ -1,14 +1,7 @@
 ---
 title: Finish Element
-TOCTitle: Finish Element
-ms:assetid: 6af554a3-80d6-4046-be6a-e119ecbc4e65
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968534(v=office.12)
-ms:contentKeyID: 13188226
-ms.date: 05/05/2014
-mtps_version: v=office.12
-f1_keywords:
-- Finish element
-monikerRange: '>= project-client-2007 || project-client-odc'
+ms.date: 03/08/3018
+monikerRange: '>= project-client-2010 || project-client-odc'
 ---
 
 # Finish Element
@@ -22,11 +15,19 @@ For a Baseline element, it is the scheduled finish date of the task, resource, 
 
 For a TimephasedData element, it is the finish date of the timephased data period in the task, resource, assignment, or baseline.
 
+::: moniker range="project-client-odc"
+
+For Sprints, the finish date of the sprint.
+
+::: moniker-end
+
     <Finish>
       DateTimeValue
     </Finish>
 
 ## Parent Elements
+
+::: moniker range=">= project-client-2010"
 
 <table>
 <colgroup>
@@ -34,10 +35,27 @@ For a TimephasedData element, it is the finish date of the timephased data per
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="task-element.md">Task</a>, <a href="resource-element.md">Resource</a>, <a href="assignment-element.md">Assignment</a>, <a href="baseline-element.md">Baseline</a>, <a href="timephaseddata-element.md">TimephasedData</a></p></td>
+<td><p><a href="task-element.md">Task</a>, <a href="resource-element.md">Resource</a>, <a href="assignment-element.md">Assignment</a>, <a href="baseline-element.md">Baseline</a>, <a href="timephaseddata-element.md">TimephasedData</a></p></td>
 </tr>
 </tbody>
 </table>
+
+::: moniker-end
+
+::: moniker range="project-client-odc"
+
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><a href="task-element.md">Task</a>, <a href="resource-element.md">Resource</a>, <a href="assignment-element.md">Assignment</a>, <a href="baseline-element.md">Baseline</a>, <a href="timephaseddata-element.md">TimephasedData</a>, <a href="sprint-element.md">Sprint</a></p></td>
+</tr>
+</tbody>
+</table>
+
+::: moniker-end
 
 ## Occurrences
 
