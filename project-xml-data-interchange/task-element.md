@@ -549,6 +549,12 @@ There must be at least one task in each Tasks collection.
 <td><p>Optional</p></td>
 <td><p>This value is true if the note for a task contains an object.</p></td>
 </tr>
+<tr class="odd">
+<td><p><a href="enterpriseextendedattribute-element.md">
+EnterpriseExtendedAttribute</a></p></td>
+<td><p>Optional</p></td>
+<td><p>Collection of Enterprise Custom Fields with lookup table values.</p></td>
+</tr>
 </tbody>
 </table>
 
