@@ -37,15 +37,11 @@ For more information about the data types used in the Project 2007 XML Data Inte
 
 \<[Project](project-element.md)\>
 
-    \<[SaveVersion](saveversion-element.md)\>integer\</SaveVersion\>
-    
-    \<[BuildNumber](buildnumber-element.md)\>string\</BuildNumber\>    
+    \<[SaveVersion](saveversion-element.md)\>integer\</SaveVersion\> 
 
     \<[UID](uid-element.md) \>string\</UID\>
 
     \<[Name](name-element.md)\>string\</Name\>
-    
-    \<[GUID](guid-element-multiple-parents.md)\>string\</GUID\>
 
     \<[Title](title-element-project.md)\>string\</Title\>
 
