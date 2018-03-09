@@ -6,7 +6,7 @@ monikerRange: '>= project-client-2010 || project-client-odc'
 
 # IsCustomized Element
 
-A boolean indicating if the view has been customized from the version in the global.
+A boolean indicating if the item has been customized from the version in the global.
 
     <IsCustomized>
       BooleanValue
@@ -20,7 +20,7 @@ A boolean indicating if the view has been customized from the version in the glo
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="view-element.md">View</a>, <a href="drawing-element.md">Drawing</a>, <a href="filter-element.md">Filter</a>,  <a href="group-element.md">Group</a>,  <a href="map-element.md">Map</a>,  <a href="report-element.md">Report</a>,  <a href="table-element.md">Table</a></p></td>
+<td><p><a href="view-element.md">View</a>, <a href="drawing-element.md">Drawing</a>, <a href="filter-element.md">Filter</a>,  <a href="group-element.md">Group</a>,  <a href="map-element.md">Map</a>,  <a href="report-element.md">Report</a>,  <a href="table-element.md">Table</a>,  <a href="vbaproject-element.md">VBAProject</a></p></td>
 </tr>
 </tbody>
 </table>
