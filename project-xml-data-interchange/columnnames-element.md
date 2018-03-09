@@ -61,7 +61,7 @@ An element representing the columns that make up either the source or sink of th
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p>Minimum: 1</p>
+<td><p>Minimum: 0 for Source, 1 for Sink</p>
 <p>Maximum: 100</p></td>
 </tr>
 </tbody>
