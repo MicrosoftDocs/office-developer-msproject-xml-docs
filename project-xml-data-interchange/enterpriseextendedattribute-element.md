@@ -52,7 +52,7 @@ An element representing the custom field value for the project, task, resoure, o
 <tr class="even">
 <td><p><a href="fieldid-element.md">FieldID</a></p></td>
 <td><p>Required</p></td>
-<td><p>The field number of the lookup talbe value.</p></td>
+<td><p>The field number of the lookup table value.</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="value-element.md">Value</a></p></td>
