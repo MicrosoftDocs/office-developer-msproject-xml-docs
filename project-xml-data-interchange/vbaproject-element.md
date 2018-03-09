@@ -21,8 +21,7 @@ A specific VBAProject for the project within the VBAProjects element.
 <colgroup>
 <col style="width: 100%" />
 </colgroup>
-<tbody>
-<tr class="odd">
+<tbody>400<tr class="odd">
 <td><p><a href="vbaprojects-element.md">VBAProjects</a></p></td>
 </tr>
 </tbody>
@@ -66,7 +65,7 @@ A specific VBAProject for the project within the VBAProjects element.
 <tbody>
 <tr class="odd">
 <td><p>Minimum: 1</p>
-<p>Maximum: 1000</p></td>
+<p>Maximum: 400,000</p></td>
 </tr>
 </tbody>
 </table>
