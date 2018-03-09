@@ -1,14 +1,7 @@
 ---
 title: FieldID Element
-TOCTitle: FieldID Element
-ms:assetid: 3ed97e9e-cb2a-4aea-911c-a192b9e11891
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968474(v=office.12)
-ms:contentKeyID: 13188166
 ms.date: 05/05/2014
-mtps_version: v=office.12
-f1_keywords:
-- FieldID element
-monikerRange: '>= project-client-2007 || project-client-odc'
+monikerRange: '>= project-client-2010 || project-client-odc'
 ---
 
 # FieldID Element
@@ -32,7 +25,7 @@ In an ExtendedAttribute, it corresponds to the enumeration value of a local cus
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="outlinecode-element.md">OutlineCode</a>, <a href="extendedattribute-element.md">ExtendedAttribute</a></p></td>
+<td><p><a href="outlinecode-element.md">OutlineCode</a>, <a href="extendedattribute-element.md">ExtendedAttribute</a>, <a href="enterpriseextendedattribute-element.md">EnterpriseExtendedAttribute</a></p></td>
 </tr>
 </tbody>
 </table>
