@@ -1,13 +1,6 @@
 ---
 title: Project Element
-TOCTitle: Project Element
-ms:assetid: d6c47ee7-56f0-480f-940c-a7b715e6c1c3
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968701(v=office.12)
-ms:contentKeyID: 13188391
 ms.date: 05/05/2014
-mtps_version: v=office.12
-f1_keywords:
-- Project element
 monikerRange: '>= project-client-2010 || project-client-odc'
 ---
 
@@ -397,6 +390,12 @@ Project is the top level element of the document. Project child elements includ
 <td><p><a href="assignments-element.md">Assignments</a></p></td>
 <td><p>Optional</p></td>
 <td><p>Collection of assignments in a project.</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="enterpriseextendedattribute-element.md">
+EnterpriseExtendedAttribute</a></p></td>
+<td><p>Optional</p></td>
+<td><p>Collection of Enterprise Custom Fields with lookup table values.</p></td>
 </tr>
 </tbody>
 </table>
