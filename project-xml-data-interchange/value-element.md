@@ -34,7 +34,7 @@ In a TimephasedData element, Value is the value for each unit in the timephase
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><a href="valuelist-element.md">ValueList</a>, <a href="values-element.md">Values</a>, <a href="extendedattribute-element.md">ExtendedAttribute</a>, <a href="https://msdn.microsoft.com/en-us/library/office%7cps12con%7c%7e%5chtml%5cpjxml_elemtimephaseddata_hv01056849.xml.htm(v=office.12)">TimephasedData</a></p></td>
+<td><p><a href="valuelist-element.md">ValueList</a>, <a href="values-element.md">Values</a>, <a href="extendedattribute-element.md">ExtendedAttribute</a>, <a href="https://msdn.microsoft.com/en-us/library/office%7cps12con%7c%7e%5chtml%5cpjxml_elemtimephaseddata_hv01056849.xml.htm(v=office.12)">TimephasedData</a>, <a href="enterpriseextendedattribute-element.md">EnterpriseExtendedAttribute</a></p></td>
 </tr>
 </tbody>
 </table>
