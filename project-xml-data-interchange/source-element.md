@@ -1,7 +1,7 @@
 ---
 title: Source Element
 ms.date: 02/24/2018
-monikerRange: '>= project-client-2013 || project-client-odc'
+monikerRange: '>= project-client-2010 || project-client-odc'
 ---
 
 # Source Element
