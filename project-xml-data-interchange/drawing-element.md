@@ -49,11 +49,6 @@ A specific drawing for the project within the Drawings element. Users can view t
 <td><p>Required</p></td>
 <td><p>The name of the drawing.</p></td>
 </tr>
-<tr class="even">
-<td><p><a href="iscustomized-element.md">IsCustomized</a></p></td>
-<td><p>Optional</p></td>
-<td><p>A boolean indicating if the drawing has been cusotmized from the version in the global.</p></td>
-</tr>
 </tbody>
 </table>
 
