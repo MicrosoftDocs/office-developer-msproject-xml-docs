@@ -9,7 +9,7 @@ monikerRange: '>= project-client-2013 || project-client-odc'
 
 
 
-The collection of datalinks that are associated with the project. These track where value's in Project are either linked to other values in Project or to external sources like Excel.
+The collection of datalinks that are associated with the project. These track where value's in Project are either linked to other values in Project or to external sources like Excel. DataLinks are not loadable.
 
 
 
