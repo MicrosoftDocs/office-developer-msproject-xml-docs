@@ -4,7 +4,7 @@ TOCTitle: XML Schema for the Project Element
 ms:assetid: d25633d3-3350-40d6-801d-fbb3809b52b8
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968695(v=office.12)
 ms:contentKeyID: 13188385
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - Schemas [Project 2007]

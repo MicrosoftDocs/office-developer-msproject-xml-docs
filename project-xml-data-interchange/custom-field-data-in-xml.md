@@ -4,7 +4,7 @@ TOCTitle: Custom Field Data in XML
 ms:assetid: cb642a89-7686-441f-a9da-b3925a8612ea
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968687(v=office.12)
 ms:contentKeyID: 13188377
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - XML and Project

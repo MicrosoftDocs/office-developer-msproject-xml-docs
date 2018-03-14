@@ -4,7 +4,7 @@ TOCTitle: WorkWeeks Element
 ms:assetid: 4be76fb8-eb91-4f77-8447-4e2153e0e3d9
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968496(v=office.12)
 ms:contentKeyID: 13188188
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - WorkWeeks element

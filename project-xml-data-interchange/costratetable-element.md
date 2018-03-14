@@ -4,7 +4,7 @@ TOCTitle: CostRateTable Element
 ms:assetid: 6f6996c4-10aa-467b-afe6-48c2872e32ce
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968541(v=office.12)
 ms:contentKeyID: 13188233
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - CostRateTable element

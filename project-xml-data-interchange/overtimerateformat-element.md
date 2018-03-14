@@ -4,7 +4,7 @@ TOCTitle: OvertimeRateFormat Element
 ms:assetid: f6ee4272-f014-460f-8831-ad492150aedc
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968737(v=office.12)
 ms:contentKeyID: 13188427
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - OvertimeRateFormat element

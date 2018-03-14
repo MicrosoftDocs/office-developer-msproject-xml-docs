@@ -4,7 +4,7 @@ TOCTitle: IsEnterprise Element
 ms:assetid: c0c35e00-4136-4071-b552-98d0a2e8df6c
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968668(v=office.12)
 ms:contentKeyID: 13188358
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - IsEnterprise element

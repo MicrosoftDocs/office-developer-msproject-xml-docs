@@ -4,7 +4,7 @@ TOCTitle: StandardRate Element
 ms:assetid: 2f50de74-e869-4a70-bef7-c6e8b2893aa2
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968453(v=office.12)
 ms:contentKeyID: 13188145
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - StandardRate element

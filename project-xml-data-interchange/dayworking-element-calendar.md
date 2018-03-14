@@ -4,7 +4,7 @@ TOCTitle: DayWorking Element
 ms:assetid: c049f7a9-2ef3-4e48-89fa-6d20d8b337f1
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968665(v=office.12)
 ms:contentKeyID: 13188356
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - DayWorking element

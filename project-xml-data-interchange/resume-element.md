@@ -4,7 +4,7 @@ TOCTitle: Resume Element
 ms:assetid: 1851456a-e254-4a5b-952b-343bff6c0bce
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968423(v=office.12)
 ms:contentKeyID: 13188116
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - Resume element

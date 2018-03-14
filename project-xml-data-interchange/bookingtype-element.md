@@ -4,7 +4,7 @@ TOCTitle: BookingType Element
 ms:assetid: 52c614de-da86-413d-9042-482b7f51786c
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968505(v=office.12)
 ms:contentKeyID: 13188197
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - BookingType element

@@ -4,7 +4,7 @@ TOCTitle: VerifyUniqueCodes Element
 ms:assetid: 6619c7fa-8c1a-449e-b4a9-7712ac0dfa04
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968528(v=office.12)
 ms:contentKeyID: 13188220
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - VerifyUniqueCodes element

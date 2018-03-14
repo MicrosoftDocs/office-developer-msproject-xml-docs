@@ -4,7 +4,7 @@ TOCTitle: UID Element
 ms:assetid: 90074e2d-5cbf-475c-b456-5649c1b2949b
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968590(v=office.12)
 ms:contentKeyID: 13188281
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - UID element

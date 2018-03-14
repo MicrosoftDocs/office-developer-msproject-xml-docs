@@ -4,7 +4,7 @@ TOCTitle: MonthPosition Element
 ms:assetid: a48960a9-a435-423e-9a15-1f01ed366621
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968624(v=office.12)
 ms:contentKeyID: 13188315
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - MonthPosition element

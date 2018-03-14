@@ -4,7 +4,7 @@ TOCTitle: ActualDuration Element
 ms:assetid: 28e3cc27-b654-4215-a7ce-6ece3e3634a8
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968446(v=office.12)
 ms:contentKeyID: 13188138
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - ActualDuration element

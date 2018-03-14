@@ -4,7 +4,7 @@ TOCTitle: MoveCompletedEndsForward Element
 ms:assetid: 370fee53-9488-4907-8d5c-d355fd85b8d3
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968463(v=office.12)
 ms:contentKeyID: 13188155
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - MoveCompletedEndsForward element

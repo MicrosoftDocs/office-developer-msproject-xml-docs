@@ -4,7 +4,7 @@ TOCTitle: Estimated Element
 ms:assetid: e33f287f-a61e-49fd-a3e6-00ced5c31138
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968711(v=office.12)
 ms:contentKeyID: 13188401
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - Estimated element

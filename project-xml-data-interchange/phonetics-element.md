@@ -4,7 +4,7 @@ TOCTitle: Phonetics Element
 ms:assetid: ac3e19fc-1b16-4b2b-a8ee-5739173445ee
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968636(v=office.12)
 ms:contentKeyID: 13188327
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - Phonetics element

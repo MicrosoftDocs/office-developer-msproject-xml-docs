@@ -4,7 +4,7 @@ TOCTitle: OutlineLevel Element
 ms:assetid: 39dd243f-1e7e-423d-9343-ea4b75d6b950
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968465(v=office.12)
 ms:contentKeyID: 13188157
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - OutlineLevel element

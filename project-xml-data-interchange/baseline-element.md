@@ -4,7 +4,7 @@ TOCTitle: Baseline Element
 ms:assetid: 985cf3e5-7378-41a9-b1d8-ebf03c1584aa
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968599(v=office.12)
 ms:contentKeyID: 13188290
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - Baseline element

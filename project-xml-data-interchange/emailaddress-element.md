@@ -4,7 +4,7 @@ TOCTitle: EmailAddress Element
 ms:assetid: 565c1bc0-bd74-48a9-b827-f2813d6f6c24
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968510(v=office.12)
 ms:contentKeyID: 13188202
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - EmailAddress element

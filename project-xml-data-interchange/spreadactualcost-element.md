@@ -4,7 +4,7 @@ TOCTitle: SpreadActualCost Element
 ms:assetid: 9b6b9e4a-cee0-407c-bd5b-62e2a21f06db
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968605(v=office.12)
 ms:contentKeyID: 13188296
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - SpreadActualCost element

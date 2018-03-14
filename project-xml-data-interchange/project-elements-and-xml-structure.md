@@ -4,7 +4,7 @@ TOCTitle: Project Elements and XML Structure
 ms:assetid: 23b2326a-66cf-4978-a982-48567ded715b
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968439(v=office.12)
 ms:contentKeyID: 13188132
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - XML and Project

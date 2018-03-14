@@ -4,7 +4,7 @@ TOCTitle: CV Element
 ms:assetid: ca2558d2-f91d-4d0d-8028-da06173339fa
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968685(v=office.12)
 ms:contentKeyID: 13188375
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - CV element

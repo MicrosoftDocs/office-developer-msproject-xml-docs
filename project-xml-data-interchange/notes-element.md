@@ -4,7 +4,7 @@ TOCTitle: Notes Element
 ms:assetid: 9fff6601-85f3-408b-a3db-c3d8d743b725
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968616(v=office.12)
 ms:contentKeyID: 13188307
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - Notes element

@@ -4,7 +4,7 @@ TOCTitle: LevelAssignments Element
 ms:assetid: 2f38b196-4fca-40b4-af13-03d1b17abb9a
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968452(v=office.12)
 ms:contentKeyID: 13188144
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - LevelAssignments element

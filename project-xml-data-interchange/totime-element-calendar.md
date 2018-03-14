@@ -4,7 +4,7 @@ TOCTitle: ToTime Element
 ms:assetid: 3a232cf1-d34e-4d0e-b584-cea0c67ba03f
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968466(v=office.12)
 ms:contentKeyID: 13188158
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - ToTime element

@@ -4,7 +4,7 @@ TOCTitle: WorkVariance Element
 ms:assetid: cd8c71ed-bf3a-4013-8e17-dd970785e79b
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968689(v=office.12)
 ms:contentKeyID: 13188379
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - WorkVariance element

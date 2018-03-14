@@ -4,7 +4,7 @@ TOCTitle: EditableActualCosts Element
 ms:assetid: 72afbfb3-f774-43c3-8585-ec91b3c57725
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968544(v=office.12)
 ms:contentKeyID: 13188236
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - EditableActualCosts element

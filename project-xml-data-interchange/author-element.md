@@ -4,7 +4,7 @@ TOCTitle: Author Element
 ms:assetid: c67029a2-6896-4eae-83ab-4e6f8b2a3716
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968681(v=office.12)
 ms:contentKeyID: 13188371
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - Author element

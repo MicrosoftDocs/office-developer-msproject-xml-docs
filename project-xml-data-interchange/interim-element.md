@@ -4,7 +4,7 @@ TOCTitle: Interim Element
 ms:assetid: 2346cd83-36ac-414e-9629-5c801097763f
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968438(v=office.12)
 ms:contentKeyID: 13188131
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - Interim element

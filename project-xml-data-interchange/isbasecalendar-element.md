@@ -4,7 +4,7 @@ TOCTitle: IsBaseCalendar Element
 ms:assetid: 9e0570d7-1d10-4950-8149-83fe5d7bf023
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968610(v=office.12)
 ms:contentKeyID: 13188301
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - IsBaseCalendar element

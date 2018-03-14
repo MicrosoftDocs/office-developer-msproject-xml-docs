@@ -4,7 +4,7 @@ TOCTitle: DefaultGuid Element
 ms:assetid: 22c2fd78-5409-4ce5-9e81-c62bd6403757
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968436(v=office.12)
 ms:contentKeyID: 13188129
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - DefaultGuid element

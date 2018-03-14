@@ -4,7 +4,7 @@ TOCTitle: StatusManager Element
 ms:assetid: a87e6390-ab36-4041-baa1-939bc6b448f7
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968633(v=office.12)
 ms:contentKeyID: 13188324
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - StatusManager element

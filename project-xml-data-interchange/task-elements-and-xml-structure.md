@@ -4,7 +4,7 @@ TOCTitle: Task Elements and XML Structure
 ms:assetid: 3fa5904f-841c-421b-bfdd-cb9531c8bdf7
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968475(v=office.12)
 ms:contentKeyID: 13188167
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - XML and Project

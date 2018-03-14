@@ -4,7 +4,7 @@ TOCTitle: Changes in the Project 2007 XML Data Interchange Schema
 ms:assetid: 707c1121-154d-4550-916d-e2987eead64f
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968543(v=office.12)
 ms:contentKeyID: 13188235
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - XML and Project

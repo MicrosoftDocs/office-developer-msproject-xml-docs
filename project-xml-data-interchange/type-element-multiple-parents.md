@@ -4,7 +4,7 @@ TOCTitle: Type Element
 ms:assetid: 222dd5ab-8885-4858-b5c3-87f0d1636d2d
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968434(v=office.12)
 ms:contentKeyID: 13188127
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - Type element

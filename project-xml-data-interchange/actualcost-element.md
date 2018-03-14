@@ -4,7 +4,7 @@ TOCTitle: ActualCost Element
 ms:assetid: 91560464-cbfd-46e1-9927-4ecaa218e84b
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968591(v=office.12)
 ms:contentKeyID: 13188282
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - ActualCost element

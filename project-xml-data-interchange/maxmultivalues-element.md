@@ -4,7 +4,7 @@ TOCTitle: MaxMultiValues Element
 ms:assetid: 56c818ed-8004-43a9-9339-45364ff93fee
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968512(v=office.12)
 ms:contentKeyID: 13188204
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - MaxMultiValues element

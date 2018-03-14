@@ -4,7 +4,7 @@ TOCTitle: Value Element
 ms:assetid: d367ebe0-7f26-4e01-8c3b-b248996da52d
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968696(v=office.12)
 ms:contentKeyID: 13188386
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - Value element

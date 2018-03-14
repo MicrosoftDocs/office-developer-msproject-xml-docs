@@ -4,7 +4,7 @@ TOCTitle: Confirmed Element
 ms:assetid: 7f4bbb5c-236c-42b3-9294-d3ad7787ece9
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968559(v=office.12)
 ms:contentKeyID: 13188250
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - Confirmed element

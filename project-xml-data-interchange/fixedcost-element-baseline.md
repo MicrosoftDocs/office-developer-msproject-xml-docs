@@ -4,7 +4,7 @@ TOCTitle: FixedCost Element
 ms:assetid: 4b64e229-c147-4b3a-9deb-cae32a27fb11
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968494(v=office.12)
 ms:contentKeyID: 13188186
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - FixedCost element

@@ -4,7 +4,7 @@ TOCTitle: NewTasksEffortDriven Element
 ms:assetid: 0eff21f0-a059-4cc4-a702-5ac2c33127a0
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968412(v=office.12)
 ms:contentKeyID: 13188105
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - NewTasksEffortDriven element

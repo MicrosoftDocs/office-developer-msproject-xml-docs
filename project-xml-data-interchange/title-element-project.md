@@ -4,7 +4,7 @@ TOCTitle: Title Element
 ms:assetid: fbaae44b-c895-442d-a3c0-9c67dd5f9694
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968746(v=office.12)
 ms:contentKeyID: 13188436
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - Title element

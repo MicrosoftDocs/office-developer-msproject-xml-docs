@@ -4,7 +4,7 @@ TOCTitle: WorkContour Element
 ms:assetid: f0384509-c8b2-4802-b4a7-3d81040910ef
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968726(v=office.12)
 ms:contentKeyID: 13188416
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - WorkContour element

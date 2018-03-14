@@ -4,7 +4,7 @@ TOCTitle: BaseCalendarUID Element
 ms:assetid: f82f2ed0-9c87-4d05-940d-7fe6ef02f09c
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968744(v=office.12)
 ms:contentKeyID: 13188434
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - BaseCalendarUID element

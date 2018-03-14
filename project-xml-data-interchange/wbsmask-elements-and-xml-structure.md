@@ -4,7 +4,7 @@ TOCTitle: WBSMask Elements and XML Structure
 ms:assetid: 101c3fa6-ccbf-4b34-ac5a-584c12fabbbd
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968416(v=office.12)
 ms:contentKeyID: 13188109
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - XML and Project

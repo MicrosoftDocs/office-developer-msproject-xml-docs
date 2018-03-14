@@ -4,7 +4,7 @@ TOCTitle: ExtendedCreationDate Element
 ms:assetid: 9b8bbf23-c5e5-4868-8cca-ddd8fcfe5288
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968606(v=office.12)
 ms:contentKeyID: 13188297
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - ExtendedCreationDate element

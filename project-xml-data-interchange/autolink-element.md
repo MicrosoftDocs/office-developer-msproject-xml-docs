@@ -4,7 +4,7 @@ TOCTitle: Autolink Element
 ms:assetid: 34903737-3894-4aef-83f1-f85d8b17330b
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968458(v=office.12)
 ms:contentKeyID: 13188150
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - Autolink element

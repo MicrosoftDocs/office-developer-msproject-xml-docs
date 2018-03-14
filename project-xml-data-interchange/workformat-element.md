@@ -4,7 +4,7 @@ TOCTitle: WorkFormat Element
 ms:assetid: 6d1d40f3-cd02-4cd7-a28e-605b88518ee4
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968538(v=office.12)
 ms:contentKeyID: 13188230
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - WorkFormat element

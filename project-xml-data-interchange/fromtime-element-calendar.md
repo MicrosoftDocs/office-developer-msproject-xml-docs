@@ -4,7 +4,7 @@ TOCTitle: FromTime Element
 ms:assetid: 1a578802-d5c7-4fd6-b0ef-7cd91e391719
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968425(v=office.12)
 ms:contentKeyID: 13188118
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - FromTime element

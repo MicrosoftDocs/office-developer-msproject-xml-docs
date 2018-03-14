@@ -4,7 +4,7 @@ TOCTitle: FinishDate Element
 ms:assetid: 58ea10c7-a2bc-405d-b6fc-d19d89376c61
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968517(v=office.12)
 ms:contentKeyID: 13188209
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - FinishDate element

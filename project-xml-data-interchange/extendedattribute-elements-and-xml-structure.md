@@ -4,7 +4,7 @@ TOCTitle: ExtendedAttribute Elements and XML Structure
 ms:assetid: 88acf5ad-cdb2-4fda-b178-ad43dc572684
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968579(v=office.12)
 ms:contentKeyID: 13188270
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - XML and Project

@@ -4,7 +4,7 @@ TOCTitle: ConstraintType Element
 ms:assetid: d8ade667-0c92-4c1e-b0d8-76f8d2411330
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968703(v=office.12)
 ms:contentKeyID: 13188393
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - ConstraintType element

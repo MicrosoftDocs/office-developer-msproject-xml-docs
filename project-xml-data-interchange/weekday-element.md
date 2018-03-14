@@ -4,7 +4,7 @@ TOCTitle: WeekDay Element
 ms:assetid: 20e6a844-282c-4007-b7e6-414d2d402ac1
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968433(v=office.12)
 ms:contentKeyID: 13188126
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - WeekDay element

@@ -4,7 +4,7 @@ TOCTitle: XML Schema for the Assignments Element
 ms:assetid: 0f1de37d-fa67-4120-9d24-c98d7067f842
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968414(v=office.12)
 ms:contentKeyID: 13188107
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - Schemas [Project 2007]

@@ -1,6 +1,6 @@
 ---
 title: Project Element
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 monikerRange: '>= project-client-2010 || project-client-odc'
 ---
 

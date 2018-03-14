@@ -4,7 +4,7 @@ TOCTitle: XML Schema for the Tasks Element
 ms:assetid: 0ff12ab6-ac7f-4d45-aadc-7f6fce6c082c
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968415(v=office.12)
 ms:contentKeyID: 13188108
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - Schemas [Project 2007]

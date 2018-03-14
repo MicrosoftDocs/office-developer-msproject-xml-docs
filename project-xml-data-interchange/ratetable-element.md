@@ -4,7 +4,7 @@ TOCTitle: RateTable Element
 ms:assetid: 84c07894-1df1-4ba3-aa45-0d57a84530ed
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968573(v=office.12)
 ms:contentKeyID: 13188264
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - RateTable element

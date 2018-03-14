@@ -4,7 +4,7 @@ TOCTitle: RemoveFileProperties Element
 ms:assetid: a205c498-80f3-4313-9377-9332324d3717
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968622(v=office.12)
 ms:contentKeyID: 13188313
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - RemoveFileProperties element

@@ -4,7 +4,7 @@ TOCTitle: Alias Element
 ms:assetid: 01c1a8dd-39cc-490d-84de-d75c4ba95fd1
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968395(v=office.12)
 ms:contentKeyID: 13188088
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - Alias element

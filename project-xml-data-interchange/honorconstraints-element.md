@@ -4,7 +4,7 @@ TOCTitle: HonorConstraints Element
 ms:assetid: 9f270de3-5c09-4e66-ba58-ff358fcd66af
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968614(v=office.12)
 ms:contentKeyID: 13188305
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - HonorConstraints element

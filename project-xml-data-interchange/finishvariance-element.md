@@ -4,7 +4,7 @@ TOCTitle: FinishVariance Element
 ms:assetid: eee82eb6-7eba-4cff-bad6-e7a991ca9a08
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968724(v=office.12)
 ms:contentKeyID: 13188414
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - FinishVariance element

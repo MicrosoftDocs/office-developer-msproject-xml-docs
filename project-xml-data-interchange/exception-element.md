@@ -4,7 +4,7 @@ TOCTitle: Exception Element
 ms:assetid: 4918cdc1-9871-4124-8dba-6df6a7f49512
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968492(v=office.12)
 ms:contentKeyID: 13188184
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - Exception element

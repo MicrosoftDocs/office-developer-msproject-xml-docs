@@ -4,7 +4,7 @@ TOCTitle: TimephasedData Element
 ms:assetid: 41c66612-a3af-499c-b9ba-c552216d5820
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968479(v=office.12)
 ms:contentKeyID: 13188171
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - TimephasedData element

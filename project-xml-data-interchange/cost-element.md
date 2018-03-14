@@ -4,7 +4,7 @@ TOCTitle: Cost Element
 ms:assetid: 5e1959e5-0af9-4ea1-bbe7-33c7d277cfbd
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968522(v=office.12)
 ms:contentKeyID: 13188214
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - Cost element

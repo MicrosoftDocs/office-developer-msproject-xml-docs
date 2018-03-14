@@ -4,7 +4,7 @@ TOCTitle: LinkedFields Element
 ms:assetid: 4520fe34-698d-4890-92cf-5d210d35092b
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968484(v=office.12)
 ms:contentKeyID: 13188176
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - LinkedFields element

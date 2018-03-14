@@ -4,7 +4,7 @@ TOCTitle: DefaultStartTime Element
 ms:assetid: 86b1f0cf-d37a-4753-a904-39151b5d660a
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968578(v=office.12)
 ms:contentKeyID: 13188269
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - DefaultStartTime element

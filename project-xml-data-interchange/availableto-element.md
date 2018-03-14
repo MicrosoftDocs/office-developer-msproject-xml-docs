@@ -4,7 +4,7 @@ TOCTitle: AvailableTo Element
 ms:assetid: b26c7e48-a086-4389-8b46-9451222b23a0
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968648(v=office.12)
 ms:contentKeyID: 13188339
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - AvailableTo element

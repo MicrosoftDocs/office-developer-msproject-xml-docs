@@ -4,7 +4,7 @@ TOCTitle: FromDate Element
 ms:assetid: 8cc812d8-347a-4507-8177-1d090ea70678
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968583(v=office.12)
 ms:contentKeyID: 13188274
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - FromDate element

@@ -4,7 +4,7 @@ TOCTitle: XML Schema for the WBSMasks Element
 ms:assetid: 822ec84d-c92a-419d-a0bf-905f5d1da8cc
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968565(v=office.12)
 ms:contentKeyID: 13188256
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - Schemas [Project 2007]

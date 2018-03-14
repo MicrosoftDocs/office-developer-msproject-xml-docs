@@ -4,7 +4,7 @@ TOCTitle: PercentWorkComplete Element
 ms:assetid: 9c4a9d5f-d0fd-43e9-99c0-bb13c3fd6da6
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968608(v=office.12)
 ms:contentKeyID: 13188299
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - PercentWorkComplete element

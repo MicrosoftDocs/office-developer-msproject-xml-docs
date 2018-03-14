@@ -4,7 +4,7 @@ TOCTitle: ResumeValid Element
 ms:assetid: c4d05caf-cebe-40f3-aa45-3cc2a00f7576
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968677(v=office.12)
 ms:contentKeyID: 13188367
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - ResumeValid element

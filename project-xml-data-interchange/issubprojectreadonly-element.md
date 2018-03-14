@@ -4,7 +4,7 @@ TOCTitle: IsSubprojectReadOnly Element
 ms:assetid: 369991db-e724-41f8-898a-b3d517f0cdfa
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968461(v=office.12)
 ms:contentKeyID: 13188153
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - IsSubprojectReadOnly element

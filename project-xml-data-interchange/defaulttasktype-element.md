@@ -4,7 +4,7 @@ TOCTitle: DefaultTaskType Element
 ms:assetid: 9a0cae2a-2c23-4351-b8a9-7b3c22a1f60c
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968603(v=office.12)
 ms:contentKeyID: 13188294
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - DefaultTaskType element

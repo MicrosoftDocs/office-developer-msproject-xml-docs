@@ -4,7 +4,7 @@ TOCTitle: OutlineCode Element
 ms:assetid: 0dc0478b-4281-4e0e-86c0-3fdea445e6d0
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968410(v=office.12)
 ms:contentKeyID: 13188103
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - OutlineCode element

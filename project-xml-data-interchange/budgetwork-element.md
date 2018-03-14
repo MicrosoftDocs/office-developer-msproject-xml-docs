@@ -4,7 +4,7 @@ TOCTitle: BudgetWork Element
 ms:assetid: 53274c16-a78b-474a-b546-e0f42b443979
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968506(v=office.12)
 ms:contentKeyID: 13188198
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - BudgetWork element

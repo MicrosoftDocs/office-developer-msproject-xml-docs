@@ -4,7 +4,7 @@ TOCTitle: LinkLag Element
 ms:assetid: 7c6ade5e-f175-4a2e-aa79-ee50bba4ab9c
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968558(v=office.12)
 ms:contentKeyID: 13188249
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - LinkLag element

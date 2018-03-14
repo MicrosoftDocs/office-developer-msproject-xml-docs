@@ -4,7 +4,7 @@ TOCTitle: Milestone Element
 ms:assetid: 5dbe5481-b4a8-4a1d-826d-6557f57af3ef
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968520(v=office.12)
 ms:contentKeyID: 13188212
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - Milestone element

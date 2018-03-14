@@ -4,7 +4,7 @@ TOCTitle: Enterprise Element
 ms:assetid: 5d90c9a9-f903-422a-9934-11e4e373b3a2
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968519(v=office.12)
 ms:contentKeyID: 13188211
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - Enterprise element

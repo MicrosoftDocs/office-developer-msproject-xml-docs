@@ -4,7 +4,7 @@ TOCTitle: DefaultOvertimeRate Element
 ms:assetid: 07dbdbe7-3d3e-41ef-ae24-7d4c9f88d70a
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968402(v=office.12)
 ms:contentKeyID: 13188095
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - DefaultOvertimeRate element

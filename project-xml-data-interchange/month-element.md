@@ -4,7 +4,7 @@ TOCTitle: Month Element
 ms:assetid: 2d77e623-efaa-4695-a08f-1b64e8525292
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968450(v=office.12)
 ms:contentKeyID: 13188142
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - Month element

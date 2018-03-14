@@ -4,7 +4,7 @@ TOCTitle: DaysPerMonth Element
 ms:assetid: 920763d0-bc81-4b5c-82c2-1954ae6332f2
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968592(v=office.12)
 ms:contentKeyID: 13188283
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - DaysPerMonth element

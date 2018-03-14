@@ -4,7 +4,7 @@ TOCTitle: XML Schema for the ExtendedAttributes Element
 ms:assetid: db014a14-2934-4f15-8766-0ab0dd0add22
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968705(v=office.12)
 ms:contentKeyID: 13188395
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - Schemas [Project 2007]

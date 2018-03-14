@@ -4,7 +4,7 @@ TOCTitle: OnlyTableValuesAllowed Element
 ms:assetid: 2fd6405e-110a-4a62-adea-164b24f147c8
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968454(v=office.12)
 ms:contentKeyID: 13188146
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - OnlyTableValuesAllowed element

@@ -4,7 +4,7 @@ TOCTitle: CalendarUID Element
 ms:assetid: 5745fc1f-dd0e-43fa-88b6-8974f776f088
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968514(v=office.12)
 ms:contentKeyID: 13188206
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - CalendarUID element

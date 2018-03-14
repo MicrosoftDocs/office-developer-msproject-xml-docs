@@ -4,7 +4,7 @@ TOCTitle: OutlineNumber Element
 ms:assetid: b3a0a187-116d-4dec-898e-2cc3381525a5
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968651(v=office.12)
 ms:contentKeyID: 13188342
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - OutlineNumber element

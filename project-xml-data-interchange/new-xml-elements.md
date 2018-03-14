@@ -4,7 +4,7 @@ TOCTitle: New XML Elements
 ms:assetid: 8c9c7788-53b1-460f-88b5-c8f4f4fdedf7
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968581(v=office.12)
 ms:contentKeyID: 13188272
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - XML schema [Project 2007]

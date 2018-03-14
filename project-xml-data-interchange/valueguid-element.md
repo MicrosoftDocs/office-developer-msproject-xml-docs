@@ -4,7 +4,7 @@ TOCTitle: ValueGUID Element
 ms:assetid: 8478818f-6da6-431f-b4d0-d2113329a476
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968572(v=office.12)
 ms:contentKeyID: 13188263
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - ValueGUID element

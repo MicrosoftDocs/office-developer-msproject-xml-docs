@@ -4,7 +4,7 @@ TOCTitle: Resources Element
 ms:assetid: f24823e7-514d-46fd-a724-cdd2e72ef4d8
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968730(v=office.12)
 ms:contentKeyID: 13188420
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - Resources element

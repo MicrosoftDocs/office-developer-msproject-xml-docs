@@ -4,7 +4,7 @@ TOCTitle: AllLevelsRequired Element
 ms:assetid: 1076d061-cb67-4143-bc45-43466ad00ba1
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968417(v=office.12)
 ms:contentKeyID: 13188110
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - AllLevelsRequired element

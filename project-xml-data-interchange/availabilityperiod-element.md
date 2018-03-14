@@ -4,7 +4,7 @@ TOCTitle: AvailabilityPeriod Element
 ms:assetid: a4c03ace-1ef0-41a7-92df-99abc612aa73
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968625(v=office.12)
 ms:contentKeyID: 13188316
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - AvailabilityPeriod element

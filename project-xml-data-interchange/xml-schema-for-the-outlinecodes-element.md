@@ -4,7 +4,7 @@ TOCTitle: XML Schema for the OutlineCodes Element
 ms:assetid: 8db24ef2-eeee-43be-a998-9aaf90f7e5d9
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968584(v=office.12)
 ms:contentKeyID: 13188275
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - Schemas [Project 2007]

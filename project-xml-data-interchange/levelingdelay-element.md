@@ -4,7 +4,7 @@ TOCTitle: LevelingDelay Element
 ms:assetid: 02a5a3be-5569-4f08-97b0-c23dceb35861
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968397(v=office.12)
 ms:contentKeyID: 13188090
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - LevelingDelay element

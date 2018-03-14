@@ -4,7 +4,7 @@ TOCTitle: MoveRemainingStartsBack Element
 ms:assetid: b2fa4c92-1740-4532-bd40-03e32ed8a8c3
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968650(v=office.12)
 ms:contentKeyID: 13188341
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - MoveRemainingStartsBack element

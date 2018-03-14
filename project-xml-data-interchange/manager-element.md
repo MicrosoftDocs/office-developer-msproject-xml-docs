@@ -4,7 +4,7 @@ TOCTitle: Manager Element
 ms:assetid: c1930e60-ec58-4230-9f22-33abc01fd4f7
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968670(v=office.12)
 ms:contentKeyID: 13188360
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - Manager element

@@ -4,7 +4,7 @@ TOCTitle: EnteredByOccurrences Element
 ms:assetid: 81819336-f180-44ea-a4a4-c6140398d105
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968564(v=office.12)
 ms:contentKeyID: 13188255
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - EnteredByOccurrences element

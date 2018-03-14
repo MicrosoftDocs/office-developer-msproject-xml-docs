@@ -4,7 +4,7 @@ TOCTitle: LateStart Element
 ms:assetid: 85da55aa-5da1-4e82-8bea-b9be27341711
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968576(v=office.12)
 ms:contentKeyID: 13188267
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - LateStart element

@@ -4,7 +4,7 @@ TOCTitle: CFType Element
 ms:assetid: c4a58f3b-68ef-419f-9d73-1a50b5bc019e
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968675(v=office.12)
 ms:contentKeyID: 13188365
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - CFType element

@@ -4,7 +4,7 @@ TOCTitle: ProjectExternallyEdited Element
 ms:assetid: c467ebd1-a49c-47a6-9d52-045bac0dcc02
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968674(v=office.12)
 ms:contentKeyID: 13188364
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - ProjectExternallyEdited element

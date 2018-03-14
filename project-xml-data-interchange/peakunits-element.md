@@ -4,7 +4,7 @@ TOCTitle: PeakUnits Element
 ms:assetid: 09daccfe-a214-43d6-a2f8-7372a1192187
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968404(v=office.12)
 ms:contentKeyID: 13188097
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - PeakUnits element

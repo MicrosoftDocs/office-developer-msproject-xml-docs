@@ -4,7 +4,7 @@ TOCTitle: AdminProject Element
 ms:assetid: d1f64863-3a12-4740-b94a-d7006bc4677c
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968694(v=office.12)
 ms:contentKeyID: 13188384
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - AdminProject element

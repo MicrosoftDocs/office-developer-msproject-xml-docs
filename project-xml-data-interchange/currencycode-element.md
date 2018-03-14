@@ -4,7 +4,7 @@ TOCTitle: CurrencyCode Element
 ms:assetid: 8535d7d5-1414-4222-baaf-f16f8bc8131c
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968575(v=office.12)
 ms:contentKeyID: 13188266
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - CurrencyCode element

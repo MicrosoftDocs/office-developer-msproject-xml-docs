@@ -4,7 +4,7 @@ TOCTitle: Rates Element
 ms:assetid: d0e057f1-90a1-4c62-b14d-8b697ab69c98
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968693(v=office.12)
 ms:contentKeyID: 13188383
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - Rates element

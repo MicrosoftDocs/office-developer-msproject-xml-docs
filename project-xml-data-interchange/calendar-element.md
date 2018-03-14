@@ -4,7 +4,7 @@ TOCTitle: Calendar Element
 ms:assetid: 4232bf41-6652-4763-a885-ba0c1c520152
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968481(v=office.12)
 ms:contentKeyID: 13188173
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - Calendar element

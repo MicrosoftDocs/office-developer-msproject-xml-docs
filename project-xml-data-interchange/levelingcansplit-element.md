@@ -4,7 +4,7 @@ TOCTitle: LevelingCanSplit Element
 ms:assetid: 3a5c5fd5-da78-41d0-8ed2-ccd61b5d69f2
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968467(v=office.12)
 ms:contentKeyID: 13188159
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - LevelingCanSplit element

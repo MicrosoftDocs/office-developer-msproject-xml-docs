@@ -4,7 +4,7 @@ TOCTitle: WorkingTime Element
 ms:assetid: 8df6f9e2-701d-4ea4-87a9-8b3e6debd4b7
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968585(v=office.12)
 ms:contentKeyID: 13188276
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - WorkingTime element

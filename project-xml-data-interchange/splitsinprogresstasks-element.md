@@ -4,7 +4,7 @@ TOCTitle: SplitsInProgressTasks Element
 ms:assetid: 572e4880-9fdf-4809-bcb2-6bd23089ee2a
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968513(v=office.12)
 ms:contentKeyID: 13188205
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - SplitsInProgressTasks element

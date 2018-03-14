@@ -4,7 +4,7 @@ TOCTitle: ResponsePending Element
 ms:assetid: 407df87a-8074-4169-9d42-bd05111f43cc
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968477(v=office.12)
 ms:contentKeyID: 13188169
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - ResponsePending element

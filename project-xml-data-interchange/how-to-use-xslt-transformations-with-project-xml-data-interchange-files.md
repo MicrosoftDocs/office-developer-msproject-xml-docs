@@ -4,7 +4,7 @@ TOCTitle: 'How to: Use XSLT Transformations with Project XML Data Interchange Fi
 ms:assetid: 66d1ac85-7ec8-44b8-a73f-3e4d6b148219
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968529(v=office.12)
 ms:contentKeyID: 13188221
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - XML and Project

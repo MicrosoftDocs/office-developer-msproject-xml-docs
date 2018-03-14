@@ -4,7 +4,7 @@ TOCTitle: LeafOnly Element
 ms:assetid: 129a8601-6947-47a3-856e-57f5e3bf5f75
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968419(v=office.12)
 ms:contentKeyID: 13188112
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - LeafOnly element

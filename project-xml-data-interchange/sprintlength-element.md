@@ -1,6 +1,6 @@
 ---
 title: SprintLength Element
-ms.date: 02/20/2018
+ms.date: 03/14/2018
 monikerRange: 'project-client-odc'
 ---
 

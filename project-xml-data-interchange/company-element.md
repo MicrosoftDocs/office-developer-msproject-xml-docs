@@ -4,7 +4,7 @@ TOCTitle: Company Element
 ms:assetid: dc87eaf9-4788-49d9-85ae-a8fa01d7debe
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968707(v=office.12)
 ms:contentKeyID: 13188397
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - Company element

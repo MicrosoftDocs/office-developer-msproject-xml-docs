@@ -4,7 +4,7 @@ TOCTitle: Group Element
 ms:assetid: 83c37870-2c3c-4604-9b54-bc44632ccfcf
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968570(v=office.12)
 ms:contentKeyID: 13188261
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - Group element

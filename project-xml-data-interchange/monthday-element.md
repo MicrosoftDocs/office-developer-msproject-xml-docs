@@ -4,7 +4,7 @@ TOCTitle: MonthDay Element
 ms:assetid: d6aadb78-4d79-4a08-81e6-c9a907ed1f28
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968700(v=office.12)
 ms:contentKeyID: 13188390
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - MonthDay element

@@ -4,7 +4,7 @@ TOCTitle: ToDate Element
 ms:assetid: 03b89d46-3f37-4717-8b0a-b27fbd7d6562
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968399(v=office.12)
 ms:contentKeyID: 13188092
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - ToDate element

@@ -4,7 +4,7 @@ TOCTitle: DefaultFinishTime Element
 ms:assetid: 9466d2c7-8dbe-4228-b7ca-6746061a913f
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968593(v=office.12)
 ms:contentKeyID: 13188284
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - DefaultFinishTime element

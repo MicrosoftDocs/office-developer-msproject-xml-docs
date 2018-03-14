@@ -4,7 +4,7 @@ TOCTitle: AssnOwnerGuid Element
 ms:assetid: 782ab95f-9790-4d61-9227-111841305578
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968551(v=office.12)
 ms:contentKeyID: 13188243
-ms.date: 05/05/2014
+ms.date: 03/14/2018
 mtps_version: v=office.12
 f1_keywords:
 - AssnOwnerGuid element
