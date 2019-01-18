@@ -9,6 +9,7 @@ mtps_version: v=office.12
 f1_keywords:
 - Deadline element
 monikerRange: '>= project-client-2007 || project-client-odc'
+localization_priority: Normal
 ---
 
 # Deadline Element

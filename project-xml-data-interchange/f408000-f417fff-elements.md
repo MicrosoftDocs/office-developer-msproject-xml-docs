@@ -9,6 +9,7 @@ mtps_version: v=office.12
 f1_keywords:
 - f408000 - f417fff elements
 monikerRange: '>= project-client-2007 || project-client-odc'
+localization_priority: Normal
 ---
 
 # f408000 - f417fff Elements
