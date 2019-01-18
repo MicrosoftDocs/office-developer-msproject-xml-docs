@@ -9,6 +9,7 @@ mtps_version: v=office.12
 f1_keywords:
 - UID element
 monikerRange: '>= project-client-2010 || project-client-odc'
+localization_priority: Normal
 ---
 
 # UID Element

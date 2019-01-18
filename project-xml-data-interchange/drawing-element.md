@@ -2,6 +2,7 @@
 title: Drawing Element
 ms.date: 03/14/2018
 monikerRange: '>= project-client-2013 || project-client-odc'
+localization_priority: Normal
 ---
 
 # Drawing Element

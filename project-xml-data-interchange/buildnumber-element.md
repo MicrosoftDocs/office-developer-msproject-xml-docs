@@ -3,6 +3,7 @@ title: BuildNumber Element
 ms.date: 03/14/2018
 mtps_version: v=office.14
 monikerRange: '>= project-client-2010 || project-client-odc'
+localization_priority: Normal
 ---
 
 # Build Number Element

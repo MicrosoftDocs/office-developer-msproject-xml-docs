@@ -11,6 +11,7 @@ f1_keywords:
 - XML schema [Project 2007]
 - Project 2007 XML
 monikerRange: '>= project-client-2007 || project-client-odc'
+localization_priority: Normal
 ---
 
 # Working with Project XML Data Interchange Files

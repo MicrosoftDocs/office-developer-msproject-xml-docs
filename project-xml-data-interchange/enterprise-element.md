@@ -9,6 +9,7 @@ mtps_version: v=office.12
 f1_keywords:
 - Enterprise element
 monikerRange: '>= project-client-2007 || project-client-odc'
+localization_priority: Normal
 ---
 
 # Enterprise Element

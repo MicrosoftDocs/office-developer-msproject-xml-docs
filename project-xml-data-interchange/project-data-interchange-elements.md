@@ -12,6 +12,7 @@ f1_keywords:
 - Project XML elements
 - Project 2007 XML
 monikerRange: '>= project-client-2007 || project-client-odc'
+localization_priority: Normal
 ---
 
 # Project Data Interchange Elements

@@ -3,5 +3,5 @@
   topicHref: /office/index
   items:
   - name: Project XML Data Interchange Schema
-    tocHref: /office-project/xml-data-interchange/
-    topicHref: /office/xml-data-interchange
+    tocHref: /office-project/
+    topicHref: /office-project/xml-data-interchange

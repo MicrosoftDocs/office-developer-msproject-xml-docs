@@ -11,6 +11,7 @@ f1_keywords:
 dev_langs:
 - xml
 monikerRange: '>= project-client-2007 || project-client-odc'
+localization_priority: Normal
 ---
 
 # b408000 - b417fff Elements
