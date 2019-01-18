@@ -15,6 +15,7 @@ f1_keywords:
 - Project 2007 XML
 - Project XML structure
 monikerRange: '>= project-client-2010 || project-client-odc'
+localization_priority: Normal
 ---
 
 # Project Elements and XML Structure

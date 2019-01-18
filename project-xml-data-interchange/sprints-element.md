@@ -2,6 +2,7 @@
 title: Sprints Element
 ms.date: 03/14/2018
 monikerRange: 'project-client-odc'
+localization_priority: Normal
 ---
 
 # Sprints Element

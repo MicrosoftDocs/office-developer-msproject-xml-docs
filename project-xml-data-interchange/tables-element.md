@@ -2,6 +2,7 @@
 title: Tables Element
 ms.date: 03/14/2018
 monikerRange: '>= project-client-2010 || project-client-odc'
+localization_priority: Normal
 ---
 
 # Tables Element

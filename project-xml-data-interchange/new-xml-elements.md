@@ -12,6 +12,7 @@ f1_keywords:
 - Project 2007, XML
 - Project XML schema changes
 monikerRange: '>= project-client-2007 || project-client-odc'
+localization_priority: Normal
 ---
 
 # New XML Elements
