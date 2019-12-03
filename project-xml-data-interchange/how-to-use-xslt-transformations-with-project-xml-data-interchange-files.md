@@ -267,7 +267,7 @@ Figure 1 shows the transformed output of a Project XML file in Word 2007. When y
 
 Figure 1. Transformed Project XML file
 
-![Transformed Project XML file](images\bb968529-status-it-upgrade-master-project.gif)
+![Transformed Project XML file](images/bb968529-status-it-upgrade-master-project.gif)
 
 ## See also
 
