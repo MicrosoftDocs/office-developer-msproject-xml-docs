@@ -1,0 +1,9 @@
+{
+  "redirections": [
+    {
+      "source_path": "project-xml-data-interchange/index.md",
+      "redirect_url": "project-xml-data-interchange-schema-reference",
+      "redirect_document_id": false
+    }
+  ]
+}
