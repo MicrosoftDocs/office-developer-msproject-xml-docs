@@ -11,7 +11,7 @@ f1_keywords:
 - XML files
 - Project XML files
 monikerRange: '>= project-client-2007 || project-client-odc'
-localization_priority: Priority
+ms.localizationpriority: high
 ---
 
 # Saving and Opening Projects in XML Format

@@ -9,7 +9,7 @@ mtps_version: v=office.12
 f1_keywords:
 - ToDate element
 monikerRange: '>= project-client-2007 || project-client-odc'
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # ToDate Element (Calendar)

@@ -2,7 +2,7 @@
 title: SprintUID Element
 ms.date: 03/14/2018
 monikerRange: 'project-client-odc'
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # SprintUID Element
