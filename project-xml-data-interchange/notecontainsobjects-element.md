@@ -2,7 +2,7 @@
 title: NoteContainsObjects Element
 ms.date: 03/14/2018
 monikerRange: '>= project-client-2007 || project-client-odc'
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # NoteContainsObjects Element
