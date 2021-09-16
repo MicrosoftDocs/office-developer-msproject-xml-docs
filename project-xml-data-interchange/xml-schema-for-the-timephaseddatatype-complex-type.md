@@ -16,7 +16,7 @@ f1_keywords:
 dev_langs:
 - xml
 monikerRange: '>= project-client-2007 || project-client-odc'
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # XML Schema for the TimephasedDataType Complex Type

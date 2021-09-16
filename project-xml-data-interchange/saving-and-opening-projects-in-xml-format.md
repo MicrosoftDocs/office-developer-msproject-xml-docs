@@ -11,7 +11,7 @@ f1_keywords:
 - XML files
 - Project XML files
 monikerRange: '>= project-client-2007 || project-client-odc'
-localization_priority: Priority
+ms.localizationpriority: high
 ---
 
 # Saving and Opening Projects in XML Format
@@ -42,7 +42,7 @@ Project data stored in Project XML files can be filtered and displayed by using 
         
     Figure 1. Save to Project Server dialog box
           
-    ![Save to Project Server dialog box](images\bb968621-save-to-project-server.gif)
+    ![Save to Project Server dialog box](images/bb968621-save-to-project-server.gif)
 
 3.  In the **Save As File** dialog box, you can save the file with only the currently loaded enterprise items, or with all enterprise items. Selecting the option to save only the currently loaded enterprise items can result in a smaller file depending on the configuration of your project.
     
@@ -50,7 +50,7 @@ Project data stored in Project XML files can be filtered and displayed by using 
     
     Figure 2. Save As File dialog box
      
-    ![Save As File dialog box](images\bb968621-save-as-file.gif)
+    ![Save As File dialog box](images/bb968621-save-as-file.gif)
 
 4.  In the **Save As** dialog box, browse to the location where you want to save the file.
 
@@ -77,13 +77,13 @@ Any valid Project 2007 XML Data Interchange file can be opened by Project Standa
     
     Figure 3. Open Dialog Box
     
-    ![Open Dialog Box](images\bb968621-open-my-projects.gif)
+    ![Open Dialog Box](images/bb968621-open-my-projects.gif)
 
 3.  The **Import Wizard** starts (Figure 4).
     
     Figure 4. Import Wizard
     
-    ![Import Wizard](images\bb968621-import-wizard.gif)
+    ![Import Wizard](images/bb968621-import-wizard.gif)
     
     Select how you want to import the XML file, and then click **Finish**:
     
@@ -107,7 +107,7 @@ Any valid Project 2007 XML Data Interchange file can be opened by Project Standa
         
         Figure 5. Project error message
          
-        ![Project error message](images\bb968621-error-message.gif)
+        ![Project error message](images/bb968621-error-message.gif)
 
 ## See also
 

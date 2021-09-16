@@ -2,7 +2,7 @@
 title: Guid Element (Multiple Parents)
 ms.date: 03/14/2018
 monikerRange: '>= project-client-2010 || project-client-odc'
-localization_priority: Normal
+ms.localizationpriority: medium
 ---
 
 # Guid Element (Multiple Parents)
