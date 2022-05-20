@@ -52,7 +52,7 @@ A unique code (work breakdown structure) that represents a task's position withi
 
 ## Remarks
 
-By default, the WBS code is the task's outline number (1, 2, …, n for top-level tasks; 1.1, 1.2, …, 1.n for subtasks under task 1; and so forth). To define WBS codes, click **WBS** in the **Project** menu of Microsoft Office Project. For more information, see [WBS fields](http://office.microsoft.com/en-us/project/hp010259301033.aspx).
+By default, the WBS code is the task's outline number (1, 2, …, n for top-level tasks; 1.1, 1.2, …, 1.n for subtasks under task 1; and so forth). To define WBS codes, click **WBS** in the **Project** menu of Microsoft Office Project. For more information, see [WBS fields](https://support.microsoft.com/office/wbs-fields-1723c8d6-c103-4390-b250-070c7c927dd2).
 
 ## See Also
 
