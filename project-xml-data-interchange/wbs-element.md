@@ -1,6 +1,7 @@
 ---
 title: WBS Element
 TOCTitle: WBS Element
+description: A unique code (work breakdown structure) that represents a task's position within the hierarchical structure of the project.
 ms:assetid: 82e4cde0-01e5-4a2a-93e1-aa5de8c701cb
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968566(v=office.12)
 ms:contentKeyID: 13188257
@@ -14,14 +15,13 @@ ms.localizationpriority: medium
 
 # WBS Element
 
-
-
-
 A unique code (work breakdown structure) that represents a task's position within the hierarchical structure of the project.
 
+```
     <WBS>
       StringValue
     </WBS>
+```
 
 ## Parent Elements
 
@@ -65,4 +65,3 @@ By default, the WBS code is the task's outline number (1, 2, …, n for top-leve
 [Task Elements and XML Structure](task-elements-and-xml-structure.md)
 
 [XML Schema for the Tasks Element](xml-schema-for-the-tasks-element.md)
-
