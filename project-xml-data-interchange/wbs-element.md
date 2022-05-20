@@ -5,7 +5,7 @@ description: A unique code (work breakdown structure) that represents a task's p
 ms:assetid: 82e4cde0-01e5-4a2a-93e1-aa5de8c701cb
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968566(v=office.12)
 ms:contentKeyID: 13188257
-ms.date: 03/14/2018
+ms.date: 05/20/2022
 mtps_version: v=office.12
 f1_keywords:
 - WBS element
@@ -29,8 +29,8 @@ A unique code (work breakdown structure) that represents a task's position withi
 
 ## Occurrences
 
->Minimum: 0
->Maximum: 1
+Minimum: 0
+Maximum: 1
 
 ## Remarks
 
