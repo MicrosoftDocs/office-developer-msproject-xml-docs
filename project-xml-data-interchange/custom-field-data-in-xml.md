@@ -28,7 +28,7 @@ The Microsoft Office Project 2007 XML Data Interchange Schema (mspdi\_pj12.xsd) 
 
 Project stores information about custom fields as one of two types:
 
-  - **Custom field definition**  A custom field definition consists of data required to define a local or enterprise custom field. This data includes information such as the custom field name, custom field ID, and custom field type.
+  - **Custom field definition**  A custom field definition consists of data required to define a local or enterprise custom field. Project for the web local custom fields are presented as enterprise custom fields. This data includes information such as the custom field name, custom field ID, and custom field type.
     
     The XML elements that are used to store custom field definitions are defined in the [XML Schema for the ExtendedAttributes Element](xml-schema-for-the-extendedattributes-element.md) section of the Project XML Data Interchange Schema.
 
