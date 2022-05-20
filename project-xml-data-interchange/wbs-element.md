@@ -25,30 +25,12 @@ A unique code (work breakdown structure) that represents a task's position withi
 
 ## Parent Elements
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p><a href="task-element.md">Task</a></p></td>
-</tr>
-</tbody>
-</table>
+[Task](task-element.md)
 
 ## Occurrences
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p>Minimum: 0</p>
-<p>Maximum: 1</p></td>
-</tr>
-</tbody>
-</table>
+>Minimum: 0
+>Maximum: 1
 
 ## Remarks
 
