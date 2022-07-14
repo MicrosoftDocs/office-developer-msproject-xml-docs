@@ -722,5 +722,5 @@ Many elements in the Project Data Interchange Schema represent data fields in Pr
 
 [Changes in the Project 2007 XML Data Interchange Schema](changes-in-the-project-2007-xml-data-interchange-schema.md)
 
-[Fields Reference](http://office.microsoft.com/en-us/project/ch100788901033.aspx)
+[Fields Reference](https://support.microsoft.com/office/available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460#ID0EBBD=Office_2007)
 

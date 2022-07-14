@@ -304,5 +304,5 @@ Many of the Resource elements represent data fields in Microsoft Office Project.
 
 #### Other Resources
 
-[Fields Reference](http://office.microsoft.com/en-us/project/ch100788901033.aspx)
+[Fields Reference](https://support.microsoft.com/office/available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460#ID0EBBD=Office_2007)
 
