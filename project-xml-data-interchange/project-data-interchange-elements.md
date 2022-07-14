@@ -36,7 +36,7 @@ The Project Data Interchange Schema is included in the Project 2007 SDK download
 
 For a list of all elements in the schema, see [Alphabetical List of Elements and Types](alphabetical-list-of-elements-and-types.md).
 
-Many elements in the Project Data Interchange Schema represent data fields in Microsoft Office Project Professional 2007. For more information about fields in Project Professional 2007 and Project Standard 2007, see [Fields Reference](http://office.microsoft.com/en-us/project/ch100788901033.aspx).
+Many elements in the Project Data Interchange Schema represent data fields in Microsoft Office Project Professional 2007. For more information about fields in Project Professional 2007 and Project Standard 2007, see [Fields Reference](https://support.microsoft.com/office/available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460#ID0EBBD=Office_2007).
 
 ### General Element Structure
 

@@ -62,7 +62,7 @@ The standard schema data types defined at http://www.w3.org/2001/XMLSchema (inte
 
 New elements in Project 2007 are marked *(new)*. For more information, see [New XML Elements](new-xml-elements.md). Attributes are not included in the list, because the schema includes only standard attributes (name, minOccurs, maxOccurs, type, base, and default).
 
-Many elements in the Project Data Interchange Schema represent data fields in Project 2007. For more information about fields in Microsoft Office Project Professional 2007 and Project Standard 2007, see [Fields Reference](http://office.microsoft.com/en-us/project/ch100788901033.aspx).
+Many elements in the Project Data Interchange Schema represent data fields in Project 2007. For more information about fields in Microsoft Office Project Professional 2007 and Project Standard 2007, see [Fields Reference](https://support.microsoft.com/office/available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460#ID0EBBD=Office_2007).
 
 ## A
 
