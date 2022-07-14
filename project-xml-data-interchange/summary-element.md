@@ -81,7 +81,7 @@ A text value of type boolean is required.
 
 
 > [!NOTE]
-> You should generally assign resources to individual subtasks, not to a summary task. For more information, see <A href="http://office.microsoft.com/en-us/project/ha101935931033.aspx">Assign a resource to a task</A> in the Project 2007 Help and How-to guide.
+> You should generally assign resources to individual subtasks, not to a summary task.
 
 
 ## See Also
