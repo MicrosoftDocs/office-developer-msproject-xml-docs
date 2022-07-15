@@ -1,10 +1,11 @@
 ---
 title: Summary Element
+description: Indicates whether the task is a summary task or the assignment is on a summary task.
 TOCTitle: Summary Element
 ms:assetid: 3a98d88c-72ab-48dd-a0a7-97928fbea13e
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968468(v=office.12)
 ms:contentKeyID: 13188160
-ms.date: 03/14/2018
+ms.date: 07/14/2022
 mtps_version: v=office.12
 f1_keywords:
 - Summary element
@@ -14,14 +15,13 @@ ms.localizationpriority: medium
 
 # Summary Element
 
-
-
-
 Indicates whether the task is a summary task or the assignment is on a summary task.
 
-    <Summary>
-      BooleanValue
-    </Summary>
+```
+<Summary>
+  BooleanValue
+</Summary>
+```
 
 ## Parent Elements
 
@@ -79,20 +79,12 @@ A text value of type boolean is required.
 
 ## Remarks
 
-
 > [!NOTE]
-> You should generally assign resources to individual subtasks, not to a summary task. For more information, see <A href="http://office.microsoft.com/en-us/project/ha101935931033.aspx">Assign a resource to a task</A> in the Project 2007 Help and How-to guide.
-
+> You should generally assign resources to individual subtasks, not to a summary task. For more information, see [Assign a resource to a task](https://support.microsoft.com/office/add-resources-to-your-project-1a744960-d960-426a-b687-e42ba3f6c0cb) in the Project 2007 Help and How-to guide.
 
 ## See Also
 
-#### Concepts
-
 [Task Elements and XML Structure](task-elements-and-xml-structure.md)
-
 [XML Schema for the Tasks Element](xml-schema-for-the-tasks-element.md)
-
 [Assignment Elements and XML Structure](assignment-elements-and-xml-structure.md)
-
 [XML Schema for the Assignments Element](xml-schema-for-the-assignments-element.md)
-
