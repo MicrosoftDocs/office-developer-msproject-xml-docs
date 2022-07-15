@@ -3,7 +3,7 @@ title: Assignment Elements and XML Structure
 description: Children of the Assignments element defined in the Project 2007 XML Data Interchange Schema. The elements represent assignment data when you save a project in the XML format.
 TOCTitle: Assignment Elements and XML Structure
 ms:assetid: f74cca91-ea2a-478d-b935-528b25dddaa8
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968738(v=office.12)
+ms:mtpsurl: https://msdn.microsoft.com/library/Bb968738(v=office.12)
 ms:contentKeyID: 13188428
 ms.date: 07/14/2022
 mtps_version: v=office.12
@@ -34,7 +34,7 @@ For more information about the data types used in the Project 2007 XML Data Inte
 Many of the Assignment elements represent data fields in Microsoft Office Project Professional 2007. For more information about fields in Project Professional 2007 and Project Standard 2007, see [Fields Reference](https://support.microsoft.com/office/available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460#ID0EBBD=Office_2007).
 
 > [!NOTE]
-> Detailed information about the structure of the TimephasedData element is shown in [TimephasedDataType Elements and XML Structure](https://docs.microsoft.com/en-us/previous-versions/office/developer/office-2003/aa220056(v=office.11)) in this schema reference.
+> Detailed information about the structure of the TimephasedData element is shown in [TimephasedDataType Elements and XML Structure](/previous-versions/office/developer/office-2003/aa220056(v=office.11)) in this schema reference.
 
 \<[Assignments](assignments-element.md)\>
 
@@ -216,7 +216,7 @@ Many of the Assignment elements represent data fields in Microsoft Office Projec
 
 ## See also
 
-[TimephasedDataType Elements and XML Structure](https://docs.microsoft.com/en-us/previous-versions/office/developer/office-2007/bb968479(v=office.12)))
+[TimephasedDataType Elements and XML Structure](/previous-versions/office/developer/office-2007/bb968479(v=office.12)))
 [Introduction to Project XML Data](introduction-to-project-xml-data.md)
 [XML Schema for the Assignments Element](xml-schema-for-the-assignments-element.md)
 [Custom Field Data in XML](custom-field-data-in-xml.md)
