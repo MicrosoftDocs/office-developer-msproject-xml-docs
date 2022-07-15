@@ -1,10 +1,11 @@
 ---
 title: Resource Elements and XML Structure
+description: Information about children of the Resources element defined in the Microsoft Office Project 2007 XML Data Interchange Schema.
 TOCTitle: Resource Elements and XML Structure
 ms:assetid: 26f69c99-50e8-49c5-80cf-1c81c0abefbd
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968445(v=office.12)
 ms:contentKeyID: 13188137
-ms.date: 03/14/2018
+ms.date: 07/14/2022
 mtps_version: v=office.12
 f1_keywords:
 - XML and Project
@@ -19,9 +20,6 @@ ms.localizationpriority: medium
 ---
 
 # Resource Elements and XML Structure
-
-
-
 
 This section contains information about children of the Resources element defined in the Microsoft Office Project 2007 XML Data Interchange Schema (mspdi\_pj12.xsd). The XML elements represent resource data when you save a project in the XML format.
 
@@ -288,21 +286,10 @@ Many of the Resource elements represent data fields in Microsoft Office Project.
 
 ## See Also
 
-#### Reference
-
-[TimephasedDataType Elements and XML Structure](https://msdn.microsoft.com/en-us/library/317823-7111-4dfd-ae38-50a06c6cb70f\(v=office.12\))
-
-#### Concepts
-
+[TimephasedDataType Elements and XML Structure](/office-project/xml-data-interchange/timephaseddatatype-elements-and-xml-structure?view=project-client-2016)
 [Introduction to Project XML Data](introduction-to-project-xml-data.md)
-
 [XML Schema for the Resources Element](xml-schema-for-the-resources-element.md)
-
 [Custom Field Data in XML](custom-field-data-in-xml.md)
-
 [Project Elements and XML Structure](project-elements-and-xml-structure.md)
-
-#### Other Resources
-
 [Fields Reference](https://support.microsoft.com/office/available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460#ID0EBBD=Office_2007)
 
