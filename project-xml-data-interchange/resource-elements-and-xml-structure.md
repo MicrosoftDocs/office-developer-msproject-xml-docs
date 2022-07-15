@@ -3,7 +3,7 @@ title: Resource Elements and XML Structure
 description: Information about children of the Resources element defined in the Microsoft Office Project 2007 XML Data Interchange Schema.
 TOCTitle: Resource Elements and XML Structure
 ms:assetid: 26f69c99-50e8-49c5-80cf-1c81c0abefbd
-ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968445(v=office.12)
+ms:mtpsurl: https://msdn.microsoft.com/library/Bb968445(v=office.12)
 ms:contentKeyID: 13188137
 ms.date: 07/14/2022
 mtps_version: v=office.12
@@ -35,7 +35,7 @@ Many of the Resource elements represent data fields in Microsoft Office Project.
 
 
 > [!NOTE]
-> Detailed information about the structure of the TimephasedData element is shown in <A href="https://msdn.microsoft.com/en-us/library/317823-7111-4dfd-ae38-50a06c6cb70f(v=office.12)">TimephasedDataType Elements and XML Structure</A> in this schema reference.
+> Detailed information about the structure of the TimephasedData element is shown in [TimephasedDataType Elements and XML Structure](/office-project/xml-data-interchange/timephaseddatatype-elements-and-xml-structure?view=project-client-2016) in this schema reference.
 
 
 \<[Resources](resources-element.md)\>
@@ -292,4 +292,3 @@ Many of the Resource elements represent data fields in Microsoft Office Project.
 [Custom Field Data in XML](custom-field-data-in-xml.md)
 [Project Elements and XML Structure](project-elements-and-xml-structure.md)
 [Fields Reference](https://support.microsoft.com/office/available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460#ID0EBBD=Office_2007)
-
