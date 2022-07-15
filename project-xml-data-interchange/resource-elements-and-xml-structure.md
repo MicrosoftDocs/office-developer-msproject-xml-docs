@@ -33,9 +33,8 @@ For more information about the data types used in the Project2007 XML Data Inter
 
 Many of the Resource elements represent data fields in Microsoft Office Project. For more information about fields in Project Professional 2007 and Project Standard 2007, see [Fields Reference](https://support.microsoft.com/office/available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460#ID0EBBD=Office_2007).
 
-
 > [!NOTE]
-> Detailed information about the structure of the TimephasedData element is shown in [TimephasedDataType Elements and XML Structure](/office-project/xml-data-interchange/timephaseddatatype-elements-and-xml-structure?view=project-client-2016) in this schema reference.
+> Detailed information about the structure of the TimephasedData element is shown in [TimephasedDataType Elements and XML Structure](/office-project/xml-data-interchange/timephaseddatatype-elements-and-xml-structure?view=project-client-2016&preserve-view=true) in this schema reference.
 
 
 \<[Resources](resources-element.md)\>
@@ -286,7 +285,7 @@ Many of the Resource elements represent data fields in Microsoft Office Project.
 
 ## See Also
 
-[TimephasedDataType Elements and XML Structure](/office-project/xml-data-interchange/timephaseddatatype-elements-and-xml-structure?view=project-client-2016)
+[TimephasedDataType Elements and XML Structure](/office-project/xml-data-interchange/timephaseddatatype-elements-and-xml-structure?view=project-client-2016&preserve-view=true)
 [Introduction to Project XML Data](introduction-to-project-xml-data.md)
 [XML Schema for the Resources Element](xml-schema-for-the-resources-element.md)
 [Custom Field Data in XML](custom-field-data-in-xml.md)
