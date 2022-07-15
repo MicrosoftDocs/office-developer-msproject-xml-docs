@@ -1,10 +1,11 @@
 ---
 title: Project Data Interchange Elements
+description: Elements defined by the Project XML Data Interchange Schema, as well as additional XML elements used by Project 2007 to represent custom field values.
 TOCTitle: Project Data Interchange Elements
 ms:assetid: c0382453-e552-402c-be05-fa50af11e71d
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968664(v=office.12)
 ms:contentKeyID: 13188355
-ms.date: 03/14/2018
+ms.date: 07/14/2022
 mtps_version: v=office.12
 f1_keywords:
 - XML and Project
@@ -17,22 +18,11 @@ ms.localizationpriority: medium
 
 # Project Data Interchange Elements
 
-
-
-
 This section contains information about the elements defined by the Project XML Data Interchange Schema, as well as additional XML elements used by Microsoft Office Project 2007 to represent custom field values.
-
-This topic includes the following sections:
-
-  - Project Data Interchange XML Element Structure
-    
-      - General Element Structure
-    
-      - Detailed Element Structure
 
 ## Project Data Interchange XML Element Structure
 
-The Project Data Interchange Schema is included in the Project 2007 SDK download. For a link to the Project 2007 SDK download, see [Welcome to the Microsoft Office Project 2007 SDK](https://msdn.microsoft.com/en-us/library/ms512767).
+The Project Data Interchange Schema is included in the Project 2007 SDK download. For a link to the Project 2007 SDK download, see [Welcome to the Microsoft Office Project 2007 SDK](/office/client-developer/project/project-2013-developer-documentation).
 
 For a list of all elements in the schema, see [Alphabetical List of Elements and Types](alphabetical-list-of-elements-and-types.md).
 
@@ -86,15 +76,10 @@ For details of the XML structure of each of the major elements, see the followin
 
 ## See Also
 
-#### Concepts
-
 [Introduction to Project XML Data](introduction-to-project-xml-data.md)
-
-#### Other Resources
 
 [Changes in the Project 2007 XML Data Interchange Schema](changes-in-the-project-2007-xml-data-interchange-schema.md)
 
 [Working with Project XML Data Interchange Files](working-with-project-xml-data-interchange-files.md)
 
 [Fields Reference](https://support.microsoft.com/office/available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460#ID0EBBD=Office_2007)
-

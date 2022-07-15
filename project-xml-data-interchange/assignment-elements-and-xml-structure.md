@@ -1,10 +1,11 @@
 ---
 title: Assignment Elements and XML Structure
+description: Children of the Assignments element defined in the Project 2007 XML Data Interchange Schema. The elements represent assignment data when you save a project in the XML format.
 TOCTitle: Assignment Elements and XML Structure
 ms:assetid: f74cca91-ea2a-478d-b935-528b25dddaa8
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Bb968738(v=office.12)
 ms:contentKeyID: 13188428
-ms.date: 03/14/2018
+ms.date: 07/14/2022
 mtps_version: v=office.12
 f1_keywords:
 - XML and Project
@@ -20,9 +21,6 @@ ms.localizationpriority: medium
 
 # Assignment Elements and XML Structure
 
-
-
-
 This section contains information about children of the Assignments element defined in the Microsoft Office Project 2007 XML Data Interchange Schema (mspdi\_pj12.xsd). The elements represent assignment data when you save a project in the XML format.
 
 Assignments is a child of the Project element. For more information, see [Project Elements and XML Structure](project-elements-and-xml-structure.md).
@@ -35,10 +33,8 @@ For more information about the data types used in the Project 2007 XML Data Inte
 
 Many of the Assignment elements represent data fields in Microsoft Office Project Professional 2007. For more information about fields in Project Professional 2007 and Project Standard 2007, see [Fields Reference](https://support.microsoft.com/office/available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460#ID0EBBD=Office_2007).
 
-
 > [!NOTE]
->    Detailed information about the structure of the TimephasedData element is shown in <A href="https://msdn.microsoft.com/en-us/library/317823-7111-4dfd-ae38-50a06c6cb70f(v=office.12)">TimephasedDataType Elements and XML Structure</A> in this schema reference.
-
+> Detailed information about the structure of the TimephasedData element is shown in [TimephasedDataType Elements and XML Structure](https://docs.microsoft.com/en-us/previous-versions/office/developer/office-2003/aa220056(v=office.11)) in this schema reference.
 
 \<[Assignments](assignments-element.md)\>
 
@@ -218,23 +214,11 @@ Many of the Assignment elements represent data fields in Microsoft Office Projec
 
 \</Assignments\>
 
-## See Also
+## See also
 
-#### Reference
-
-[TimephasedDataType Elements and XML Structure](https://msdn.microsoft.com/en-us/library/317823-7111-4dfd-ae38-50a06c6cb70f\(v=office.12\))
-
-#### Concepts
-
+[TimephasedDataType Elements and XML Structure](https://docs.microsoft.com/en-us/previous-versions/office/developer/office-2007/bb968479(v=office.12)))
 [Introduction to Project XML Data](introduction-to-project-xml-data.md)
-
 [XML Schema for the Assignments Element](xml-schema-for-the-assignments-element.md)
-
 [Custom Field Data in XML](custom-field-data-in-xml.md)
-
 [Project Elements and XML Structure](project-elements-and-xml-structure.md)
-
-#### Other Resources
-
 [Fields Reference](https://support.microsoft.com/office/available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460#ID0EBBD=Office_2007)
-
