@@ -34,7 +34,7 @@ For more information about the data types used in the Project 2007 XML Data Inte
 Many of the Task elements represent data fields in Microsoft Office Project. For more information about fields in Project Professional 2007 and Project Standard 2007, see [Fields Reference](https://support.microsoft.com/office/available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460#ID0EBBD=Office_2007).
 
 > [!NOTE]
-> Detailed information about the structure of the TimephasedData element is shown in [TimephasedDataType Elements and XML Structure](/office-project/xml-data-interchange/timephaseddatatype-elements-and-xml-structure?view=project-client-2016) in this schema reference.
+> Detailed information about the structure of the TimephasedData element is shown in [TimephasedDataType Elements and XML Structure](/office-project/xml-data-interchange/timephaseddatatype-elements-and-xml-structure) in this schema reference.
 
 \<[Tasks](tasks-element.md)\>
 
