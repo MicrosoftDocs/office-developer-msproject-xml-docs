@@ -14,9 +14,6 @@ ms.localizationpriority: medium
 
 # ActualOvertimeWorkProtected Element
 
-
-
-
 Specifies the duration through which actual overtime work is protected, for a task, resource, or assignment.
 
     <ActualOvertimeWorkProtected>
@@ -52,17 +49,9 @@ Specifies the duration through which actual overtime work is protected, for a ta
 
 ## See Also
 
-#### Concepts
-
 [Task Elements and XML Structure](task-elements-and-xml-structure.md)
-
 [XML Schema for the Tasks Element](xml-schema-for-the-tasks-element.md)
-
 [Resource Elements and XML Structure](resource-elements-and-xml-structure.md)
-
 [XML Schema for the Resources Element](xml-schema-for-the-resources-element.md)
-
 [Assignment Elements and XML Structure](assignment-elements-and-xml-structure.md)
-
 [XML Schema for the Assignments Element](xml-schema-for-the-assignments-element.md)
-
