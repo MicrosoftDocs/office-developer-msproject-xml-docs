@@ -10,6 +10,7 @@ f1_keywords:
 - AvailableUnits element
 monikerRange: '>= project-client-2007 || project-client-odc'
 ms.localizationpriority: medium
+description: Learn about the AvailableUnits Element in Microsoft Office Project's XML data interchange. Understand resource availability during specified periods.
 ---
 
 # AvailableUnits Element

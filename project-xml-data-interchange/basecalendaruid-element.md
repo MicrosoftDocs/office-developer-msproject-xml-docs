@@ -10,6 +10,7 @@ f1_keywords:
 - BaseCalendarUID element
 monikerRange: '>= project-client-2007 || project-client-odc'
 ms.localizationpriority: medium
+description: Learn about the BaseCalendarUID Element in Microsoft Office Project. Understand its unique ID, usage, and its role in XML data interchange.
 ---
 
 # BaseCalendarUID Element

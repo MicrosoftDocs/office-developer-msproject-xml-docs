@@ -3,6 +3,7 @@ title: Views Element
 ms.date: 03/14/2018
 monikerRange: '>= project-client-2010 || project-client-odc'
 ms.localizationpriority: medium
+description: Explore Microsoft's guide on the Views Element in XML data interchange, its association with projects, and its XML structure.
 ---
 
 # Views Element
