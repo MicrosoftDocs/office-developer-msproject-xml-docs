@@ -16,6 +16,7 @@ f1_keywords:
 - Project XML structure
 monikerRange: '>= project-client-2007 || project-client-odc'
 ms.localizationpriority: medium
+description: Learn about OutlineCode elements and XML structure in Microsoft Office Project 2007. Understand the XML schema and data types used in Project XML Data Interchange.
 ---
 
 # OutlineCode Elements and XML Structure

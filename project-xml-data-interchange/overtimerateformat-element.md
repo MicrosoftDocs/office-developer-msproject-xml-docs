@@ -10,6 +10,7 @@ f1_keywords:
 - OvertimeRateFormat element
 monikerRange: '>= project-client-2007 || project-client-odc'
 ms.localizationpriority: medium
+description: Learn about the OvertimeRateFormat Element in Microsoft Office Project. Understand its usage, parent elements, and XML structure.
 ---
 
 # OvertimeRateFormat Element
