@@ -10,6 +10,7 @@ f1_keywords:
 - TaskUpdatesResource element
 monikerRange: '>= project-client-2007 || project-client-odc'
 ms.localizationpriority: medium
+description: Learn about the TaskUpdatesResource Element on Microsoft Office Project. Understand how task updates can also update resources. Start now.
 ---
 
 # TaskUpdatesResource Element

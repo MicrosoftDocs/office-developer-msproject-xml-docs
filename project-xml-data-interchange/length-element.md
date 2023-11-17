@@ -10,6 +10,7 @@ f1_keywords:
 - Length element
 monikerRange: '>= project-client-2007 || project-client-odc'
 ms.localizationpriority: medium
+description: Learn about the Length Element in Microsoft Office Project's XML data interchange. Understand its role in outline code masks and WBS masks.
 ---
 
 # Length Element
