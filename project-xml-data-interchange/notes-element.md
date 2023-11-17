@@ -10,6 +10,7 @@ f1_keywords:
 - Notes element
 monikerRange: '>= project-client-2007 || project-client-odc'
 ms.localizationpriority: medium
+description: Learn how to use the Notes element in Microsoft Office Project for tasks, resources, or assignments. Understand its XML structure and usage.
 ---
 
 # Notes Element

@@ -12,6 +12,7 @@ dev_langs:
 - xml
 monikerRange: '>= project-client-2007 || project-client-odc'
 ms.localizationpriority: medium
+description: Learn how to use the DaysOfWeek Element in Microsoft Office Project for XML data interchange. Understand values for each day and multi-day exceptions.
 ---
 
 # DaysOfWeek Element

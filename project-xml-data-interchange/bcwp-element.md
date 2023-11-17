@@ -10,6 +10,7 @@ f1_keywords:
 - BCWP element
 monikerRange: '>= project-client-2007 || project-client-odc'
 ms.localizationpriority: medium
+description: Understand BCWP Element in Microsoft Office Project. Learn how it calculates budgeted cost of work performed for tasks, resources, assignments, and baselines.
 ---
 
 # BCWP Element

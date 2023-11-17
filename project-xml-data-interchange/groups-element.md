@@ -3,6 +3,7 @@ title: Groups Element
 ms.date: 03/14/2018
 monikerRange: '>= project-client-2010 || project-client-odc'
 ms.localizationpriority: medium
+description: Explore the Groups Element in Microsoft Office Project. Learn about its association with the project, parent and child elements, and XML structure.
 ---
 
 # Groups Element

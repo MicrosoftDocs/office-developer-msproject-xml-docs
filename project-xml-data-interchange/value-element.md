@@ -10,6 +10,7 @@ f1_keywords:
 - Value element
 monikerRange: '>= project-client-2007 || project-client-odc'
 ms.localizationpriority: medium
+description: Learn about the Value Element in Microsoft Office Project's XML Data Interchange. Understand its role in OutlineCode, ExtendedAttribute, and TimephasedData elements.
 ---
 
 # Value Element
