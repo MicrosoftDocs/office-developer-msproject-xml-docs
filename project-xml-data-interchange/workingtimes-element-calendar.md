@@ -12,6 +12,7 @@ dev_langs:
 - xml
 monikerRange: '>= project-client-2007 || project-client-odc'
 ms.localizationpriority: medium
+description: Master the use of the WorkingTimes Element in Microsoft Office Project's XML data interchange. Learn to define work times for optimal productivity.
 ---
 
 # WorkingTimes Element (Calendar)

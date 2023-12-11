@@ -10,6 +10,7 @@ f1_keywords:
 - StandardRateFormat element
 monikerRange: '>= project-client-2007 || project-client-odc'
 ms.localizationpriority: medium
+description: Learn about the StandardRateFormat Element in Microsoft Office Project. Understand its value, description, and usage in XML data interchange.
 ---
 
 # StandardRateFormat Element
