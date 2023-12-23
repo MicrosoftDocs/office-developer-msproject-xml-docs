@@ -3,6 +3,7 @@ title: VBAProjects Element
 ms.date: 03/14/2018
 monikerRange: '>= project-client-2010 || project-client-odc'
 ms.localizationpriority: medium
+description: Explore the VBAProjects Element on Microsoft's official site. Learn about its association with the project, its parent and child elements, and XML structure.
 ---
 
 # VBAProjects Element
