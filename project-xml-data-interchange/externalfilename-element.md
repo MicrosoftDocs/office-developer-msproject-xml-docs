@@ -3,6 +3,7 @@ title: ExternalFileName Element
 ms.date: 03/14/2018
 monikerRange: '>= project-client-2010 || project-client-odc'
 ms.localizationpriority: medium
+description: Learn about the ExternalFileName Element in Microsoft Office Project at learn.microsoft.com. Discover its source and usage in XML data interchange.
 ---
 
 # ExternalFileName Element

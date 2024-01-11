@@ -3,6 +3,7 @@ title: NextAvailableBoardStatusColumnOrderingID Element
 ms.date: 03/14/2018
 monikerRange: 'project-client-odc'
 ms.localizationpriority: medium
+description: Master task ordering in Task Board view with NextAvailableBoardStatusColumnOrderingID Element. Learn its usage in XML data interchange on Microsoft Office Project.
 ---
 
 # NextAvailableBoardStatusColumnOrderingID Element

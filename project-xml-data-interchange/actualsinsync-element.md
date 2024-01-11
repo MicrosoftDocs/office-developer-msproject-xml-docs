@@ -10,6 +10,7 @@ f1_keywords:
 - ActualsInSync element
 monikerRange: '>= project-client-2007 || project-client-odc'
 ms.localizationpriority: medium
+description: Learn about the ActualsInSync Element in Microsoft Office Project XML data interchange. Understand its role in synchronizing actual work with the project.
 ---
 
 # ActualsInSync Element

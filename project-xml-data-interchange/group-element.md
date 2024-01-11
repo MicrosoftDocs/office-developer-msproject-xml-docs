@@ -10,6 +10,7 @@ f1_keywords:
 - Group element
 monikerRange: '>= project-client-2007 || project-client-odc'
 ms.localizationpriority: medium
+description: Explore Microsoft's guide on the Group Element in XML data interchange. Learn about its role, occurrences, and relation to resource elements.
 ---
 
 # Group Element

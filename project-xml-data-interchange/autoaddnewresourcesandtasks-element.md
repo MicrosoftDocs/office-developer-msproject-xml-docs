@@ -10,6 +10,7 @@ f1_keywords:
 - AutoAddNewResourcesAndTasks element
 monikerRange: '>= project-client-2007 || project-client-odc'
 ms.localizationpriority: medium
+description: Learn how to automatically add new resources to your project's resource pool with Microsoft's AutoAddNewResourcesAndTasks Element. Start now.
 ---
 
 # AutoAddNewResourcesAndTasks Element
