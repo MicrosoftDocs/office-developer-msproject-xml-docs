@@ -10,6 +10,7 @@ f1_keywords:
 - ActualFinish element
 monikerRange: '>= project-client-2007 || project-client-odc'
 ms.localizationpriority: medium
+description: Learn about the ActualFinish Element in Microsoft Office Project. Understand its role in tasks and assignments, and its XML structure.
 ---
 
 # ActualFinish Element

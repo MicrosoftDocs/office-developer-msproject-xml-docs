@@ -10,6 +10,7 @@ f1_keywords:
 - FixedMaterial element
 monikerRange: '>= project-client-2007 || project-client-odc'
 ms.localizationpriority: medium
+description: Learn about the FixedMaterial Element in Microsoft Office Project at learn.microsoft.com. Understand its role in resource consumption and XML structure.
 ---
 
 # FixedMaterial Element
