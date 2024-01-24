@@ -45,12 +45,12 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
+      "ms.service": "project",
       "feedback_system": "Standard",
 	    "uhfHeaderId": "MSDocsHeader-Dev_Office",
       "searchScope": ["Project XML Data Interchange"],
       "breadcrumb_path": "/office-project/xml-data-interchange/breadcrumb/toc.json",
 	"ms.suite": "office",
-        "ms.prod": "project",
         "ms.author": "o365devx",
         "author": "o365devx",
         "ms.topic": "reference",
