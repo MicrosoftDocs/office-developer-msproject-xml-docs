@@ -12,6 +12,7 @@ dev_langs:
 - xml
 monikerRange: '>= project-client-2007 || project-client-odc'
 ms.localizationpriority: medium
+description: Learn about the WorkWeeks element in Microsoft Office Project at learn.microsoft.com. Find examples, understand errors, and explore solutions.
 ---
 
 # WorkWeeks Element

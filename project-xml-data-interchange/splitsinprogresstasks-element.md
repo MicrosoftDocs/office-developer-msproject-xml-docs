@@ -10,6 +10,7 @@ f1_keywords:
 - SplitsInProgressTasks element
 monikerRange: '>= project-client-2007 || project-client-odc'
 ms.localizationpriority: medium
+description: Learn about the SplitsInProgressTasks Element on Microsoft Office Project. Understand its role in splitting in-progress tasks in XML data interchange.
 ---
 
 # SplitsInProgressTasks Element
