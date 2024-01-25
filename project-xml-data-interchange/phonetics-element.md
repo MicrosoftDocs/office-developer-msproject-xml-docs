@@ -10,6 +10,7 @@ f1_keywords:
 - Phonetics element
 monikerRange: '>= project-client-2007 || project-client-odc'
 ms.localizationpriority: medium
+description: Learn about the Phonetics Element in Microsoft Office Project. Discover its use in the Japanese version for resource names in Hiragana or Katakana.
 ---
 
 # Phonetics Element

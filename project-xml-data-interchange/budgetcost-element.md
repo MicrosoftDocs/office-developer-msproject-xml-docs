@@ -10,6 +10,7 @@ f1_keywords:
 - BudgetCost element
 monikerRange: '>= project-client-2007 || project-client-odc'
 ms.localizationpriority: medium
+description: Learn about the BudgetCost Element in Microsoft Office Project at learn.microsoft.com. Understand its role in cost resource budgeting on assignments.
 ---
 
 # BudgetCost Element

@@ -12,6 +12,7 @@ dev_langs:
 - xml
 monikerRange: '>= project-client-2007 || project-client-odc'
 ms.localizationpriority: medium
+description: Learn about the ValueGUID Element, its role in outline codes or custom fields for resources or tasks, and its XML structure on Microsoft's official site.
 ---
 
 # ValueGUID Element

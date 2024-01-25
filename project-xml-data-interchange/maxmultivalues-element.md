@@ -12,6 +12,7 @@ dev_langs:
 - xml
 monikerRange: '>= project-client-2007 || project-client-odc'
 ms.localizationpriority: medium
+description: Learn about the MaxMultiValues element in Microsoft Office Project's XML data interchange. Understand its usage, requirements, and examples.
 ---
 
 # MaxMultiValues Element
